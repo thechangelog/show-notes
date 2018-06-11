@@ -1,0 +1,7 @@
+- [Writing An Interpreter In Go](https://interpreterbook.com/) - In this book we will create a programming language together. We'll start with 0 lines of code and end up with a fully working interpreter for the Monkey* programming language. Step by step. From tokens to output. All code shown and included. Fully tested.
+- [The Elements of Computing Systems: Building a Modern Computer from First Principles ](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/)
+- [From NAND to Tetris](http://www.nand2tetris.org/)
+- [Go Advent 2016 blog series](https://blog.gopheracademy.com/series/advent-2016/)
+- [Damian Gryski](https://github.com/dgryski) is now a [/r/golang moderator](https://www.reddit.com/r/golang/comments/5hx5ba/hello_gophers/)
+- [Take the 2016 Go User Survey](https://blog.golang.org/survey2016) — the goal is to create the best language for developing simple, reliable, scalable software. We are asking you to help by participating in a survey and if applicable, a company questionnaire.
+- From Coursera — [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
