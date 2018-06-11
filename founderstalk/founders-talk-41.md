@@ -1,0 +1,7 @@
+* [Simple bug and issue tracking. | Sifter](https://sifterapp.com/)
+* [Bootstrapping a Software Product // Speaker Deck](https://speakerdeck.com/garrettdimon/bootstrapping-a-software-product)
+* [LessConf, making other conferences jealous since 2009](http://lessconf.lesseverything.com/)
+* [Changelog | Sifter](http://journal.sifterapp.com/changelog/)
+* [Support | Sifter](https://sifterapp.com/support)
+* [Dribbble - Payment Processing Breakdown by Garrett Dimon](http://dribbble.com/shots/1050032-Payment-Processing-Breakdown?list=users)
+* [Starting + Sustaining: A book and spreadsheet to help you launch and maintain a web application by Garrett Dimon](http://startingandsustaining.com/)
