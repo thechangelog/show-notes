@@ -1,0 +1,11 @@
+- Pia gave a talk at TEDGlobal 2014 on [How to upgrade democracy for the Internet era](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era) (over a million views 😱)
+- [DemocracyOS](http://democracyos.org/)
+- [Democracy Earth](http://democracy.earth/)
+- [OpenCollective.com](https://opencollective.com/)
+- [Open Collective — Open Source Collective](https://opencollective.com/opensource)
+- [Webpack on Open Collective](https://opencollective.com/webpack)
+- [2016 on Open Collective, and what’s in the works for 2017!](https://medium.com/open-collective/2016-on-open-collective-7677e352fd22#.4jryby630)
+- [Open Collective Issues](https://github.com/OpenCollective/OpenCollective/issues)
+- [Support for paid events - Issue #177](https://github.com/OpenCollective/OpenCollective/issues/177)
+- [Together we crowdfunded a yearly budget of over $100,000 for Open Source](https://medium.com/open-collective/together-we-crowdfunded-a-yearly-budget-of-over-100-000-for-open-source-a77502fd74da#.xhj89upi8)
+- Check out [Gratipay](https://gratipay.com/) and [our past episode with Chad Whitacre](https://changelog.com/podcast/123).
