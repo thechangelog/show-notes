@@ -1,0 +1,7 @@
+* [After Founders Talk #36](https://changelog.com/founderstalk/after-36)
+* [CoSupport.us](http://cosupport.us/)
+* [CoSupport - What Is CoSupport?](http://www.youtube.com/watch?v=VdfLw9xDdMc&feature=plcp)
+* [UserConf - A customer service conference about delighting your customers](http://userconf.co/)
+* [TurboScan: quickly scan multipage documents into high-quality PDFs](http://itunes.apple.com/us/app/turboscan-quickly-scan-multipage/id342548956?mt=8&partnerId=30&siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&partnerId=30&siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&partnerId=30&siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A)
+* [Penultimate for iPad](http://itunes.apple.com/us/app/penultimate/id354098826?mt=8&partnerId=30&siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&partnerId=30&siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&partnerId=30&siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A)
+* [Sarah Hatter talks at LessConf 2011](http://lesseverything.com/blog/archives/2012/01/31/sarah-hatter-talks-at-lessconf-2011/)
