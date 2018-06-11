@@ -1,0 +1,2 @@
+- Check out [exploit kits](https://en.wikipedia.org/wiki/Exploit_kit) like [Angler Exploit Kit](https://www.google.com/search?q=Angler+Exploit+Kit)
+- [Brave](https://brave.com/)
