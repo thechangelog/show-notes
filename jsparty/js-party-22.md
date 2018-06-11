@@ -1,0 +1,6 @@
+- [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+- [Yoav Weiss on Twitter: "Pinterest saw their new PWA leading to core business metrics which beat their previous web experience, as well as their native app!!… https://t.co/sZ8crXB80T"](https://twitter.com/yoavweiss/status/986662671528415232)
+- [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+- [Welcoming progressive web apps to Microsoft Edge and Windows 10](https://changelog.com/news/welcoming-progressive-web-apps-to-microsoft-edge-and-windows-10-ZEz)
+- [PWAs on Safari?!](https://changelog.com/news/pwas-on-safari-l3d)
+- [Zarf](https://zarf.co/)
