@@ -1,0 +1,5 @@
+- [yayQuery](http://yayquery.com/)
+- [jQuery Foundation](https://jquery.org/)
+- [JS Foundation](https://js.foundation/)
+- [Modernizr](https://modernizr.com/)
+- [YepNopeJS](http://yepnopejs.com/)
