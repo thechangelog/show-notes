@@ -1,0 +1,5 @@
+- [This.Media](http://thisdot.co/)
+- [@EmberSherpa](https://twitter.com/embersherpa)
+- [Contributor Days](http://contributordays.com/)
+- [ng-cruise](https://ngcruise.com/)
+- [Ember CLI](https://ember-cli.com/)
