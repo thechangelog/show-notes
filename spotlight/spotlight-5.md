@@ -1,0 +1,5 @@
+- GitHub's announcement from Universe about their new features — [A whole new GitHub Universe: announcing new tools, forums, and features](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features)
+- [GitHub Projects docs](https://help.github.com/articles/about-projects/)
+- [GitHub's GraphQL API docs](https://developer.github.com/early-access/graphql/)
+- [GraphQL API explorer](https://developer.github.com/early-access/graphql/explorer/)
+- GitHub's announcement of [The GitHub GraphQL API](http://githubengineering.com/the-github-graphql-api/)
