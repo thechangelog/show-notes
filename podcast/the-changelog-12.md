@@ -1,0 +1,15 @@
+
+- [Friendly](http://thechangelog.com/post/296389293/friendly-nosql-with-mysql-in-ruby) NoSQL in MySQL
+- [configliere](http://thechangelog.com/post/322569039/configliere-lightweight-configuration-management-for-rub) - Simple Ruby configuration
+- [twitter-node](http://thechangelog.com/post/338328513/twitter-node-node-js-based-tweetstreaming) - Node.js tweetstreaming
+- [Gordon](http://thechangelog.com/post/332910213/gordon-an-open-source-flash-runtime-written-in-pure-java) - Pure JavaScript Flash replacement
+- [jQuery Lint](http://thechangelog.com/post/344388231/jquery-lint-find-and-errors-and-improve-your-jquery-usag) - jQuery validator
+- [Showoff](http://thechangelog.com/post/344399156/showoff-the-best-darn-presentation-software-a-developer) - Keynote killer?
+- [congomongo](http://thechangelog.com/post/344418038/congomongo-use-mongodb-from-clojure) clojure <3 MongoDB
+- [Computer science in Javascript](http://thechangelog.com/post/345980582/javascript-as-a-teaching-tool) - JS as a teaching aide
+- [phpMoAdmin](http://thechangelog.com/post/347642340/phpmoadmin-mongodb-admin-tool-for-php) Mo’ admin for the money
+- Momma’s got a [FuseBox](http://thechangelog.com/post/347681293/fusebox-a-safer-way-to-monkey-patch-javascript) - and Daddy doesn’t sleep at night
+- [AppSalesGraph](http://thechangelog.com/post/348381295/appsalesgraph-graph-your-app-store-sales-data) - measure your App store sales
+- [things-rb](http://thechangelog.com/post/348940141/things-rb-ruby-lib-cli-for-things-mac) call Things.app from Ruby
+- [JSpec](http://thechangelog.com/post/350914743/jspec-robust-bdd-for-both-client-and-server-javascript) Get your Bee Dee Dee on in JavaScript
+- [FoursquareX](http://thechangelog.com/post/351308544/foursquarex-foursquare-client-for-osx) Foursquare client for OS X
