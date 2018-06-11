@@ -1,0 +1,7 @@
+* [creationix - Gittip](https://www.gittip.com/creationix/)
+* [creationix/git-browser](https://github.com/creationix/git-browser)
+* [creationix/tedit-app](https://github.com/creationix/tedit-app)
+* [Tedit Live Demo](https://www.youtube.com/watch?v=U4eJTBXJ54I&list=UUF0iEcM0HUJJdNUotmiVoxg)
+* [Chrome Web Store - Git-Browser](https://chrome.google.com/webstore/detail/git-browser/cladogmhjppclibenkdbnjcogiaifnbd/details)
+* [Chrome Web Store - Tedit Development Environment](https://chrome.google.com/webstore/detail/tedit-development-environ/ooekdijbnbbjdfjocaiflnjgoohnblgf)
+* [Creationix Innovations](http://creationix.com/)
