@@ -1,0 +1,5 @@
+- [Ubuntu 12.04 (Precise Pangolin) reaches End of Life on April 28 2017](http://fridge.ubuntu.com/2017/03/15/ubuntu-12-04-precise-pangolin-reaches-end-of-life-on-april-28-2017/)
+- [Snaps](https://snapcraft.io/) - universal Linux packages
+- [Growing Ubuntu for cloud and IoT, rather than phone and convergence](https://insights.ubuntu.com/2017/04/05/growing-ubuntu-for-cloud-and-iot-rather-than-phone-and-convergence/)
+- [Ubuntu Unity is dead: Desktop will switch back to GNOME next year](https://arstechnica.com/information-technology/2017/04/ubuntu-unity-is-dead-desktop-will-switch-back-to-gnome-next-year/)
+- [The Changelog #207: Ubuntu Everywhere with Dustin Kirkland](https://changelog.com/podcast/207)
