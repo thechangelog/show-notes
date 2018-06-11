@@ -1,0 +1,11 @@
+- [Request For Commits has been respectfully retired](https://changelog.com/rfc)
+- [Listen and subscribe to The Changelog](https://changelog.com/podcast)
+- [The Changelog #193: Funding and Sustaining Open Source with Nadia Eghbal](https://changelog.com/podcast/193)
+- [The Changelog #252 GitHub's Open Source Survey (2017) with Frannie Zlotnick & Nadia Eghbal](https://changelog.com/podcast/252)
+- [Subscribe to Nadia's infrequent newsletter](https://tinyletter.com/nayafia)
+- [How I Stumbled Upon The Internet’s Biggest Blind Spot](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58#.e09jv418s)
+- [Open source was worth at least $143M of Instagram’s $1B acquisition](https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681#.89yt4315x)
+- [Open source infrastructure Q&A](https://medium.com/@nayafia/open-source-infrastructure-the-q-a-a44615861944#.m4fxrks9f)
+- [What if Facebook were a nonprofit?](http://www.disruption.vc/blog/what-if-facebook-were-a-nonprofit)
+- [Sustain](https://sustainoss.org/) - a one day conversation for open source software sustainers
+- [Maintainerati](https://maintainerati.org/)
