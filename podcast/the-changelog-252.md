@@ -1,0 +1,5 @@
+- [opensourcesurvey.org](http://opensourcesurvey.org/)
+- [github/open-source-survey](https://github.com/github/open-source-survey)
+- [GitHub Blog: Announcing an open data set on the open source community](https://github.com/blog/2372-announcing-the-open-source-survey)
+- [Spotlight #10: How China Does Node with Shiya Luo at Node.js Interactive 2016](https://changelog.com/spotlight/10)
+- Oh, and [here's that Wired article](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/) Mikeal mentioned
