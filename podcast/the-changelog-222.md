@@ -1,0 +1,9 @@
+- Fred Ehrsam's article on Medium — [Ethereum is the Forefront of Digital Currency](https://medium.com/the-coinbase-blog/ethereum-is-the-forefront-of-digital-currency-5300298f6c75#.g18p18nrt) piqued Jerod's interest for this call
+- [Ethereum](https://www.ethereum.org/) is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
+- [Ethereum on GitHub](https://github.com/ethereum/)
+- [Parity](https://ethcore.io/parity.html) is a fast, light, and robust Ethereum implementation.
+- Check out [Parity on GitHub](https://github.com/ethcore/parity)
+- [The DAO](https://daohub.org/) — Decentral Autonomous Organization
+- [Understanding The DAO Hack for Journalists](https://medium.com/@pullnews/understanding-the-dao-hack-for-journalists-2312dd43e993#.qa4p33w1s)
+- Learn how to [buy Ethereum on Coinbase](https://www.coinbase.com/buy-ethereum)
+- Rent, sell or share anything - without middlemen with [Slock.it](https://slock.it/)
