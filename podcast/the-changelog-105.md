@@ -1,0 +1,7 @@
+* Subscribe to [Changelog Weekly](https://changelog.com/weekly)
+* [Ghost: Just a Blogging Platform](http://ghost.org/)
+* [Ghost Blogging Platform Features](http://ghost.org/features/)
+* [TryGhost (Ghost)](https://github.com/tryghost)
+* [Ghost: Just a Blogging Platform by John O'Nolan — Kickstarter](http://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform)
+* [The Ghost Blog](http://blog.ghost.org/launch/)
+* [Get paid to write tutorials for DigitalOcean](https://www.digitalocean.com/community/get-paid-to-write)
