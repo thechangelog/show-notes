@@ -1,0 +1,13 @@
+- [Status Board](https://emberjs.com/statusboard/)
+- [Decorators](https://github.com/tc39/proposal-decorators)
+- [RFC Process](https://github.com/emberjs/rfcs#ember-rfcs)
+- [ES Classes in Ember](https://github.com/emberjs/rfcs/blob/master/text/0240-es-classes.md) - [Glimmer VM Architecture Part 1](https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1)
+- [Glimmer VM Architecture Part 2]( https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2)
+- [Compiling to Binary](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
+- [JavaScript Modules API](https://github.com/emberjs/rfcs/pull/176)
+- [The Project I mentioned that I worked on](https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs)
+- [Ember Packages RFC](https://github.com/emberjs/rfcs/pull/284)
+- [EmberConf 2018 Keynote](https://www.youtube.com/watch?v=NhtpXs0ZtUc) - Talks about Ember 3.0 roadmap
+- [Glimmer](https://glimmerjs.com/)
+- [The Changelog #131](https://changelog.com/podcast/131) — The Road to Ember 2.0 with Tom Dale and Yehuda Katz
+- [The Changelog #165](https://changelog.com/podcast/165) — Betting the Company on Elixir and Ember with Brian Cardarella
