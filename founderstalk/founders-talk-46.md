@@ -1,0 +1,8 @@
+* [Drew Strojny (drewstrojny) on Twitter](https://twitter.com/drewstrojny)
+* [Drew Strojny - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Drew_Strojny)
+* [Founders Talk #22: Drew Strojny / The Theme Foundry](http://5by5.tv/founderstalk/22)
+* [Jestro](http://jestro.com/)
+* [Memberful — Sell subscriptions online](http://memberful.com/)
+* [Dribbble - Memberful teaser by Drew Strojny](http://dribbble.com/shots/67854-Memberful-teaser)
+* [The Theme Foundry](http://thethemefoundry.com/)
+* [Forge](http://forge.thethemefoundry.com/)
