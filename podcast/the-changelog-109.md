@@ -1,0 +1,8 @@
+* [Open Karma : helping open source be more amazing](http://open-karma.com/)
+* [Open Karma (OpenKarmaDesign) on Twitter](https://twitter.com/OpenKarmaDesign)
+* [OpenKarma (Open Karma) on GitHub](https://github.com/OpenKarma)
+* [The Travis CI Blog: New UI Improvements on Travis CI](http://about.travis-ci.org/blog/2013-10-14-new-ui-improvements/)
+* [Justine Arreche (SaltineJustine) on Twitter](https://twitter.com/saltinejustine)
+* [Sebastian Gräßl (bastilian) on Twitter](https://twitter.com/bastilian)
+* [Hello, Justine.](http://hellojustine.com/)
+* [Sebastian Gräßl](http://bastilian.me/)
