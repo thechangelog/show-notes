@@ -1,0 +1,4 @@
+- [renovateapp.com](https://renovateapp.com/) - Automated dependency updates. Flexible, so you don't need to be.
+- [renovateapp/renovate](https://github.com/renovateapp/renovate)
+- [Install Renovate on GitHub](https://github.com/apps/renovate)
+- [Renovate on GitHub Marketplace](https://github.com/marketplace/renovate)
