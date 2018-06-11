@@ -1,0 +1,8 @@
+- [Exploring the Linguistics Behind Regular Expressions](https://medium.freecodecamp.org/exploring-the-linguistics-behind-regular-expressions-596fab41146)
+- [JavaScript Hardware with Noopkat!](https://www.youtube.com/watch?v=UwX0ntmJ61A)
+- [Phaser](https://github.com/photonstorm/phaser) - A fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering
+- [Developing Games with React, Redux, and SVG - Part 1](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
+- [Craig Spence - Fantastic ASTs and where to find them](https://www.youtube.com/watch?v=UKCoRKzRqN4)
+- [Getting Started with WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
+- [WebTorrent](https://webtorrent.io/) - Streaming browser torrent client
+- [WebUSB API](https://wicg.github.io/webusb/)
