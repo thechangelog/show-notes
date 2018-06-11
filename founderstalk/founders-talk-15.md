@@ -1,0 +1,5 @@
+* [App Sumo](http://www.appsumo.com/)
+* [Intel](http://www.intel.com)
+* [Facebook](http://www.facebook.com)
+* [Mint](http://www.mint.com)
+* [Jeff Bezos - Regret Minimization Framework](http://www.youtube.com/watch?v=jwG_qR6XmDQ)
