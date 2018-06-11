@@ -1,0 +1,5 @@
+- [Mocha](https://mochajs.org/) - the fun, simple, flexible JavaScript test framework
+- [mochajs/mocha on GitHub](https://github.com/mochajs/mocha)
+- [Mocha on GitHub](https://github.com/mochajs)
+- [Mocha on Open Collective](https://opencollective.com/mochajs)
+- [Mocha on npm](https://www.npmjs.com/package/mocha)
