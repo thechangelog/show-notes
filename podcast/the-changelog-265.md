@@ -1,0 +1,5 @@
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [Kotlin Community](https://kotlinlang.org/community/#kotlin-online-resources)
+- [KotlinConf](https://kotlinconf.com/)
+- [JetBrains Gogland](https://www.jetbrains.com/go/) - Up and Coming Go IDE
+- [On the Rise of Kotlin](https://blog.heroku.com/rise-of-kotlin)
