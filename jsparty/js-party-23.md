@@ -1,0 +1,3 @@
+- [npm Acquires ^Lift Security and the Node Security Platform](https://medium.com/npm-inc/npm-acquires-lift-security-258e257ef639)
+- [The Node.js Project Introduces Latest Release Line: Node.js 10.x](https://medium.com/the-node-js-collection/the-node-js-project-introduces-latest-release-line-node-js-10-x-bf07abfa9076)
+- [Announcing npm@6](https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905)
