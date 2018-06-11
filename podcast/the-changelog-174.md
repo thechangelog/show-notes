@@ -1,0 +1,8 @@
+* [Rapid7](http://www.rapid7.com/)
+* [GopherCon](http://www.gophercon.com/)
+* [Metasploit Project - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Metasploit_Project)
+* [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+* [Mumble, the open source VoIP solution](http://wiki.mumble.info/wiki/Main_Page)
+* [mumble-voip/mumble](https://github.com/mumble-voip/mumble)
+* [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
+* [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
