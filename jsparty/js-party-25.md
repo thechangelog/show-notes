@@ -1,0 +1,4 @@
+- [Dojo](https://dojo.io/)
+- [Addy Osmani on Twitter: "@dojo @dylans This is true of most things in the JavaScript community at this point…"](https://twitter.com/addyosmani/status/598911802760650752)
+- [dojo-codesandbox-template - CodeSandbox](https://codesandbox.io/s/github/dojo/dojo-codesandbox-template)
+- [CLA - JS Foundation](https://js.foundation/cla)
