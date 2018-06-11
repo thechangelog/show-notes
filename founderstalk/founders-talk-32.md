@@ -1,0 +1,8 @@
+* [Proxart](http://www.proxart.org/)
+* [Santa Clarita, California](http://en.wikipedia.org/wiki/Santa_Clarita,_California)
+* [Nathan on Dribbble](http://dribbble.com/nthnryn)
+* [Be the Voice of Your City on Proxart!](http://www.proxart.org/community/be-the-voice-of-your-city/http://www.proxart.org/community/be-the-voice-of-your-city/)
+* [PM8](http://pm8.tumblr.com/)
+* [Proxart Network](http://www.proxart.net/)
+* [Proxart at Self-Sabotage screening](http://instagr.am/p/NR3Yw)
+* [Self-Sabotage Film](http://www.feedbackfilm.com/)
