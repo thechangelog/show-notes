@@ -1,0 +1,6 @@
+* [Tapbots.com](http://tapbots.com/)
+* [Mark Jardine's web site](http://markjardine.com/)
+* [Mark Jardine on Twitter](https://twitter.com/#!/markjardine/)
+* [Mark's Dribble page](http://dribbble.com/markjardine)
+* [Vimeo Link](http://vimeo.com/markjardine/videos)
+* [Paul Haddad on Twitter](https://twitter.com/#!/tapbot_paul)
