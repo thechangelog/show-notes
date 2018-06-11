@@ -1,0 +1,7 @@
+* [Beyang on BeyondCode at GopherCon 2015](https://beyondcode.tv/beyang-liu/)
+* [Sourcegraph on GitHub](https://github.com/sourcegraph)
+* [Sourcegraph.com](https://sourcegraph.com/)
+* [Sourcegraph for GitHub](https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.x4ibmfjyu)
+* [Checkup - A distributed, lock-free, self-hosted health checks and status pages](https://sourcegraph.github.io/checkup/)
+* [Fair Source License](https://fair.io/)
+* [Sourcegraph Aims to be the ‘Google for Code](http://thenewstack.io/sourcegraph-aims-google-code/)
