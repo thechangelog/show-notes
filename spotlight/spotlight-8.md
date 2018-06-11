@@ -1,0 +1,5 @@
+- [The Changelog #220: GitLab's Master Plan with Sid Sijbrandij](https://changelog.com/podcast/220)
+- [GitLab Master Plan](https://about.gitlab.com/2016/09/13/gitlab-master-plan/)
+- [GitLab Master Plan - Live Event Recap](https://about.gitlab.com/2016/09/14/gitlab-live-event-recap/)
+- [GitLab Master Plan - YouTube](https://www.youtube.com/watch?v=KrF7jNfDSnI)
+- [Willem de Groot recently blogged about the research he did on online skimming](https://gwillem.gitlab.io/2016/10/11/5900-online-stores-found-skimming/) — he published it to GitHub and they removed it without sending him a notice. Then he published it to GitLab and they did the same thing. [Then GitLab changed their mind](https://about.gitlab.com/2016/10/15/gitlab-reinstates-list-of-servers-that-have-malware/) and reinstated it.
