@@ -1,0 +1,5 @@
+* [Actual Budget](https://actualbudget.com)
+* [Electron](https://electronjs.org/)
+* [Error Handling in React 16](https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html)
+* [Sentry](https://sentry.io)
+* [react-testing-library](https://github.com/kentcdodds/react-testing-library)
