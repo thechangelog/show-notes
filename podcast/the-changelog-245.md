@@ -1,0 +1,10 @@
+- [A New Home for Google Open Source](https://opensource.googleblog.com/2017/03/a-new-home-for-google-open-source.html)
+- [Google Open Source](https://opensource.google.com/) - Bringing better technology to the world by promoting open source.
+- [Google Open Source docs](https://opensource.google.com/docs/)
+- [TODO](http://todogroup.org/) - Talk openly, develop openly
+- [GitHub now lets its workers keep the IP when they use company resources for personal projects](https://qz.com/937038/github-now-lets-its-workers-keep-the-ip-when-they-use-company-resources-for-personal-projects/)
+- [Chris DiBona](https://sites.google.com/a/dibona.com/www/)
+- Check out the [Project Metadata](https://github.com/todogroup/project-metadata) project Will mentioned during the show
+- [The Changelog #211: Open Source at Facebook with James Pearce](https://changelog.com/podcast/211)
+- [Google on GitHub](https://github.com/google)
+- [David Recordon on Changelog.com](https://changelog.com/search?q=david+recordon)
