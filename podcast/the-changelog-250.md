@@ -1,0 +1,10 @@
+- [kubernetes.io](https://kubernetes.io/)
+- [Large-scale cluster management at Google with Borg](https://research.google.com/pubs/pub43438.html)
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Go Time #20: Kubernetes, Containers, and Go with Kelsey Hightower](https://changelog.com/gotime/20)
+- [Bringing Pokémon GO to life on Google Cloud](https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Kubernetes on Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
+- [kubernetes/minikube](https://github.com/kubernetes/minikube)
+
+![Kubernetes.png](https://changelog-assets.s3.amazonaws.com/kubernetes.png)
