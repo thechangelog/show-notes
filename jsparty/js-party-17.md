@@ -1,0 +1,10 @@
+- [BasicAttentionToken](https://basicattentiontoken.org/) - A new token to value user attention on the internet.
+- [Basic Attention Token (BAT)](https://coinmarketcap.com/assets/basic-attention-token/)
+- [$35 Million in 30 Seconds: Token Sale for Internet Browser Brave Sells Out](http://www.coindesk.com/35-million-30-seconds-token-sale-internet-browser-brave-sells/)
+- [Go Time #49: Adventures in VS Code with Ramya Rao](https://changelog.com/gotime/49)
+- [Request For Commits #11: Funding the Web with Brendan Eich](https://changelog.com/rfc/11)
+- [Johnny-Five: The JavaScript Robotics & IoT Platform](http://johnny-five.io/)
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Visual Studio Marketplace
+- [Dracula](https://draculatheme.com/) (also discussed on [The Changelog #248](https://changelog.com/podcast/248)) - a dark theme for Atom, Alfred, Brackets, Emacs, iTerm, Mintty, Notepad++, Slack, Sequel Pro, Sublime Text, Telegram, Textmate, Terminal.app, Ulysses, Vim, Visual Studio Code, Wox, Xcode, and Zsh
+- [Buy Surface Laptop](https://www.microsoft.com/en-us/surface/devices/surface-laptop/overview)
+- [On the Rise of Kotlin](https://blog.heroku.com/rise-of-kotlin)
