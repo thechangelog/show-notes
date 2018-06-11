@@ -1,0 +1,5 @@
+- [Learn Functional Programming on your schedule](https://purelyfunctional.tv/)
+- [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language) (dev.to)
+- [Functional programming](https://en.wikipedia.org/wiki/Functional_programming) (Wikipedia)
+- [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) (Wikipedia)
+- [Maxima and Minima](https://en.wikipedia.org/wiki/Maxima_and_minima) (Wikipedia)
