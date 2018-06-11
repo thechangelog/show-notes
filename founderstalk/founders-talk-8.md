@@ -1,0 +1,6 @@
+* [Coworking Philadelphia - Independents Hall, a Coworking Community and Space](http://www.indyhall.org/)
+* [dangerouslyawesome | Alex Hillman Writes Here](http://dangerouslyawesome.com/)
+* [The Coworking Book](http://coworkingbook.com/)
+* [what's next? unstick.me helps you find that thing you need to get going again.](http://unstick.me/)
+* [the cluetrain manifesto](http://www.cluetrain.com/)
+* [Caroline Collective](http://carolinecollective.cc/)
