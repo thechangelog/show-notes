@@ -1,0 +1,13 @@
+- [Kubernetes 1.4](http://blog.kubernetes.io/2016/09/kubernetes-1.4-making-it-easy-to-run-on-kuberentes-anywhere.html) — Making it easy to run on Kubernetes anywhere
+- [Kubernetes Certificate Manager](https://github.com/PalmStoneGames/kube-cert-manager) — Manage Let's Encrypt certificates for a Kubernetes cluster
+- Get started with Kubernetes? Check out Kelsey's [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) tutorial
+- From [Luna Duclos](https://github.com/PSG-Luna) — [kube-cert-http](https://github.com/PalmStoneGames/kube-cert-http) - An adapter that lets Go's net/http package fetch certificates from Kubernetes
+- You should read this -> [Bringing Pokémon GO to life on Google Cloud](https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html)
+- [Hello Universe](https://github.com/kelseyhightower/hello-universe) from Kelsey Hightower. What if applications could deploy themselves?
+- [Another awesome tutorial on Kubernetes](https://github.com/kelseyhightower/kubernetes-cluster-federation) from Kelsey Hightower — Kubernetes cluster federation tutorial
+- [Go Walkthrough](https://medium.com/go-walkthrough) from [Ben Johnson](https://github.com/benbjohnson) - A series of walkthroughs to help you understand the Go standard library.
+- Here's an example of [good k8s documentation](https://github.com/kubernetes/kubernetes/blob/release-1.4/docs/devel/api-conventions.md)
+- [This works pretty well for bootstrapping a cluster](https://github.com/kubernetes/contrib/tree/master/ansible) too with all the dashboards, metrics, etc
+- [Special Interest Groups (SIG) and Working Groups](https://github.com/kubernetes/community/blob/master/README.md#special-interest-groups-sig-and-working-groups)
+- [CoreOS rkt](https://github.com/coreos/rkt) — a container engine for Linux designed to be composable, secure, and built on standards
+- [The Twelve-Factor App](https://12factor.net/) — a methodology for building software-as-a-service apps
