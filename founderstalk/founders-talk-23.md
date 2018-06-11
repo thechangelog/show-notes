@@ -1,0 +1,7 @@
+* [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
+* [https://twitter.com/smashingmag](https://twitter.com/smashingmag)
+* [https://twitter.com/vitalyf](https://twitter.com/vitalyf)
+* [http://www.alvit.de/handbook](http://www.alvit.de/handbook)
+* [http://www.alvit.de/blog](http://www.alvit.de/blog)
+* [http://www.alvit.de/vf](http://www.alvit.de/vf)
+* [http://www.alvit.de/vf/en/my-profile-curriculum-vitae-and-biography.html](http://www.alvit.de/vf/en/my-profile-curriculum-vitae-and-biography.html)
