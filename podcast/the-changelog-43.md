@@ -1,0 +1,14 @@
+- [Steve Klabnik](http://www.steveklabnik.com/), maintainer of Hackety Hack, newest contributor to The Changelog
+- [Hackety Hack](http://hackety-hack.com/) will teach you the absolute basics of programming from the ground up.
+- [_why](http://en.wikipedia.org/wiki/Why_the_lucky_stiff), creator of Hackety Hack. Help [keep his memory alive](http://whyday.org/).
+- [Abbott and Costello](http://en.wikipedia.org/wiki/Abbott_and_Costello)’s classic [“Who’s on first?”](http://en.wikipedia.org/wiki/Who's_on_First%3F)
+- [_Yakety Yak_](http://en.wikipedia.org/wiki/Yakety_Yak) is a song written, produced, and arranged by Jerry Leiber and Mike Stoller for The Coasters and released on Atlantic Records in 1958
+- [Shoes](https://github.com/shoes/shoes) is a tiny graphical app kit for ruby
+- [GTK](http://www.gtk.org/) is a highly usable, feature rich toolkit for creating graphical user interfaces which boasts cross platform compatibility and an easy to use API.
+- [MacRuby](http://www.macruby.org/) is an implementation of Ruby 1.9 directly on top of Mac OS X core technologies such as the Objective-C runtime and garbage collector, the LLVM compiler infrastructure and the Foundation and ICU frameworks.
+- [The Shoebox](http://the-shoebox.org/) is a gallery of Shoes apps.
+- Mad props to [Heroku](http://heroku.com), [Sinatra](http://www.sinatrarb.com), and [MongoMapper](http://github.com/jnunemaker/mongomapper) for handling a [LifeHacker](http://lifehacker.com) traffic spike
+- Ruby is a [great language to teach programming](http://blog.hackety-hack.com/post/1313406925/why-teach-with-ruby)
+- _why’s [Poignant Guide to Ruby](http://poignant.guide/)
+- [ChunkFive](http://www.theleagueofmoveabletype.com/fonts/4-chunk) is a nice bold free and open source typeface
+- Steve is intrigued by projects like [cool.io](http://thechangelog.com/post/2502699802/cool-io-cool-event-driven-programming-for-ruby) and [node.js](http://nodejs.org) and the evented style of programming.
