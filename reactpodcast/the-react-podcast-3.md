@@ -1,0 +1,2 @@
+- [Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html) by Dan Abramov at [JSConf Iceland](https://jsconf.is/)
+- [requestIdleCallback API](https://developers.google.com/web/updates/2015/08/using-requestidlecallback)
