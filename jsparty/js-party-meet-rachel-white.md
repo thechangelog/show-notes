@@ -1,0 +1,4 @@
+- [Spotlight #11: Node, IoT, and RoboticS with Rachel White at Node.js Interactive 2016](https://changelog.com/spotlight/11)
+- [robokitty](https://github.com/rachelnicole/robokitty)
+- [BuzzFeed: Everything You Need To Know About Japan’s Amazing Photo Booths](https://www.buzzfeed.com/ryanhatesthis/look-how-kawaii-i-am)
+- [Web Bos](http://wesbos.com/) and his courses — [React for Beginners](https://reactforbeginners.com/) and [JavaScript 30](https://javascript30.com/)
