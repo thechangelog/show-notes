@@ -1,0 +1,5 @@
+- [sustainoss.org](https://sustainoss.org/) (inspired by [maintainerati.org](https://maintainerati.org/))
+- [maintainer.io](https://maintainer.io/) - Scale Open Source Maintenance
+- [rOpenSci](https://ropensci.org/) - Open Tools for Open Science
+- [Corgibytes](http://corgibytes.com/)
+- [Legacy Code Rocks!](http://legacycode.rocks/) (you should listen to this podcast)
