@@ -1,0 +1,8 @@
+* [After Founders Talk #33](https://changelog.com/founderstalk/after-33)
+* [Full Stop](http://www.fullstopinteractive.com/)
+* [Full Disclosure](http://www.fullstopinteractive.com/blog/)
+* [United Pixelworkers](http://www.unitedpixelworkers.com/)
+* [The economics of making and selling t-shirts](http://www.fullstopinteractive.com/blog/2010/12/so-you-want-to-make-t-shirts/)
+* [Success by Design](http://changeorder.typepad.com/weblog/2011/12/cover-for-success-by-design-the-essential-business-reference-for-designers.html)
+* [The Withering Away of Flash](https://twitter.com/zeldman/statuses/8558170044)
+* [A modest proposal (A List Apart)](http://www.alistapart.com/articles/a-modest-proposal/) 
