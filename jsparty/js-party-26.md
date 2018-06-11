@@ -1,0 +1,6 @@
+- [Embrace, extend, and extinguish - Wikipedia](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
+- [The Changelog #152: TypeScript and Open Source at Microsoft with Anders Hejlsberg and Jonathan Turner](https://changelog.com/podcast/152)
+- [AtScript - Wikipedia](https://en.wikipedia.org/wiki/AtScript)
+- [Jaume Sanchez Elias on Twitter: "JavaScript is like the parent that lets you do all kind of goofy mildly dangerous things like tumbling in bouncy castles, and even joins in the fun TypeScript is like the parent that gives you a stern look and says that they're not angry, just disappointed"](https://twitter.com/thespite/status/996792017693958144)
+- [Jerod Santo on Twitter: "Please stop trying to distinguish between these terms (developer, programmer, engineer, etc.). It’s arbitrary, divisive, and not at all useful…"](https://twitter.com/jerodsanto/status/996948889440792577)
+- [Trek Glowacki on Twitter: "Since our industry seems hell bent on giving people "Senior" titles who are in the first decade of their career, I'd like to propose we introduce a new layer of Elder Software Engineer, for people in the 11-20 years range, and Ancient Software Engineering for those 21+"](https://twitter.com/trek/status/996770053113688065)
