@@ -1,0 +1,12 @@
+- This episode started [on Ping](https://github.com/thechangelog/ping/issues/546)
+- Django creators: [Jacob Kaplan-Moss](https://jacobian.org/), [Simon Willison](https://twitter.com/simonw)
+- Python love: [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+- Python love: Great Docs – [Requests](http://docs.python-requests.org/en/master/) as example
+- Jerod suggests [RFC #5: Read/Write the Docs with Eric Holscher](https://changelog.com/rfc/5)
+- Virtues: [The Django admin site](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/)
+- Virtues: [GeoDjango](https://docs.djangoproject.com/en/1.10/ref/contrib/gis/)
+- Wikipedia has a list of [well-known sites using Django](https://en.wikipedia.org/wiki/Django_(web_framework)#Community)
+- Andrew's baby: [Django Channels](https://github.com/django/channels)
+- [Getting started with Django](https://docs.djangoproject.com/en/1.10/intro/)
+- [Django South](https://south.readthedocs.io/en/latest/) - consistent, easy-to-use and database-agnostic migrations for Django applications.
+- If sustainability is interesting to you, check out [Request for Commits](https://changelog.com/rfc)
