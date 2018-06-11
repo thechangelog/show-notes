@@ -1,0 +1,3 @@
+- [Tim O’Reilly: Official Bio](http://www.oreilly.com/tim/bio.html)
+- [Free Software Foundation](http://www.fsf.org/) - working together for free software
+- [OSCON](https://conferences.oreilly.com/oscon)
