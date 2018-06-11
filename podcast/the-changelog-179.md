@@ -1,0 +1,8 @@
+* [Caddy - The HTTP/2 Web Server Made for Humans](https://caddyserver.com)
+* [Caddy on GitHub](https://github.com/caddyserver)
+* [Experimental install script (some hate piping into bash, but others find it convenient)](http://getcaddy.com)
+* [mholt/caddy](https://github.com/mholt/caddy)
+* [Let's Encrypt](https://letsencrypt.org)
+* [xenolf/lego on GitHub](https://github.com/xenolf/lego)
+* [A technical look at the inside of Caddy (Go language)](http://blog.gopheracademy.com/caddy-a-look-inside/)
+* [[Podcast Suggestion] Matt Holt - Caddy HTTP/2 Web Server](https://github.com/thechangelog/ping/issues/283)
