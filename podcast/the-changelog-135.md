@@ -1,0 +1,13 @@
+* [Changelog Community](https://changelog.com/membership)
+* [Changelog Community Benefits](https://changelog.com/benefits)
+* [Changelog Store](https://changelog.com/store)
+* [Changelog Weekly](https://changelog.com/weekly) - Our editorialized take on what happened this week in open source and software development
+* [Changelog Weekly Archive](https://changelog.com/weekly/archive)
+* [Changelog Weekly - Issue #29](http://email.thechangelog.com/t/t-F0776DBF4D48199E)
+* [Changelog Weekly - Issue #30](http://email.thechangelog.com/t/t-8F9B0AF3C4E0DBF7)
+* [Changelog Weekly - Issue #31](http://lists.thechangelog.com/t/t-47F04C6633D04D09)
+* [Changelog Weekly - Issue #32](http://email.thechangelog.com/t/t-5D8CB7AD739491FD)
+* [Changelog Weekly - Issue #33](http://email.thechangelog.com/t/t-2E223392B979D616)
+* [[Guest idea] Rob Eisenberg, keeper of DurandalJS, an OSS JS project · Issue #96 · thechangelog/ping](https://github.com/thechangelog/ping/issues/96)
+* [Lets talk about Perl! · Issue #87 · thechangelog/ping](https://github.com/thechangelog/ping/issues/87)
+* [Laravel: The PHP Framework for Web Artisans · Issue #31 · thechangelog/ping](https://github.com/thechangelog/ping/issues/31)
