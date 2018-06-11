@@ -1,0 +1,7 @@
+* [After Founders Talk #37](https://changelog.com/founderstalk/after-37)
+* [TVBFF (podcast)](http://savetheartist.net/broadcasts/tvbff/)
+* [User Conf - Oct 12th, 2012 in San Francisco (Fort Mason Center)](http://userconf.co/)
+* [Crush It! by Gary Vaynerchuk (book)](http://crushitbook.com/)
+* [Delivering Happiness by Tony Hsieh (book)](http://www.deliveringhappiness.com/)
+* [hitenism — Hiten Shah's Blog](http://hitenism.com/)
+* [The Next Microsoft by minimally minimal](http://www.minimallyminimal.com/journal/2012/7/3/the-next-microsoft.html)
