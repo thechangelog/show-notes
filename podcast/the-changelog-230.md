@@ -1,0 +1,17 @@
+- [The Presidential Innovation Fellows (PIF) program](https://presidentialinnovationfellows.gov/) brings the innovation economy into government, by pairing talented, diverse technologists and innovators with top civil-servants and change-makers within the federal government.
+- [The White House's Presidential Innovation Fellows program on Twitter](https://twitter.com/InnovFellows)
+- [The Changelog #157: Building Bridges with Sarah Allen](https://changelog.com/podcast/157)
+- [The CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/legalcode) - "Additionally, we waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication." 
+- [cloud.gov](https://cloud.gov/) - The Government Innovation platform by government developers, for government developers.
+- [analytics.usa.gov on GitHub](https://github.com/18F/analytics.usa.gov)
+- [18F on GitHub](https://github.com/18F)
+- [The System for Award Management (SAM)](https://www.sam.gov/) - certification for working as a vendor for the U.S. government
+- [FedRAMP Ready Products](https://www.fedramp.gov/)
+- The Washington Post - [Why a federal high-tech start-up is a money loser](https://www.washingtonpost.com/news/powerpost/wp/2016/11/02/why-a-federal-high-tech-start-up-is-a-money-loser/)
+- Tom VanAntwerp on Medium - [18F is Hardly a Waste of Money](https://medium.com/@tvanantwerp/18f-is-hardly-a-waste-of-money-cf8d5ec7c80c#.4x5au5ls1)
+- [Join one of 18F's Slack rooms](https://chat.18f.gov/)
+- [code.gov is the next milestone in federal open source code](https://18f.gsa.gov/2016/11/07/code-gov-the-next-milestone-federal-open-source-code/)
+- [Micro-purchase](https://micropurchase.18f.gov/)
+- [Micro-purchase stats page](https://micropurchase.18f.gov/insights)
+- [18F Guides](https://pages.18f.gov/guides/)
+- [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
