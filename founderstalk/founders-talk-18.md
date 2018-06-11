@@ -1,0 +1,7 @@
+* [Matt Mickiewicz](http://mattmickiewicz.com/)
+* [Matt Mickiewicz | LinkedIn](http://www.linkedin.com/pub/matt-mickiewicz/0/981/505)
+* [SitePoint » Web Design, Web Development, Freelancing, Tech News and more](http://www.sitepoint.com/)
+* [SitePoint Forums: Resources, Design, HTML, CSS, PHP, ASP, MySQL and more for your web site.](http://www.sitepoint.com/forums/)
+* [Logo Design, Web Design and More. Design Done Differently | 99designs.com](http://99designs.com/)
+* [Flippa: The #1 Marketplace for Buying and Selling Websites](https://flippa.com/)
+* [Accel Partners | CrunchBase Profile](http://www.crunchbase.com/financial-organization/accel-partners)
