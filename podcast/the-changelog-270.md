@@ -1,0 +1,6 @@
+- [Ruby on Rails](http://rubyonrails.org/) - a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.
+- [activerecord on GitHub](https://github.com/rails/rails/tree/master/activerecord)
+- [Rust](https://www.rust-lang.org/) - a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+- [diesel on GitHub](https://github.com/diesel-rs/diesel)
+- [Diesel website and docs](http://diesel.rs/)
+- [RustConf](http://rustconf.com/)
