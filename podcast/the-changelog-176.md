@@ -1,0 +1,8 @@
+* [CodeNewbie](http://www.codenewbie.org/)
+* [CodeNewbie Patreon](https://www.patreon.com/codenewbie)
+* [About Saron](http://bloggytoons.com/about/)
+* [Flatiron School](http://flatironschool.com/)
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+* [Contently](https://contently.com/)
+* [Hero - Katrina Owen (@kytrinyx) on Twitter](https://github.com/kytrinyx)
+* [The Changelog #108: Exercism.io with Katrina Owen](https://changelog.com/podcast/108)
