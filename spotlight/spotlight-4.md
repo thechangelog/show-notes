@@ -1,0 +1,10 @@
+- [IBM Blockchain](http://www.ibm.com/blockchain/) - Quickly run a blockchain network in a secure Cloud environment. Spin up a blockchain network on a private, virtualized environment; create and secure digital assets in test applications to trade over a permissioned network.
+- [Hyperledger Fabric Basics](https://github.com/angrbrd/hyperledger-fabric-basics) — This tutorial was presented as part of Anna's presentation at All Things Open 2016. Her presentation was focused on blockchain applications, and specifically, getting started with building an application with [Hyperledger Fabric](https://github.com/hyperledger/fabric).
+- View the slides from Anna's talk — [Blockchain for Business on Hyperledger](https://github.com/angrbrd/hyperledger-fabric-basics/blob/master/All_Things_Open_v10262016.pdf)
+- [Hyperledger](https://www.hyperledger.org/) — an open source collaborative effort under the Linux Foundation created to advance cross-industry blockchain technologies. It is a global collaboration including leaders in finance, banking, IoT, supply chain, manufacturing and technology.
+- [The Hyperledger Project on GitHub](https://github.com/hyperledger)
+- [Fabric core](https://github.com/hyperledger/fabric)
+- [Hyperledger Fabric Client SDK for Node.js](https://github.com/hyperledger/fabric-sdk-node)
+- [Join Hyperledger Project on Slack](https://slack.hyperledger.org/)
+- [IBM Bluemix](https://bluemix.net/)
+- [The Changelog #222: Ethereum and Cryptocurrency with Gavin Wood](https://changelog.com/podcast/222)
