@@ -1,0 +1,5 @@
+* [Storenvy](http://www.storenvy.com/)
+* [Storenvy Jobs](http://www.storenvy.com/about/team)
+* [@Storenvy](https://twitter.com/#!/Storenvy)
+* [@JonCrawford](https://twitter.com/#!/JonCrawford)
+* [How I Got Kicked Out of Y Combinator and Then Raised $1.5M for My Startup](http://joncrawford.com/how-i-got-kicked-out-of-y-combinator-and-rais)
