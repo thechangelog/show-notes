@@ -1,0 +1,7 @@
+* [IPFS is a new peer-to-peer hypermedia protocol.](http://ipfs.io/)
+* [IPFS Alpha Demo - YouTube](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
+* [Ralph Merkle's Home Page](http://www.merkle.com/)
+* [EverythingStays - Immutable & Distributed NodeJS Modules With IPFS](http://everythingstays.com/)
+* [Self-certifying File System - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Self-certifying_File_System)
+* [Conflict-free replicated data type - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+* [OpenBazaar](https://openbazaar.org/)
