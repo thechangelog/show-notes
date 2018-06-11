@@ -1,0 +1,12 @@
+- [Podcast topic: Elasticsearch](https://github.com/thechangelog/ping/issues/745)
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) -  RESTful, Distributed Search & Analytics
+- [Elasticsearch on GitHub](https://github.com/elastic/elasticsearch)
+- [Doubling down on open](https://www.elastic.co/blog/doubling-down-on-open)
+- [We’re opening X-Pack](https://www.elastic.co/products/x-pack/open)
+- [Doubling Down on Open: Shay Banon on Opening the Code of X-Pack](https://www.youtube.com/watch?v=gR3OhOnCMf8)
+- [Go Time #48: Restic and backups (done right)](https://changelog.com/gotime/48)
+- [Handling Relationships](https://www.elastic.co/guide/en/elasticsearch/guide/master/relations.html) - Elasticsearch docs
+- [Theory Behind Relevance Scoring](https://www.elastic.co/guide/en/elasticsearch/guide/current/scoring-theory.html) - Elasticsearch docs
+- [Papertrail](https://papertrailapp.com/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Third party CSS is not safe](https://changelog.com/news/third-party-css-is-not-safe-V83)
