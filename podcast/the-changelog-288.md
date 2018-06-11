@@ -1,0 +1,8 @@
+- [Lessons from my first year of live coding on Twitch](https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
+- [A guide to streaming and finding success on Twitch](https://www.reddit.com/r/Twitch/comments/4eyva6/a_guide_to_streaming_and_finding_success_on_twitch/)
+- [Suz's hardware list](https://gist.github.com/noopkat/5de56cb2c5917175c5af3831a274a2c8)
+- [Suz on Twitch (noopkat)](https://www.twitch.tv/noopkat)
+- [Changelog on Twitch](https://www.twitch.tv/changelog_)
+- [Open Broadcaster Software](https://obsproject.com/)
+- [Awesome developer streams](https://github.com/bnb/awesome-developer-streams)
+- [NOP on Wikipedia](https://en.wikipedia.org/wiki/NOP)
