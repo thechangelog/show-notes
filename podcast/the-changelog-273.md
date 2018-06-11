@@ -1,0 +1,2 @@
+- [Citizen Data by Vida Williams at TEDxRVA](https://www.youtube.com/watch?v=shkn4Sruydw)
+- [Qordoba](https://qordoba.com/) - Localization Software for Global Brands
