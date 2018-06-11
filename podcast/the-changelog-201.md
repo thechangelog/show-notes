@@ -1,0 +1,6 @@
+
+*   [SQLite Home Page](http://www.hwaci.com/sw/sqlite/)  
+*   [GDBM](http://www.gnu.org.ua/software/gdbm/)  
+*   [fopen(3) - Linux manual page](http://man7.org/linux/man-pages/man3/fopen.3.html)  
+*   [Bruce Perens - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Bruce_Perens)  
+    He co-founded the Open Source Initiative (OSI)
