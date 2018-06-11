@@ -1,0 +1,6 @@
+- This show began as [an issue on GitHub](https://github.com/thechangelog/ping/issues/369)
+- [The Linux Foundation's Core Infrastructure Initiative Funds the Reproducible Builds Project](https://www.coreinfrastructure.org/news/announcements/2016/11/linux-foundations-core-infrastructure-initiative-renews-funding)
+- [Reproducible Builds](https://reproducible-builds.org/)
+- [apt-secure (Ubuntu)](http://manpages.ubuntu.com/manpages/zesty/man8/apt-secure.8.html)
+- [apt-secure (Debian)](https://wiki.debian.org/SecureApt)
+- [thread.com](https://www.thread.com/)
