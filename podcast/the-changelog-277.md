@@ -1,0 +1,6 @@
+- [Julia Liuson on Wikipedia](https://en.wikipedia.org/wiki/Julia_Liuson)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio](https://www.visualstudio.com/)
+- [Visual Studio Code on GitHub](https://github.com/Microsoft/vscode)
+- [GitHub CEO Talks About How Microsoft and Apple Are Changing](http://fortune.com/2016/09/14/github-chris-wanstrath-microsoft-apple/)
+- [The State of the Octoverse 2017](https://octoverse.github.com/)
