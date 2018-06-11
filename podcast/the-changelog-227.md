@@ -1,0 +1,10 @@
+- [JavaScript Standard Style Guide](http://standardjs.com/)
+- [Study Notes](https://www.apstudynotes.org/) is Feross's passive income maker that enables him to work on open source and other stuff he's interested in
+- [FreeTheFlash](http://www.freetheflash.com/) - Hilarious media entertainment brought to you by FreeTheFlash Entertainment
+- [Webmaster World](https://www.webmasterworld.com/)
+- [WebTorrent](https://webtorrent.io/) - A streaming torrent client for the web browser and the desktop
+- [WebTorrent Desktop](https://webtorrent.io/desktop/) is the desktop Torrent client built with Electron
+- [WebTorrent Desktop on GitHub](https://github.com/feross/webtorrent-desktop)
+- [Instant.io](https://instant.io/)
+- [The Changelog #216 - Electron and Cross Platform Desktop Apps with Zeke Sikelianos](https://changelog.com/podcast/216)
+- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app built with Electron
