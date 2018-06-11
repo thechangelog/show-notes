@@ -1,0 +1,15 @@
+- Max was on [The Changelog #35](https://changelog.com/podcast/35) way back in September, 2010
+- Max's latest open source project [PromiseKit](http://promisekit.org)
+- The [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro) was the first computer Max used
+- [Amarok](https://amarok.kde.org/) - a powerful music player for Linux, Unix and Windows
+- [qt](https://www.qt.io/) - cross-platform development
+- [Last.fm](http://www.last.fm/) - bring together your favourite music services
+- [Scrobble](http://www.urbandictionary.com/define.php?term=Scrobble)
+- [“The foundation of the modern world is developer tools."](https://twitter.com/mxcl/status/619373095199969280)
+- [The Changelog #223: Homebrew and Package Management with Mike McQuaid](https://changelog.com/podcast/223)
+- The tweet heard aroud the world with 6,825+ retweets — ["Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so f**k off."](https://twitter.com/mxcl/status/608682016205344768)
+- [Swift Package Manager](https://github.com/apple/swift-package-manager)
+- [BBC BASIC](https://en.wikipedia.org/wiki/BBC_BASIC) programming language
+- [QBasic (Quick Beginners All purpose Symbolic Instruction Code)](https://en.wikipedia.org/wiki/QBasic) is an IDE and interpreter for a variety of the BASIC programming language
+- Max's new thing — [mixmsg](http://mixmsg.com/) lets you make mixtapes with friends directly in iMessage.
+- Max's new project — [Growler](https://github.com/mxcl/growler) is planned for Homebrew, but he was hush hush about what it will do
