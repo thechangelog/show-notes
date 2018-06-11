@@ -1,0 +1,7 @@
+* [Valio Con 2011 | Talk Videos](http://valiocon.com/)
+* [Advise.me](http://advise.me/)
+* [Firerift.com](http://www.firerift.com/)
+* [Yoggrt / The Creative Ad Network](http://www.yoggrt.com/)
+* [Surfed.it | Coming soon.](http://surfedit.com/)
+* [Pictos](http://pictos.drewwilson.com/)
+* [Dialoggs](http://dialog.gs/) 
