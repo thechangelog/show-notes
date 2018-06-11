@@ -1,0 +1,7 @@
+- [The Changelog #255: Why is GraphQL so cool? with Johannes Schickling](https://changelog.com/podcast/255)
+- [Prisma raises $4.5M to build the GraphQL data layer for all databases](https://www.prisma.io/blog/prisma-raises-4-5m-to-build-the-graphql-data-layer-for-all-databases-663484df0f60/)
+- [Prisma | Open-Source GraphQL ORM for GraphQL Servers](https://www.prisma.io/)
+- [prismagraphql/prisma: ⚡️ Prisma turns your database into a realtime GraphQL API](https://github.com/prismagraphql/prisma)
+- [Quickstart | Prisma Docs](https://www.prisma.io/docs/quickstart/)
+- [GraphQL Radio](https://graphqlradio.com/)
+- [GraphQL Europe 2018](https://www.graphql-europe.org/)
