@@ -1,0 +1,11 @@
+- [The Changelog #267: Functional Programming with Eric Normand](https://changelog.com/podcast/267)
+- If you're a fan of [Request For Commits](https://changelog.com/rfc), you can hear Todd on [episode #13](https://changelog.com/rfc/13)
+- [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
+- [Lawrence Livermore National Laboratory - High Performance Computing](https://hpc.llnl.gov/)
+- [Dennard scaling](https://en.wikipedia.org/wiki/Dennard_scaling)
+- [Brain Chip](http://www.research.ibm.com/articles/brain-chip.shtml) - a brain-inspired computer by IBM
+- [What is NIF (National Ignition Facility)?](https://lasers.llnl.gov/about/what-is-nif)
+- [Spack](https://spack.io/) - flexible package manager that supports multiple versions, configurations, platforms, and compilers
+- [Slurm Workload Manager](https://slurm.schedmd.com/)
+- [Lustre file system](http://lustre.org/) - open-source, parallel file system for HPC simulation environments
+- [Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
