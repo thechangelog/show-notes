@@ -1,0 +1,5 @@
+- [Stimulus homepage](https://stimulusjs.org/) and [the source on GitHub](https://github.com/stimulusjs/stimulus)
+- [Stimulus 1.0](https://changelog.com/news/stimulus-10-a-modest-javascript-framework-for-the-html-you-already-have-VYN)
+- [Turbolinks](https://github.com/turbolinks/turbolinks)
+- Watch [the proposition of Turbolinks](https://www.youtube.com/watch?v=SWEts0rlezA) if you haven't yet
+- David's thoughts on [the majestic monolith](https://m.signalvnoise.com/the-majestic-monolith-29166d022228)
