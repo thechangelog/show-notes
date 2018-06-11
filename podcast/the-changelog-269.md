@@ -1,0 +1,7 @@
+- [Bisq - the P2P Decentralized Bitcoin Exchange](https://bisq.network/)
+- [bisq-network/exchange](https://github.com/bisq-network/exchange)
+- [The Bisq DAO](https://bisq.network/dao/) or [read the source docs here](https://github.com/bisq-network/docs/blob/master/dao/phase-zero.adoc) and you can [read the compensation requests here](https://github.com/bisq-network/compensation/issues)
+- [Bitcoin](https://bitcoin.org/) - Open source P2P money
+- [Ethereum Project](https://ethereum.org/)
+- [CoinBase](https://www.coinbase.com/)
+- [Mt. Gox](https://en.wikipedia.org/wiki/Mt._Gox)
