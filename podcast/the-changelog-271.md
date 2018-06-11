@@ -1,0 +1,5 @@
+- [Why I left the best job in the world](https://medium.com/swlh/why-i-left-the-best-job-in-the-world-3689a5a4649a)
+- [Blockchains don’t scale. Not today, at least. But there’s hope.](https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
+- [Preethi Kasireddy on Medium](https://medium.com/@preethikasireddy)
+- [Ask Preethi on YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnUeereoJWjWOhlcWUynq_Z)
+- [Between the Wires](https://betweenthewires.org/) and [what is Between the Wires?](https://medium.com/between-the-wires/what-is-between-the-wires-a68a2eb506f5)
