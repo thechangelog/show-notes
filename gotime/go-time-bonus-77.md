@@ -1,0 +1,4 @@
+- [The Changelog #294: Code Cartoons, Rust, and WebAssembly with Lin Clark](https://changelog.com/podcast/294)
+- [Go Time #77](https://changelog.com/gotime/77)
+- GitHub issue #18892: [WebAssembly ("wasm") support](https://github.com/golang/go/issues/18892)
+- [WebAssembly architecture for Go](https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4/edit)
