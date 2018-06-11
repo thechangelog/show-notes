@@ -1,0 +1,7 @@
+* [Jewelbots - The friendship-bracelet for the Smartphone era](http://www.jewelbots.com/)
+* [Jewelbots on GitHub](https://github.com/Jewelbots)
+* [Girl Develop It](https://www.girldevelopit.com/)
+* [Firebug](http://getfirebug.com/)
+* [ngCordova](http://ngcordova.com/)
+* [Ionic: Advanced HTML5 Hybrid Mobile App Framework](http://ionicframework.com/)
+* [Miguel de Icaza on Wikipedia](https://en.wikipedia.org/wiki/Miguel_de_Icaza)
