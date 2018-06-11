@@ -1,0 +1,7 @@
+- [RabbitMQ Server on GitHub](https://github.com/rabbitmq/rabbitmq-server)
+- [How Elixir Compiles/Executes Code](https://medium.com/@fxn/how-does-elixir-compile-execute-code-c1b36c9ec8cf)
+- [RabbitMQ Architecture Overview](https://github.com/rabbitmq/internals)
+- [The Changelog #205: A Protocol For Dying with Pieter Hintjens](https://changelog.com/podcast/205)
+- [The Changelog #242: The Burden of Open Source with James Long](https://changelog.com/podcast/242)
+- [The Changelog #246: First-time Contributors and Maintainer Balance with Kent C. Dodds](https://changelog.com/podcast/242)
+- [The Changelog #248: Open Source Lessons Learned with Zeno Rocha](https://changelog.com/podcast/248)
