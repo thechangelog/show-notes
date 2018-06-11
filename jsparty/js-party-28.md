@@ -1,0 +1,8 @@
+- [ML4ALL - A machine learning conference for the rest of us.](http://ml4all.org/)
+- [Machine Learning, Art and JavaScript - Amy Cheng - ML4ALL 2018 - YouTube](https://www.youtube.com/watch?v=6nF4pdl1U-g)
+- [Deep Dream Generator](https://deepdreamgenerator.com/)
+- [Humming Bird on Fire](https://ddg-mjesip8vchewh1dsl.stackpathdns.com/assets/landing/img/gallery/8.jpg)
+- [Hello tensorflow – Monica Dinculescu](https://meowni.ca/posts/hello-tensorflow/)
+- [Oaths, pledges and manifestos: a master list of ethical tech values](https://medium.com/doteveryone/oaths-pledges-and-manifestos-a-master-list-of-ethical-tech-values-26e2672e161c)
+- [Practical AI with Chris Benson and Daniel Whitenack](https://changelog.com/practicalai)
+- [Jump or Not to Jump: Solving Flappy Bird with Deep Reinforcement Learning - Kaleo Ha'o - ML4ALL 2018](https://www.youtube.com/watch?v=o1vj7vvGiZ4&t=0s&list=PLOnHsSCrR68wyOxmnT1R-KxXHNntun2QM&index=4)
