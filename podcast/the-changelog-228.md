@@ -1,0 +1,4 @@
+- [Servo Website](https://servo.org)
+- [Servo on GitHub](https://github.com/servo/servo)
+- [Jack Moffitt on Wikipedia](https://en.wikipedia.org/wiki/Jack_Moffitt)
+- [Servo: Today & Tomorrow Slide Deck](https://docs.google.com/presentation/d/1-FSfNO-oT9Wqo2swvm6UnsybYzsmKcb_DScJpd-4PIA/edit)
