@@ -1,0 +1,6 @@
+- [JAMstack](https://jamstack.org/) (JavaScript, APIs, and Markup) is a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.
+- [Netlify CMS](https://www.netlifycms.org/) is an open-source CMS built with JAMstack principles designed around a fully Git workflow.
+- [Smashing Magazine just got 10x faster](https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/)
+- [Meet The Next Smashing Magazine](https://next.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here--meet-the-next-smashing-magazine/)
+- [Why Static Site Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/)
+- [next.smashingmagazine.com](https://next.smashingmagazine.com/)
