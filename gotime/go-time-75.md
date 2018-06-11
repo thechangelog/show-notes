@@ -1,0 +1,13 @@
+- [GoLand](https://www.jetbrains.com/go/) - Capable and Ergonomic Go IDE by JetBrains
+- [Join Gophers on Slack!](https://invite.slack.golangbridge.org/) + [the CoC](https://github.com/gobridge/CodeOfConduct)
+- [Spotlight #10: How China Does Node with Shiya Luo](https://changelog.com/spotlight/10)
+- [dep](https://github.com/golang/dep) - Go dependency management tool
+- [Atom](https://atom.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Tower](https://www.git-tower.com/mac/) - Git client for Mac and Windows
+- [Magit!](https://magit.vc/) - A Git Porcelain inside Emacs
+- [rc file (dotfile) management](https://github.com/thoughtbot/rcm)
+- [Golang - 2017 Survey Results](https://blog.golang.org/survey2017-results)
+- [Dark GitHub style](https://github.com/StylishThemes/GitHub-Dark) is Adam's free software Friday pick
+- [Dark theme for Slack](https://chrome.google.com/webstore/detail/dark-theme-for-slack/begdfkhhegoognioipgofimponkeiiah)
+- [Delve](https://github.com/derekparker/delve) is Florian's free software Friday pick
