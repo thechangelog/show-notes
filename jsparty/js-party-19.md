@@ -1,0 +1,6 @@
+- [Web Audio API](https://webaudio.github.io/web-audio-api/) - W3C Editor's Draft 10 August 2017
+- [TypeScripts Type System is Turing Complete](https://github.com/Microsoft/TypeScript/issues/14833) - GitHub Issues
+- [StackBlitz](https://medium.com/@ericsimons/stackblitz-online-vs-code-ide-for-angular-react-7d09348497f4) — Online VS Code IDE for Angular & React
+- [How is JavaScript used within the Spotify desktop application?](https://www.quora.com/How-is-JavaScript-used-within-the-Spotify-desktop-application-Is-it-packaged-up-and-run-locally-only-retrieving-the-assets-as-and-when-needed-What-JavaScript-VM-is-used) - Quora
+- [Inversion (meteorology)](https://en.wikipedia.org/wiki/Inversion_%28meteorology%29#Sound)
+- [The Automagic Music Maker](https://mylesborins.com/project/the-automagic-music-maker/)
