@@ -1,0 +1,15 @@
+
+- [OAuth](http://oauth.net/) An open protocol to allow secure API authorization in a simple and standard method from desktop and web applications.
+- [oEmbed](http://www.oembed.com/) oEmbed is a format for allowing an embedded representation of a URL on third party sites.
+- [90210](http://www.imdb.com/title/tt0098749/) One of Adam’s favorite TV shows from the 90s
+- [Beverly Hillbillies](http://www.imdb.com/title/tt0055662/) For the previous generation
+- [Boxee](http://boxee.tv) Open Source media on your TV or PC/Mac
+- [Hurl.it](http://hurl.it) Test APIs from your browser
+- [Charles Proxy](http://www.charlesproxy.com/) Monitor or proxy HTTP and SSL / HTTPS traffic between your machine and the Internet.
+- [Gowalla’s API explorer](http://gowalla.com/api/explorer) Neat way to test your Gowalla API calls
+- [Baconfile](http://baconfile.com/) Share files simply on your own S3 account
+- [Chunky Baconfile](http://github.com/pengwynn/chunky-baconfile) Wynn’s wrapper for Baconfile, a naming tribute to [_why](http://en.wikipedia.org/wiki/Why's_(poignant)_Guide_to_Ruby)
+- [Motion](http://github.com/sixapart/typepad-motion) Community microblogging on the TypePad API written in Django.
+- [TypeKit](http://typekit.com/) Legally embed fonts from the largest foundries
+- [Node.js](http://nodejs.org) The streak continues!
+- [How to Node](http://howtonode.org) Learn Node.js open blog from [Tim Caswell](http://twitter.com/creationix) and [Micheil Smith](http://twitter.com/miksago). And it’s pronounced _Michael_, sorry, mate.
