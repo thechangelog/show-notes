@@ -1,0 +1,5 @@
+* [http://jestro.com/](http://jestro.com/)
+* [http://thethemefoundry.com/](http://thethemefoundry.com/)
+* [http://drewstrojny.com/](http://drewstrojny.com/)
+* [http://forge.thethemefoundry.com/](http://forge.thethemefoundry.com/)
+* [http://5by5.tv/dailyedition/27-changes](http://5by5.tv/dailyedition/27-changes)
