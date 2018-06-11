@@ -1,0 +1,7 @@
+* [Drew Blas - Explorer « The life and code of a passionate developer](http://drewblas.com/)
+* [drewblas (Drew Blas) on GitHub](https://github.com/drewblas)
+* [drewblas (drewblas) on Twitter](https://twitter.com/drewblas)
+* [drewblas/consignment](https://github.com/drewblas/consignment)
+* [chargify (Chargify)](https://github.com/chargify)
+* [chargify/chargify2](https://github.com/chargify/chargify2)
+* [chargify/doculab](https://github.com/chargify/doculab)
