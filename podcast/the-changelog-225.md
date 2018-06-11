@@ -1,0 +1,5 @@
+- Sandi's first book — [Practical Object-Oriented Design in Ruby (aka POODR)](http://www.poodr.com/)
+- [99 Bottles of OOP](http://www.sandimetz.com/99bottles/) by Sandi Metz
+- [Katrina Owen](https://github.com/kytrinyx) co-authored 99 Bottles with Sandi
+- Check out [Understanding Computation — From Simple Machines to Impossible Programs](http://computationbook.com/) by [Tom Stuart](https://github.com/tomstuart) — use the code `PCBW` to save 40% on a print book, or 50% on an ebook [from O'Reilly](http://shop.oreilly.com/product/0636920025481.do)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](http://c2.com/cgi/wiki?DesignPatternsBook) from [the GangOfFour](http://c2.com/cgi/wiki?GangOfFour) — Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
