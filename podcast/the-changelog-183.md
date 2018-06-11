@@ -1,0 +1,7 @@
+* [UpUp - The Offline First Library](https://www.talater.com/upup/)
+* [TalAter/UpUp](https://github.com/TalAter/UpUp/)
+* [annyang! Easily add speech recognition to your site](https://www.talater.com/annyang/)
+* [TalAter/annyang](https://github.com/TalAter/annyang)
+* [Introduction to Service Workers on HTML5 Rocks](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
+* [The Open Sourcer](http://www.theopensourcer.com/)
+* [Hero: Jake Archibald](https://jakearchibald.com/)
