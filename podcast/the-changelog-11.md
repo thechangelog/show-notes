@@ -1,0 +1,13 @@
+
+- [John Nunemaker](http://github.com/jnunemaker)
+- [Ordered List](http://orderedlist.com)
+- John’s Ruby projects The [Twitter gem](http://github.com/jnunemaker/twitter), [HTTParty](http://github.com/jnunemaker/httparty), [Crack](http://github.com/jnunemaker/crack), [MongoMapper](http://github.com/jnunemaker/mongomapper)
+- [MongoHQ](http://mongohq.com), shared MongoDB hosting
+- The GitHub [Fork Queue](http://github.com/blog/270-the-fork-queue)
+- [Harmony](http://harmonyapp.com), the new CMS from [Ordered List](http://orderedlist.com)
+- [Moonshine](http://github.com/railsmachine/moonshine)
+- [Puppet](http://github.com/reductivelabs/puppet)
+- [Navvy](http://thechangelog.com/post/356754061/navvy-simple-database-agnostic-ruby-background-job-proce)
+- [Liquid Markup](http://liquidmarkup.org) from [Tobias Lütke](http://github.com/tobi) of [Shopify](http://www.shopify.com/)
+- [Redis](http://code.google.com/p/redis/)
+- [Resque](http://github.com/defunkt/resque)
