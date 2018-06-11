@@ -1,0 +1,16 @@
+Mike Perham is a well known open source software developer and author of the beloved Sidekiq and Inspeqtor.
+
+* [Mike Perham (@mperham) on Twitter](https://twitter.com/mperham)
+* [Mike Perham on Twitter "I would be happy to chat with podcasters or bloggers about sustainable OSS to raise more awareness of the subject."](https://twitter.com/mperham/status/601069284509356032)
+* [Sidekiq - background processing for Ruby](http://contribsys.com/sidekiq/)
+* [Inspeqtor - application infrastructure monitoring](http://contribsys.com/inspeqtor/)
+* [The Changelog #130: Inspeqtor and OSS Products with Mike Perham](https://changelog.com/podcast/130)
+* [410 Gone on Twitter: "You can find me on github, but other than that, no more. Sorry. If it's not directly related to work, I'm done."](https://twitter.com/steveklabnik/status/601057648373542913)
+* [410 Gone on Twitter: "I also feel the need to say that this has been a few years' coming, if you're just reading my TL, you probably don't get it."](https://twitter.com/steveklabnik/status/601079287341539328)
+* [Daniel Stenberg (@bagder) on Twitter](https://twitter.com/bagder)
+* [Burnout — Medium](https://medium.com/tag/burnout)
+* [Medium search for "burnout"](https://medium.com/search?q=burnout)
+* [Hacker News search for "burnout"](https://hn.algolia.com/?query=burnout&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+* [Rubber duck debugging - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Rubber_duck_debugging)
+* [Help Ian Warshak Climb Mt Kilimanjaro (GoFundMe)](http://www.gofundme.com/ianhikes)
+* [Buy a Changelog tee shirt for $20 (they're super comfy)](https://changelog.com/store)
