@@ -1,0 +1,5 @@
+- [ECMAScript Modules in Browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
+- [Wes Bos tutorials](http://wesbos.com/)
+- [Interface Lovers](https://interfacelovers.com/)
+- [Prettier](https://github.com/prettier/prettier)
+- [Node.js V8 --inspector Manager](https://chrome.google.com/webstore/detail/nodejs-v8-inspector-manag/gnhhdgbaldcilmgcpfddgdbkhjohddkj)
