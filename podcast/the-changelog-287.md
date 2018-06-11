@@ -1,0 +1,10 @@
+- [ConsenSys Labs](https://new.consensys.net/labs/)
+- [Truffle Suite - Your Ethereum Swiss Army Knife](http://truffleframework.com/)
+- [Docs: Choosing an Ethereum client](http://truffleframework.com/docs/getting_started/client)
+- [Truffle Boxes](http://truffleframework.com/boxes/) - helpful boilerplates that allow you to focus on what makes your dapp unique
+- [Truffle tutorials](http://truffleframework.com/tutorials/)
+- [Truffle stats dashboard](http://truffleframework.com/dashboard/)
+- [Ganache](http://truffleframework.com/ganache/) - Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+- [ethpm (Ethereum Package Management)](https://www.ethpm.com/)
+- [Drizzle: Reactive Ethereum data for front-ends](http://truffleframework.com/blog/drizzle-reactive-ethereum-data-for-front-ends)
+- [ConsenSys on Gitter](https://gitter.im/ConsenSys)
