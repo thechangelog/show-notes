@@ -1,0 +1,12 @@
+* [O'Reilly Media Discount](http://oreil.ly/1KTi0ED) - Use the code `PCBW` to get 50% off most ebooks and videos + 40% off most print books
+* [Rachel Roumeliotis - O'Reilly Radar](http://radar.oreilly.com/rachelr)
+* [Open source won, so what's next? - O'Reilly Radar](http://radar.oreilly.com/2015/04/open-source-won-so-whats-next.html)
+* [Why Rust? - O'Reilly Media](http://www.oreilly.com/programming/free/why-rust.csp)
+* [How to experience OSCON Amsterdam 2015 - O'Reilly Radar](http://radar.oreilly.com/2015/09/how-to-experience-oscon-amsterdam-2015.html)
+* [Better code is cheaper - O'Reilly Radar](http://radar.oreilly.com/2015/09/better-code-is-cheaper.html)
+* [OSCON in Amsterdam - O'Reilly Conferences, 26 - 28, October 2015](http://www.oscon.com/open-source-eu-2015)
+* [About: Open Source Convention - O'Reilly OSCON, July 20 - 24, 2015 in Portland, OR](http://www.oscon.com/open-source-2015/public/content/about#chairs)
+* [Hero: Guido van Rossum - Best known as the author of the Python programming language](https://en.wikipedia.org/wiki/Guido_van_Rossum)
+* [The Cloudcast](http://www.thecloudcast.net/)
+* [Work With Us – O'Reilly Media](http://www.oreilly.com/work-with-us.html)
+* [The Changelog #163: Go in the Modern Enterprise Using gokit with Peter Bourgon](https://changelog.com/podcast/163)
