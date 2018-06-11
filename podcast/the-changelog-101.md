@@ -1,0 +1,8 @@
+* [isaacs (Isaac Z. Schlueter)](https://github.com/isaacs)
+* [Foo Hack » Isaac Schlueter on Web Development](http://foohack.com/)
+* [isaacs (izs) on Twitter](https://twitter.com/izs)
+* [isaacs/npm](https://github.com/isaacs/npm)
+* [Install Node.js and NPM using Homebrew on OS X - Changelog](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x/)
+* [node.js](http://nodejs.org/)
+* [BOWER: A package manager for the web](http://bower.io/)
+* [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
