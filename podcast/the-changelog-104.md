@@ -1,0 +1,8 @@
+* Subscribe to [Changelog Weekly](https://changelog.com/weekly)
+* [Kickstarter - Espruino: JavaScript for Things by Gordon Williams](http://www.kickstarter.com/projects/48651611/espruino-javascript-for-things)
+* [Espruino.com](http://www.espruino.com/)
+* [Espruino - Tutorials](http://www.espruino.com/Tutorials)
+* [Espruino - YouTube](http://www.youtube.com/user/Espruino)
+* [Gordon Williams (Espruino) on Twitter](https://twitter.com/Espruino)
+* [Gordon Williams (gfwilliams) on GitHub](https://github.com/gfwilliams)
+* [gfwilliams/EspruinoSerialTerminal](https://github.com/gfwilliams/EspruinoSerialTerminal)
