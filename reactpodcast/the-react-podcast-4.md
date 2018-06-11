@@ -1,0 +1,2 @@
+- [Babel](http://babeljs.io/) is a JavaScript compiler
+- [Support the development of Babel](https://www.patreon.com/henryzhu) on Henry's Patreon page
