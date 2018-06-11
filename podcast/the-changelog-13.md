@@ -1,0 +1,20 @@
+
+- [Real Time Congress](http://realtimecongress.org) - iPhone app for keeping tabs on Congress, built with [Appcelerator Titanium](http://thechangelog.com/post/334287138/episode-0-0-8-marshall-culpepper-from-appcelerator-titan)
+- [Anthill](http://github.com/sunlightlabs/anthill) - Django-powered community website project that runs [SunlightLabs.com](http://sunlightlabs.com)
+- [MediaSync](http://github.com/sunlightlabs/django-mediasync) - Django Toolkit to simplify the static media development and deployment.
+- [Sunlight Labs API](http://services.sunlightlabs.com/api/) - Congressional data served up for your next mashup.
+- [Underscore.js](http://thechangelog.com/post/255049350/underscore-js-a-bowtie-for-jquerys-tux) - The tie for jQuery’s tux
+- [Open Government Initiative](http://www.whitehouse.gov/open) - Every .gov web site now has to outline their transparency efforts
+- [Apps for America](http://sunlightlabs.com/contests/appsforamerica/) - Build a mashup, win some $$$
+- [Great American Hackathon](http://sunlightlabs.com/hackathon09/) - Meetup and hack to improve your government
+- [Open Government book from OReilly](http://oreilly.com/catalog/9780596804367) - Collaboration, Transparency, and Participation in Practice
+- [Tweet Congress](http://tweetcongress.org) - SXSW Web Award-winning congressional Twitter directory built on Sunlight Labs API
+- [Capitol Words](http://capitolwords.org/) - Amazing site and [API](http://capitolwords.org/api/) analysis of what’s said on the floor of Congress
+- [Open Congress](http://opencongress.org) - Browse, read, discuss, and vote on legislation before Congress.
+- [Code for America](http://codeforamerica.org/) - Connecting city governments and Web 2.0 talent.
+- [Some new gadget from Apple](http://www.apple.com/ipad/)
+- [Chromium OS](http://www.chromium.org/chromium-os) - Google’s new OS discussed on [Episode 0.0.4](http://thechangelog.com/post/265143734/episode-0-0-4-chrome-os-thor-and-roar)
+- [SauceBrush](http://bitbucket.org/sunlightlabs/saucebrush/) - an attempt to build a python ETL library that doesn’t suck
+- [Homebrew](http://github.com/mxcl/homebrew) - Package management for Mac as discussed on [Episode 0.1.2](http://thechangelog.com/post/369304801/episode-0-1-2-gordon-is-such-a-showoff)
+- [Transparency Camp](http://transparencycamp.org/) - THE unconference for government representatives, technologists, journalists, developers, NGOs, wonks and activists
+- [Los Angeles Ruby Conf](http://www.larubyconf.com/) - See Luigi and others speak Ruby in beautiful downtown Burbank
