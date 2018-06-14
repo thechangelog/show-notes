@@ -1,0 +1,30 @@
+{
+  "projectName": "show-notes",
+  "projectOwner": "thechangelog",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jerodsanto",
+      "name": "Jerod Santo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8212?v=4",
+      "profile": "https://jerodsanto.net",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "joebew42",
+      "name": "JoeBew42",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1238549?v=4",
+      "profile": "https://twitch.tv/joebew42",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
