@@ -47,7 +47,7 @@ Parsed and html-ized versions of these show notes live on [Changelog.com](https:
 
 For example, [the episode that lives at](https://changelog.com/rfc/13): `https://changelog.com/rfc/13`
 
-Has [its show notes in this repo at](https://github.com/thechangelog/show-notes/rfc/request-for-commits-13.md): `rfc/request-for-commits-13.md`
+Has [its show notes in this repo at](https://github.com/thechangelog/show-notes/blob/master/rfc/request-for-commits-13.md): `rfc/request-for-commits-13.md`
 
 ### Text formatting
 
