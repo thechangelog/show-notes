@@ -1,0 +1,8 @@
+- [2018 Node.js User Survey Report (web)](https://nodejs.org/en/user-survey-report/)
+- [2018 Node.js User Survey Report (pdf)](https://nodejs.org/en/user-survey-report/2018-nodejs-user-survey-report.pdf)
+- [Third Annual Node.js User Survey Data Now Available](https://medium.com/@nodejs/third-annual-node-js-user-survey-data-now-available-6cb18d48c532)
+- [2018 Node.js User Survey Report Shows Continued Rapid Growth](https://www.infoq.com/news/2018/05/node-user-survey-rapid-growth)
+- [Node by Numbers 2017 — NodeSource](https://nodesource.com/node-by-numbers)
+- [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+- [ry/deno: A secure TypeScript runtime on V8](https://github.com/ry/deno)
+- [Spotlight #14: Our reactions to Microsoft buying GitHub](https://changelog.com/spotlight/14)
