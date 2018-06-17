@@ -1,0 +1,6 @@
+- [My new role at Open Collective!](https://medium.com/open-collective/my-new-role-at-open-collective-3bbad22f1715)
+- [Team update](https://medium.com/open-collective/team-update-19749b964e39)
+- [The Changelog #234: Open Collective and Funding Open Source with Pia Mancini](https://changelog.com/podcast/234)
+- [Sustain OSS](https://sustainoss.org/)
+- [.NET Foundation](https://dotnetfoundation.org/)
+- [GatsbyJS raised a $3.8M seed round and is now a startup](https://changelog.com/news/gatsbyjs-raised-a-38m-seed-round-and-is-now-a-startup-j4NW)
