@@ -3,4 +3,3 @@
 - [The Changelog #34: Mongrel2 and High Performance Web Sites with Zed Shaw](https://changelog.com/podcast/34)
 - [Learn Code the Hard Way](https://learncodethehardway.org/)
 - [Embrace, extend, and extinguish - Wikipedia](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
-- [Never gonna](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
