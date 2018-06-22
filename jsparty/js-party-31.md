@@ -1,0 +1,5 @@
+- [GraphQL | A query language for your API](https://graphql.org/)
+- [👋 Hello, GitHub | @natfriedman](https://natfriedman.github.io/hello/)
+- [JavaScript Jabber Archive | Devchat.tv](https://devchat.tv/js-jabber)
+- [Johnny-Five: The JavaScript Robotics & IoT Platform](http://johnny-five.io/)
+- [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
