@@ -17,8 +17,8 @@ The repository of [Changelog](https://changelog.com) episode show notes in Markd
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars0.githubusercontent.com/u/8212?v=4" width="100px;"/><br /><sub><b>Jerod Santo</b></sub>](https://jerodsanto.net)<br />[💻](https://github.com/thechangelog/show-notes/commits?author=jerodsanto "Code") [📖](https://github.com/thechangelog/show-notes/commits?author=jerodsanto "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/1238549?v=4" width="100px;"/><br /><sub><b>JoeBew42</b></sub>](https://twitch.tv/joebew42)<br />[💻](https://github.com/thechangelog/show-notes/commits?author=joebew42 "Code") |
-| :---: | :---: |
+| [<img src="https://avatars0.githubusercontent.com/u/8212?v=4" width="100px;"/><br /><sub><b>Jerod Santo</b></sub>](https://jerodsanto.net)<br />[💻](https://github.com/thechangelog/show-notes/commits?author=jerodsanto "Code") [📖](https://github.com/thechangelog/show-notes/commits?author=jerodsanto "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/1238549?v=4" width="100px;"/><br /><sub><b>JoeBew42</b></sub>](https://twitch.tv/joebew42)<br />[💻](https://github.com/thechangelog/show-notes/commits?author=joebew42 "Code") | [<img src="https://avatars3.githubusercontent.com/u/378665?v=4" width="100px;"/><br /><sub><b>Cody Peterson</b></sub>](http://humanshapes.co)<br />[📖](https://github.com/thechangelog/show-notes/commits?author=codyjames "Documentation") |
+| :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
