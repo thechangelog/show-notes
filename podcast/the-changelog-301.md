@@ -1,3 +1,4 @@
 - [IronPython](http://ironpython.net/)
 - [Python Visual Studio](https://www.visualstudio.com/vs/features/python/)
 - [Black – the uncompromising Python code formatter](https://github.com/ambv/black)
+- [Pylint](https://www.pylint.org/)
