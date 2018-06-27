@@ -1,0 +1,4 @@
+- [Kurt's author profile on Ars](https://arstechnica.com/author/kurt/)
+- [fly.io](https://fly.io) 
+- [fly on GitHub](https://github.com/superfly/fly)
+- [flygit is like rawgit on fly](https://github.com/superfly/flygit)
