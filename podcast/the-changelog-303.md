@@ -2,3 +2,5 @@
 - [fly.io](https://fly.io) 
 - [fly on GitHub](https://github.com/superfly/fly)
 - [flygit is like rawgit on fly](https://github.com/superfly/flygit)
+- [JS Party #26 – 🎊 TS Party! 🎊](https://changelog.com/jsparty/26)
+- [JS Party #29 – Node's survey, Ry's regrets, Microsoft's GitHub](https://changelog.com/jsparty/29)
