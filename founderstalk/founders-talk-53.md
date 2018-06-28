@@ -1,0 +1,5 @@
+- [The Web 2.0 Show #63: Twilio - Telephony in the Cloud](http://web20show.com/92/1975-episode-63-twilio-telephony-in-the-cloud)
+- [Mattermark to shut down after selling to FullContact](https://techcrunch.com/2017/12/21/mattermark-to-shut-down-after-selling-to-full-contact/)
+- [Mattermark wasn’t a pivot](http://www.daniellemorrill.com/2014/02/mattermark-wasnt-a-pivot/)
+- [Book: Who Moved My Cheese](https://www.amazon.com/Who-Moved-My-Cheese-Mazing/dp/0091816971)
+- We talked through [this Twitter thread](https://twitter.com/ryan_caldbeck/status/1000757134403846144) from [Ryan Caldbeck](https://twitter.com/ryan_caldbeck)
