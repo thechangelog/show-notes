@@ -1,0 +1,2 @@
+- [Assessing a mobile-based deep learning model for plant disease surveillance](https://arxiv.org/abs/1805.08692)
+- [Penn State-developed plant-disease app recognized by Google](https://news.psu.edu/story/513236/2018/04/02/research/penn-state-developed-plant-disease-app-recognized-google)
