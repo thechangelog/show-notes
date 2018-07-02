@@ -1,0 +1,4 @@
+- [Symbolic artificial intelligence](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence)
+- [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [NVIDIA’s GPU Technology Conference (GTC)](https://www.nvidia.com/en-us/gtc/) - the premier AI and deep learning event from NVIDIA.
