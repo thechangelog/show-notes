@@ -1,0 +1,1 @@
+If you'd like to suggest someone for the show, [please get in touch](https://changelog.com/contact).
