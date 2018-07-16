@@ -1,0 +1,2 @@
+- [Google AI Blog: Open Sourcing the Hunt for Exoplanets](https://ai.googleblog.com/2018/03/open-sourcing-hunt-for-exoplanets.html)
+- [Artificial Intelligence, NASA Data Used to Discover Exoplanet | NASA](https://www.nasa.gov/press-release/artificial-intelligence-nasa-data-used-to-discover-eighth-planet-circling-distant-star)
