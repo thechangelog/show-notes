@@ -1,0 +1,8 @@
+- [ACLU calls for a moratorium on government use of facial recognition technologies – TechCrunch](https://techcrunch.com/2018/07/13/aclu-calls-for-a-moratorium-on-government-use-of-facial-recognition-technologies/)
+- [Doing good data science - O’Reilly Media](https://www.oreilly.com/ideas/doing-good-data-science)
+- [An Overview of National AI Strategies – Politics + AI – Medium](https://medium.com/politics-ai/an-overview-of-national-ai-strategies-2a70ec6edfd)
+- [Meet CIMON, the 1st Robot with Artificial Intelligence to Fly in Space](https://www.space.com/41041-artificial-intelligence-cimon-space-exploration.html)
+- [AI at Google: our principles](https://blog.google/technology/ai/ai-principles/)
+- [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
+- [Machine Learning Crash Course   |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
+- [Best Laptop for Machine Learning - YouTube](https://www.youtube.com/watch?v=dtFZrFKMiPI)
