@@ -21,20 +21,6 @@
 
 ---
 
-### Interesting Go Projects and News
-
-
-[Go JOSE](https://github.com/square/go-jose)
-
-[Go HTTP client for Ponzu](https://github.com/ponzu-cms/go-client)
-
-[wxGo](https://github.com/dontpanic92/wxGo)
-
-[ssh2docker](https://github.com/moul/ssh2docker)
-
-
-
----
 
 ### Free Software Friday!
 

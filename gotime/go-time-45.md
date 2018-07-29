@@ -12,10 +12,6 @@
 
 [strong bad techno](https://www.youtube.com/watch?v=O4gqsuww6lw)
 
-[Sepultura - Arise (full album)](https://www.youtube.com/watch?v=ozB9XKhg_tk)
-
 [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 [@garyvee: the last scene of 8 Mile](https://twitter.com/d12/status/857417347224809473)
-
-[Times by Sander Owen](https://www.youtube.com/watch?v=ayJ_T2nYUtk)
