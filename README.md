@@ -9,6 +9,7 @@ The repository of [Changelog](https://changelog.com) episode show notes in Markd
   - [Directory structure and file names](#directory-structure-and-file-names)
   - [Text Formatting](#text-formatting)
   - [Timestamps](#timestamps)
+- [Guidelines](#guidelines)
 - [Conduct](#conduct)
 - [License & Copyright](#license-&-copyright)
 
@@ -52,6 +53,15 @@ Has [its show notes in this repo at](https://github.com/thechangelog/show-notes/
 ### Text formatting
 
 Our show notes are authored good ole' [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). That means you can add `*`s or `_`s for emphasis, `[links](https://changelog.com)` to referenced people/projects, etc. We _especially_ encourage addition of links. These make the notes much more useful to readers and provide valuable SEO juice to the link-worthy things we discuss on our shows.
+
+## Guidelines
+
+* Frequently our show notes are prepared prior to recording
+and sometimes prepared links don't make it into the show for one or another reason.
+If you happen to notice one of these zombie links our policy is to remove them.
+
+* Occasionally links for streaming content stop working because of media copyright issues.
+We also want to get rid of those.
 
 ## Conduct
 
