@@ -1,0 +1,4 @@
+- [GIRL STEM STARS](http://www.girlstemstars.org/)
+- [#VetsWhoCode](https://vetswhocode.io/)
+- [Mozilla Science](https://science.mozilla.org/)
+- [The Journal of Open Source Software](https://joss.theoj.org/)
