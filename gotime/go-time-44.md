@@ -13,9 +13,7 @@
 
 ### Interesting Go Projects and News
 
-- [Kallax - typesafe ORM](https://github.com/src-d/go-kallax)
-- [Kallax: Why we built yet another ORM for Go · source{d} blog](https://blog.sourced.tech/post/kallax/)
-- Shout out to Dave Brophy *(author of [jennifer](https://github.com/dave/jennifer) and several other cool Go tools)* for sending us a shout out from the French Alps!
+- Shoutout to Dave Brophy *(author of [jennifer](https://github.com/dave/jennifer) and several other cool Go tools)* for sending us a shoutout from the French Alps!
 - [periph](https://periph.io/)
 - [myitcv.io/react - now with more code gen and preact support too!](https://github.com/myitcv/react) (From Paul Jolly)
 - [Reddit - Is Go 2 actually happening? If so, when will development start?](https://www.reddit.com/r/golang/comments/65rqi6/is_go_2_actually_happening_if_so_when_will/)
@@ -24,7 +22,7 @@
 
 ### Free Software Friday!
 
-Each week on the show we give a shout out to an open source project or community (or maintainer) that's made an impact in our day to day developer lives.
+Each week on the show we give a shoutout to an open source project or community (or maintainer) that's made an impact in our day to day developer lives.
 
 - Carlisia - [changelog.com](https://github.com/thechangelog/changelog.com)
 - Brian - [Buffalo](http://gobuffalo.io/docs/getting-started)
