@@ -1,0 +1,7 @@
+- [dev.to is now open source](https://dev.to/ben/devto-is-now-open-source-5n1)
+- [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to)
+- [dev.to roadmap](https://github.com/thepracticaldev/dev.to/projects/1)
+- [O RLY Cover Generator](https://dev.to/rly)
+- [Saron](https://twitter.com/saronyitbarek) from [Codenewbie](https://www.codenewbie.org/)
+- [Making dev.to insanely fast](https://dev.to/ben/making-devto-insanely-fast)
+- [RailsConf talk on making dev.to fast](https://www.youtube.com/watch?v=Afy7H04X9Us)
