@@ -2,6 +2,7 @@
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) -  RESTful, Distributed Search & Analytics
 - [Elasticsearch on GitHub](https://github.com/elastic/elasticsearch)
 - [Doubling down on open](https://www.elastic.co/blog/doubling-down-on-open)
+- [Elastic License](https://github.com/elastic/elasticsearch/blob/0d8aa7527e242fbda9d84867ab8bc955758eebce/licenses/ELASTIC-LICENSE.txt)
 - [We’re opening X-Pack](https://www.elastic.co/products/x-pack/open)
 - [Doubling Down on Open: Shay Banon on Opening the Code of X-Pack](https://www.youtube.com/watch?v=gR3OhOnCMf8)
 - [Go Time #48: Restic and backups (done right)](https://changelog.com/gotime/48)
