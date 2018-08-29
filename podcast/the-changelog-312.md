@@ -1,0 +1,3 @@
+- [Segment says goodbye microservices](https://changelog.com/news/segment-says-goodbye-microservices-nnwW)
+- [Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog](https://segment.com/blog/goodbye-microservices/)
+- [Centrifuge: a reliable system for delivering billions of events per day · Segment Blog](https://segment.com/blog/introducing-centrifuge/)
