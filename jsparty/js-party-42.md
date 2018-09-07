@@ -1,0 +1,2 @@
+- [Beaker Browser](https://beakerbrowser.com/)
+- [Dat Project](https://datproject.org/)
