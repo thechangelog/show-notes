@@ -1,0 +1,9 @@
+- [Cloud Native Computing Foundation](https://www.cncf.io/)
+- [CNCF Survey: Use of Cloud Native Technologies in Production Has Grown Over 200%](https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/)
+- [Cloud Native Computing Foundation Receives $9 Million Cloud Credit Grant from Google Cloud to Fund Kubernetes Development, Empower Community](https://www.cncf.io/announcement/2018/08/29/cncf-receives-9-million-cloud-credit-grant-from-google/)
+- [Cloud Native Computing Foundation Welcomes 38 New Members at Open Source Summit North America](https://www.cncf.io/announcement/2018/08/29/cncf-welcomes-38-new-members-at-open-source-summit-north-america/)
+- [Software Conformance - Cloud Native Computing Foundation](https://www.cncf.io/certification/software-conformance/)
+- [GitHub - cncf/landscape](https://github.com/cncf/landscape) - Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+- [K8s DevStats](https://k8s.devstats.cncf.io/d/12/dashboards?refresh=15m&orgId=1)
+- [KubeCon + CloudNativeCon North America 2018](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
