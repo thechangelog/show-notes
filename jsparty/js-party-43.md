@@ -7,7 +7,7 @@ Michael Chan (Chantastic)
 
 Juan and Julián
 
-* [JSConf Columbia](https://jsconf.co/)
+* [JSConf Colombia](https://jsconf.co/)
 * ['The Butterfly.js Effect' slides](https://speakerdeck.com/buritica/the-butterfly-dot-js-effect)
 * [Yayquery](http://yayquery.com/)
 * [Lending Privilege](https://anjuansimmons.com/talks/lending-privilege/)
