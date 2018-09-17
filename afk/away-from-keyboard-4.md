@@ -1,0 +1,5 @@
+- [Yonder](https://www.yonder.io/)
+- [Lullabot](https://www.lullabot.com/)
+- [123 Astronaut](https://123astronaut.com/)
+
+We'll be taking a break, and will be back on August 29th. If you or someone you know would make a great guest on the show, send an email to <tim+afk@changelog.com>.
