@@ -1,0 +1,6 @@
+- [ActivityPub](https://www.w3.org/TR/activitypub/)
+- [tootsuite/documentation](https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Development-guide.md)
+- [Giving social networking back to you - The Mastodon Project](https://joinmastodon.org/)
+- [Gargron is creating Mastodon | Patreon](https://www.patreon.com/mastodon)
+- [documentation/Development-guide.md at master · tootsuite/documentation](https://github.com/tootsuite/documentation/blob/master/Running-Mastodon/Development-guide.md)
+- [Masto.host - Fully Managed Mastodon Hosting](https://masto.host/)
