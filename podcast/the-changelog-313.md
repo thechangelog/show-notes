@@ -1,0 +1,4 @@
+- [Ballerina.io](https://ballerina.io/)
+- [Ballerina's philosophy](https://ballerina.io/philosophy/)
+- [Ballerina Central](https://central.ballerina.io)
+- [Coverage on The New Stack](https://thenewstack.io/ballerina-a-programming-language-for-cloud-native-computing/)
