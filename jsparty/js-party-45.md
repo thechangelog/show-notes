@@ -1,0 +1,5 @@
+- [CSS dismissal is about exclusion, not technology](https://zendev.com/2018/09/11/css-dismissal-is-about-exclusion-not-technology.html)
+- [9 CSS in JS Libraries You Should Know in 2018 – Bits and Pieces](https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9b)
+- [CSS Blocks](https://css-blocks.com/)
+- [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of — Smashing Magazine](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
+- [Is Houdini Ready Yet?](https://ishoudinireadyyet.com/)
