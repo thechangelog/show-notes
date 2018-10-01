@@ -1,0 +1,6 @@
+- [Woj's talk at O'Reilly AI](https://conferences.oreilly.com/artificial-intelligence/ai-ca/public/schedule/detail/71237)
+- [OpenAI](https://openai.com/)
+- [OpenAI blog](https://blog.openai.com/)
+- [The Dota playing team of AIs from OpenAI](https://blog.openai.com/openai-five/)
+- [Microsoft Tay Chatbot](https://en.wikipedia.org/wiki/Tay_(bot))
+- [Reinforcement learning book](https://mitpress.mit.edu/books/reinforcement-learning)
