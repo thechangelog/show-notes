@@ -1,8 +1,8 @@
-* [Changelog Community](https://changelog.com/membership)
-* [Changelog Community Benefits](https://changelog.com/benefits)
-* [Changelog Store](https://changelog.com/store)
-* [Changelog Weekly](https://changelog.com/weekly) - Our editorialized take on what happened this week in open source and software development
-* [Changelog Weekly Archive](https://changelog.com/weekly/archive)
+* [Changelog Community](https://changelog.com/membership) -Slack everyday with friends, Join the community!!
+* [Changelog Community Benefits](https://changelog.com/benefits) - Join today to get access to the goods! It's FREE!!
+* [Changelog Store](https://changelog.com/store) - Store!!
+* [Changelog Weekly](https://changelog.com/weekly) - Our editorialized take on what happened this week in open source and software development.
+* [Changelog Weekly Archive](https://changelog.com/weekly/archive) - editorialized take on this week in open source and software development. 
 * [Changelog Weekly - Issue #29](http://email.thechangelog.com/t/t-F0776DBF4D48199E)
 * [Changelog Weekly - Issue #30](http://email.thechangelog.com/t/t-8F9B0AF3C4E0DBF7)
 * [Changelog Weekly - Issue #31](http://lists.thechangelog.com/t/t-47F04C6633D04D09)
