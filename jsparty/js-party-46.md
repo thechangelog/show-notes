@@ -1,0 +1,2 @@
+- [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://rollbar.com/blog/top-10-javascript-errors/)
+- [w0rp/ale: Asynchronous linting/fixing for Vim and Language Server Protocol (LSP) integration](https://github.com/w0rp/ale)
