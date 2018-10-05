@@ -5,7 +5,7 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "commit": true,
   "contributors": [
     {
       "login": "jerodsanto",
@@ -40,6 +40,15 @@
       "name": "Horst Rutter",
       "avatar_url": "https://avatars0.githubusercontent.com/u/11322155?v=4",
       "profile": "https://keybase.io/hhrutter",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sanyuj1997",
+      "name": "Sanyuj Gupta",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30529399?v=4",
+      "profile": "https://github.com/sanyuj1997",
       "contributions": [
         "doc"
       ]
