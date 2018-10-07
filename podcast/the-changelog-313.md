@@ -1,4 +1,4 @@
-- [Ballerina.io](https://ballerina.io/)
-- [Ballerina's philosophy](https://ballerina.io/philosophy/)
-- [Ballerina Central](https://central.ballerina.io)
-- [Coverage on The New Stack](https://thenewstack.io/ballerina-a-programming-language-for-cloud-native-computing/)
+- [Ballerina.io](https://ballerina.io/) - Landing page of Ballerina.io : Cloud Native Programming Language
+- [Ballerina's philosophy](https://ballerina.io/philosophy/) - Ballerina.io design philosophy which incorporates fundamental concepts of distributed system integration into the language 
+- [Ballerina Central](https://central.ballerina.io) - Ballerina.io Central code repository of reusable code packages
+- [Coverage on The New Stack](https://thenewstack.io/ballerina-a-programming-language-for-cloud-native-computing/) - Article on Ballerina in The New Stack
