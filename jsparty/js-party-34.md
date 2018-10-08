@@ -1,0 +1,5 @@
+-   [Electron memory usage compared to other cross-platform frameworks | rory is ok](http://roryok.com/blog/2017/08/electron-memory-usage-compared-to-other-cross-platform-frameworks/)
+-   [Put your Electron app on a diet with Electrino -- DailyJS -- Medium](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297)
+-   [How To Make Your Electron App Sexy - DC](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
+-   [Overall speed of electron based products - Issue #5672 - electron/electron](https://github.com/electron/electron/issues/5672#issuecomment-222053637)
+-   [The npm Blog --- JavaScript Usage by Industry](https://blog.npmjs.org/post/175311966445/javascript-usage-by-industry)

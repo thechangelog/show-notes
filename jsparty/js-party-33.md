@@ -1,0 +1,9 @@
+-   Brendan Eich's 2010 talk: [Proxies are Awesome!](https://www.youtube.com/watch?v=sClk6aB_CPk)
+-   [ES6 in Action: How To Use Proxies](https://www.sitepoint.com/es6-proxies/)
+-   [Proxy object on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+-   [Bit Share and build with code components](https://bitsrc.io/)
+-   [Bit demo video](https://www.youtube.com/watch?v=P4Mk_hqR8dU)
+-   [Ping us](https://github.com/thechangelog/ping) with show ideas and feedback
+-   Nick's shout outs: [nvim-typescript](https://github.com/mhartington/nvim-typescript), [pettier](https://github.com/coleturner/pettier), [CodeSandbox](https://codesandbox.io/)
+-   Kevin's shout outs: [Tracy Lee](https://twitter.com/ladyleet), [Jen Looper](https://twitter.com/jenlooper), [ramda](https://github.com/ramda/ramda)
+-   Jerod's shout outs: [Postico](https://eggerapps.at/postico/), [Tmuxinator](https://github.com/tmuxinator/tmuxinator)
