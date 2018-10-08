@@ -1,4 +1,4 @@
-_The Future of Node_ Spotlight series was produced in partnership with [The Linux Foundation](https://www.linuxfoundation.org/), the [Node.js Foundation](https://nodejs.org/en/foundation/), and sponsored by IBM and StrongLoop. It was recorded at [Node Interactive 2016](http://events.linuxfoundation.org/events/node-interactive) in Austin, TX.
+_The Future of Node_ Spotlight series was produced in partnership with [The Linux Foundation](https://www.linuxfoundation.org/), the [Node.js Foundation](https://nodejs.org/en/foundation/), and sponsored by [IBM](https://www.ibm.com/) and [StrongLoop](https://strongloop.com/). It was recorded at [Node Interactive 2016](http://events.linuxfoundation.org/events/node-interactive) in Austin, TX.
 
 - [The Changelog #139: The Rise of io.js with Mikeal Rogers](https://changelog.com/podcast/139)
 - [The Changelog #155: The Future of Node.js with Scott Hammond](https://changelog.com/podcast/155)
