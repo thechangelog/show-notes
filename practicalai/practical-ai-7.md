@@ -1,0 +1,3 @@
+- [Lander Analytics](https://www.landeranalytics.com/)
+- [New York R Conference](https://www.rstats.nyc/)
+- [New York Open Statistical Programming Meetup](https://nyhackr.org/)
