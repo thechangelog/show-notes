@@ -1,0 +1,6 @@
+- [Matterport R-CNN](https://github.com/matterport/Mask_RCNN)
+- [Mask R-CNN paper](https://arxiv.org/abs/1703.06870)
+- [COCO dataset](http://cocodataset.org/#home)
+- [Stanford CNN course](http://cs231n.stanford.edu/)
+- [Stanford Deep Learning course](http://cs230.stanford.edu/)
+- [Facebook's Detectron](https://github.com/facebookresearch/Detectron)
