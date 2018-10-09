@@ -1,0 +1,2 @@
+- [Introducing the world’s first data management platform for data science. - Immuta](https://www.immuta.com/)
+- [General Data Protection Regulation - Wikipedia](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
