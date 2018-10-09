@@ -1,0 +1,6 @@
+- [Jeff's Twitter Thread](https://twitter.com/jefflembeck/status/1017282384037752832)
+- Nick is excited about [TypeScript 3.0](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/)
+- Chris is excited about [mkdirp PR in node by Ben Coe](https://github.com/nodejs/node/pull/21875)
+- Mark Reeder is excited about [Fusion.js](https://eng.uber.com/fusionjs/)
+- Jerod is excited about [podcast subscriber counts](https://changelog.com/posts/an-open-letter-to-all-podcast-apps-except-overcast/)
+- Jeff is excited about [Discourse](https://www.discourse.org)
