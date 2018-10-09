@@ -1,3 +1,7 @@
 - [Intel AI Academy](https://software.intel.com/en-us/ai-academy)
 - [Intel DevCloud](https://software.intel.com/en-us/ai-academy/devcloud)
 - [Movidius Neural Compute Stick](https://developer.movidius.com/)
+- [Cloud AutoML](https://cloud.google.com/automl/)
+- [Google's AutoML: Cutting Through the Hype](http://www.fast.ai/2018/07/23/auto-ml-3/)
+- [MLPerf](https://mlperf.org/)
+- [OpenVino, OpenCV SDK](https://software.intel.com/en-us/openvino-toolkit)
