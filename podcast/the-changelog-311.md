@@ -1,0 +1,5 @@
+- [Istio / About Istio](https://istio.io/about/)
+- [The Istio service mesh hits version 1.0 – TechCrunch](https://techcrunch.com/2018/07/31/the-open-source-istio-service-mesh-for-microservices-hits-version-1-0/)
+- [The History of the Service Mesh - The New Stack](https://thenewstack.io/history-service-mesh/)
+- [GitHub - cncf/landscape: Cloud Native Landscape](https://github.com/cncf/landscape)
+- [Envoy Proxy](https://www.envoyproxy.io/)
