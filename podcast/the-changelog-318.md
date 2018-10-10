@@ -1,0 +1,2 @@
+- [Setting expectations for open source participation](https://snarky.ca/setting-expectations-for-open-source-participation/)
+- [Benjamin Bertrand on Twitter: "Very good talk from @brettsky about interaction in open source: https://t.co/yJYfjTYPzZ I’m sure that would make an excellent @changelog episode!"](https://twitter.com/beeenje/status/1010049425547374592)
