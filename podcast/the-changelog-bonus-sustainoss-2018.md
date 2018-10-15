@@ -1,0 +1,5 @@
+- [Sustain Summit 2018 | A one-day event for Open Source sustainers](https://sustainoss.org/)
+- [Sustain 2017 Report](https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf)
+- [The Changelog #237: Reproducible Builds and Secure Software with Chris Lamb](https://changelog.com/podcast/237)
+ - [The Changelog BONUS - Sustain Open Source Software with Justin Dorfman](https://changelog.com/podcast/bonus-sustainoss)
+- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure / Ford Foundation](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)
