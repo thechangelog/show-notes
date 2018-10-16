@@ -1,0 +1,6 @@
+- [The Changelog #281](https://changelog.com/podcast/218) was Elm's first appearance
+- [NoRedInk](https://www.noredink.com) still employs Richard and Evan
+- [The Python Paradox](http://www.paulgraham.com/pypar.html) by Paul Graham
+- [Small Assets without the Headache](http://elm-lang.org/blog/small-assets-without-the-headache) in Elm 0.19
+- [Elm in Action](https://www.manning.com/books/elm-in-action)
+- [Elm courses on Frontend Masters](https://frontendmasters.com/courses/elm/)
