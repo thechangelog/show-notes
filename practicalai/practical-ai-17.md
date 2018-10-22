@@ -1,0 +1,4 @@
+- [Compas recidivism model](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+- [HireVue](https://www.hirevue.com/)
+- [IBM fairness 360](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
+- [Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
