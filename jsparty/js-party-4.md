@@ -1,6 +1,6 @@
 Prep notes for this show: [https://github.com/thechangelog/jsparty/blob/master/shows/2017-03-17.md](https://github.com/thechangelog/jsparty/blob/master/shows/2017-03-17.md)
 
-If you haven't yet, join the community and Slack with us in realtime in the #jsparty channel during the show. Head to [https://changelog.com/community](https://changelog.com/community)
+If you haven't yet, join the community and Slack with us in real time in the #jsparty channel during the show. Head to [https://changelog.com/community](https://changelog.com/community)
 
 ---
 
