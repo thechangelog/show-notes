@@ -16,7 +16,7 @@ Featured Project — [AR.js](https://github.com/jeromeetienne/AR.js).
 - [The PCI Security Standards Council](https://www.pcisecuritystandards.org/) - a global forum for the ongoing development, enhancement, storage, dissemination and implementation of security standards for account data protection.
 - [Node.js v7.6 gets async/await](https://codeforgeek.com/2017/02/asyncawait-function-officially-shipped-nodejs-7-6-0/)
 - [Experimenting with async/await](https://blog.risingstack.com/async-await-node-js-7-nightly/)
-- [co](https://www.npmjs.com/package/co) - Generator based control flow goodness for nodejs and the browser, using promises, letting you write non-blocking code in a nice-ish way.
+- [co](https://www.npmjs.com/package/co) - Generator based control flow goodness for nodejs and the browser, using promises, letting you write non-blocking code in a nicer way.
 - [AR.js](https://github.com/jeromeetienne/AR.js)
 
 ---
