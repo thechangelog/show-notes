@@ -1,0 +1,3 @@
+- [The Changelog #312: Segment's transition back to a monorepo with Alexandra Noonan and Calvin French-Owen](https://changelog.com/podcast/312)
+- ["The strangler pattern”](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler)
+- [ServerlessConf](http://serverlessconf.io/)
