@@ -14,4 +14,4 @@
 *   [Blizzard](http://us.blizzard.com/en-us/) uses an 8-node Redis install in serving avatars for [WoW](http://us.blizzard.com/en-us/games/cataclysm/index.html)
 *   [Justin Campbell](http://twitter.com/JustinCampbell) asks [will VMWare feature Redis in any upcoming projects?](http://twitter.com/JustinCampbell/status/24847944758861824)
 *   [Ezra Zygmuntowicz](http://twitter.com/#!/ezmobius) and [GitHub](http://github.com) were among the first “few brave users”
-*   Salvatore noticed a dip in adoption after a few months, but he trusted his gut and stuck with it
+*   After a few months Salvatore noticed a dip in adoption , but he trusted his gut and stuck with it
