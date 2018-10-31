@@ -4,6 +4,6 @@ Heather has spent over twenty years on legal matters related to open source, and
 
 - [Open Source for Business: A Practical Guide to Open Source Software Licensing](http://www.amazon.com/exec/obidos/ASIN/1511617772/chlg-20)
 - [Technology Licensing: A Practitioner's Guide](http://shop.americanbar.org/eBus/Store/ProductDetails.aspx?productId=215440)
--  [Checkout these useful links](https://heathermeeker.com/links/) on Heather's site on licenses and the legal side of open source
+-  [Checkout these useful links](https://heathermeeker.com/links/) on Heather's site about licenses and the legal side of open source
 - [O'Melveny & Myers](https://www.omm.com/)
 - [Heather Meekers on O'Melveny & Myers](https://www.omm.com/professionals/heather-j-meeker/)
