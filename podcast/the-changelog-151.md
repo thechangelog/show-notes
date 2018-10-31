@@ -1,4 +1,4 @@
-Steve and Yehuda are core team members of Rust.
+Steve and Yehuda are the core team members of Rust.
 
 * [Steve Klabnik](http://www.steveklabnik.com/)
 * [Yehuda Katz](http://yehudakatz.com/)
