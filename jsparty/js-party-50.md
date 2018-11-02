@@ -1,0 +1,12 @@
+- [@kahliltweets](https://twitter.com/kahliltweets/status/1055353449129406464)  on Twitter
+- Safia loves [the React Styleguidist](https://react-styleguidist.js.org/)
+- Read about Literate Programming [on Wikipedia](https://en.wikipedia.org/wiki/Literate_programming)
+- Jeremy Ashkenas' [Literate CoffeeScript](https://coffeescript.org/#literate)
+- [Docco](http://ashkenas.com/docco/) is a tool for literate programming
+- [Stripe's API docs](https://stripe.com/docs/api) are 👌
+- So are [Twilio's](https://www.twilio.com/docs/)
+- Nick likes [Chai's docs](https://www.chaijs.com/api/assert/)
+- Jerod mentions [UmbrellaJS]((https://umbrellajs.com/documentation#home)), everyone is impressed
+- [Dash](https://kapeli.com/dash) is 💣 for macOS docs
+- Maybe [Velocity](http://velocity.silverlakesoftware.com/) is just as cool for Windows?
+- In terms of guides, check out [Ruby on Rails](http://guides.rubyonrails.org/) and GitHub's [Open Source Guides](https://opensource.guide/)
