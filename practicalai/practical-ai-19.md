@@ -1,0 +1,6 @@
+- [MLConf SF](https://mlconf.com/events/mlconf-sf-2018)
+- [Grace Hopper Celebration](https://ghc.anitab.org)
+- [Galvanize](https://www.galvanize.com)
+- [Fast.ai](https://www.fast.ai)
+- [Thinkful bootcamp](https://www.thinkful.com)
+- [Magenta project](https://themagentaproject.org)
