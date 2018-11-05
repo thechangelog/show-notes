@@ -49,6 +49,6 @@ Vgo - 5 Part series by Russ Cox:
 
 ### Free Software Friday!
 
-Each week on the show we give a shout out to an open source project or community (or maintainer) that's made an impact in our day to day developer lives.
+Each week on the show, we give a shout out to an open source project or community (or maintainer) that's made an impact in our day to day developer lives.
 
 Erik - [Russ Cox](https://github.com/rsc), [Sam Boyer](https://github.com/sdboyer), and everyone trying to solve the dependency management problem (you're doing a great job!)	
