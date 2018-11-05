@@ -1,1 +1,2 @@
 - [MachineBox](https://machinebox.io/)
+- [Go Programming Blueprints: Second Edition](https://www.amazon.com/Programming-Blueprints-real-world-production-ready-cutting-edge/dp/1786468948/ref=sr_1_3?s=books&ie=UTF8&qid=1541012061&sr=1-3&keywords=go+programming+blueprints)
