@@ -20,7 +20,7 @@
 
 [Francesc - State of Go](https://talks.golang.org/2017/state-of-go-may.slide)
 
-“...people can change. And if you do it right, you get to watch it happen.” “I bled to get here. I have the scars to prove it.” 
+“...people can change. And if you do it right, you get to watch it happen.” | “I bled to get here. I have the scars to prove it.” 
 - [Kelsey Hightower’s very vulnerable keynote speech at DevOps Days Austin](https://www.youtube.com/watch?v=36S7N7OZSTI&feature=youtu.be&t=45m30s)
 
 
