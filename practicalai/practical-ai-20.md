@@ -1,0 +1,6 @@
+- [Winners of the Creative Media Awards](https://blog.mozilla.org/blog/2018/10/24/keeping-ai-accountable-with-science-fiction-documentaries-and-doodles-plus-225000/)
+- [Do not track movie](https://donottrack-doc.com/)
+- [The Science behind Cambridge Analytica](https://www.gsb.stanford.edu/insights/science-behind-cambridge-analytica-does-psychological-profiling-work)
+- [Mozilla manifesto](https://www.mozilla.org/en-US/about/manifesto/)
+- [Machine bias article from ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+- [Practical AI episode from Lindsey Zuloaga about bias](https://changelog.com/practicalai/17)
