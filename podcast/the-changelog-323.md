@@ -1,0 +1,4 @@
+- [Brave Browser](https://brave.com/)
+- [Request For Commits #11: Funding the Web with Brendan Eich](https://changelog.com/rfc/11)
+- [Tracking Protection in Firefox For Privacy and Performance](https://arxiv.org/abs/1506.04104)
+- [BAT (Basic Attention Token)](https://basicattentiontoken.org/)
