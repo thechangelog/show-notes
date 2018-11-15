@@ -8,4 +8,5 @@
 * [mruby/mruby: Lightweight Ruby](https://github.com/mruby/mruby)
 * [Larry Wall - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Larry_Wall)
 * [Alan Kay - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Alan_Kay)
+* [John McCarthy - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 * [Ruby Issue Tracking System](https://bugs.ruby-lang.org/)
