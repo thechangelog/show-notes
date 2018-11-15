@@ -1,0 +1,13 @@
+- Listen to NESTED LOOPS [on SoundCloud](https://soundcloud.com/nested-loops)
+- But seriously, you want to see these performances for yourself: [2015](https://www.youtube.com/watch?v=lJ1kY-CSpBk), [2017](https://www.youtube.com/watch?v=lCn-XCASn98&t=7s), [2018](https://www.youtube.com/watch?v=e6wrCr7bzSg)
+- [People Got Mad JavaScript](https://www.youtube.com/watch?v=lCn-XCASn98&t=7s) is the track we sampled on the show
+- Jan met Kahlil after watching [this YouTube video](https://www.youtube.com/watch?v=gxrxFKe9jQE)
+- The bits and bobs they build to pull this together are [all open source](https://github.com/nestedloops)
+- The style was inspired by [Mark Ronson's Ted Talk](https://www.youtube.com/watch?v=H3TF-hI7zKc)
+- Kahlil [wrote it all up on Medium](https://medium.com/@kahlil/we-are-nested-loops-a59189f6ff02) awhile back
+- They also did [a talk at JSConf](https://www.youtube.com/watch?v=NpKLt_YO3o8) about the technical details
+- You can support the band by [buying their merch](https://shop.spreadshirt.net/nested-loops)
+- Check out [Loop Drop](http://loopjs.com) for live electronic music performance
+- Jan suggests [Ableton](https://learningmusic.ableton.com/) for getting started making music
+- Also [Web Audio School](http://mmckegg.github.io/web-audio-school/) for making music on the web
+- Looking for some community? There's a [Web Audio Slack](https://web-audio-slackin.herokuapp.com/)
