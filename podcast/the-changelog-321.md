@@ -1,7 +1,7 @@
 - [Dries Buytaert started Drupal in 2001](https://dri.es/)
 - [PHP Nuke used to be the bee’s knees (but not really)](https://en.wikipedia.org/wiki/PHP-Nuke)
 - [2004: The scream that doomed Howard Dean](https://www.youtube.com/watch?v=l6i-gYRAwM0)
-- [Acquia employees Angie and other Drupal folks](https://www.acquia.com)
+- [Acquia employs Angie and other Drupal folks](https://www.acquia.com)
 - [DrupalCon 2019 is in Seattle April 8-12](https://events.drupal.org/seattle2019)
 - [Gabe Sullice is working on the API first initiative](https://www.drupal.org/about/strategic-initiatives/api-first)
 - [webchick | Drupal.org](https://www.drupal.org/u/webchick)
