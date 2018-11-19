@@ -1,0 +1,4 @@
+- [Intel's Movidius Group](https://www.movidius.com/)
+- [OpenVINO Toolkit](https://software.intel.com/en-us/openvino-toolkit)
+- [ngraph](https://github.com/NervanaSystems/ngraph)
+- [Uber's Michelangelo](https://eng.uber.com/michelangelo/)
