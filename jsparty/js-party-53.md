@@ -1,0 +1,3 @@
+- VisBug was [demoed live on-stage at ChromeDevSummit](https://youtu.be/zPHyxvPT0gg?t=1374)
+- It is [open source](https://github.com/GoogleChromeLabs/ProjectVisBug) on GitHub
+- You can install the Chrome Extension [right here](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc)
