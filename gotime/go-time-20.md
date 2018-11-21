@@ -11,3 +11,4 @@
 - [Special Interest Groups (SIG) and Working Groups](https://github.com/kubernetes/community/blob/master/README.md#special-interest-groups-sig-and-working-groups)
 - [CoreOS rkt](https://github.com/coreos/rkt) — a container engine for Linux designed to be composable, secure, and built on standards
 - [The Twelve-Factor App](https://12factor.net/) — a methodology for building software-as-a-service apps
+- [The Datacenter as a Computer by Urs Hölzle](https://ai.google/research/pubs/pub41606) - An Introduction to the Design of Warehouse-Scale Machines, Second Edition
