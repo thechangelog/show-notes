@@ -14,7 +14,6 @@ News/Discussion:
 - [Horizon: The first open source reinforcement learning platform for large-scale products and services](https://code.fb.com/ml-applications/horizon)
 - [Does Synthetic Data Hold The Secret To Artificial Intelligence?](https://www.7wdata.be/business-leadership/does-synthetic-data-hold-the-secret-to-artificial-intelligence)
 - [AI Experts: Moving forward with AI likely a series of small steps, not giant leaps](https://blogs.thomsonreuters.com/answerson/moving-forward-with-ai-likely-a-series-of-small-steps-not-giant-leaps)
-(Referenced by Chris during the show.)
 
 Learning resources:
 
