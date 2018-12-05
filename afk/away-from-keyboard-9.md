@@ -1,0 +1,2 @@
+- Listen to Jeremy and Paul's podcast, [Uncle Weepy's Depression Dungeon](http://www.uncleweepy.show/)
+- If you or someone you know would be a great guest for this show, send an email to <afk@changelog.com>
