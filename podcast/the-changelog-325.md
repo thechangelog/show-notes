@@ -1,9 +1,9 @@
 - [Buttercup](https://buttercup.pw/)
 - [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
-- [Key derivation function - Wikipedia](https://en.wikipedia.org/wiki/Key_derivation_function)
+- [Key derivation function](https://en.wikipedia.org/wiki/Key_derivation_function) on Wikipedia
 - [Sallar Kaboli on GitHub](https://github.com/sallar)
 - [Buttercup Roadmap](https://github.com/buttercup/roadmap/blob/master/roadmap/OVERALL.md)
-- [Why I love password managers | Changelog](https://changelog.com/news/why-i-love-password-managers-O38N)
+- [Why I love password managers](https://changelog.com/news/why-i-love-password-managers-O38N) on [Changelog News](https://changelog.com/)
 - [reproducible-builds.org](https://reproducible-builds.org/)
 - [The Changelog #237: Reproducible Builds and Secure Software with Chris Lamb](https://changelog.com/podcast/237)
 - [ownCloud - The leading OpenSource Cloud Collaboration Platform](https://owncloud.org/)
