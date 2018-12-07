@@ -4,7 +4,7 @@
 - [Acquia employs Angie and other Drupal folks](https://www.acquia.com)
 - [DrupalCon 2019 is in Seattle April 8-12](https://events.drupal.org/seattle2019)
 - [Gabe Sullice is working on the API first initiative](https://www.drupal.org/about/strategic-initiatives/api-first)
-- [webchick | Drupal.org](https://www.drupal.org/u/webchick)
+- [webchick on Drupal.org](https://www.drupal.org/u/webchick)
 - [Differences between full and provisional core committers | Drupal.org](https://www.drupal.org/core/maintainers/provisional-committers)
 - [Drupal core maintainers | Drupal.org](https://www.drupal.org/contribute/core/maintainers)
 - [Planet Drupal | Drupal.org](https://www.drupal.org/planet)
