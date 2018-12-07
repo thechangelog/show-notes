@@ -3,7 +3,7 @@
 - [Key derivation function](https://en.wikipedia.org/wiki/Key_derivation_function) on Wikipedia
 - [Sallar Kaboli on GitHub](https://github.com/sallar)
 - [Buttercup Roadmap](https://github.com/buttercup/roadmap/blob/master/roadmap/OVERALL.md)
-- [Why I love password managers](https://changelog.com/news/why-i-love-password-managers-O38N) on [Changelog News](https://changelog.com/)
+- [Why I love password managers](https://changelog.com/news/why-i-love-password-managers-O38N)
 - [reproducible-builds.org](https://reproducible-builds.org/)
 - [The Changelog #237: Reproducible Builds and Secure Software with Chris Lamb](https://changelog.com/podcast/237)
 - [ownCloud - The leading OpenSource Cloud Collaboration Platform](https://owncloud.org/)
