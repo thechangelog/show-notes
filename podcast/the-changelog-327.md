@@ -1,0 +1,9 @@
+- Andrew was a guest on [The Changelog #188](https://changelog.com/podcast/188) and [Request For Commits #3](https://changelog.com/rfc/3)
+- The two met at a [24 Pull Requests](https://24pullrequests.com) event
+- They've been working on [Libraries.io](https://libraries.io) for the last couple of years
+- When it comes to clipboard managers, Andrew recommends [Alfred](https://www.alfredapp.com)
+- For all things Octobox, start [right here](https://octobox.io)
+- Or jump straight to [its GitHub repo](https://github.com/octobox/octobox)
+- Find Octobox on [GitHub Marketplace](https://github.com/marketplace/octobox)
+- Or support the community [on Open Collective](https://opencollective.com/octobox)
+- Their [Roadmap](https://github.com/octobox/octobox/blob/master/docs/ROADMAP.md) is also open source
