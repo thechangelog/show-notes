@@ -1,0 +1,8 @@
+- [Machine Learning for fair decisions](https://www.microsoft.com/en-us/research/blog/machine-learning-for-fair-decisions)
+- Bias examples - programmer, black male
+- [Increasing Trust in AI Services through Supplier's Declarations of Conformity](https://arxiv.org/abs/1808.07261)
+- [Introducing AI Fairness 360](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360)
+- [The AI Maturity Playbook: Five Pillars of Enterprise Success](https://marketing.prophet.com/acton/fs/blocks/showLandingPage/a/33865/p/p-011d/t/page/fm/0)
+- [AI Now - Algorithmic Impact Assessments: A Practical Framework for Public Agency Accountability](https://ainowinstitute.org/aiareport2018.pdf)
+- [Amazon’s Facial Recognition Wrongly Identifies 28 Lawmakers, A.C.L.U. Says](https://www.nytimes.com/2018/07/26/technology/amazon-aclu-facial-recognition-congress.html)
+- [General Data Protection Regulation](https://eugdpr.org)
