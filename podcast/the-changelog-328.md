@@ -1,3 +1,5 @@
+Before we officially head into the year end I wanted to take a moment to thank you for your time and attention, it means the world to us. We work very hard to produce this podcast and we do it for you, the listeners — so thank you. Please be safe over the holiday break. Enjoy your time with family, friends, and loved ones. We’ll see you again in 2019!
+
 #### Most popular episodes
 
 - [#291 – Winamp2 JS with Jordan Eldredge](https://changelog.com/podcast/291)
