@@ -5,7 +5,7 @@ Before we officially head into the year end I wanted to take a moment to thank y
 - [#291 – Winamp2 JS with Jordan Eldredge](https://changelog.com/podcast/291)
 - [#288 – Live coding open source on Twitch with Suz Hinton](https://changelog.com/podcast/288)
 - [#295 – Scaling all the things at Slack with Julia Grace](https://changelog.com/podcast/295)
-- [#298 – The beginnings of Microsoft Azure with Julia White]()
+- [#298 – The beginnings of Microsoft Azure with Julia White](https://changelog.com/podcast/298)
 - [#297](https://changelog.com/podcast/297) and [#314](https://changelog.com/podcast/316) on GraphQL
 
 #### Most controversial
