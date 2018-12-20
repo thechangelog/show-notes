@@ -1,0 +1,4 @@
+- [Maria and her husband welcomed baby William Otis](https://twitter.com/MariaPloessl/status/1069067022489784321) in early December
+- She's the Executive Director for [Minnestar](https://minnestar.org/)
+- Minnestar puts on quite a few events, two of them being [Minnebar](https://minnestar.org/minnebar/) and [Minnedemo](https://minnestar.org/minnedemo/)
+- I actually did [a talk on CSS Grid at Minnebar 2017](https://youtu.be/3WWgtQWo9wA)
