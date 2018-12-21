@@ -1,0 +1,2 @@
+- Check out [GitPrime](https://www.gitprime.com/)
+- [Subscribe to Engineering Impact](https://www.gitprime.com/engineering-impact/), GitPrime's weekly newsletter
