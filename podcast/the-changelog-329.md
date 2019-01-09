@@ -1,0 +1,5 @@
+- [The Commons Clause](https://commonsclause.com/)
+- Brendan's talk at KubeCon — [!go, Interacting with and Extending Kubernetes in a Polyglot World](https://www.youtube.com/watch?v=PyKeFmWSECM)
+- Read [The Illustrated Children's Guide to Kubernetes](https://azure.microsoft.com/en-us/resources/videos/the-illustrated-children-s-guide-to-kubernetes/) — Here's a link to [a pdf version](https://cdn.chrisshort.net/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf) of it
+- [Metaparticle](https://metaparticle.io/) is a standard library for cloud native applications on Kubernetes.
+- [cncf/artwork](https://github.com/cncf/artwork) — CNCF related logos and artwork
