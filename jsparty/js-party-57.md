@@ -16,7 +16,7 @@
 - JS Party is [back](https://changelog.com/jsparty/20)!
 - Dojo 2 [released](https://dojo.io/blog/2018/05/02/2018-05-02-Dojo2-0-0-release/)!
 - npm: [This year in JavaScript](https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms)
-- Project Gutenberg - https://wordpress.org/plugins/gutenberg/
+- [Project Gutenberg](https://wordpress.org/plugins/gutenberg/) from WordPress
 - [The rise of VSCode](https://triplebyte.com/blog/editor-report-the-rise-of-visual-studio-code)
 - Netflix: [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 - [Deno](https://deno.land/) - JavaScript and TypeScript outside the browser
