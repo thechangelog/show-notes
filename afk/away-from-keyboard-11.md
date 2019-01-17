@@ -1,0 +1,2 @@
+- Adam's company, [Podcast Royale](https://podcastroyale.net/)
+- I can't remember the particular episode of [*Today Explained*](https://overcast.fm/itunes1346207297/today-explained) that I referenced in the show, but it's a fantastic podcast you should subscribe to.
