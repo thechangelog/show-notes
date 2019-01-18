@@ -1,0 +1,7 @@
+- [11ty](https://www.11ty.io/) static site generator
+- [How We Used Gatsby.js to Build a Blazing Fast E-Commerce Site](https://medium.com/harrys-engineering/how-we-used-gatsby-js-to-build-a-blazing-fast-e-commerce-site-a9818145c67b)
+- [Vuepress](https://vuepress.vuejs.org/guide/)
+- Both the [nteract Website](https://nteract.io/) and [nteract Play](https://play.nteract.io/) were made with [Next.js](https://nextjs.org/)
+- [Siteleaf](https://www.siteleaf.com/) is a CMS that works with Jekyll
+- [Panini](https://github.com/zurb/panini) on GitHub
+- The [Building Blocks](https://foundation.zurb.com/building-blocks/) site was made with Panini
