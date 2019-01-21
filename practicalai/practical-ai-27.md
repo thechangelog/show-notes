@@ -1,0 +1,4 @@
+- [IBM 5 in 5: With AI, our words will be a window into our mental health](https://www.ibm.com/blogs/research/2017/01/ibm-5-in-5-our-words-will-be-the-windows-to-our-mental-health/)
+- [Predicting Cognitive Impairments with a Mobile Application](http://www.scitepress.org/Papers/2018/67340/67340.pdf)
+- [Automated analysis of recent-onset and prodromal schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5887598/)
+- [Prediction of psychosis across protocols and risk cohorts using automated language analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20491)
