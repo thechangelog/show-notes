@@ -1,0 +1,8 @@
+- Learn more information about [GitHub Actions](https://github.com/features/actions/)
+- Read this post by Jessie Frazelle on [how a GitHub action works](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
+- [Marketplace of GitHub actions](https://github.com/marketplace/actions) (only available to people in the public beta for now)
+- [Pull Reminders](https://pullreminders.com/) helps you remember to review code and get pull requests merged.
+- [Future of Software: Developers at the center of the universe](https://blog.github.com/2018-10-16-future-of-software/)
+- This org has [repos of different GitHub actions](https://github.com/actions) for many situations
+- Adam logged Sarah Drasner's list of [awesome GitHub actions](https://changelog.com/news/a-curated-list-of-awesome-github-actions-4W44)
+- Article from GitLab about [the importance of continous integration](https://about.gitlab.com/2018/10/16/github-launch-continuous-integration/)
