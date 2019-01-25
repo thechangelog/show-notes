@@ -1,0 +1,6 @@
+- [npm, Inc. has a new CEO, Bryan Bogensberger](https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger)
+- [npm for enterprises](https://www.npm-enterprise.com/)
+- [npm for orgs](https://www.npmjs.com/features)
+- [npm's about page](https://www.npmjs.com/about)
+- [npm/cli](https://github.com/npm/cli) on GitHub
+- [npm audit](https://docs.npmjs.com/cli/audit)
