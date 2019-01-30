@@ -1,0 +1,7 @@
+- Thanks to Kevin McGee for [suggesting this interview on Ping](https://github.com/thechangelog/ping/issues/844)
+- [The Great Divide](https://css-tricks.com/the-great-divide/) by Chris Coyier
+- [Frameworks without the framework; why didn't we think of this sooner?](https://svelte.technology/blog/frameworks-without-the-framework)
+- Rich's spectacular work on display in [a piece for *The New York Times* on Twitter bots](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
+- Watch Rich's talk at JSConf EU 2018, "[Computer, build me an app](https://youtu.be/qqt6YxAZoOc)"
+- [Svelte website](https://svelte.technology/)
+- Follow [Svelte on Twitter](https://twitter.com/sveltejs)
