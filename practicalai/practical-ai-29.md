@@ -1,0 +1,8 @@
+- [Jennifer Marsman’s blog](https://blogs.msdn.microsoft.com/jennifer)
+- [AI for Earth](https://www.microsoft.com/en-us/ai-for-earth)
+- [Project Premonition (mosquitos/genomics)](https://www.microsoft.com/en-us/research/project/project-premonition)
+- [FarmBeats (agriculture)](https://blogs.msdn.microsoft.com/jennifer/2017/05/01/precision-agriculture-with-iot-machine-learning-drones-and-networking-research)
+- [Wildbook (recognizing individual animals) #1](https://www.wildme.org)
+- [Wildbook (recognizing individual animals) #2](https://www.wildbook.org)
+- [Repository of data sets](http://lila.science)
+- [Microsoft Green Twitter](https://twitter.com/microsoft_green)
