@@ -1,0 +1,7 @@
+- [GirlsCoding.org](http://girlscoding.org)
+- [GirlsCoding.org on Twitter](https://twitter.com/Girls_Coding_)
+- [GirlsCoding.org on LinkedIn](https://www.linkedin.com/company/girlscoding-org)
+- [GirlsCoding on Facebook](https://www.facebook.com/allgirlscoding)
+- [GirlsCoding.org at Applied Machine Learning Days](https://youtu.be/OS_WGzUL_OY)
+- [Applied Machine Learning Days](https://www.appliedmldays.org)
+- [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/home)
