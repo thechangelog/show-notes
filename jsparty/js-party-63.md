@@ -1,9 +1,3 @@
-Panelists:
-* [Willian Martins](https://twitter.com/wmsbill)
-* [Shawn (swyx) Wang](https://twitter.com/swyx)
-* [Lin Clark](https://twitter.com/linclark)
-* [Till Schneidereit](https://twitter.com/tschneidereit)
-
 JavaScript language
 * [Pattern Matching (thin arrow operator)](https://github.com/tc39/proposal-pattern-matching)
 * [Pipeline Operator](https://github.com/tc39/proposal-pipeline-operator)
