@@ -1,0 +1,8 @@
+- Special thanks to [Bryan W. Weber](https://github.com/bryanwweber) [for suggesting this episode](https://github.com/thechangelog/ping/issues/850)
+- [NumFOCUS — Open Code • Better Science](https://numfocus.org/)
+- [NumFOCUS — Sponsored projects](https://numfocus.org/sponsored-projects)
+- [NumFOCUS — Affiliated projects](https://numfocus.org/sponsored-projects/affiliated-projects)
+- We talked [Spack on Request for Commits #13 with Todd Gamblin](https://changelog.com/rfc/13)
+- We talked [rOpenSci on The Changelog #263 with Karthik Ram](https://changelog.com/podcast/263)
+- [PyData.org](https://pydata.org/)
+- [Digitizing images of the Sun from the 1970s with SunPy Maps](https://numfocus.org/blog/sunpy-maps-digitizing-images-of-the-sun-from-the-1970s)
