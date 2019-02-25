@@ -1,0 +1,24 @@
+- [TensorFlow.js](https://js.tensorflow.org/)
+- [Google AI](https://ai.google/)
+[ml5.js - Friendly Machine Learning for the Web](https://ml5js.org/)
+- [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+- [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
+- [Tero Parviainen on CodePen](https://codepen.io/teropa/)
+- [tfjs-layers](https://github.com/tensorflow/tfjs-layers) - High-level machine learning model API
+- [tfjs-models](https://github.com/tensorflow/tfjs-models) - Pre-trained TensorFlow.js models
+- [tfma-slicing-metrics-browser.gif](https://raw.githubusercontent.com/tensorflow/model-analysis/master/g3doc/images/tfma-slicing-metrics-browser.gif) 📷
+- [TensorFlow Model Analysis (TFMA)](https://github.com/tensorflow/model-analysis) - a library for evaluating TensorFlow models
+- [What-If Tool](https://pair-code.github.io/what-if-tool/) - Building effective machine learning systems means asking a lot of questions. It's not enough to train a model and walk away. Instead, good practitioners act as detectives, probing to understand their model better.
+- [EthicalMachineLearning.ipynb](https://github.com/dynamicwebpaige/runconf18/blob/master/EthicalMachineLearning.ipynb)
+- [TensorBoard: Visualizing Learning](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+- [TensorBoard: Graph Visualization](https://www.tensorflow.org/guide/graph_viz)
+- [People + AI Research (PAIR)](https://ai.google/research/teams/brain/pair) - Human-centered research and design to make AI partnerships productive, enjoyable, and fair.
+- [Distill](https://distill.pub/) -  Clear explanations of machine learning
+- Book: [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.amazon.com/Technically-Wrong-Sexist-Algorithms-Threats-ebook/dp/B06XJBGPT9)
+- Book: [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
+- [A new course to teach people about fairness in machine learning](https://www.blog.google/technology/ai/new-course-teach-people-about-fairness-machine-learning/)
+- [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+- [CleverHans](https://github.com/tensorflow/cleverhans) - a Python library to benchmark machine learning systems' vulnerability to adversarial examples
+ - [CleverHans paper](https://arxiv.org/pdf/1610.00768v4.pdf)
+- [Breaking linear classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
+- [CV Dazzle](https://cvdazzle.com/) - explores how fashion can be used as camouflage from face-detection technology, the first step in automated face recognition
