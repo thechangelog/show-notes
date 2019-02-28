@@ -5,3 +5,4 @@
 - [sylabs/singularity](https://github.com/sylabs/singularity)
 - [Open Containers Initiative](https://www.opencontainers.org/)
 - [Founders Talk #61: Isaac Schlueter on building npm and hiring a CEO](https://changelog.com/founderstalk/61)
+- [The Singularity User Group (SUG)](https://www.eiseverywhere.com/ehome/sug2019/839014/)
