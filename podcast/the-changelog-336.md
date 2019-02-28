@@ -1,0 +1,7 @@
+- [Sylabs.io](https://www.sylabs.io/)
+- [Sylabs Cloud](https://cloud.sylabs.io/)
+- Special thanks to [Jacob Chappell (phpHavok)](https://github.com/thechangelog/ping/issues/857) and [Andre Marcelo-Tanner (kzap)](https://github.com/thechangelog/ping/issues/858) for kicking things off [on Ping](https://github.com/thechangelog/ping)
+- [Now Live: Singularity 3.0!](https://www.sylabs.io/2018/10/title-now-live-singularity-3-0/)
+- [sylabs/singularity](https://github.com/sylabs/singularity)
+- [Open Containers Initiative](https://www.opencontainers.org/)
+- [Founders Talk #61: Isaac Schlueter on building npm and hiring a CEO](https://changelog.com/founderstalk/61)
