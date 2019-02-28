@@ -205,6 +205,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ArangoGutierrez",
+      "name": "Eduardo Arango",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15933089?v=4",
+      "profile": "https://github.com/ArangoGutierrez",
+      "contributions": [
+        "doc"
+      ]
     }
-  ]
+  ],
+  "contributorsPerLine": 7
 }
