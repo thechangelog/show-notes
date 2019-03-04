@@ -1,0 +1,3 @@
+- [El Mahdi El Mhamdi on LinkedIn](https://www.linkedin.com/in/mahdielmhamdi)
+- [Google Scholar](https://scholar.google.ch/citations?user=kNA-WLQAAAAJ)
+- [Personal blog](https://elmahdielmhamdi.com)
