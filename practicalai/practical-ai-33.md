@@ -1,3 +1,8 @@
 - [El Mahdi El Mhamdi on LinkedIn](https://www.linkedin.com/in/mahdielmhamdi)
 - [Google Scholar](https://scholar.google.ch/citations?user=kNA-WLQAAAAJ)
 - [Personal blog](https://elmahdielmhamdi.com)
+- [World Health Organization | Ten threats to global health in 2019](https://www.who.int/emergencies/ten-threats-to-global-health-in-2019)
+- [AggregaThor](https://github.com/LPD-EPFL/AggregaThor/blob/master/README.md)
+- [The Hidden Vulnerability of Distributed Learning in Byzantium](http://proceedings.mlr.press/v80/mhamdi18a.html)
+- [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](http://papers.nips.cc/paper/6617-machine-learning-with-adversaries-byzantine-tolerant-gradient-descent.pdf)
+- [Asynchronous Byzantine Machine Learning (the case of SGD)](https://arxiv.org/abs/1802.07928)
