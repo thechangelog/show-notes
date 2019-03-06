@@ -1,0 +1,12 @@
+- [Homebrew on HackerOne](https://hackerone.com/homebrew)
+- [brew.sh](https://brew.sh/)
+- [Donate Homebrew on Patreon](https://www.patreon.com/homebrew)
+- [Here's how Eric Holmes gained commit access to Homebrew in 30 minutes](https://changelog.com/news/heres-how-eric-holmes-gained-commit-access-to-homebrew-in-30-minutes-rAMr)
+- [adamstac/laptop](https://github.com/adamstac/laptop)
+- [thoughtbot/laptop](https://github.com/thoughtbot/laptop)
+- [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - Bootstrap your macOS development system
+- [Homebrew governance](https://docs.brew.sh/Homebrew-Governance)
+- [Homebrew formulae analytics](https://formulae.brew.sh/analytics/)
+- ["This is why people don’t contribute to your open source project"](
+https://changelog.com/news/this-is-why-people-dont-contribute-to-your-open-source-project-e47D) —Mike McQuaid
+- [Hot Shots! Part Deux](https://www.imdb.com/title/tt0107144/) - starring Charlie Sheen
