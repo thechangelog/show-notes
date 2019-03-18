@@ -1,0 +1,13 @@
+- [Hugging Face](https://huggingface.co/)
+- [Voice Boloss](https://medium.com/huggingface/our-new-app-voice-boloss-is-out-b7427d05da89)
+- Transformer model episodes:
+    - [BERT](https://changelog.com/practicalai/22)
+    - [GPT-2](https://changelog.com/practicalai/32)
+- [Hugging Face's Pytorch pre-trained model repo](https://github.com/huggingface/pytorch-pretrained-BERT)
+- [Rasa](https://rasa.com/)
+- [Lyrebird](https://lyrebird.ai/)
+- [Allen Institute for AI](https://allenai.org/)
+- [AllenNLP](https://allennlp.org/)
+- [OpenAI](https://openai.com/)
+- [Fast.ai](https://www.fast.ai/)
+- [Betaworks Synthetic camp](https://betaworksventures.com/camp)
