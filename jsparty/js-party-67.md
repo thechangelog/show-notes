@@ -1,0 +1,6 @@
+- Read [The Great Divide](https://css-tricks.com/the-great-divide/) on CSS-Tricks
+- For more discussion, listen to [our previous show on the topic](https://changelog.com/jsparty/61)
+- If you liked this, you will probably like listening to [Shop Talk](https://shoptalkshow.com)
+- Suz suggests anything by [Ana Tudor](https://codepen.io/thebabydino) or [Sarah Drasner](https://codepen.io/sdras) on CodePen
+- Chris mentioned [A CSS Approach to Trap Focus Inside of an Element](https://css-tricks.com/a-css-approach-to-trap-focus-inside-of-an-element/)
+- Jerod got nostalgic with Nintendo Pens [1](https://codepen.io/joshbader/pen/mjZzGM), [2](https://codepen.io/r4ms3s/pen/vJMJmK), and [3](https://codepen.io/onediv/pen/AsDev)
