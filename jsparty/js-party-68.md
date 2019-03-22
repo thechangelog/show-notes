@@ -12,7 +12,7 @@
 
 - Suz is working on [making her plants chirp](https://github.com/noopkat/mxchip-gifs)
 - Speaking of, [check out Chirp](https://chirp.io)
-- For more of the backstory listen to [this episode from OSCON(https://changelog.com/jsparty/bonus-suz-at-oscon)
+- For more of the backstory listen to [this episode from OSCON](https://changelog.com/jsparty/bonus-suz-at-oscon)
 - She uses [KiCad](http://kicad-pcb.org/) to design her PCBS
 - [Here's the YouTube channel](https://www.youtube.com/user/contextualelectronic) which was the most helpful when learning KiCad
 - Nick built [a Raspberry Pi powered photoboot](https://github.com/nicknisi/pi-photobooth) for a wedding
