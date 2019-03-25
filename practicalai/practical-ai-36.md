@@ -1,0 +1,6 @@
+- [Anima Anandkumar on Wikipedia](https://en.wikipedia.org/wiki/Anima_Anandkumar)
+- [NVIDIA GTC Speaker](https://gputechconf2019.smarteventscloud.com/connect/speakerDetail.ww?PERSON_ID=B9CC9DCACB363F0948CA74541A9A8B0C)
+- [NVIDIA GTC Presentation: Role of Tensors in Machine Learning](https://gputechconf2019.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=272382)
+- [NVIDIA GTC Presentation: Infusing Physics into Deep Learning Algorithms with Applications to Stable Landing of Drones](https://gputechconf2019.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=279709)
+- [CalTech CMS TensorLab](http://tensorlab.cms.caltech.edu/users/anima)
+- [Google Scholar](https://scholar.google.com/citations?user=bEcLezcAAAAJ)
