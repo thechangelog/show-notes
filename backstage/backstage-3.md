@@ -1,0 +1,3 @@
+- We didn't talk about this, but [the opening film was pretty cool](https://www.youtube.com/watch?v=b6d6iScjHpA)
+- Watch the keynote for yourself [on Apple's Events page](https://www.apple.com/apple-events/march-2019/)
+- More info on Amazon Prime's super cool [X-Ray feature](https://www.primevideo.com/help/ref=atv_hp_nd_cnt?nodeId=202188190)
