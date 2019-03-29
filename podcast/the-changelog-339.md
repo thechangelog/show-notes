@@ -1,0 +1,6 @@
+- [The Problem with Software on The MIT Press](https://mitpress.mit.edu/books/problem-software)
+- [Lambda School](https://lambdaschool.com/)
+- [Bradfield School of Computer Science](https://bradfieldcs.com/)
+- [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
+- [Strange Loop](https://www.thestrangeloop.com/)
+- [Association for Computing Machinery](https://www.acm.org/)
