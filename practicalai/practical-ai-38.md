@@ -1,0 +1,7 @@
+- [Blog post about the celeb detector project](https://engineering.giphy.com/giphys-ai-can-identify-lil-yachty-can-yours/)
+- [GIPHY Enters the Open Source Community with Celebrity Detector (readwrite article)](https://readwrite.com/2019/03/09/giphy-enters-the-open-source-community-with-celebrity-detector/)
+- [MTCNN method used in the celebrity detector project](https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf)
+- [GitHub repo](https://github.com/Giphy/celeb-detection-oss/)
+- [Demo page](https://celebrity-detection.giphy.com/)
+- [3D projection of celeb face embeddings](https://celebrity-detection-projector.giphy.com/)
+- [Complete list of all celebs in the model](https://github.com/Giphy/celeb-detection-oss/blob/master/examples/resources/face_recognition/labels.csv)
