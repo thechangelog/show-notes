@@ -1,0 +1,8 @@
+- [Wasmer — Universal binaries powered by WebAssembly (Wasm)](https://changelog.com/news/wasmer-universal-binaries-powered-by-webassembly-wasm-qGjw)
+- [Stop limiting your open source library’s potential](https://changelog.com/posts/stop-limiting-your-open-source-librarys-potential)
+- [Running WebAssembly from any language](https://medium.com/wasmer/running-webassembly-from-any-language-5741f6320ccd)
+- [Running WebAssembly 100x faster 🔥](https://medium.com/wasmer/running-webassembly-100x-faster-%EF%B8%8F-a8237e9a372d)
+- [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
+- [WASI - The WebAssembly System Interface](https://wasi.dev/)
+- [CraneStation/wasmtime](https://github.com/CraneStation/wasmtime)
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
