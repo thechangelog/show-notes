@@ -1,0 +1,6 @@
+- [AI For Good Foundation](https://ai4good.org)
+- [AI For Good Foundation Video Lectures](http://videolectures.net/ai4good)
+- [KDD Earth Day](https://www.kdd.org/kdd2019/special-days)
+- ["Fragile Earth" Workshop](https://ai4good.org/feed2019)
+- [Discounted Membership for Practical AI Podcast Listeners!](https://ai4good.org/practical-ai)
+- [AI Experts:  Moving forward with AI likely a series of small steps, not giant leaps](https://blogs.thomsonreuters.com/answerson/moving-forward-with-ai-likely-a-series-of-small-steps-not-giant-leaps)
