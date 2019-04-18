@@ -6,7 +6,7 @@
 - [Book —The Culture Map](https://www.amazon.com/Culture-Map-INTL-ED-Decoding/dp/1610392760/)
 - [Coding Coach](https://codingcoach.io/) — a free, open-source platform which aims to connect software developers and mentors all over the world.
 - [mentors.codingcoach.io](https://mentors.codingcoach.io/)
-- [Coding Coach on Patreon](https://www.patreon.com/codingcoach_io
+- [Coding Coach on Patreon](https://www.patreon.com/codingcoach_io)
 - [Coding-Coach/coding-coach](https://github.com/Coding-Coach/coding-coach)
 - [Coding-Coach/find-a-mentor](https://github.com/Coding-Coach/find-a-mentor)
 - [LogMeIn](https://www.logmeininc.com/)
