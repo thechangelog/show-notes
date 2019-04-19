@@ -9,4 +9,5 @@
 * [Logux](https://github.com/logux/logux)
 * [Xamarin](https://docs.microsoft.com/en-us/xamarin/)
 * [Flutter](https://flutter.dev/)
+* [Hasura.io](https://hasura.io/)
 * [React Native Community](https://github.com/react-native-community)
