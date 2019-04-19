@@ -1,0 +1,12 @@
+* Special thanks to [React Amsterdam](https://react.amsterdam/) — the biggest React conference worldwide!
+* [MobX](https://github.com/mobxjs/mobx)
+* [Hooks](https://reactjs.org/docs/hooks-overview.html)
+* [GraphQL](https://graphql.org/)
+* [Talk: State Management in the GraphQL Era](https://www.youtube.com/watch?v=Q54YDGC_t3Y)
+* [Observables in MobX](https://mobx.js.org/refguide/observable.html)
+* [The Curious Case of MobX State Tree](https://codeburst.io/the-curious-case-of-mobx-state-tree-7b4e22d461f)
+* [Aven Cloud Framework](https://aven.io/)
+* [Logux](https://github.com/logux/logux)
+* [Xamarin](https://docs.microsoft.com/en-us/xamarin/)
+* [Flutter](https://flutter.dev/)
+* [React Native Community](https://github.com/react-native-community)
