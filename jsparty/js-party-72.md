@@ -11,3 +11,4 @@
 * [Flutter](https://flutter.dev/)
 * [Hasura.io](https://hasura.io/)
 * [React Native Community](https://github.com/react-native-community)
+* [Vladimir's YouTube channel with bootcamps](https://www.youtube.com/c/VladimirNovickDev)
