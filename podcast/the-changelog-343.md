@@ -1,0 +1,10 @@
+- [OpenFaaS](https://www.openfaas.com/) — serverless functions made simple for Docker and Kubernetes
+- [You can donate](https://www.openfaas.com/donate/) to support the ongoing development and independence of OpenFaaS
+- [Announcing the OpenFaaS function store](https://blog.alexellis.io/announcing-function-store/)
+- [OpenFaaS #TeamServerless on LinkedIn](https://www.linkedin.com/groups/13670843/)
+- [The Changelog #253: The serverless revolution with Pam Selle](https://changelog.com/podcast/253)
+- [JS Party #49: Serverless? We don’t need no stinkin’ SERVERS with special guest Jeremy Daly](https://changelog.com/jsparty/49)
+- [The curious case of serverless on Kubernetes](https://changelog.com/news/the-curious-case-of-serverless-on-kubernetes-4We7)
+- [The Changelog #329: Perspectives on Kubernetes and successful cloud platforms with Brendan Burns](https://changelog.com/podcast/329)
+- [(BOOK) - Traction: Get a Grip on Your Business](https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837)
+- [Inlets – expose your local endpoints to the internet](https://changelog.com/news/inlets-expose-your-local-endpoints-to-the-internet-Wozg)
