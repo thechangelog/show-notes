@@ -1,5 +1,5 @@
-- [O'Reilly AI keynote from CTRL-Labs](https://youtu.be/5Z5aZK2C3ew)
-- [CTRL-Labs website](https://www.ctrl-labs.com/)
+- [O'Reilly AI keynote from CTRL-labs](https://youtu.be/5Z5aZK2C3ew)
+- [CTRL-labs website](https://www.ctrl-labs.com/)
 - [CTRL-kit](https://www.ctrl-labs.com/ctrl-kit/)
 - [TED talk "The real reason for brains"](https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains?language=en)
 - [IBM healthcare Practical AI episode](https://changelog.com/practicalai/27)
