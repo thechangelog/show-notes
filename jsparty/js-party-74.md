@@ -1,0 +1,8 @@
+- [Hope in Source](https://hopeinsource.com)
+- [Maintainers Anonymous](https://www.maintainersanonymous.com)
+- [The GitHub Revolution: Why We’re All in Open Source Now](https://www.wired.com/2013/03/github/)
+- [Open Collective](https://opencollective.com)
+- [Introducing draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_3?keywords=Atomic+Habits&qid=1555681448&s=books&sr=1-3) by James Clear
+- [Mikeal’s self-care repository](https://github.com/mikeal/self-care)
+- [Henry’s Patreon](https://www.patreon.com/henryzhu/)
