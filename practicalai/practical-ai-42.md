@@ -1,0 +1,6 @@
+- [TensorFlow Dev Summit 2019](https://www.tensorflow.org/dev-summit)
+- [TensorFlow 2.0 alpha release](https://www.tensorflow.org/alpha)
+- [TensorFlow Datasets](https://www.tensorflow.org/datasets)
+- [TensorFlow Extended (TFX)](https://www.tensorflow.org/tfx)
+- [TensorFlow Addons](https://github.com/tensorflow/addons)
+- [O'Reilly TensorFlow World conference](https://conferences.oreilly.com/tensorflow/tf-ca)
