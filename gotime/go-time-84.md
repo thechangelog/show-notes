@@ -1,4 +1,6 @@
-To take part in the giveaway to win your very own [Gopherbot](https://gopherbot.com/?utm_source=gotime), all you have to do is send a tweet to @GoTimeFM plus any of the following — review the podcast on Apple Podcasts, socialize your favorite episode on Twitter, or recommend the show to a friend. Details for each are below.
+### Win a Gopherbot!
+
+To take part in the giveaway to win your very own [Gopherbot](https://gopherbot.com/?utm_source=gotime), all you have to do is send a tweet to [@GoTimeFM](https://twitter.com/GoTimeFM) plus any of the following — review the podcast on Apple Podcasts, socialize your favorite episode on Twitter, or recommend the show to a friend. Details for each are below.
 
 **Tweet**: To be entered you MUST tweet us [@GoTimeFM](https://twitter.com/GoTimeFM) in addition to either a review of the podcast on Apple Podcasts, socialize your favorite episode on Twitter, or recommend the show to a friend. Here's the tweet we're looking for — `I listen to @GoTimeFM and I learned #golang because...` — Ron will pick his favorite reason and we’ll announce the winner in a few weeks.
 
