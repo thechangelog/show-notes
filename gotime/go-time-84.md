@@ -13,5 +13,8 @@ To take part in the giveaway to win your very own [Gopherbot](https://gopherbot.
 ---
 
 - [TinyGo](https://tinygo.org/)
-- [Gopherbot](https://gopherbot.com/?utm_source=gotime) - Robotic Gopher plushie that you can code
+- [Gopherbot](https://gopherbot.com/?utm_source=gotime) - Robotic Gopher plushie that you can code.
 - [Gophercon in San Diego](https://www.gophercon.com/?utm_source=gotime) - where Ron will host the hardware hacking day with Gobots, and other flying objects.
+- [Adafruit](https://www.adafruit.com/category/851) - company making tiny chips.
+- [LLVM from GO Perspective](https://aykevl.nl/2019/04/llvm-from-go) - blogpost by Ayke van Laëthem.
+- [Tiny Go and Webassembly](https://tinygo.org/webassembly/)
