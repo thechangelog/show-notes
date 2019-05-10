@@ -215,6 +215,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "povilasv",
+      "name": "Povilas Versockas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22289110?v=4",
+      "profile": "https://povilasv.me",
+      "contributions": [
+        "doc"
+      ]
     }
-  ]
+  ],
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
