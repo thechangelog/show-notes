@@ -1,0 +1,9 @@
+- Quantum Emulation project (email marcus@quantumemulation.com/)
+- Efforts to use Quantum Computing to accelerate ML/AI:
+    - [from Google](https://ai.google/research/teams/applied-science/quantum-ai/)
+    - [from IBM](https://syncedreview.com/2019/04/03/ibm-proposes-quantum-enhanced-feature-space-for-ml/)
+- [Xanadu: a dedicated ML platform for quantum computers](https://www.xanadu.ai/software/#pennylane)
+- [OpenQASM](https://github.com/Qiskit/openqasm)
+- [Rigetti](https://www.rigetti.com/)
+- [Quantum open source foundation](https://qosf.org/)
+- [TED talk from Dr. Ghoshe](https://www.ted.com/talks/shohini_ghose_quantum_computing_explained_in_10_minutes?language=en)
