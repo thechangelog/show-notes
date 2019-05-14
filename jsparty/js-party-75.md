@@ -1,0 +1,2 @@
+- Huge thanks to [ReactJS Girls Conference](https://reactjsgirls.com/) for allowing us to crash their conference and throw a JS Party
+- Want us to throw a JS Party at your conference? Send an email to [editors@changelog.com](mailto:editors@changelog.com) to get in touch.
