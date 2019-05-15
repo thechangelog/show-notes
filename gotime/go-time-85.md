@@ -10,6 +10,6 @@
 - [JustForFunc](https://www.youtube.com/c/justforfunc)
 - [First timers only](https://www.firsttimersonly.com/)
 - [Your first PR](https://yourfirstpr.github.io/)
-- [#golang-newbies](https://gophers.slack.com/archives/C02A8LZKT) on Gopher Slack
+- [#golang-newbies](https://gophers.slack.com/archives/C02A8LZKT) on [Gopher Slack](https://invite.slack.golangbridge.org/)
 - [On-the-Job Programming Language Learning Survey for Developers](https://docs.google.com/forms/d/e/1FAIpQLSf9OMOBjaoxGNpCMegFDhk-9OkQ8qGGyXvGBCNvc-qS8hJt2A/viewform)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
