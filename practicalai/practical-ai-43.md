@@ -6,4 +6,4 @@
 - [OpenQASM](https://github.com/Qiskit/openqasm)
 - [Rigetti](https://www.rigetti.com/)
 - [Quantum open source foundation](https://qosf.org/)
-- [TED talk from Dr. Ghoshe](https://www.ted.com/talks/shohini_ghose_quantum_computing_explained_in_10_minutes?language=en)
+- [TED talk from Dr. Ghose](https://www.ted.com/talks/shohini_ghose_quantum_computing_explained_in_10_minutes?language=en)
