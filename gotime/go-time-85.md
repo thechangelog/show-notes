@@ -1,4 +1,4 @@
-- [A gentle Introduction to Golang for Beginners](https://www.udemy.com/a-gentle-introduction-to-google-go-golang-for-beginners/)
+- [A gentle Introduction to Golang for Beginners](https://www.udemy.com/a-gentle-introduction-to-google-go-golang-for-beginners/?couponCode=GOTIME_2019) <~ this special link drops the cost of the course to $9.99 US 😱(thanks David!!)
 - [CLI for Beginners](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/)
 - [Gophercises](https://gophercises.com/)
 - [Lambda School](https://lambdaschool.com/) was mentioned + Austen Allred (CEO & co-founder of Lambda School) [was on Founders Talk recently](https://changelog.com/founderstalk/63)
