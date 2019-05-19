@@ -1,0 +1,9 @@
+- [Manyverse](https://www.manyver.se/) - A social network off the grid. Scuttlebutt for mobile.
+- [Manyverse roadmap](https://gitlab.com/staltz/manyverse/wikis/roadmap)
+- [Early days in the Manyverse](https://www.manyver.se/blog/early-days)
+- [Manyverse bluetooth sync](https://www.manyver.se/blog/bluetooth-sync)
+- [Scuttlebutt.nz](https://www.scuttlebutt.nz/)
+- [Manyverse on Open Collective](https://opencollective.com/manyverse)
+- [Cycle.js](https://cycle.js.org/) - A functional and reactive JavaScript framework for predictable code
+- [The Changelog #326: The insider perspective on the event-stream compromise with Dominic Tarr](https://changelog.com/podcast/326)
+- [License Zero](https://licensezero.com/) - gainful open software development
