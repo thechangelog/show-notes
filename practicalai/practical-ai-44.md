@@ -1,0 +1,2 @@
+- [O'Reilly's AI Adoption in the Enterprise:  How Companies Are Planning and Prioritizing AI Projects in Practice](https://www.oreilly.com/data/free/ai-adoption-in-the-enterprise.csp)
+- [O'Reilly AI Conference 2019 | NYC](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
