@@ -8,5 +8,5 @@
 - [agar.io](https://agar.io/)
 - [slither.io](http://slither.io/)
 - [diep.io](https://diep.io/)
-- "kings.io" was discussed but no longer has a web presence
+- "kingz.io" was discussed but no longer has a web presence
 - [Socket.io](https://socket.io/) plays a crucial role in .io games
