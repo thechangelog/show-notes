@@ -1,0 +1,3 @@
+- [Artificial Intelligence Strategy:  Digital Transformation Through Deep Learning](https://www.liveworx.com/presenters/chris-benson) => Chris Benson's upcoming talk at LiveWorx 2019 in Boston on Wednesday, June 12, 2019:
+- [Examples of previous AI talks by Chris Benson](https://www.youtube.com/playlist?list=PLzhVyvJIblj3v80kmD7DkXfUj14SlK8EE)
+- [Join the community](https://changelog.com/community) — it's free! Connect with us in the [#practicalai](https://changelog.slack.com/messages/CAACWA9FE) Slack channel. The community is here for you as a place to below, to bounce ideas around, or to get feedback on a conference to attend or talk you'd like to give.
