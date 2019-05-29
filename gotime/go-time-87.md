@@ -1,0 +1,5 @@
+- [Functional Programming in Go With dcode](https://arschles.com/blog/functional-programming-in-go-with-dcode/)
+- [go-functional/dcode](https://github.com/go-functional/dcode) - Decode JSON with Functional Decoders
+- [go-functional/functy](https://github.com/go-functional/functy) - Functional builders for vecty elements
+- [[Talk] Functional Programming in Go](https://www.youtube.com/watch?v=c8Fwb4KbVJM) - Aaron Schlesinger @ GopherCon 2017
+- [Interesting reading about Erlang, functional programming and concurrency](http://erlang.org/download/armstrong_thesis_2003.pdf) - by Joe Armstrong
