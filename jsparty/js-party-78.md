@@ -1,0 +1,8 @@
+- [Nick Nisi](https://twitter.com/nicknisi)
+- [Brad Fults](https://twitter.com/h3h)
+- [Sarah Drasner](https://twitter.com/sarah_edo)
+- [Anders Hejlsberg](https://twitter.com/ahejlsberg)
+- [Sara Soueidan](https://twitter.com/SaraSoueidan)
+- [Toastmasters](https://www.toastmasters.org)
+- [Thank You For Arguing](https://www.amazon.com/Thank-You-Arguing-Third-Persuasion/dp/0804189935/ref=sr_1_1?keywords=thank+you+for+arguing&qid=1559339821&s=books&sr=1-1)
+- [Don't Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
