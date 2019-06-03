@@ -30,7 +30,7 @@
 
 Some conference talks from the Practical AI hosts:
 
-- [Artificial Intelligence Strategy:  Digital Transformation Through Deep Learning](https://www.liveworx.com/presenters/chris-benson) => Chris Benson's upcoming talk at LiveWorx 2019 in Boston on Wednesday, June 12, 2019:
+- Chris Benson's upcoming talk at LiveWorx 2019 in Boston on Wednesday, June 12, 2019: [Artificial Intelligence Strategy:  Digital Transformation Through Deep Learning](https://www.liveworx.com/presenters/chris-benson)
 - [Examples of previous AI talks by Chris Benson](https://www.youtube.com/playlist?list=PLzhVyvJIblj3v80kmD7DkXfUj14SlK8EE)
 - [Building GPU-Accelerated Workflows with TensorFlow and Kubernetes](https://youtu.be/OZSA5hmkb0o)
 - [Fully Reproducible ML Deployment with Spark, Pachyderm, and MLeap](https://youtu.be/TmTYenyOU0s)
