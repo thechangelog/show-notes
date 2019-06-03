@@ -35,4 +35,4 @@ Some conference talks from the Practical AI hosts:
 - [Building GPU-Accelerated Workflows with TensorFlow and Kubernetes](https://youtu.be/OZSA5hmkb0o)
 - [Fully Reproducible ML Deployment with Spark, Pachyderm, and MLeap](https://youtu.be/TmTYenyOU0s)
 
-- [Join the community](https://changelog.com/community) — it's free! Connect with us in the [#practicalai](https://changelog.slack.com/messages/CAACWA9FE) Slack channel. The community is here for you as a place to below, to bounce ideas around, or to get feedback on a conference to attend or talk you'd like to give.
+[Join the community](https://changelog.com/community) — it's free! Connect with us in the [#practicalai](https://changelog.slack.com/messages/CAACWA9FE) Slack channel. The community is here for you as a place to below, to bounce ideas around, or to get feedback on a conference to attend or talk you'd like to give.
