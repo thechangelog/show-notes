@@ -1,7 +1,7 @@
 
 [Sourcegraph - Idiomatic Go](https://about.sourcegraph.com/go/idiomatic-go/)
 
-[micro user-serv — db.go](https://github.com/micro/user-srv/blob/master/db/db.go)
+[microhq user-serv — db.go](https://github.com/microhq/user-srv/blob/master/db/db.go)
 
 [jsgo](https://github.com/dave/jsgo)
 
