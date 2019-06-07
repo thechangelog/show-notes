@@ -1,0 +1,6 @@
+- [Changelog News](https://changelog.com/) 💚
+- [Five best practices in open source: internal collaboration](https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/)
+- [How to ~> Kubernetes Pull Request](https://github.com/kubernetes/community/blob/master/contributors/guide/pull-requests.md)
+- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Best Practices for Maintainers](https://opensource.guide/best-practices/)
+- [20 useful tools for open-source maintainers](https://hackernoon.com/20-useful-tools-for-open-source-maintainers-ee86a09e04e5)
