@@ -1,0 +1,21 @@
+SUBSCRIBE ~> [Brain Science](https://changelog.com/brainscience) — For the curious! We're exploring the inner-workings of the human brain to understand behavior change, habit formation, mental health, and being human.
+
+- RL (Reinforcement learning)
+    - [Good overview article](https://skymind.ai/wiki/deep-reinforcement-learning)
+    - [Human-level performance in Quake III–Capture the Flag](https://twitter.com/DeepMindAI/status/1134158019133136896)
+    - [Practical AI episode about Deep Reinforcement Learning](https://changelog.com/practicalai/40)
+    - [Practical AI episode about OpenAI, reinforcement learning, robots, and safety](https://changelog.com/practicalai/14)
+    - [PyTorch RL tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
+- GANs (Generative Adversarial Networks)
+    - [Good overview article](https://skymind.ai/wiki/generative-adversarial-network-gan)
+    - [This is not a person website](https://thispersondoesnotexist.com/)
+    - [Christie's AI art auction](https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx)
+    - [OpenAI Generative models](https://openai.com/blog/generative-models/)
+    - [TensorFlow GAN tutorial](https://www.tensorflow.org/alpha/tutorials/generative/dcgan)
+- Transfer learning
+    - [Good overview article](https://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html)
+    - [Forbes article on Google AutoML](https://www.forbes.com/sites/kalevleetaru/2019/05/28/googles-automl-and-bigquery-ml-the-rise-of-one-click-hyperscale-machine-learning/#6380aca32895)
+    - [Practical AI episode on BERT](https://changelog.com/practicalai/22)
+    - [Practical AI episode on GPT-2](https://changelog.com/practicalai/32)
+    - [How to build a State-of-the-Art Conversational AI with Transfer Learning](https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313)
+    -[NAACL workshop on transfer learning for NLP](https://twitter.com/seb_ruder/status/1135223959828537344)
