@@ -1,0 +1,5 @@
+- [State of CSS survey](https://stateofcss.com) and the [results for 2019](https://2019.stateofcss.com)
+- [State of JavaScript](https://stateofjs.com)
+- [State of JavaScript on GitHub](https://github.com/StateOfJS)
+- [JS Party #54: trust.js but verify (malware, opaque surveys, and console.log debugging)](https://changelog.com/jsparty/54) and [Sacha's response](https://www.freecodecamp.org/news/who-took-the-state-of-javascript-2018-survey-8b51bca63a0/) "Mainly, that it wasn’t clear who exactly took the survey, how they found the survey, and whether that population sample was representative of the overall JavaScript ecosystem."
+- [The Changelog #91: Discover Meteor.js with Sacha Greif](https://changelog.com/podcast/91)
