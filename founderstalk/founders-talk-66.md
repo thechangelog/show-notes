@@ -1,0 +1,4 @@
+- [Gumroad.com](https://gumroad.com/)
+- Sahil's Medium post titled ["Reflecting on My Failure to Build a Billion-Dollar Company"](https://medium.com/s/story/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
+- [From Bubble to Bubble](https://medium.com/@shl/from-bubble-to-bubble-21d86195e178) on Medium
+- [Jack Dorsey's 11 biohacks](https://changelog.com/news/jack-dorseys-11-biohacks-z40R)
