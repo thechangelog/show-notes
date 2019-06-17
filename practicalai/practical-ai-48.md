@@ -1,0 +1,4 @@
+- [Seldon](https://www.seldon.io/)
+- [Seldon Core](https://github.com/SeldonIO/seldon-core)
+- [Alibi](https://github.com/SeldonIO/alibi)
+- [Christoph Molnar's book, "Interpretable Machine Learning"](https://christophm.github.io/interpretable-ml-book/)
