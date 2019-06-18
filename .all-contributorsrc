@@ -242,6 +242,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jnv",
+      "name": "Jan Vlnas",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/616767?v=4",
+      "profile": "https://jan.vlnas.cz/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
