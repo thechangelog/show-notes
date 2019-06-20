@@ -1,0 +1,11 @@
+- Brush up on your [Contra knowledge](https://en.wikipedia.org/wiki/Contra_(video_game))
+- Here's the [Konami-JS repo](Konami-JS) on GitHub
+- Try it for yourself on [huffpost.com](https://huffpost.com)
+- [here's the issue](https://github.com/snaptortoise/konami-js/issues/21) we discuss regarding `keyCode`
+- [Party Parrot as a Service](https://parrotify.github.io)
+- Also the OG: [Cult of the Party Parrot](http://cultofthepartyparrot.com)
+- [confetti-js](https://agezao.github.io/confetti-js/) (might break your computer)
+- Check out [vaporJS](https://github.com/madrobby/vapor.js) 
+- And its security-focused successor: [Semicolon.js](https://github.com/madrobby/semicolon.js)
+- [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) went mainstream
+- [thanos-js](https://www.npmjs.com/package/thanos-js) might be the greatest package of all times
