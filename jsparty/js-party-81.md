@@ -1,5 +1,5 @@
 - Brush up on your [Contra knowledge](https://en.wikipedia.org/wiki/Contra_(video_game))
-- Here's the [Konami-JS repo](Konami-JS) on GitHub
+- Here's the [Konami-JS repo](https://github.com/snaptortoise/konami-js) on GitHub
 - Try it for yourself on [huffpost.com](https://huffpost.com)
 - [here's the issue](https://github.com/snaptortoise/konami-js/issues/21) we discuss regarding `keyCode`
 - [Party Parrot as a Service](https://parrotify.github.io)
