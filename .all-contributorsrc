@@ -260,6 +260,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "captbaritone",
+      "name": "Jordan Eldredge",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/162735?v=4",
+      "profile": "https://jordaneldredge.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
