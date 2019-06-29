@@ -1,2 +1,3 @@
 - [edX](https://www.edx.org)
+- [Open edX](https://openedx.org)
 - [Coverage.py](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python
