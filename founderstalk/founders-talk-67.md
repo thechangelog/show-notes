@@ -1,0 +1,3 @@
+- [Key Values](https://www.keyvalues.com/)
+- [Indie Hackers #086: How to Build a Life You Love by Quitting Everything Else with Lynne Tye of Key Values](https://www.indiehackers.com/podcast/086-lynne-tye-of-key-values)
+- [forbes.com - Meet The Solo Female Founder Who Helps Engineers Find Their Dream Jobs](https://www.forbes.com/sites/mathildeleo/2018/11/30/meet-the-solo-female-founder-who-helps-engineers-find-their-dream-job)
