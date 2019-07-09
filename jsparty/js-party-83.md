@@ -1,0 +1,2 @@
+- [Job burnout: How to spot it and take action](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642)
+- Book — [No Hard Feelings](https://www.amazon.com/No-Hard-Feelings-Embracing-Emotions/dp/0525533834)
