@@ -1,0 +1,6 @@
+- [The Pragmatic Programmer - 20th Anniversary Edition](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
+- [Agile Manifesto](https://agilemanifesto.org)
+- [The humble programmer](https://changelog.com/news/the-humble-programmer-EOqY)
+- [Considered harmful](https://en.wikipedia.org/wiki/Considered_harmful)
+- [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+- [PDPjs, a PDP-11 Emulator](https://www.pcjs.org/blog/2016/10/06/)
