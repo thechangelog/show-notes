@@ -1,0 +1,4 @@
+- You're off [The Budweiser Hot Seat](https://www.youtube.com/watch?v=Luuggra0kk0)
+- Who's [Dick Tracy](https://en.wikipedia.org/wiki/Dick_Tracy)?
+- Educational film: [Rampage](https://en.m.wikipedia.org/wiki/Rampage_(2018_film))
+- [CRISPR](https://en.wikipedia.org/wiki/CRISPR)
