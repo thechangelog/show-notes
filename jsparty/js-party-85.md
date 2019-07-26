@@ -1,0 +1,2 @@
+- The [pizzaql/pizzaql](https://github.com/pizzaql/pizzaql) repo
+- Antoni's [other project, oji, on npm](https://www.npmjs.com/package/oji)
