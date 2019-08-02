@@ -1,0 +1,4 @@
+- [The Economies of Open Source](https://www.youtube.com/watch?v=MO8hZlgK5zc)
+- [entropic.dev](https://entropic.dev)
+- [npm, Inc. has a new CEO (Bryan Bogensberger)](https://blog.npmjs.org/post/181872197694/npm-inc-has-a-new-ceo-bryan-bogensberger)
+- [JS Party #82: LIVE from NodeConf Colombia](https://changelog.com/jsparty/82#transcript-35) featuring Kat Marchán, Anna Henningsen, Ruben Bridgewater & James Snell — We're linking to the transcript to point out what Kat Marchán said at NodeConf Colombia
