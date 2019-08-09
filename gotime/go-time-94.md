@@ -1,0 +1,5 @@
+- [How do you structure your Go apps](https://www.youtube.com/watch?v=oL6JBUk6tj0) by Kat Zien at GopherCon 2018
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) from Ben Johnson
+- [How I write Go HTTP services](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+- [Go back to basics with MVC](https://dev.to/quii/go-back-to-basics-with-mvc-4p6m) This is a followup to a previous Go Time from Chris James about MVC
+- [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design) from Dave Cheney
