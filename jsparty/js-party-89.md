@@ -1,0 +1,3 @@
+- [You are not Google/Amazon/LinkedIn](https://changelog.com/podcast/260)
+- [Pika.dev](https://www.pika.dev/)
+- [A Future Without Webpack](https://dev.to/pika/a-future-without-webpack-ago)
