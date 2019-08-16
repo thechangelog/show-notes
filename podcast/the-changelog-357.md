@@ -1,0 +1,12 @@
+- [Shape Up](https://basecamp.com/shapeup)
+- [Foreword by Jason Fried](https://basecamp.com/shapeup/0.1-foreword)
+- [Principles of shaping](https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete)
+- [Example pitches](https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp) — "How we do it in Basecamp"
+- [Bets, Not Backlogs](https://basecamp.com/shapeup/2.1-chapter-07)
+- [How to Begin to Shape Up](https://basecamp.com/shapeup/4.1-appendix-02)
+- [Summary of the Shape Up method](https://basecamp.com/shapeup/4.2-appendix-03)
+- [Shape Up glossary](https://basecamp.com/shapeup/4.5-appendix-06)
+- [Ryan's tweet](https://twitter.com/rjs/status/1158421397040795648) about [the Shape Up workshop](https://www.eventbrite.com/e/developing-successful-new-products-with-bob-moesta-ryan-singer-tickets-66122545313)
+- If you have questions — email [shapeup@basecamp.com](mailto:shapeup@basecamp.com)
+- [Getting Real](https://basecamp.com/books/getting-real)
+- [All of Basecamp's books](https://basecamp.com/books)
