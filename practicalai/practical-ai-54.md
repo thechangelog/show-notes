@@ -1,0 +1,2 @@
+- [Galvanize](https://www.galvanize.com)
+- [HumAIn Podcast](http://www.humainpodcast.com)
