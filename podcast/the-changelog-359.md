@@ -1,0 +1,7 @@
+- [JavaScript Standard Style](https://standardjs.com/)
+- [BitMidi](https://bitmidi.com/)
+- [WebTorrent](https://webtorrent.io/)
+- [patreon.com/feross](https://www.patreon.com/feross)
+- [feross.org/thanks](https://feross.org/thanks/)
+- [patreon.com/evanyou](https://www.patreon.com/evanyou)
+- [Burnout in the tech industry (and why we need to talk about it)](https://changelog.com/news/burnout-in-the-tech-industry-and-why-we-need-to-talk-about-it-RoE1)
