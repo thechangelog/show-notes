@@ -1,3 +1,5 @@
+You can now watch Adam's OSCON keynote [on his YouTube channel](https://www.youtube.com/watch?v=8q5o-4pnxDQ).
+
 - ["The war for the soul of open source"](https://conferences.oreilly.com/oscon/oscon-or/public/schedule/detail/76657)
 - [Chef](https://www.chef.io)
 - [Goodbye Open Core — Good Riddance to Bad Rubbish](https://medium.com/@adamhjk/goodbye-open-core-good-riddance-to-bad-rubbish-ae3355316494)
