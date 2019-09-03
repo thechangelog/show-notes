@@ -1,0 +1,4 @@
+- [Kubeless](https://kubeless.io/) - The Kubernetes native serverless framework
+- [Knative](https://pivotal.io/knative) - Building blocks that simplify how you deploy and run functions atop Kubernetes and Istio. On any cloud.
+- [This tweet from Kelsey Hightower](https://twitter.com/kelseyhightower/status/1131255370746290176) - "In less than 15 minutes I was able to open a new @zeithq account, install the Now cli, create a Go function, link it to GitHub, deploy it, and hit it with curl. 🤯 If this is the direction general compute is headed, count me in."
+- [This tweet from Ian Molee](https://twitter.com/ianfoo/status/1159556331868585984) - "Watch me code, deploy, and exercise a "serverless" Go function in about a minute, using @zeithq zero-config. In 2-3 years remember @jessfraz told us about #configless in 2019!"
