@@ -1,0 +1,3 @@
+- [The fake TED Talk Talk](https://www.youtube.com/watch?v=_ZBKX-6Gz6A)
+- [Free developer conferences for everyone, streamed on Twitch](https://www.byteconf.com)
+- [A free conference for Nigerian developers](https://opencollective.com/concatenate))
