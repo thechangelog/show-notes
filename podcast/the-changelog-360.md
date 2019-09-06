@@ -1,0 +1,5 @@
+- [Postman](https://www.getpostman.com)
+- [Postman announces $50 million in Series B](https://www.businesswire.com/news/home/52001575/en)
+- [postmanlabs/newman](https://github.com/postmanlabs/newman) - a command-line collection runner for Postman
+- [Postman API network](https://www.getpostman.com/api-network/)
+- [POST/CON 2019](https://www.getpostman.com/post-con-2019) - Postman user conference
