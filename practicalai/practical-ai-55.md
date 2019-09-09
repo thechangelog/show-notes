@@ -1,0 +1,5 @@
+- [Google cloud](https://cloud.google.com/)
+- [Google AI](https://ai.google/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Quoc V. Le's research](https://ai.google/research/people/QuocLe/)
+- [Cloud AutoML](https://cloud.google.com/automl/)
