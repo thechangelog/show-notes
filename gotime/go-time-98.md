@@ -1,0 +1,1 @@
+[Contracts proposal](https://go.googlesource.com/proposal/+/4a54a00950b56dd0096482d0edae46969d7432a6/design/go2draft-contracts.md) from Ian Lance Taylor and Robert Griesemer
