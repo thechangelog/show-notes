@@ -6,6 +6,6 @@ We often think of ourselves as individuals, but our lives are spent embedded wit
 
 Early nurturing of the prefrontal cortex through relationships has us to think well of ourselves, trust others, regulate emotions, maintain positive expectations, and utilize emotional intelligence in a moment-to-moment problem solving (Cozolino). Research shows that right brains tend to develop more in the first years of life. This helps us be more flexible and learn how to adapt — it really is survival of the fittest.
 
-### Links
+---
 
 - [Mind Field from Vsauce](https://www.youtube.com/playlist?list=PLZRRxQcaEjA4qyEuYfAMCazlL0vQDkIj2)
