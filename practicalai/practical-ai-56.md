@@ -1,0 +1,3 @@
+- [HPC course on Udacity](https://www.udacity.com/course/high-performance-computing--ud281)
+- [Google Colab](https://colab.research.google.com)
+- [SIParCS internship at NCAR](https://www2.cisl.ucar.edu/siparcs)
