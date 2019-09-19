@@ -4,5 +4,5 @@
 - [Running WebAssembly 100x faster 🔥](https://medium.com/wasmer/running-webassembly-100x-faster-%EF%B8%8F-a8237e9a372d)
 - [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI - The WebAssembly System Interface](https://wasi.dev/)
-- [CraneStation/wasmtime](https://github.com/CraneStation/wasmtime)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
