@@ -278,6 +278,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "syrusakbary",
+      "name": "Syrus Akbary",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/188257?v=4",
+      "profile": "http://syrusakbary.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
