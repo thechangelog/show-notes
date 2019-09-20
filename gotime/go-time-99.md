@@ -1,0 +1,4 @@
+- [Why Women Don't Apply for Jobs Unless They're 100% Qualified](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified) - a look into why women and POC will apply to fewer job listings.
+- [Career Development at Gitlab](https://about.gitlab.com/handbook/engineering/career-development/) - an example of a company doing a better job with their career dev framework.
+- [100 Days of Code](https://www.100daysofcode.com/) - a way to help make yourself more accountable while improving as a junior developer
+- [Engineer vs Programmer](https://www.youtube.com/watch?v=tISy7EJQPzI) - a talk about the differences between an engineer and a programmer
