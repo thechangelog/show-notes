@@ -1,0 +1,2 @@
+- [golang.org](https://golang.org)
+- [The Changelog #3: The Go programming language from Google with Rob Pike](https://changelog.com/podcast/3)
