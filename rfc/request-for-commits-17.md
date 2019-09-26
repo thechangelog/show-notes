@@ -1,1 +1,1 @@
-- [WP-CLI: Command line interface for WordPress](http://wp-cli.org/)
+- [WP-CLI: Command line interface for WordPress](https://wp-cli.org/)

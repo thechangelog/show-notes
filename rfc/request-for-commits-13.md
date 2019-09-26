@@ -6,5 +6,5 @@
 - [Livermore Computing](https://hpc.llnl.gov/)
 - [DOE National Laboratories](https://energy.gov/national-laboratories)
 - [ASC program](https://web.archive.org/web/20170701020153/https://nnsa.energy.gov/aboutus/ourprograms/defenseprograms/futurescienceandtechnologyprograms/asc)
-- [LDRD](http://www.lanl.gov/projects/ldrd-tri-lab/)
+- [LDRD](https://www.lanl.gov/projects/ldrd-tri-lab/)
 - [SBIR](https://www.sbir.gov/)
