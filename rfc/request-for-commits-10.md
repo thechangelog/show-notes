@@ -1,4 +1,4 @@
-Charlotte Spencer is a software developer who’s done a lot of notable work around making open source more approachable and is a core member of the Hoodie project.
+Charlotte Spencer is a software developer who has done a lot of notable work around the world making open source more approachable and is a core member of the Hoodie project.
 
 ---
 
