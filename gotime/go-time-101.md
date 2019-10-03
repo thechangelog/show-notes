@@ -1,4 +1,4 @@
 - [Go Playground example #1](https://play.golang.org/p/eFzzuE6wYYy) - this demonstrates the sql safety pattern that Roberto mentions in the episode.
 - [Go Playground example #2](https://play.golang.org/p/PsM2oA9Pyiv) - this demonstrates the stringer pattern mentioned by Roberto to avoid printing passwords out in logs.
 - [go-fuzz package](https://github.com/dvyukov/go-fuzz) - a package for generating random inputs for your code.
-- [So you want to expose Go on the Internet](https://blog.filippo.io/exposing-go-on-the-internet/) - although this needs updated, it was written by Filippo to help others tackle the challenge of securely exposing Go services to the internet.
+- [So you want to expose Go on the Internet](https://blog.filippo.io/exposing-go-on-the-internet/) - although this needs updating, it was written by Filippo to help others tackle the challenge of securely exposing Go services to the internet.
