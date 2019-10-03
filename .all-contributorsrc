@@ -296,6 +296,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "johanbrandhorst",
+      "name": "Johan Brandhorst",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6604151?v=4",
+      "profile": "https://jbrandhorst.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
