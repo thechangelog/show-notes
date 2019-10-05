@@ -1,4 +1,4 @@
-# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors)
+# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors)
 
 The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.
 
@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="http://syrusakbary.com"><img src="https://avatars2.githubusercontent.com/u/188257?v=4" width="100px;" alt="Syrus Akbary"/><br /><sub><b>Syrus Akbary</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=syrusakbary" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/tipabu"><img src="https://avatars3.githubusercontent.com/u/4432952?v=4" width="100px;" alt="Tim Burke"/><br /><sub><b>Tim Burke</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=tipabu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://jbrandhorst.com"><img src="https://avatars2.githubusercontent.com/u/6604151?v=4" width="100px;" alt="Johan Brandhorst"/><br /><sub><b>Johan Brandhorst</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=johanbrandhorst" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/oasis-agano/"><img src="https://avatars1.githubusercontent.com/u/7963983?v=4" width="100px;" alt="Agano oasis"/><br /><sub><b>Agano oasis</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=kenseii" title="Documentation">📖</a></td>
   </tr>
 </table>
 
