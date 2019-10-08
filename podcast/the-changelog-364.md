@@ -15,4 +15,4 @@
 #### Val's ebooks
 
 - [The 80/20 Guide to ES2015 Generators](http://es2015generators.com)
-- [Mastering Async/Await](asyncawait.net)
+- [Mastering Async/Await](https://asyncawait.net)
