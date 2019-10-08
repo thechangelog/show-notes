@@ -1,4 +1,4 @@
-# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors)
+# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors)
 
 The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.
 
@@ -37,7 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/markanin"><img src="https://avatars3.githubusercontent.com/u/3586510?v=4" width="100px;" alt="Maria Kaninia"/><br /><sub><b>Maria Kaninia</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=markanin" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://resch.pw"><img src="https://avatars0.githubusercontent.com/u/9086371?v=4" width="100px;" alt="Niklas Resch"/><br /><sub><b>Niklas Resch</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=hum6ug" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://clue404.de"><img src="https://avatars0.githubusercontent.com/u/9086371?v=4" width="100px;" alt="Niklas Resch"/><br /><sub><b>Niklas Resch</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=clue404" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/SeanYeoTE"><img src="https://avatars1.githubusercontent.com/u/42197237?v=4" width="100px;" alt="SeanYeoTE"/><br /><sub><b>SeanYeoTE</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=SeanYeoTE" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/atlapse"><img src="https://avatars0.githubusercontent.com/u/42579314?v=4" width="100px;" alt="atlapse"/><br /><sub><b>atlapse</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=atlapse" title="Documentation">📖</a></td>
     <td align="center"><a href="http://about.me/zacharybk"><img src="https://avatars1.githubusercontent.com/u/762647?v=4" width="100px;" alt="Zachary Bouzan-Kaloustian"/><br /><sub><b>Zachary Bouzan-Kaloustian</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=zacharybk" title="Documentation">📖</a></td>
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/tipabu"><img src="https://avatars3.githubusercontent.com/u/4432952?v=4" width="100px;" alt="Tim Burke"/><br /><sub><b>Tim Burke</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=tipabu" title="Documentation">📖</a></td>
     <td align="center"><a href="https://jbrandhorst.com"><img src="https://avatars2.githubusercontent.com/u/6604151?v=4" width="100px;" alt="Johan Brandhorst"/><br /><sub><b>Johan Brandhorst</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=johanbrandhorst" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/oasis-agano/"><img src="https://avatars1.githubusercontent.com/u/7963983?v=4" width="100px;" alt="Agano oasis"/><br /><sub><b>Agano oasis</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=kenseii" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/NilanjanTarafder"><img src="https://avatars2.githubusercontent.com/u/42414665?v=4" width="100px;" alt="NILANJAN TARAFDER"/><br /><sub><b>NILANJAN TARAFDER</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=NilanjanTarafder" title="Documentation">📖</a></td>
   </tr>
 </table>
 
