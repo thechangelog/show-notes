@@ -1,1 +1,1 @@
-- [babel](https://babeljs.io/)
+- [babel js editor](https://babeljs.io/)
