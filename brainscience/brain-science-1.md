@@ -10,7 +10,7 @@ As humans, we are fundamentally designed to feel. Feelings aren’t facts but th
 
 ### Designed to connect
 
-As humans, we are fundamentally designed to connect and be connected with others. When we don’t have a community wherein we can be our authentic selves, we’re apt to struggle more than we would without them.
+As humans, we are fundamentally designed to connect and be connected with others. When we don’t have a community wherein we can be our authentic selves, we are apt to struggle more than we would without them.
 
 1. Is connection or touch with other humans required?
 2. Attachment is 100% learned - it is not genetically determined. That brings hope because we can modify our relationship as we, too, change.
