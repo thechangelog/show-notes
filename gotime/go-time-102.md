@@ -1,0 +1,10 @@
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+- Context matters on how you lay out your project
+- We need an `it depends` Gopher in Gopher slack
+- Standard Go Project Layout ~> [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+- [xkcd on Stadards](https://xkcd.com/927/)
+- [Latency numbers every programmer should know](https://gist.github.com/jboner/2841832)
+- [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- [Modern software over-engineering mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
+- [Rethinking classical concurrency patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ) by Bryan C. Mills @ GopherCon 2018
+- [Microservices in Go](https://www.youtube.com/watch?v=WiCru2zIWWs) by Matt Heath @ GOTO 2016
