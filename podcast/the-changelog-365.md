@@ -1,0 +1,7 @@
+- [InfoQ's latest programming language trends report lists Elixir for first time](https://www.infoq.com/articles/programming-language-trends-2019/)
+- [Jerod talk about Elixir and changelog.com on Full Stack Radio](http://www.fullstackradio.com/116)
+- [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view)
+- [Phoenix Phrenzy](https://phoenixphrenzy.com)
+- [The Lumen project on GitHub](https://github.com/lumen/lumen)
+- [Elixir Forum is pretty great](https://elixirforum.com)
+- [EMPEX LA is Feb 8, 2020](https://empex.co)
