@@ -12,3 +12,4 @@ For those who donâ€™t want to wait and just want 20% off your ticket right now â
 - [StranglerFigApplication](https://martinfowler.com/bliki/StranglerFigApplication.html)
 - [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree) on Wikipedia
 - [The Web Platform podcast](https://thewebplatformpodcast.com)
+- [Jscodeshift](https://github.com/facebook/jscodeshift)
