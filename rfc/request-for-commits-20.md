@@ -5,5 +5,6 @@
 - [How I Stumbled Upon The Internet’s Biggest Blind Spot](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58#.e09jv418s)
 - [Open source was worth at least $143M of Instagram’s $1B acquisition](https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681#.89yt4315x)
 - [Open source infrastructure Q&A](https://medium.com/@nayafia/open-source-infrastructure-the-q-a-a44615861944#.m4fxrks9f)
+- [What if Facebook were a nonprofit?](https://nadiaeghbal.com/facebook-nonprofit)
 - [Sustain](https://sustainoss.org/) - a one day conversation for open source software sustainers
 - [Maintainerati](https://maintainerati.org/)
