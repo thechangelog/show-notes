@@ -67,6 +67,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://www.linkedin.com/in/oasis-agano/"><img src="https://avatars1.githubusercontent.com/u/7963983?v=4" width="100px;" alt="Agano oasis"/><br /><sub><b>Agano oasis</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=kenseii" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/NilanjanTarafder"><img src="https://avatars2.githubusercontent.com/u/42414665?v=4" width="100px;" alt="NILANJAN TARAFDER"/><br /><sub><b>NILANJAN TARAFDER</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=NilanjanTarafder" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mtayllan"><img src="https://avatars0.githubusercontent.com/u/33026097?v=4" width="100px;" alt="mtayllan"/><br /><sub><b>mtayllan</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=mtayllan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/atefBB"><img src="https://avatars0.githubusercontent.com/u/10966925?v=4" width="100px;" alt="Atef Ben Ali"/><br /><sub><b>Atef Ben Ali</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=atefBB" title="Documentation">📖</a></td>
   </tr>
 </table>
 
