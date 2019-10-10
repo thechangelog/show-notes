@@ -1,4 +1,4 @@
-# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors)
+# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors)
 
 The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.
 
@@ -71,6 +71,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
   <tr>
     <td align="center"><a href="https://github.com/atefBB"><img src="https://avatars0.githubusercontent.com/u/10966925?v=4" width="100px;" alt="Atef Ben Ali"/><br /><sub><b>Atef Ben Ali</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=atefBB" title="Documentation">📖</a></td>
     <td align="center"><a href="https://scotteratigan.github.io/"><img src="https://avatars3.githubusercontent.com/u/36186544?v=4" width="100px;" alt="Scott Ratigan"/><br /><sub><b>Scott Ratigan</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=scotteratigan" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://edbrannin.com"><img src="https://avatars3.githubusercontent.com/u/121909?v=4" width="100px;" alt="Ed Brannin"/><br /><sub><b>Ed Brannin</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=edbrannin" title="Documentation">📖</a></td>
   </tr>
 </table>
 

@@ -350,6 +350,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "edbrannin",
+      "name": "Ed Brannin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/121909?v=4",
+      "profile": "http://edbrannin.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
