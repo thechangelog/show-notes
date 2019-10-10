@@ -1,1 +1,1 @@
-- [Sticker Mule: Custom stickers that kick ass](https://www.stickermule.com/)
+- [Sticker Mule: Custom stickers](https://www.stickermule.com/)
