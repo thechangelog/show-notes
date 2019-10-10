@@ -5,7 +5,7 @@
 - [How I Stumbled Upon The Internet’s Biggest Blind Spot — Medium](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58#.e09jv418s)
 - [Open source was worth at least $143M of Instagram’s $1B acquisition — Medium](https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681#.89yt4315x)
 - [Open source infrastructure: the Q&A — Medium](https://medium.com/@nayafia/open-source-infrastructure-the-q-a-a44615861944#.m4fxrks9f)
-- [What if Facebook were a nonprofit?](http://www.disruption.vc/blog/what-if-facebook-were-a-nonprofit)
+- [What if Facebook were a nonprofit?](https://nadiaeghbal.com/facebook-nonprofit)
 - [GreatSchools - Public and Private School Ratings, Reviews and Parent Community](http://www.greatschools.org/)
 - [500 Startups](http://500.co/)
 - [Slack Raises $80 Million Fund to Support Platform Strategy - Digits - WSJ](http://blogs.wsj.com/digits/2015/12/15/slack-raises-80-million-fund-to-support-platform-strategy/)
