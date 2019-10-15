@@ -2,9 +2,20 @@
 - [Surge in Chinese research related to surveillance of Muslim minorities](https://twitter.com/jacobeisenstein/status/1136742525257957377)
 - [US AI Blacklist summary article from MIT Technology Review](https://www.technologyreview.com/f/614494/china-ai-firms-blacklisted-xinjiang-ai-chips/)
 - Hikvision
+    - [Their website](https://www.hikvision.com/)
+    - [Here’s what you need to know about Hikvision, the camera maker behind China’s mass surveillance system](https://www.scmp.com/tech/big-tech/article/2185123/heres-what-you-need-know-about-hikvision-camera-maker-behind-chinas)
+    - [China's Hikvision Has Probably Filmed You](https://www.bloomberg.com/news/articles/2019-05-22/china-s-hikvision-weighed-for-u-s-ban-has-probably-filmed-you)
 - iFlytek
+    - [Their website](https://www.iflytek.com/)
+    - [Why 500 Million People in China Are Talking to This AI](https://www.technologyreview.com/s/608841/why-500-million-people-in-china-are-talking-to-this-ai/)
 - Megvii
+    - [Their website](https://www.megvii.com/en/)
+    - [Behind the Rise of China’s Facial-Recognition Giants](https://www.wired.com/story/behind-rise-chinas-facial-recognition-giants/)
+    - [Megvii, the Chinese startup unicorn known for facial recognition tech, files to go public in Hong Kong](https://techcrunch.com/2019/08/26/megvii-the-chinese-startup-unicorn-known-for-facial-recognition-tech-files-to-go-public-in-hong-kong/)
 - Yitu
+    - [Their website](https://www.yitutech.com/en)
+    - [AI Startup Yitu Seeks IPO on China’s New Tech Board](https://www.bloomberg.com/news/articles/2019-09-03/ai-startup-yitu-is-said-to-seek-ipo-on-china-s-new-tech-board)
+    - [This Chinese facial recognition start-up can identify a person in seconds](https://www.cnbc.com/2019/05/16/this-chinese-facial-recognition-start-up-can-id-a-person-in-seconds.html)
 
 Learning resources:
 - [TensorFlow 2.0 notebook](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
