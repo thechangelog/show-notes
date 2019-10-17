@@ -1,5 +1,5 @@
-- [Easy Accessibility Testing with aXe](https://axe-core.org/)
-- [aXe Future Tools](https://axe-core.org/coconut/)
+- [Easy Accessibility Testing with aXe](https://www.deque.com/axe/)
+- [aXe Future Tools](https://www.deque.com/axe/axe-for-web/early-release/)
 - [a11y | Join us on Slack!](https://web-a11y.herokuapp.com/)
 - [tota11y – an accessibility visualization toolkit](http://khan.github.io/tota11y/)
 - [GitHub - reactjs/react-a11y: Identifies accessibility issues in your React.js elements](https://github.com/reactjs/react-a11y)
