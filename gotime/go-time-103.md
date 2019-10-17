@@ -1,0 +1,4 @@
+- [ristretto](https://github.com/dgraph-io/ristretto) - a high performance open source Go cache
+- [caffeine](https://github.com/ben-manes/caffeine) - a high performance caching library for Java that was part inspiration for ristretto.
+- [TinyLFU](https://arxiv.org/pdf/1512.00727.pdf) - a paper discussing a highly efficient cache admission policy adopted in many modern high performance caches
+- [BP-Wrapper](http://www.ece.eng.wayne.edu/~sjiang/pubs/papers/ding-09-BP-Wrapper.pdf) - a paper discussing a way to improve lock contention for caches and databases
