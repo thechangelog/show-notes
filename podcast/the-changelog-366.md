@@ -2,4 +2,5 @@
 - [The Long Tail: Why the Future of Business is Selling Less of More](https://www.amazon.com/Long-Tail-Future-Business-Selling/dp/1401309666) by Chris Anderson
 - [DIY Drones](https://diydrones.com)
 - [Dronecode](https://www.dronecode.org)
+- [DIY Robocars](https://diyrobocars.com/)
 - [Donkey Car](https://www.donkeycar.com)
