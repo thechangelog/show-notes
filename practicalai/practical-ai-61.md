@@ -1,0 +1,6 @@
+- [data2vis](https://github.com/victordibia/data2vis)
+- [TJbot](http://www.research.ibm.com/tjbot/)
+- [TensorFlow.js](https://www.tensorflow.org/js)
+- [Handtrack.js](https://github.com/victordibia/handtrack.js/)
+- [ConvNet Playground](https://convnetplayground.fastforwardlabs.com/#/)
+- [JS Party](https://changelog.com/jsparty)
