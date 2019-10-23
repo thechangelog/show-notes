@@ -1,6 +1,6 @@
-We discussed about the concept of SMART goals — they are specific, measurable, achievable, realistic, and based on a specific time frame.
+We discussed the concept of SMART goals — they are specific, measurable, achievable, realistic, and based on a specific time frame.
 
-We discussed about the concept of HALT. Are you hungry, angry, lonely or tired? If so, coping will invariably be different, regardless of your age.
+We discussed the concept of HALT. Are you hungry, angry, lonely or tired? If so, coping will invariably be different, regardless of your age.
 
 We also discussed several examples of emotional coping strategies:
 
