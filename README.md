@@ -111,7 +111,7 @@ Our show notes are authored good ole' [Markdown](https://github.com/adam-p/markd
 
 ## Guidelines
 
-* Frequently our show notes are prepared prior to recording
+* Frequently our show notes are prepared before recording
 and sometimes prepared links don't make it into the show for one or another reason.
 If you happen to notice one of these zombie links our policy is to remove them.
 
