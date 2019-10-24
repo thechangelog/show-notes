@@ -1,4 +1,4 @@
-# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors)
+# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors)
 
 The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.
 
@@ -78,6 +78,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PDavid"><img src="https://avatars3.githubusercontent.com/u/1415396?v=4" width="100px;" alt="Dávid Paksy"/><br /><sub><b>Dávid Paksy</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=PDavid" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/omaiyea"><img src="https://avatars0.githubusercontent.com/u/34819618?v=4" width="100px;" alt="Angelica Omaiye"/><br /><sub><b>Angelica Omaiye</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=omaiyea" title="Documentation">📖</a></td>
   </tr>
 </table>
 
