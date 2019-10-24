@@ -1,7 +1,7 @@
 #### Standards & Opening the Black Box
 
 * [TC39](https://github.com/tc39) on GitHub
-* [Miles Borins](https://twitter.com/mylesborins?lang=en)
+* [Myles Borins](https://twitter.com/mylesborins?lang=en)
 * [Daniel Ehrenberg](https://twitter.com/littledan?lang=en)
 * [Maggie Pint](https://twitter.com/maggiepint?lang=en)
 * [TC39 proposals](https://github.com/tc39/proposals)
