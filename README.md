@@ -1,4 +1,4 @@
-# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors)
+# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors)
 
 The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.
 
@@ -75,6 +75,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/hoanglongtran"><img src="https://avatars3.githubusercontent.com/u/10310088?v=4" width="100px;" alt="neX"/><br /><sub><b>neX</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=hoanglongtran" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/danherrero"><img src="https://avatars1.githubusercontent.com/u/3137638?v=4" width="100px;" alt="Dan Herrero"/><br /><sub><b>Dan Herrero</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=danherrero" title="Documentation">📖</a></td>
     <td align="center"><a href="https://bugcrowd.com/Pritam_Singh"><img src="https://avatars0.githubusercontent.com/u/27357082?v=4" width="100px;" alt="Pritam Singh"/><br /><sub><b>Pritam Singh</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=PsOverflow" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PDavid"><img src="https://avatars3.githubusercontent.com/u/1415396?v=4" width="100px;" alt="Dávid Paksy"/><br /><sub><b>Dávid Paksy</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=PDavid" title="Documentation">📖</a></td>
   </tr>
 </table>
 
