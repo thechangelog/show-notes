@@ -1,0 +1,12 @@
+* [JAMStack](https://jamstack.org/)
+* [Videos from JAMStackConfSF](https://jamstackconf.com/sf/schedule/)
+* [Modern Web Development on the JAMstack (book)](https://www.netlify.com/oreilly-jamstack/)
+* [Netlify Redirects/Rewrites](https://docs.netlify.com/routing/redirects/)
+* [Gatsby progress towards incremental builds](https://www.gatsbyjs.org/blog/2019-06-12-performance-improvements-for-large-sites/)
+* [Sample project doing content sharing using Netlify caching](https://github.com/philhawksworth/content-shards)
+* [Netlify Build Plugins](https://www.netlify.com/build/plugins-beta/)
+* [Netlify CMS](https://www.netlifycms.org/)
+* [Forestry CMS](https://forestry.io/)
+* [Netlify deploy previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/)
+* [ZEIT Now](https://zeit.co/docs/v2/advanced/now-for-github)
+
