@@ -1,0 +1,3 @@
+- [InfluxData](https://www.influxdata.com/)
+- [InfluxDB](https://github.com/influxdata/influxdb)
+- [M-Competition benchmarks](https://en.wikipedia.org/wiki/Makridakis_Competitions)
