@@ -15,4 +15,4 @@ Book recommendations:
 
 - [The Power of Habit](https://charlesduhigg.com/the-power-of-habit/)
 - [Atomic Habits](https://jamesclear.com/atomic-habits)
-- [Essentialism](https://gregmckeown.com/book/) - The disciplined pursuit of less by Greg McKeown (Adam's favorite chapter is "Protect the asset")
+- [Essentialism](https://gregmckeown.com/book/) - The Disciplined Pursuit of Less by Greg McKeown (Adam's favorite chapter is "Protect the asset")
