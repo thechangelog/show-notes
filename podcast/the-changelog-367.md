@@ -1,0 +1,6 @@
+- [The Agile Manifesto](https://agilemanifesto.org/)
+- [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
+- [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
+- [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/)
+- [The Software Craftsman](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/)
