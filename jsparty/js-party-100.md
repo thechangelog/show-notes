@@ -1,0 +1,4 @@
+- [Code the Dream](https://www.codethedream.com)
+- [Keep Upstate app](https://app.keepupstate.com)
+- [Hire the Fempire](https://apprentice.thisdot.co)
+- [Momentum](https://www.momentumlearn.com)
