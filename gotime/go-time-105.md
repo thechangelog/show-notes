@@ -1,0 +1,2 @@
+- [Kubernetes.io](https://kubernetes.io/)
+- [Heptio is now part of VMware](https://heptio.cloud.vmware.com/)
