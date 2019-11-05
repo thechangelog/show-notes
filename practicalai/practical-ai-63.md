@@ -1,0 +1,2 @@
+- [Heartex](https://www.heartex.ai/)
+- [Label Studio](https://labelstud.io/)
