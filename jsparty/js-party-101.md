@@ -1,0 +1,3 @@
+- [Should We Rebrand JavaScript?](https://kieranpotts.com/rebranding-javascript/)
+- [A YouTube video of Sesame Street's YipYips](https://www.youtube.com/watch?v=KTc3PsW5ghQ)
+- [The JavaScript community logo](https://github.com/voodootikigod/logo.js)
