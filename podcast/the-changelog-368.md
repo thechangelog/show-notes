@@ -1,0 +1,3 @@
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
+- [FindCollabs](https://findcollabs.com/)
+- [Hip Hop Beats on FindCollabs](https://findcollabs.com/project/rap-over-a-beat-i-made-Nk9DugzLrFTPAGOxiQMs)
