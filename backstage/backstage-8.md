@@ -1,0 +1,4 @@
+- If you like Mat's accent, put [Go Time](https://changelog.com/gotime) in your ears
+- Mat previously talked about MachineBox [on Practical AI](https://changelog.com/practicalai/2)
+- The graph databases Go Time is [#108](https://changelog.com/gotime/108) (broken link until the episode airs)
+- Jerod referred to PostGraphQL, which is now called [PostGraphile](https://github.com/graphile/postgraphile) (and cool, despite it not being for us)
