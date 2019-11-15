@@ -1,0 +1,7 @@
+- Go back and listen to [The Changelog #195](https://changelog.com/podcast/195), Quincy's first appearance here on The Changelog
+- [The Future of freeCodeCamp.org - Lessons From 5 Years of Teaching the World to Code](https://www.freecodecamp.org/news/the-future-of-freecodecamp-5-year-anniversary/)
+- [The Future of the freeCodeCamp Forum](https://www.freecodecamp.org/news/the-future-of-the-freecodecamp-forum/)
+- [WeWork is Desperately Squeezing Cash Out of Meetup.com by Taxing 225,000 Communities](https://www.freecodecamp.org/news/the-wework-meetup-debacle-and-a-new-chapter/)
+- [Every donation you’ve ever made to freeCodeCamp is now tax deductible](https://www.freecodecamp.org/news/every-donation-youve-ever-made-to-freecodecamp-is-now-tax-deductible-7b70cf3b9b75/)
+- Check out the [freeCodeCamp podcast](https://freecodecamp.libsyn.com/)
+- [freeCodeCamp Chapter](https://github.com/freeCodeCamp/chapter) - a self-hosted event management tool for nonprofits
