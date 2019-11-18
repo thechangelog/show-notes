@@ -1,0 +1,7 @@
+- [Grakn Labs](https://grakn.ai/)
+- [GraphSAGE](http://snap.stanford.edu/graphsage/)
+- [Prologue](https://en.wikipedia.org/wiki/Prolog)
+- [Graph Nets (TensorFlow)](https://github.com/deepmind/graph_nets)
+- [Grakn KGLIB](https://github.com/graknlabs/kglib)
+- [Grakn example projects and tutorials](https://github.com/graknlabs/examples)
+- [Grakn Blog](https://blog.grakn.ai/)
