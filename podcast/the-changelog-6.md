@@ -1,4 +1,3 @@
-
 - [Steven Bristol](http://twitter.com/stevenbristol)
 - [LessEverything](http://lesseverything.com)
 - [Erlang](http://thechangelog.com/post/270600791/otp-kickoff-kick-off-a-new-erlang-otp-project)
