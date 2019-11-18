@@ -1,4 +1,3 @@
-
 - [Google Chrome OS](http://thechangelog.com/post/255853114/google-chrome-os-chromium-os)
 - [HandBrake 0.9.4](http://thechangelog.com/post/256716884/handbrake-0-9-4-released-64-bit-support)
 - [CocoUI](http://thechangelog.com/post/258093819/functional-cocoa-applications-using-webkit)
