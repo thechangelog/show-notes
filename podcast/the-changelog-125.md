@@ -1,4 +1,3 @@
-* [parkr (Parker Moore)](https://github.com/parkr)
 * [Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 * [News](http://jekyllrb.com/news/)
 * [History](http://jekyllrb.com/docs/history/#section-3)
