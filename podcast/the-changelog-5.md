@@ -1,4 +1,3 @@
-
 We're getting the hang of this. We're pioneering Agile Podcasting!
 
 - [Jeremy Ashkenas](http://github.com/jashkenas)
