@@ -1,4 +1,3 @@
-
 - [Chris Wanstrath](https://github.com/defunkt)
 - [GitHub](https://github.com/)
 - [Git](http://git-scm.com/)
