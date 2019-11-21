@@ -1,0 +1,7 @@
+- We're celebrating [a decade of conversations, news, and community](https://changelog.com/ten) here at Changelog
+- Adam goes [fulltime](https://changelog.com/posts/fulltime)
+- We have [7 active podcasts](https://changelog.com/podcasts)
+- We also celebrated [5 years of freeCodeCamp](https://changelog.com/podcast/369) on The Changelog with Quincy
+- Go back and listen to [The Changelog #195](https://changelog.com/podcast/195), Quincy's first appearance here on The Changelog
+- You should listen and subscribe to [the freeCodeCamp podcast](https://podcast.freecodecamp.org/)
+- [Become a supporter](https://www.freecodecamp.org/donate) of freeCodeCamp
