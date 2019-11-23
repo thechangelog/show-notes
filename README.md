@@ -1,4 +1,4 @@
-# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors)
+# Changelog Show Notes 📝 [![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors)
 
 The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.
 
@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/PDavid"><img src="https://avatars3.githubusercontent.com/u/1415396?v=4" width="100px;" alt="Dávid Paksy"/><br /><sub><b>Dávid Paksy</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=PDavid" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/omaiyea"><img src="https://avatars0.githubusercontent.com/u/34819618?v=4" width="100px;" alt="Angelica Omaiye"/><br /><sub><b>Angelica Omaiye</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=omaiyea" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/RajatVaryani"><img src="https://avatars0.githubusercontent.com/u/37879062?v=4" width="100px;" alt="Rajat Varyani"/><br /><sub><b>Rajat Varyani</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=RajatVaryani" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.metala.org"><img src="https://avatars3.githubusercontent.com/u/120106?v=4" width="100px;" alt="Marin Ivanov"/><br /><sub><b>Marin Ivanov</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=metala" title="Documentation">📖</a></td>
   </tr>
 </table>
 
