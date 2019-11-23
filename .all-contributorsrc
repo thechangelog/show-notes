@@ -413,6 +413,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "metala",
+      "name": "Marin Ivanov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/120106?v=4",
+      "profile": "http://www.metala.org",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
