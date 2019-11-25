@@ -1,0 +1,5 @@
+- [Eterna Game](https://eternagame.org)
+- [Streamlit](https://streamlit.io/)
+- [Streamlit articles](https://www.google.com/search?q=streamlit+medium)
+- [Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit)
+- [R Shiny](https://shiny.rstudio.com/)
