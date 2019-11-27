@@ -1,0 +1,8 @@
+- [Badger: A fast key-value store written purely in Go](https://blog.dgraph.io/post/badger/)
+- [Just For Func](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+- [Neo4j Graph DB](https://neo4j.com/)
+- [GraphQL](https://graphql.org/)
+- [Ristretto](https://github.com/dgraph-io/ristretto)
+- [Dgraph](https://dgraph.io/)
+- [Dgraph Graph DB](https://github.com/dgraph-io/dgraph)
+- [FOSDEM](https://fosdem.org/2020/)
