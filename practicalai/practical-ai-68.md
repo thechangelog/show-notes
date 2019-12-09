@@ -1,0 +1,7 @@
+- [SpaCy](https://spacy.io/)
+- [Advanced NLP with SpaCy course](https://course.spacy.io/)
+- [Thinc](https://github.com/explosion/thinc)
+- [Explosion AI](https://explosion.ai/)
+- [Prodigy](https://prodi.gy/)
+- [Fast.ai](https://www.fast.ai/)
+- [Machine learning yearning](https://www.deeplearning.ai/machine-learning-yearning/)
