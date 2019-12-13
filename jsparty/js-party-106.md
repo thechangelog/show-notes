@@ -1,0 +1,6 @@
+- [reg](https://github.com/mikeal/reg)
+- [Rabin-Karp algorithm](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+- [Mikeal’s daily OSS list](https://github.com/mikeal/daily)
+- [Postwoman](https://github.com/liyasthomas/postwoman)
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
+- [Web Almanac](https://almanac.httparchive.org/en/2019/)
