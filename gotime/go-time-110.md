@@ -1,0 +1,2 @@
+- [Baltimore Metro Area Go User Group](https://www.meetup.com/BaltimoreGolang/)
+- [Jon's pink recording room](https://twitter.com/joncalhoun/status/1196875326028206080)
