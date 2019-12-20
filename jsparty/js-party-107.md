@@ -1,0 +1,3 @@
+- Listen to Ahmad's epic backstory [on The Changelog #185](https://changelog.com/podcast/185)
+- Read Ahmad's [slide deck on modern patterns in modular architecture](https://ahmadnassri.com/talks/modern-patterns-in-modular-architecture/)
+- Check out [Framer](https://www.framer.com/)
