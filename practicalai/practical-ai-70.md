@@ -1,0 +1,7 @@
+- [Yahoo learning to rank challenge](http://proceedings.mlr.press/v14/chapelle11a/chapelle11a.pdf)
+- [NEAT approach to neuroevolution](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
+- [OpenAI evolutionary strategies for Atari](https://openai.com/blog/evolution-strategies/)
+- [Rust](https://www.rust-lang.org/)
+- [PyO3, Rust binding for the Python interpreter](https://github.com/PyO3/pyo3)
+- [Buzzsaw: A System for High Speed Feature Engineering](https://mlsys.org/Conferences/2019/doc/2018/141.pdf)
+- [LinkedIn at KDD](https://engineering.linkedin.com/research/linkedin-kdd-2019)
