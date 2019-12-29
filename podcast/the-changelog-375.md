@@ -12,7 +12,7 @@ See also: [Gerhard goes to KubeCon (part 1)](https://changelog.com/podcast/374)
 
 - [Grafana's website](https://grafana.com)
 - [Cortex](https://cortexmetrics.io)
-- [Tanker](https://tanker.io)
+- [Tanka](https://tanka.dev)
 
 #### Crossplane
 
