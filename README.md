@@ -85,6 +85,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="http://kyleandhaley.com"><img src="https://avatars0.githubusercontent.com/u/978620?v=4" width="100px;" alt=""/><br /><sub><b>Kyle</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=KyleMartin901" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.sinisterstuf.org"><img src="https://avatars1.githubusercontent.com/u/840466?v=4" width="100px;" alt=""/><br /><sub><b>Siôn le Roux</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=sinisterstuf" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/anandb89"><img src="https://avatars1.githubusercontent.com/u/19282889?v=4" width="100px;" alt=""/><br /><sub><b>Anand Bambhania</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=anandb89" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
