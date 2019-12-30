@@ -1,2 +1,3 @@
 - [Kubernetes.io](https://kubernetes.io/)
 - [Heptio is now part of VMware](https://heptio.cloud.vmware.com/)
+- ["You Can't Have a Cluster \[BLEEP\] Without a Cluster"](https://www.youtube.com/watch?v=CLVIbCs2VJY)
