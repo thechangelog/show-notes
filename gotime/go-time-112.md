@@ -1,0 +1,5 @@
+- [RAII - the C++ like equivalent to Go's defer](https://en.cppreference.com/w/cpp/language/raii)
+- [Go's recover builtin](https://golang.org/pkg/builtin/#recover)
+- [Compiler changes for lighter defers in 1.14](https://go-review.googlesource.com/c/go/+/190098/20/src/cmd/compile/internal/gc/ssa.go)
+- [Complete defer changeset](https://go-review.googlesource.com/c/go/+/190098)
+- [Builders](https://build.golang.org/)
