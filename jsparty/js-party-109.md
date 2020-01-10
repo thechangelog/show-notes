@@ -1,0 +1,5 @@
+- [Node.js Loader Hooks for Fun and Profit](https://sched.co/T5GI)
+- [Transform a Country through Code](https://sched.co/T5Gg)
+- [Oh No! The Robots Have Taken Over!](https://sched.co/T5HD)
+- [A Crash Course On Worker Threads](https://sched.co/T5FK)
+- [A Chat with the Node.js Technical Steering Committee](https://sched.co/T5GO)
