@@ -1,0 +1,7 @@
+- [Cloudflare blog](https://blog.cloudflare.com/)
+- [John’s Gophercon Talk](https://www.youtube.com/watch?v=SmoM1InWXr0)
+- [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
+- [Hoare's paper on CSP](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)
+- [Leap Second Bug](https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/)
+- [Apology to Turing story](https://www.theguardian.com/world/2009/sep/11/pm-apology-to-alan-turing)
+- [Gordon Brown](https://en.wikipedia.org/wiki/Gordon_Brown)
