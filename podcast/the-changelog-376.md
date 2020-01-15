@@ -24,5 +24,5 @@ Listener todo's:
 
 - Go Time is back (as of April 2019) and hit their [100th episode](https://changelog.com/gotime/100) — you should [subscribe and listen](https://changelog.com/gotime)
 - We launched a new podcast called Brain Science — [listen and subscribe](https://changelog.com/brainscience)
-- Help us celebrate [a decade of Changelog](https://changelog.com/ten)
+- Help us celebrate [10 years of Changelog](https://changelog.com/ten)
 - Keep up with all our shows by [subscribing to Master](https://changelog.com/master) (this is the only way to get [Backstage](https://changelog.com/backstage))
