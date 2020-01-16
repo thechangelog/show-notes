@@ -1,0 +1,3 @@
+Many organizations and teams have adopted Go for its focus on concurrency and efficiency, and Heroku is no different. Although it's no longer a "new" language, diving into Go can be intimidating, whether you're a seasoned programmer or a new hire. Johnny Boursiquot, Ed Muller, and Rishabh Wason discuss the joys and challenges of learning Go, applying it to projects at Heroku, and teaching colleagues how to write idiomatic code.
+
+Check the [show notes](https://www.heroku.com/podcasts/codeish/46-go-at-heroku) and [transcript](https://www.heroku.com/podcasts/codeish/46-go-at-heroku#transcript) for more details.
