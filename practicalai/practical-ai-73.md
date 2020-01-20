@@ -1,0 +1,6 @@
+- [Bright Machines](https://www.brightmachines.com/)
+- [Bright Machines' Microfactories](https://www.brightmachines.com/products/#microfactories)
+- [Digital twins](https://en.wikipedia.org/wiki/Digital_twin)
+- Other relevant Practical AI episodes:
+    - [Deep Reinforcement Learning](https://changelog.com/practicalai/40)
+    - [Robot hands solving Rubik's cubes](https://changelog.com/practicalai/64)
