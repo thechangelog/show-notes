@@ -1,0 +1,3 @@
+Rust is a type-safe, concurrent, and memory efficient language from Mozilla. Developers from various backgrounds are turning towards it more as a means of quickly writing performant and functional code for browsers, cryptocurrencies, operating systems, CLIs, and--oh yeah, embedded devices. Carol Nichols and Jake Goulding are Rust instructors and enthusiasts, and they join Chris Castle to talk about Rust's underlying strengths as an ideal blend of simpler languages, like Ruby, with more memory conscious ones, like C.
+
+Check the [show notes](https://www.heroku.com/podcasts/codeish/34-an-introduction-to-rust) and [transcript](https://www.heroku.com/podcasts/codeish/34-an-introduction-to-rust#transcript) for more details.
