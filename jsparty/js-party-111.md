@@ -1,0 +1,7 @@
+- Tweet at [@luruke](https://twitter.comk/luruke) and thank him for this repo
+- [This is the repo](https://github.com/luruke/browser-2020), btw
+- Nick Nisi wants you to try the [Web Coffee API](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- We all think [the Web Share API](https://web.dev/web-share/) is neat
+- Read about the [SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+- More on the [Web Payments API](https://developers.google.com/web/fundamentals/payments)
+- Should we do an episode on [A-Frame](https://aframe.io)?
