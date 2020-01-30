@@ -1,0 +1,5 @@
+- [go.dev](https://go.dev/) - A new hub for Go devs created by the Go team
+- [pkg.go.dev](https://pkg.go.dev/) - The package discovery portion of Go.dev
+- ["Imported By" example](https://pkg.go.dev/database/sql?tab=importedby) - An example of a package and its imports on Go.dev
+- <go-discovery-feedback@google.com> - Feedback email address
+- [go-licenses](https://github.com/google/go-licenses) - A tool to check go package licenses
