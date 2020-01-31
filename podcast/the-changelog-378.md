@@ -1,0 +1,5 @@
+- [adamsgaard.dk](https://adamsgaard.dk/)
+- [The Scholarref Tools](https://adamsgaard.dk/scholarref.html)
+- [Why I deleted my GitHub account](https://blog.dachary.org/2018/07/29/why-i-deleted-my-github-account/)
+- [Anders Damsgaard's photography](https://andersdamsgaard.com)
+- [stagit - Static git web viewer](https://github.com/oxalorg/stagit)
