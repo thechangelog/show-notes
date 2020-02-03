@@ -1,0 +1,2 @@
+- [The AI Index 2019 Annual Report](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)
+- [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu)
