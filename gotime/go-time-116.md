@@ -1,0 +1,8 @@
+- [Enlightenment Window Manager](https://www.enlightenment.org/) - Window manager mentioned on the show
+- [Shiny Go Bindings](https://github.com/golang/exp/tree/master/shiny) - A way to access Shiny with Go
+- [Qt Go Bindings](https://github.com/therecipe/qt) - A way to interact with Qt in Go
+- [andlabs UI](https://github.com/andlabs/ui) - GUI library in Go
+- [Fyne](https://fyne.io/) - GUI library in Go
+- [Wails](https://wails.app/) - GUI library in Go using Vue.js
+- [Awesome Go](https://github.com/avelino/awesome-go) - List of Go projects with a GUI section
+- [Hands on GUI Application Development in Go](https://www.packtpub.com/gb/application-development/hands-gui-application-development-go) - Andrew's book on GUI development
