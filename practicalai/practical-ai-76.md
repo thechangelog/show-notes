@@ -1,0 +1,5 @@
+- [Semantic Scholar](https://www.semanticscholar.org)
+- [Allen Institute for Artificial Intelligence](https://allenai.org)
+- [ELMo](https://allennlp.org/elmo)
+- [SciBERT: A Pretrained Language Model for Scientific Text](https://arxiv.org/abs/1903.10676)
+- [Semantic Scholar API](http://api.semanticscholar.org/corpus)
