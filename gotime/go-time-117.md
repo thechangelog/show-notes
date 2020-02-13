@@ -1,0 +1,4 @@
+- [OpenTelemetry](https://opentelemetry.io/) - Telemetry software that is the merger of OpenCensus and OpenTracing
+- [Nova](https://nova-adc.com/) - ADC software created by Dave's company
+- [statsd](https://github.com/statsd/statsd) - Open source stats aggregator used often in telemetry collection
+- [Prometheus](https://prometheus.io/) - Monitoring system for metrics
