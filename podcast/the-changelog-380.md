@@ -1,0 +1,6 @@
+- [Kedro on GitHub](https://github.com/quantumblacklabs/kedro/)
+- [Kedro's documentation](https://kedro.readthedocs.io/)
+- [Cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.0/)
+- [CausalNex on GitHub](https://github.com/quantumblacklabs/causalnex)
+- [Atomu at Sundance](https://www.sundance.org/projects/atomu)
+- [QuantumBlack is hiring](https://www.quantumblack.com/careers)
