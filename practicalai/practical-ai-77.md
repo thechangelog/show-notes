@@ -1,0 +1,8 @@
+- [Mike McCourt | Invoca Employee Spotlight](https://blog.invoca.com/employee-spotlight-mike-mccourt-astrophysicist-turned-data-scientist)
+- [Invoca](https://www.invoca.com)
+- [Signal AI](https://www.invoca.com/product/signal-ai)
+- [Zipf's law](https://en.wikipedia.org/wiki/Zipf%27s_law)
+- [Meet the Data Scientists Behind Invoca’s Conversational Analytics Algorithms](https://blog.invoca.com/meet-the-data-scientists-behind-invocas-conversational-analytics-algorithms)
+-[Invoca raises $56 million to apply AI and analytics to voice calls](https://venturebeat.com/2019/10/17/invoca-raises-56-million-to-apply-ai-and-analytics-to-voice-calls)
+-[Invoca’s Signal Discovery uses machine learning to conduct conversational analysis on inbound calls](https://www.clickz.com/invocas-signal-discovery-uses-machine-learning-to-conduct-conversational-analysis-on-inbound-calls/256016)
+-[Invoca - What Will You Discover?](https://www.invoca.com/product/signal-discovery)
