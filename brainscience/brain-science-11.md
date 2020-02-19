@@ -2,4 +2,5 @@ Attention is the mechanism through which the brain focuses resources on some thi
 
 - [The Web 2.0 Show #43 w/ Kathy Sierra: Creating passionate users](http://web20show.com/92/1643-episode-43-kathy-sierra-creating-passionate-users)
 - Watch! [Pay attention: you can change your brain by Kitty Chisholm at TEDxLondonBusinessSchool](https://www.youtube.com/watch?v=nCSS4f2beDY) — where she says "It’s a very a competitive environment,” when it comes to attention.
-- Add this to your book shelf — [Flow: The Psychology of Optimal Experience](https://www.harpercollins.com/9780061339202/flow/)
+- Add this to your book shelf — [Flow: The Psychology of Optimal Experience](https://www.harpercollins.com/9780061339202/flow/) by Mihaly Csikszentmihalyi
+- As well as [Finding Flow: The Psychology of Engagement with Everyday Life](https://www.amazon.com/Finding-Flow-Psychology-Engagement-Masterminds/dp/0465024114) by Mihaly Csikszentmihalyi
