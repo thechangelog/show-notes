@@ -1,0 +1,5 @@
+- [The world's languages](https://www.ethnologue.com/guides/how-many-languages)
+- [Ethnologue](https://www.ethnologue.com)
+- [TTS for Singlish](https://github.com/sil-ai/tts-singlish)
+- [SIL International](https://www.sil.org/)
+- [Pachyderm](https://pachyderm.io/)
