@@ -3,3 +3,4 @@
 - [TTS for Singlish](https://github.com/sil-ai/tts-singlish)
 - [SIL International](https://www.sil.org/)
 - [Pachyderm](https://pachyderm.io/)
+- [Previous episode - Pachyderm's Kubernetes-based infrastructure for AI](https://changelog.com/practicalai/23)
