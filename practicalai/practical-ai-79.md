@@ -1,0 +1,7 @@
+- [Google's "Rules of ML"](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [Tensorflow](https://www.tensorflow.org/)
+- [TensorFlow Hub](https://www.tensorflow.org/hub)
+- [Unity](https://unity.com/)
+- [TensorFlow enterprise](https://cloud.google.com/tensorflow-enterprise)
+- [Google's ML crash course](https://developers.google.com/machine-learning/crash-course)
+- [10 week Kaggle course](https://www.kaggle.com/getting-started/87793)
