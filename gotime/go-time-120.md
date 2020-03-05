@@ -6,6 +6,6 @@
 - [Gopher Data](https://github.com/gopherdata) - A hub for users and developers of Go data process, analytics, etc.
 - [spaCy](https://spacy.io/) and [thinc](https://github.com/explosion/thinc) - Python Deep Learning tools that introduced type checking, suggesting this is a valuable thing in ML.
 - [Google Cloud AutoML](https://cloud.google.com/automl) - Google's machine learning models, which can be a good starting point for many orgs.
-- [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/_) - Microsoft's machine learning tooling and offering. Also a great place for many orgs to start.
+- [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) - Microsoft's machine learning tooling and offering. Also a great place for many orgs to start.
 - [Packyderm](https://github.com/pachyderm/pachyderm) - Data science platform with an open source offering.
 - [Go West Conference](https://www.gowestconf.com/) - A Go conference in Utah that our guest Miriah helps organize.
