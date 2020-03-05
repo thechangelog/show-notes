@@ -87,6 +87,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/anandb89"><img src="https://avatars1.githubusercontent.com/u/19282889?v=4" width="100px;" alt=""/><br /><sub><b>Anand Bambhania</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=anandb89" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dev.to/abhirockzz | https://medium.com/@abhishek1987"><img src="https://avatars2.githubusercontent.com/u/6301594?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Gupta</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=abhirockzz" title="Documentation">📖</a></td>
   </tr>
 </table>
 
