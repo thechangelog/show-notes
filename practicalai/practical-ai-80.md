@@ -1,0 +1,4 @@
+- [General Assembly](https://generalassemb.ly/)
+- [Betavector](https://betavector.com/)
+- [Previous episode: Exposing the deception of DeepFakes](https://changelog.com/practicalai/49)
+- [Data Science Venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
