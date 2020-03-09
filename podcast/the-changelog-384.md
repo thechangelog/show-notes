@@ -1,0 +1,6 @@
+- [Matrix.org](https://matrix.org/)
+- [Matrix spec](https://matrix.org/docs/spec)
+- [Matrix on GitHub](https://github.com/matrix-org)
+- [Welcoming Mozilla to Matrix!](https://matrix.org/blog/2019/12/19/welcoming-mozilla-to-matrix)
+- [Synchronous Messaging at Mozilla (the decision post)](https://discourse.mozilla.org/t/synchronous-messaging-at-mozilla-the-decision/50620)
+- Check out [this link](http://exple.tive.org/blarg/2019/09/06/forward-motion/) and [discussion on HN](https://news.ycombinator.com/item?id=20945551) about "candidates for Mozilla's IRC successor"
