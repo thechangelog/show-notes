@@ -1,0 +1,9 @@
+The Altair 8800 is why we have computers in most homes today. It was initially designed for hobbyists. But a few visionaries saw massive potential in this strange little machine—and worked hard to make others see it too. What they created led to so much more than anyone could have ever imagined.
+
+Forrest Mims tells us how his co-founder, Ed Roberts, planned to save their struggling electronics company. His idea? A microcomputer made for hobbyists. That computer led to a fateful phone call from Bill Gates and Paul Allen. Dan Sokol and Lee Felsenstein recall the unveiling of the Altair 8800 at the Homebrew Computer Club, and how it sparked Steve Wozniak's eureka moment for the Apple I. We then hear from John Markoff about an infamous software heist that set the stage for the debate about whether code should be proprietary. And finally, Limor Fried reflects on how this story continues to influence today's open source hardware movement.
+
+- [First Invite to the Homebrew Computer Club](https://blog.adafruit.com/2015/01/12/homebrew-computer-club-invite-from-1975 "First Invite to the Homebrew Computer Club") by Fred Moore
+- [The Altair story; early days at MITS](https://www.atarimagazines.com/creative/v10n11/17_The_Altair_story_early_d.php "The Altair story; early days at MITS") by Forrest M. Mims III
+- [WIRED article on the Altair](https://www.wired.com/2011/12/1219altair-8800-computer-kit-goes-on-sale "WIRED article on the Altair") by Randy Alfred
+- [Video: Demo of the Altair](https://www.youtube.com/watch?v=vAhp_LzvSWk "Video: Demo of the Altair") by Don Russ
+- [PC Mag article on Altair](https://www.pcmag.com/news/the-altair-8800-the-machine-that-launched-the-pc-revolution "PC Mag article on Altair") by Michael J. Miller
