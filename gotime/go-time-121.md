@@ -1,0 +1,1 @@
+- [How much do we bend to the will of our tools?](https://thorstenball.com/blog/2020/02/04/how-much-do-we-bend-to-the-will-of-our-tools/)
