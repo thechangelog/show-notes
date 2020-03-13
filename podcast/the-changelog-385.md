@@ -1,0 +1,4 @@
+- [webpack with Sean Larkin (The Changelog #233)](https://changelog.com/podcast/233)
+- [webpack's homepage](https://webpack.js.org)
+- [webpack on Open Collective](https://opencollective.com/webpack)
+- [webpack on GitHub](https://github.com/webpack/webpack)
