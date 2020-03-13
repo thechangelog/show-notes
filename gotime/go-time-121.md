@@ -1,1 +1,7 @@
 - [How much do we bend to the will of our tools?](https://thorstenball.com/blog/2020/02/04/how-much-do-we-bend-to-the-will-of-our-tools/)
+- [pgcli](https://www.pgcli.com/) - CLI for postgres.
+- [jq](https://stedolan.github.io/jq/) - Command line JSON parsing tool.
+- [bolt db](https://github.com/boltdb/bolt) - A key value store written in Go.
+- [ngrok](https://ngrok.com/) - A useful tool for exposing localhost apps to the web for testing things like webhooks.
+- [Paw](https://paw.cloud/) - A tool for testing APIs on a Mac.
+- [Postman](https://www.postman.com/) - Another tool for testings APIs, but works on all OSes.
