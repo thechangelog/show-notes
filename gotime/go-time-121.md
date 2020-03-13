@@ -5,3 +5,5 @@
 - [ngrok](https://ngrok.com/) - A useful tool for exposing localhost apps to the web for testing things like webhooks.
 - [Paw](https://paw.cloud/) - A tool for testing APIs on a Mac.
 - [Postman](https://www.postman.com/) - Another tool for testings APIs, but works on all OSes.
+- [modd](https://github.com/cortesi/modd) - A tool for reloading code and running tests when it changes.
+- [gotest](https://github.com/rakyll/gotest) - A tool for running Go tests with color output.
