@@ -1,0 +1,3 @@
+- ['Brace for turbulence,' Coronavirus is the black swan of 2020](https://changelog.com/news/brace-for-turbulence-coronavirus-is-the-black-swan-of-2020-q8jD)
+- [COVID-19 (2019-nCoV) real time dashboard](https://changelog.com/news/covid19-2019ncov-real-time-dashboard-wqrR)
+- [Coronavirus and the remote work experiment no one asked for](https://changelog.com/news/coronavirus-and-the-remote-work-experiment-no-one-asked-for-GykA)
