@@ -6,4 +6,5 @@
 - [How to quit your job spectacularly well](https://changelog.com/news/how-to-quit-your-job-spectacularly-well-rzPe)
 - [Stay Uncomfortable. Stay Hungry.](https://adamstacoviak.com/stay-uncomfortable-stay-hungry)
 - [The one question that will change your life](https://medium.com/@saronyitbarek/the-one-question-that-will-change-your-life-449cbfaa11b2)
+- [Steve Jobs on connecting the dots](https://news.stanford.edu/2005/06/14/jobs-061505/)
 - [thepricegeek.com](http://www.thepricegeek.com/)
