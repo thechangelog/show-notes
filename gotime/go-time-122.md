@@ -1,0 +1,2 @@
+- [The Zen of Go](https://the-zen-of-go.netlify.com)
+- [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
