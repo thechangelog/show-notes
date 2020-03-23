@@ -1,0 +1,6 @@
+- [Catherine Breslin - Google Scholar](https://scholar.google.co.uk)
+- [Cobalt Speech and Language](https://www.cobaltspeech.com)
+- [Business Insider:  The 100 coolest people in UK tech - Catherine Breslin](https://www.businessinsider.com/tech-100-2018-the-coolest-people-in-the-uk-tech-industry-2018-9?IR=T#42-the-woman-teaching-alexa-dr-catherine-breslin-59)
+- [The Female Lead - Catherine Breslin](https://www.thefemalelead.com/profile/catherine-breslin)
+- [Silicon Republic:  15 architects building the data-driven future](https://www.siliconrepublic.com/enterprise/sci-tech-100-2018-architects-future)
+- [Stylist:  Meet the woman who teaches Amazon Alexa how to understand humans](https://www.stylist.co.uk/visible-women/catherine-breslin-amazon-alexa-machine-learning-scientist-women-in-tech/188131)
