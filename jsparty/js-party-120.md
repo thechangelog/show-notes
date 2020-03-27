@@ -13,5 +13,5 @@
   - [Contact](https://www.amazon.com/Contact-Carl-Sagan/dp/0671004107) by Carl Sagan
 - Check out Humu's [remote nudges](https://humu.com/remote-nudges/)
 - Read Justin Searl's [Remote, but not alone](https://blog.testdouble.com/posts/2020-03-19-remote-but-not-alone/)
-- [EXNEXT CONF](https://www.esnextconf.com/) is fully remote
+- [ESNEXT CONF](https://www.esnextconf.com/) is fully remote
 - Need help? [Get Help Today](https://www.thehotline.org/help/)
