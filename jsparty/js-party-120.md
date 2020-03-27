@@ -3,7 +3,7 @@
 - Jerod listens to [musicforprogramming.net](https://musicforprogramming.net)
 - and suggests the [Noizio app](https://noiz.io) for macOS
 - KBall goes for [www.focusatwill.com](https://www.focusatwill.com/)
-- thgaskill in the chat suggests (krisp.ai)[https://krisp.ai]
+- thgaskill in the chat suggests [krisp.ai](https://krisp.ai)
 - Ever heard of [brothel creepers](https://en.wikipedia.org/wiki/Brothel_creeper). Brent in the chat has
 - For more on comms, listen to [Remember, people are humans](https://changelog.com/jsparty/93)
 - Cal Newport's [work shutdown ritual](https://www.calnewport.com/blog/2009/06/08/drastically-reduce-stress-with-a-work-shutdown-ritual/)
