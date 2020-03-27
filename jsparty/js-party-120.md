@@ -1,0 +1,17 @@
+- Listen to [Go Time #123](https://changelog.com/gotime/123) on WFH
+- Chris Hiller's [pro tips for devs working from home](https://changelog.com/posts/pro-tips-for-devs-working-at-home)
+- Jerod listens to [musicforprogramming.net](https://musicforprogramming.net)
+- and suggests the [Noizio app](https://noiz.io) for macOS
+- KBall goes for [www.focusatwill.com](https://www.focusatwill.com/)
+- thgaskill in the chat suggests (krisp.ai)[https://krisp.ai]
+- Ever heard of [brothel creepers](https://en.wikipedia.org/wiki/Brothel_creeper). Brent in the chat has
+- For more on comms, listen to [Remember, people are humans](https://changelog.com/jsparty/93)
+- Cal Newport's [work shutdown ritual](https://www.calnewport.com/blog/2009/06/08/drastically-reduce-stress-with-a-work-shutdown-ritual/)
+- Suz recommends 3 books:
+  - [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport
+  - [How to Do Nothing](https://www.amazon.com/dp/1612197493) by Jenny Odell
+  - [Contact](https://www.amazon.com/Contact-Carl-Sagan/dp/0671004107) by Carl Sagan
+- Check out Humu's [remote nudges](https://humu.com/remote-nudges/)
+- Read Justin Searl's [Remote, but not alone](https://blog.testdouble.com/posts/2020-03-19-remote-but-not-alone/)
+- [EXNEXT CONF](https://www.esnextconf.com/) is fully remote
+- Need help? [Get Help Today](https://www.thehotline.org/help/)
