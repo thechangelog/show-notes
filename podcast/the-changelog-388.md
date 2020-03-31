@@ -1,0 +1,4 @@
+- [The End to the Myth of Individual Programmer Productivity](https://ieeexplore.ieee.org/document/8804291)
+- [Software Engineering Institute - Carnegie Mellon University](https://www.sei.cmu.edu/)
+- [The Personal Software Process (PSP)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=5283)
+- [Team Software Process (TSP)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=529978)
