@@ -1,0 +1,7 @@
+- [Let's Encrypt Has Issued a Billion Certificates](https://letsencrypt.org/2020/02/27/one-billion-certs.html)
+- [Milestone: 100 Million Certificates Issued](https://letsencrypt.org/2017/06/28/hundred-million-certs.html)
+- [Sponsors and donors of Let's Encrypt](https://letsencrypt.org/sponsors/)
+- [Internet Security Research Group](https://www.abetterinternet.org/)
+- [The Changelog #243: Let's Encrypt the Web with Jacob Hoffman-Andrews](https://changelog.com/podcast/243)
+- [I'm a cog](https://adamstacoviak.com/im-a-cog) - Adam's thoughts on cog mentality
+- [Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
