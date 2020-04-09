@@ -1,0 +1,3 @@
+- [Gophercon EU](https://gophercon.berlin/)
+- [Women Who Go](https://www.womenwhogo.org/)
+- [Go Bridge](https://golangbridge.org/)
