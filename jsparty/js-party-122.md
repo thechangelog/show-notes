@@ -1,0 +1,2 @@
+- [Next.js by ZEIT](https://nextjs.org)
+- [Guillermo on The Changelog #213](https://changelog.com/podcast/213)
