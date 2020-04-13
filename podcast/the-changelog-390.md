@@ -1,0 +1,8 @@
+- [Why outbreaks like coronavirus spread exponentially, and how to "flatten the curve"](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) ~ [discuss](https://changelog.com/news/extensive-social-distancing-helps-to-flatten-the-curve-agn1)
+- [COVID-19 (2019-nCoV) real time dashboard](https://changelog.com/news/covid19-2019ncov-real-time-dashboard-wqrR) ~ [full view](https://coronavirus.jhu.edu/map.html)
+- ['Contagion' is one of the most popular thrillers on iTunes because of the coronavirus outbreak. Here's how the film compares to reality.](https://www.businessinsider.com/wuhan-coronavirus-stokes-fears-comparison-to-contagion-2020-1)
+- [D3.js](https://d3js.org/)
+- [RStudio](https://rstudio.com/products/rstudio/)
+- [The Doctor Who Helped Defeat Smallpox Explains What's Coming](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/) - Epidemiologist Larry Brilliant, who warned of pandemic in 2006, says we can beat the novel coronavirus—but first, we need lots more testing.
+- [Deadliest Enemy](https://www.audible.com/pd/Deadliest-Enemy-Audiobook/B06XKLQ6S9) by Michael Osterholm and Mark Olshaker — Our War Against Killer Germs
+- [Michael Osterholm on Joe Rogan Experience #1439](https://www.youtube.com/watch?v=E3URhJx0NSw)
