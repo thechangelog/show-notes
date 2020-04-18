@@ -467,6 +467,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kakkoyun",
+      "name": "Kemal Akkoyun",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/536449?v=4",
+      "profile": "https://kakkoyun.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
