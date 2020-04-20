@@ -1,0 +1,5 @@
+- [Lucy Lu Wang - Google Scholar](https://scholar.google.com/citations?user=REBtJOYAAAAJ)
+- [Kaggle: COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+- [CORD-19 Explorer](https://cord-19.apps.allenai.org)
+- [Semantic Scholar | CORD-19](https://pages.semanticscholar.org/coronavirus-research)
+- [Allen Institute for AI](https://allenai.org)
