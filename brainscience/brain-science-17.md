@@ -1,0 +1,8 @@
+- [Counting Blessings Versus Burdens: An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life](https://greatergood.berkeley.edu/images/application_uploads/Emmons-CountingBlessings.pdf)
+- [Positive thinking opens your eyes to more opportunities](https://jamesclear.com/positive-thinking)
+- [Gratitude and your brain](https://greatergood.berkeley.edu/article/item/how_gratitude_changes_you_and_your_brain)
+- [The Neural Basis of Human Social Values: Evidence from Functional MRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2733324/)
+- [The Science of Gratitude](https://ggsc.berkeley.edu/images/uploads/GGSC-JTF_White_Paper-Gratitude-FINAL.pdf)
+- [The Cultivation of Pure Altruism via Gratitude: A Functional MRI Study of Change with Gratitude Practice](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00599/full)
+- [The Grateful Brain](https://www.psychologytoday.com/us/blog/prefrontal-nudity/201211/the-grateful-brain) - The neuroscience of giving thanks
+- [Try gratitude journaling](https://positivepsychology.com/gratitude-journal/)
