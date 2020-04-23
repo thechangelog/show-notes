@@ -1,0 +1,4 @@
+- [WebRTC](https://webrtc.org/)
+- [Pion on Github](https://github.com/pion)
+- [Discuss Pion in the Gophers Slack](https://app.slack.com/client/T029RQSE6/CAK2124AG/details/info)
+- [NAT traversal](https://en.wikipedia.org/wiki/NAT_traversal)
