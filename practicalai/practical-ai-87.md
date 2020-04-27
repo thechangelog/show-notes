@@ -1,0 +1,4 @@
+- [Their research paper](https://arxiv.org/ftp/arxiv/papers/2003/2003.08445.pdf)
+- [Google Brain](https://research.google/teams/brain)
+- [Google is using AI to design chips that will accelerate AI  |  MIT Technology Review](https://www.technologyreview.com/2020/03/27/950258/google-ai-chip-design-reinforcement-learning)
+- [Practical AI episode #47:  GANs, RL, and transfer learning oh my!](https://changelog.com/practicalai/47)
