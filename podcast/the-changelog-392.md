@@ -1,0 +1,8 @@
+- [The FOSS Contributor Fund: Six Months In](https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/)
+- [FOSS Contributor Fund - Framework](https://github.com/indeedeng/FOSS-Contributor-Fund)
+- [Sentry on 'Funding Open Source'](https://blog.sentry.io/2020/02/18/funding-open-source/)
+- [FOSS Responders](https://opencollective.com/foss-responders) on Open Collective
+- FOSS Responders - Virtual Funding Event (Friday - May 22, 2020)](https://opencollective.com/foss-responders/events/virtual-funding-event-q2-2020-4edd1e3a)
+- [Sustaining FOSS projects by democratizing the sponsorship process](https://changelog.com/news/sustaining-foss-projects-by-democratizing-the-sponsorship-process-Zqr2)
+- [fossresponders.com](https://fossresponders.com/)
+- [Open Source 101](https://opensource101.com/)
