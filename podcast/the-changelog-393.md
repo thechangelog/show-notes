@@ -1,0 +1,5 @@
+- [Kyle on Founders Talk](https://changelog.com/founderstalk/59)
+- [The Great GatsbyJS (The Changelog #306)](https://changelog.com/podcast/306)
+- [Introducing Incremental Builds in Gatsby Cloud](https://www.gatsbyjs.org/blog/2020-04-22-announcing-incremental-builds/)
+- [Experimental Page Build Optimizations for Incremental Data Changes](https://www.gatsbyjs.org/docs/page-build-optimizations-for-incremental-data-changes/)
+- [Announcing Gatsby Recipes](https://www.gatsbyjs.org/blog/2020-04-15-announcing-gatsby-recipes/)
