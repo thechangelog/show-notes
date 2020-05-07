@@ -1,0 +1,1 @@
+Use promo code `GOTIME` for 30% off [Black Hat Go](https://nostarch.com/blackhatgo) through May 15th. 
