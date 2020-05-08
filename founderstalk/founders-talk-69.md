@@ -1,0 +1,4 @@
+- [Sphero](https://sphero.com/)
+- [Misty Robotics](https://www.mistyrobotics.com/)
+- [The Changelog #354: Go is eating the world of software](https://changelog.com/podcast/354) — Ron Evans is betting big on TinyGo at OSCON 2019
+- [I'm a cog.](https://adamstacoviak.com/im-a-cog)
