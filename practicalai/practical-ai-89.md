@@ -1,0 +1,4 @@
+- [Worldwide Water Access: Tapping into a Well of Data](https://www.datarobot.com/blog/ai-for-good-with-datarobot-saving-the-world-one-use-case-at-a-time)
+- [AI for Good with DataRobot: Saving the World One Use Case at a Time](https://www.datarobot.com/blog/ai-for-good-with-datarobot-saving-the-world-one-use-case-at-a-time)
+- [AI for Good: Powered by DataRobot](https://www.datarobot.com/ai-for-good)
+- [DataRobot](https://www.datarobot.com)
