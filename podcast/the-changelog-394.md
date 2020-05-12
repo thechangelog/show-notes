@@ -1,0 +1,6 @@
+- [VisiData](https://www.visidata.org)
+- [VisiData on GitHub](https://github.com/saulpw/visidata)
+- [A Plagiarism Scandal Is Unfolding In The Crossword World](https://fivethirtyeight.com/features/a-plagiarism-scandal-is-unfolding-in-the-crossword-world/)
+- [Saul's biograph](https://www.saul.pw/biograph/)
+- [the biograph tool on GitHub](https://github.com/devotees/biograph)
+- [Support Saul on Patreon](https://www.patreon.com/saulpw)
