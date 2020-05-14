@@ -1,0 +1,4 @@
+- [A neuroscience approach to innovative thinking and problem solving](https://www.cio.com/article/3494796/a-neuroscience-approach-to-innovative-thinking-and-problem-solving.html) - this covers the research and study from Corinne Canter and Dr Trisha Stratford
+- [Freud and the Unconscious Mind](https://www.simplypsychology.org/unconscious-mind.html)
+- [Brainwave Basics](https://brainandbodysolutions.com/learn/brainwave-basics/)
+- [The Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) created by Francesco Cirillo
