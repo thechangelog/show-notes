@@ -1,0 +1,4 @@
+- [Owen's initial GitHub Issue](https://github.com/thechangelog/changelog.com/issues/314)
+- [The merged Pull Request](https://github.com/thechangelog/changelog.com/pull/318)
+- [Slaying Changelog's compilation beast](https://changelog.com/posts/how-i-reduced-changelogs-compilation-dependencies-by-98)
+- [Should we do a video on property-based testing?](https://github.com/keathley/norm)
