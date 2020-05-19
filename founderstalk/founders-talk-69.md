@@ -2,3 +2,4 @@
 - [Misty Robotics](https://www.mistyrobotics.com/)
 - [The Changelog #354: Go is eating the world of software](https://changelog.com/podcast/354) — Ron Evans is betting big on TinyGo at OSCON 2019
 - [I'm a cog.](https://adamstacoviak.com/im-a-cog)
+- [Give Away Your Legos](https://firstround.com/review/give-away-your-legos-and-other-commandments-for-scaling-startups/)
