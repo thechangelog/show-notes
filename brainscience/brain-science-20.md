@@ -1,4 +1,4 @@
-- What is perfectionism?](https://www.psychologytoday.com/intl/basics/perfectionism
+- [What is perfectionism?](https://www.psychologytoday.com/intl/basics/perfectionism
 - [4 destructive traits of perfectionism, from Dr. Brené Brown](https://www.thegrowthfaculty.com/blog/4destructivetraitsofperfectionismfromDrBrenBrown)
 - [Frost Multidimensional Perfectionism Scale (FMPS)](https://betterworldhealthcare.com/frost-multidimensional-perfectionism-scale-fmps/)
 - [Perfectionism, Health, and Well-Being (book)](https://www.springer.com/gp/book/9783319185811)
