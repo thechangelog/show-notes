@@ -1,0 +1,5 @@
+- [JS Party #25 - Dojo 2.0 with Dylan Schiemann](https://changelog.com/jsparty/25)
+- [Dojo on GitHub](https://github.com/dojo/framework)
+- [Dojo web site](https://dojo.io/)
+- [Dojo Parade](https://widgets.dojo.io/)
+- [TypeORM](https://typeorm.io/#/)
