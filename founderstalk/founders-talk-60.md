@@ -1,2 +1,2 @@
 - Check out [GitPrime](https://www.pluralsight.com/product/flow)
-- [Subscribe to Engineering Impact](https://www.gitprime.com/engineering-impact/), GitPrime's weekly newsletter
+- [Subscribe to Engineering Impact](https://www.pluralsight.com/product/flow), GitPrime's weekly newsletter
