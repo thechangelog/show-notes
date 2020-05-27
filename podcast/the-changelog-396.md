@@ -1,0 +1,6 @@
+- [Plausible](https://plausible.io/) - a lightweight, open source, privacy-friendly alternative to Google Analytics
+- [Why you should stop using Google Analytics on your website](https://plausible.io/blog/remove-google-analytics)
+- [How one blog post changed the traction for my startup](https://plausible.io/blog/blog-post-changed-my-startup)
+- [Will removing Google Analytics from a site hurt search engine rankings?](https://plausible.io/blog/google-analytics-seo)
+- [Blogging statistics and trends you should know in 2020](https://markosaric.com/blogging-statistics/#internet)
+- [How to de-Google-ify your site to make it faster and visitor friendly](https://markosaric.com/degoogleify/)
