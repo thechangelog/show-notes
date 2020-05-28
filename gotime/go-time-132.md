@@ -1,0 +1,6 @@
+- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [Spanner](https://cloud.google.com/spanner)
+- [Firestore](https://firebase.google.com/docs/firestore)
+- [MySQL](https://www.mysql.com/)
+- [Book: Designing Data-Intensive Applications](https://dataintensive.net/)
+- [International Collegiate Programming Contest](https://icpc.baylor.edu/)
