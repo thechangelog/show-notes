@@ -1,0 +1,2 @@
+- Watch the raw/uncut video [on our YouTube channel](https://www.youtube.com/watch?v=TaYoeBU_pRo).
+- Support Stefan Kleim and JS.org [on PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RPBWBDBKW62AC).
