@@ -1,6 +1,5 @@
-- [Join the community](https://changelog.com/community) (it's free)
 - [The Web 2.0 Show](http://web20show.com/)
 - [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/gp/product/1119387507) by Marty Cagan
 - [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.amazon.com/dp/B007TKU0O0) by Donald G. Reinertsen
 - [Take Charge Product Management: Take Charge of Your Product Management Development](https://www.amazon.com/dp/B004SBPGPG) by Greg Geracie
-- [Herding Tigers: Business, Software and the Art of War](https://www.amazon.com/dp/B002NPBS8S) by Danny Blitz
+- [Herding Tigers: Business, Software and the Art of War](https://www.amazon.com/dp/B002NPBS8S) by Danny Blit
