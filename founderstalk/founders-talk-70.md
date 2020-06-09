@@ -1,0 +1,6 @@
+- [GitLab More Than Doubles Valuation To $2.75 Billion Ahead Of Planned 2020 IPO](https://www.forbes.com/sites/alexkonrad/2019/09/17/gitlab-doubles-valuation-to-nearly-3-billion/#4312b4941794)
+- [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+- [The importance of a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
+- [GitLab values ](https://about.gitlab.com/handbook/values/)
+- [GitLab's biggest risks](https://about.gitlab.com/handbook/leadership/biggest-risks/)
+- [Family and friends first, work second](https://changelog.com/posts/family-and-friends-first-work-second)
