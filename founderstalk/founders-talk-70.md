@@ -3,4 +3,5 @@
 - [The importance of a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
 - [GitLab values ](https://about.gitlab.com/handbook/values/)
 - [GitLab's biggest risks](https://about.gitlab.com/handbook/leadership/biggest-risks/)
+- [GitLab maturity](https://about.gitlab.com/direction/maturity/)
 - [Family and friends first, work second](https://changelog.com/posts/family-and-friends-first-work-second)
