@@ -1,0 +1,6 @@
+- [Laws of Reflection](https://blog.golang.org/laws-of-reflection) - From the Go blog
+- [Oto](https://github.com/pacedotdev/oto) - Library by Mat using AST to generate code
+- [form](https://github.com/joncalhoun/form) - Jon's form library that uses reflect
+- [form's without reflect](https://gist.github.com/joncalhoun/0f576e96d46705490e7f0aa12ab75206) - An example from Jon of creating forms without reflect
+- [Language Server Protocol](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) - Created by Microsoft to make it easier to create autocompletion for different editors
+- [A new Go API for Protocol Buffers](https://blog.golang.org/protobuf-apiv2) - A writeup of changes in protobuf to allow for a type of reflection
