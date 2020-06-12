@@ -1,0 +1,4 @@
+- Mat and David talk [MachineBox on Practical AI](https://changelog.com/practicalai/2)
+- Their open source Go tool: [oto](https://github.com/pacedotdev/oto)
+- [The blog post](https://pace.dev/blog/2020/02/01/grouper-component-for-svelte-by-mat-ryer.html) about their Svelte Grouper component
+- [Pace.dev](https://pace.dev) is now in public beta
