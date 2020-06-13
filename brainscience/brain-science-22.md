@@ -1,0 +1,4 @@
+- [The Power of Touch](https://www.psychologytoday.com/us/articles/201303/the-power-touch)
+- [Harlow’s Classic Studies Revealed the Importance of Maternal Contact](https://www.psychologicalscience.org/publications/observer/obsonline/harlows-classic-studies-revealed-the-importance-of-maternal-contact.html)
+- [Touch: The Science of Hand, Heart, and Mind (book)](http://davidlinden.org/books/touch/buy-the-book.html)
+- [The Neuroscience of Touch and Pain](https://www.brainfacts.org/thinking-sensing-and-behaving/touch/2020/the-neuroscience-of-touch-and-pain-013020)
