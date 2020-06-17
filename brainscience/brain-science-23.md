@@ -1,0 +1,7 @@
+- [Dr Sarah McKay](https://drsarahmckay.com/) - an Oxford University-educated neuroscientist
+- [What are DNA and Genes?](https://learn.genetics.utah.edu/content/basics/dna)
+- [What are Proteins?](https://learn.genetics.utah.edu/content/basics/proteins/)
+- [Basics of neural transmission](https://learn.genetics.utah.edu/content/neuroscience/crossingdivide/)
+- [What is Epigenetics?](https://ghr.nlm.nih.gov/primer/howgeneswork/epigenome)
+- [BDNF gene](https://ghr.nlm.nih.gov/gene/BDNF) - brain-derived neurotrophic factor
+- [What is neuroplasticity and how does it work?](https://www.drperlmutter.com/learn/faq/neuroplasticity-work/)
