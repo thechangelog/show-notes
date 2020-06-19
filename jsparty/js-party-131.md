@@ -1,0 +1,7 @@
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [common-tags](https://github.com/zspecza/common-tags)
+- [Virus Cafe](https://virus.cafe)
+- [Chakra UI on JS Party](https://changelog.com/jsparty/125)
+- [Arc of a Scythe by Neal Shusterman](https://www.amazon.com/Scythe-Arc-Neal-Shusterman/dp/144247243X/ref=sr_1_1?dchild=1&keywords=scythe&qid=1591898743&sr=8-1)
+- [FiraCode](https://github.com/tonsky/FiraCode)
+= [You can install fonts with homebrew?!](https://changelog.com/posts/you-can-install-fonts-with-homebrew)
