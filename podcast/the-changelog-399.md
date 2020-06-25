@@ -1,0 +1,12 @@
+- [The Changelog #357: Shaping, betting, and building](https://changelog.com/podcast/357)
+- Ryan's new hobby podcast called [Synthetic A Priori](https://synthetic.transistor.fm)
+- [Shape Up (book site)](https://basecamp.com/shapeup)
+- ["Good design requires thinking longitudinally."](https://twitter.com/rjs/status/1266804087565123586)
+- [New versus existing products](https://basecamp.com/shapeup/4.2-appendix-03)
+- [Taguchi methods](https://en.wikipedia.org/wiki/Taguchi_methods) on Wikipedia
+- [Salt. Fat. Acid. Heat.](https://www.saltfatacidheat.com/) - If you can master these four elements, you can master the kitchen.
+- [EconTalk podcast](https://www.econtalk.org)
+- [The End of Average: How We Succeed in a World That Values Sameness](https://www.amazon.com/dp/B00R1JU7P6/)
+- [Dr Ole Peters](https://twitter.com/ole_b_peters)
+- [Time for a Change: Introducing irreversible time in economics](https://www.youtube.com/watch?v=f1vXAHGIpfc) by Dr Ole Peters
+
