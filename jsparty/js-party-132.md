@@ -1,0 +1,4 @@
+- [JS Danger: OpenJS World Edition](https://www.youtube.com/watch?v=2A5FwTb9XCk) on YouTube
+- [CSP](https://content-security-policy.com/)
+- [Darknet Diaries on Samy](https://darknetdiaries.com/episode/61/)
+- [Krebs on Security](https://krebsonsecurity.com)
