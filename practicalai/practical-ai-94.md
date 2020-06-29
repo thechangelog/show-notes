@@ -1,0 +1,4 @@
+- [MemSQL](https://www.memsql.com/)
+- [MemSQL's ML/AI capabilities](https://www.memsql.com/solutions/predictive-ml-ai/)
+- [MemSQL's recent AI/ML e-book](https://www.memsql.com/resources/memsql-achieving-successful-operation-of-ml-and-ai)
+- [Contact tracing case study with MemSQL and True Digital](https://www.memsql.com/blog/case-study-true-digital-group-helps-to-flatten-the-curve-with-memsql/)
