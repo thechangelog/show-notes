@@ -1,0 +1,6 @@
+- [Pace.dev](https://pace.dev/)
+- [Oto](https://github.com/pacedotdev/oto)
+- [Firestore](https://firebase.google.com/docs/firestore)
+- [Google App Engine](https://cloud.google.com/appengine)
+- [Operations (formerly Stackdriverf)](https://cloud.google.com/products/operations)
+- [Pace.dev talk on JS Party](https://changelog.com/jsparty/130)
