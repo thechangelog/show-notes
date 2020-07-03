@@ -1,0 +1,4 @@
+- [Snyk Closes $150M to Accelerate Developer-first Security](https://snyk.io/blog/snyk-closes-150m/)
+- [Scaling security through DevSecOps & dev-first security](https://snyk.io/blog/scaling-security-through-devsecops/)
+- [Scaling developer-first security ](https://snyk.io/blog/scaling-developer-first-security/)
+- [Snyk pricing](https://snyk.io/plans/)
