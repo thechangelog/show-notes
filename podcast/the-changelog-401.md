@@ -1,0 +1,6 @@
+- [FiraCode on Changelog News](https://changelog.com/news/fira-code-a-free-monospaced-font-with-programming-ligatures-g91O)
+- [FiraCode on GitHub](https://github.com/tonsky/FiraCode)
+- [FiraSans on GitHub](https://github.com/bBoxType/FiraSans)
+- [FiraCode on Twitter](https://twitter.com/FiraCode)
+- [Nikita on Patreon](https://www.patreon.com/tonsky)
+- [Glyphs](https://glyphsapp.com/)
