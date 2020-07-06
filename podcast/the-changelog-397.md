@@ -2,5 +2,5 @@
 - [GitLab Values](https://about.gitlab.com/handbook/values/#no-ego) - "No ego" is among the values detailed on this page
 - [GitLab's team handbook](https://about.gitlab.com/handbook/)
 - [Our long-term vision for remote work](https://about.gitlab.com/company/culture/all-remote/vision/)
-- [Fmily and friends first, work second](https://changelog.com/posts/family-and-friends-first-work-second)
+- [Family and friends first, work second](https://changelog.com/posts/family-and-friends-first-work-second)
 - [Encouraging a culture of written communication](https://changelog.com/news/encouraging-a-culture-of-written-communication-Y8wL)
