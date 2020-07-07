@@ -485,6 +485,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "feross",
+      "name": "Feross Aboukhadijeh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/121766?v=4",
+      "profile": "https://feross.org",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
