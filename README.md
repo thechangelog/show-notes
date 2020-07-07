@@ -91,6 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="http://no.lol"><img src="https://avatars0.githubusercontent.com/u/1390709?v=4" width="100px;" alt=""/><br /><sub><b>Lauren Tan</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=poteto" title="Documentation">📖</a></td>
     <td align="center"><a href="https://kakkoyun.me"><img src="https://avatars1.githubusercontent.com/u/536449?v=4" width="100px;" alt=""/><br /><sub><b>Kemal Akkoyun</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=kakkoyun" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/DuaneOBrien"><img src="https://avatars1.githubusercontent.com/u/4315550?v=4" width="100px;" alt=""/><br /><sub><b>Duane O'Brien</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=DuaneOBrien" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://feross.org"><img src="https://avatars2.githubusercontent.com/u/121766?v=4" width="100px;" alt=""/><br /><sub><b>Feross Aboukhadijeh</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=feross" title="Documentation">📖</a></td>
   </tr>
 </table>
 
