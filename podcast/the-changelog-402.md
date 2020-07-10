@@ -1,0 +1,3 @@
+- [Tech perspectives behind Nubank’s first acquisition deal (of Plataformatec)](https://medium.com/building-nubank/tech-perspectives-behind-nubanks-first-acquisition-deal-what-this-business-move-means-and-how-it-d7d1233c72b8)
+- [Dashbit](https://dashbit.co/)
+- [Bytepack](https://bytepack.io/)
