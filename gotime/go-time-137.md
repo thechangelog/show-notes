@@ -7,3 +7,6 @@
 Panelist Jon Calhoun also wrote two blog posts covering topics mentioned on the show:
 - [Why do we import SQL drivers with the underscore (_)](https://www.calhoun.io/why-we-import-sql-drivers-with-the-blank-identifier/)
 - [What is SQL injection?](https://www.calhoun.io/what-is-sql-injection-and-how-do-i-avoid-it-in-go/)
+
+Special guest Johan Brandhorst gave a talk about Postgres and Go at GopherCon EU:
+ - [A Journey to Postgres Productivity with Go](https://www.youtube.com/watch?v=ZRUEJX1fqYc)
