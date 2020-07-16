@@ -1,0 +1,2 @@
+- [Hacker Laws on GitHub](https://github.com/dwmkerr/hacker-laws)
+- [The Venture on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-venture/id1512850713)
