@@ -1,6 +1,8 @@
 
 [Gophercises](https://gophercises.com/) 
 
+[Golang Blogs](https://golangblogs.com/) 
+
 [usegolang.com](https://www.usegolang.com/)
 
 [Calhoun.io](https://www.calhoun.io/)
