@@ -1,2 +1,3 @@
 - [Hacker Laws on GitHub](https://github.com/dwmkerr/hacker-laws)
+- [Why do so many developers get DRY wrong?](https://changelog.com/posts/why-do-so-many-developers-get-dry-wrong)
 - [The Venture on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-venture/id1512850713)
