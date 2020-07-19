@@ -494,6 +494,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "calaway",
+      "name": "Calaway",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14339707?v=4",
+      "profile": "https://github.com/calaway",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
