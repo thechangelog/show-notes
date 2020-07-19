@@ -93,6 +93,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/DuaneOBrien"><img src="https://avatars1.githubusercontent.com/u/4315550?v=4" width="100px;" alt=""/><br /><sub><b>Duane O'Brien</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=DuaneOBrien" title="Documentation">📖</a></td>
     <td align="center"><a href="https://feross.org"><img src="https://avatars2.githubusercontent.com/u/121766?v=4" width="100px;" alt=""/><br /><sub><b>Feross Aboukhadijeh</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=feross" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/calaway"><img src="https://avatars2.githubusercontent.com/u/14339707?v=4" width="100px;" alt=""/><br /><sub><b>Calaway</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=calaway" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
