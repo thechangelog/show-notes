@@ -1,0 +1,4 @@
+- [Allegro AI](https://allegro.ai/)
+- [The "Trains" Platform](https://github.com/allegroai/trains)
+- [Trains demo server](https://demoapp.trains.allegro.ai/)
+- [Trains video tutorials on YouTube](http://youtube.com/c/AllegroAI)
