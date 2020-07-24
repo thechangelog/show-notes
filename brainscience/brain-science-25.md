@@ -1,3 +1,5 @@
+Mireille is giving a talk at [Heartifacts](https://heartifacts.codeandsupply.co/?utm_source=changelog) in August — [check out this blog post](https://changelog.com/posts/brain-science-at-heartifacts) for details on her talk and ways you can win a free pass to the conference!
+
 - [GreenEyedGuide Research and Consulting](https://greeneyedguide.com)
 - [Follow Danielle on Instagram](https://www.instagram.com/greeneyedguide/) where she answers questions about caffeine & managing fatigue in the workplace
 - [Fatigue Management Workshops](https://greeneyedguide.com/fatigue-management-workshop/) from Danielle and GreenEyedGuide on the secret to managing fatigue in the workplace
