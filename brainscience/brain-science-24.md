@@ -1,4 +1,4 @@
-Mireille is giving a talk at [Heartifacts](https://heartifacts.codeandsupply.co/?utm_source=changelog) in August.
+Mireille is giving a talk at [Heartifacts](https://heartifacts.codeandsupply.co/?utm_source=changelog) in August — [check out this blog post](https://changelog.com/posts/brain-science-at-heartifacts) for details on her talk and ways you can win a free pass to the conference!
 
 - [50 Common Cognitive Distortions](https://www.psychologytoday.com/us/blog/in-practice/201301/50-common-cognitive-distortions)
 - [What is the underlying cause of cognitive distortions?](https://www.quora.com/What-is-the-underlying-cause-of-cognitive-distortions)
