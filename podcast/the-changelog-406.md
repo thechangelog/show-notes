@@ -1,0 +1,5 @@
+- [microsoft/terminal](https://github.com/microsoft/terminal)
+- [Windows Terminal 1.0](https://devblogs.microsoft.com/commandline/windows-terminal-1-0/)
+- [Windows Terminal Preview 1.1 Release](https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-1-release/)
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
+- [Launch video: The new Windows Terminal](https://www.youtube.com/watch?v=8gw0rXPMMPE)
