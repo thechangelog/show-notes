@@ -1,0 +1,2 @@
+- [TextAttack](https://github.com/QData/TextAttack)
+- [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research)
