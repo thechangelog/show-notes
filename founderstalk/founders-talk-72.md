@@ -1,0 +1,5 @@
+- [Join Changelog++](https://changelog.com/++) to get extended content + make the ads disappear
+- [ugmonk.com](https://ugmonk.com/)
+- Analog on Kickstarter ~> [Analog: The simplest productivity system](https://www.kickstarter.com/projects/ugmonk/analog-the-simplest-productivity-system)
+- Gather on Kickstarter ~> [Gather: The minimal, modular organizer that cuts clutter](https://www.kickstarter.com/projects/ugmonk/gather-the-minimal-modular-organizer-that-cuts-clu)
+- ["Slow and steady wins"](https://ugmonk.com/products/slow-steady-print?variant=744793317)
