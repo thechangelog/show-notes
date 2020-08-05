@@ -1,5 +1,5 @@
 - [Sign up for Changelog++ (if you're into it)](https://changelog.com/++)
 - [Our Plausible Analytics episode that Jerod referenced](https://changelog.com/podcast/396)
-- [Lean more about Supercast](https://www.supercast.com)
+- [Learn more about Supercast](https://www.supercast.com)
 - [Adam's interview with Andrew Wilkinson of MetaLab](https://changelog.com/founderstalk/28)
 - [Andrew's VC fund: Tiny](https://www.tinycapital.com)
