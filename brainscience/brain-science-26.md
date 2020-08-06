@@ -1,0 +1,5 @@
+- [Brené Brown on Empathy vs. Sympathy](https://www.psychologytoday.com/us/blog/partnering-in-mental-health/201408/bren-brown-empathy-vs-sympathy-0)
+- [Three Kinds of Empathy: Cognitive, Emotional, Compassionate by Daniel Goleman](http://www.danielgoleman.info/three-kinds-of-empathy-cognitive-emotional-compassionate/)
+- [A Look in the Mirror Neuron: Empathy and Addiction](https://www.psychologytoday.com/us/blog/all-about-addiction/201907/look-in-the-mirror-neuron-empathy-and-addiction)
+- [Brain Science #6: Respect, empathy, and compassion ~ living and being beside others](https://changelog.com/brainscience/6)
+- [How to build a generative engineering culture](https://changelog.com/posts/how-to-build-a-generative-engineering-culture)
