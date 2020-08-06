@@ -1,0 +1,2 @@
+- [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html) - paper by Dave Cheney about writing a JSON parser.
+- [encoding/json](https://golang.org/pkg/encoding/json/) - json package in the standard library
