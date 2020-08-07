@@ -1,0 +1,3 @@
+- [HEY.com](https://hey.com) - Email at its best, new from Basecamp
+- [The Changelog #399: Shipping work that matters](https://changelog.com/podcast/399) - revisiting Shape Up & product development with Ryan Singer
+- [The Changelog #357: Shaping, betting, and building](https://changelog.com/podcast/357) - featuring Ryan Singer on how Basecamp does product development
