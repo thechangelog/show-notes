@@ -1,3 +1,5 @@
+[Enter to win some amazing AI hardware bundles](https://changelog.com/posts/practical-ai-100th-episode-giveaway)!
+
 - [Sasha Rush on trends from ICLR](https://twitter.com/srush_nlp/status/1289311254167924736)
 
 Episodes mentioned on the show:
