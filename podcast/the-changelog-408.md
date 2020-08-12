@@ -1,0 +1,5 @@
+- [Join Changelog++](https://changelog.com/++) to directly support us, make the ads disappear, AND for a chance to win a signed copy of Nadia's book
+- [The Changelog #193: Funding open source with Nadia Eghbal](https://changelog.com/podcast/193)
+- [Sindre Sorhus](https://github.com/sindresorhus)
+- Nadia's post on Substack about [Working in Public](https://nayafia.substack.com/p/22-working-in-public)
+- Buy [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/) on Amazon
