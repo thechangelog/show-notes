@@ -1,0 +1,4 @@
+- [Junior Engineers Are Features, Not Bugs](https://www.usenix.org/conference/srecon18americas/presentation/taggart) - A talk from SRE CON discussing the benefits of hiring junior engineers for infra roles.
+- [The baseds series](https://github.com/vaidehijoshi/baseds-series) - A series of articles related to distributed systems.
+- <hi@shubheksha.com> - Get in touch with our guest, Shubheksha
+- [Oxford study on job discrimination](http://csi.nuff.ox.ac.uk/?p=1299)
