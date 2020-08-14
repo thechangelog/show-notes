@@ -1,0 +1,7 @@
+- [Node Best Practices on GitHub](https://github.com/goldbergyoni/nodebestpractices)
+- [Amal's npm unpublish blog post](https://blog.npmjs.org/post/190553543620/changes-to-npm-unpublish-policy-january-2020)
+- [The tweet about dependabot joke](https://twitter.com/AhmadNassri/status/1291230376069914624?s=20)
+- [Dominic Tarr on The Changelog](https://changelog.com/podcast/326)
+- [We discuss event-stream on JS Party #54](https://changelog.com/jsparty/54)
+- [npm blog post on event-stream](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident)
+- [We discuss dependency selection on JS Party #56](https://changelog.com/jsparty/56)
