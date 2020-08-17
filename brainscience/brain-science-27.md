@@ -1,0 +1,4 @@
+- [Nir Eyal's website](https://www.nirandfar.com/)
+- [Indistractable: How to Control Your Attention and Choose Your Life](https://www.nirandfar.com/indistractable/)
+- [How to Control Your Attention and Choose Your Life](https://www.youtube.com/watch?v=PxhO5EvCoOs) — Nir Eyal @ RSA Events
+- Check out [The Boring Conference](https://boringconference.com/)
