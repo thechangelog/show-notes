@@ -1,0 +1,2 @@
+- [Just For Func: #9 - The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw) - Francesc's YouTube channel & his episode on the context package
+- [Join Changelog++](https://changelog.com/++) — directly support us, make the ads disappear, and get closer to the metal
