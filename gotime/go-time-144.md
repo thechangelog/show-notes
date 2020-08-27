@@ -1,0 +1,8 @@
+- [Wails Homepage](https://wails.app/)
+- [Webview Project](https://github.com/webview/webview)
+- [Tutorial of Wails by Alex Pliutau](https://www.youtube.com/watch?v=Dg9rUXxNV-c)
+- [Wally Keyboard](https://ergodox-ez.com/pages/wally)
+- [Travis McLane](https://github.com/tmclane) - Contributor mentioned on the show
+- [goreleaser](https://github.com/goreleaser/goreleaser/) - Tool mentioned on the show
+- [go:draft proposal to add embed](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)
+- [Flag of Wales](https://en.wikipedia.org/wiki/Flag_of_Wales)
