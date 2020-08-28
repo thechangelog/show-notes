@@ -1,0 +1,3 @@
+- [The Developers Guide to Content Creation](https://www.developersguidetocontent.com/)
+- [The Developers Guide to Book Publishing](https://gumroad.com/l/RQucf)
+- [Digital Ocean Blog](https://www.digitalocean.com/blog/)
