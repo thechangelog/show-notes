@@ -1,0 +1,5 @@
+- [Dragomir Anguelov - Google Scholar](https://scholar.google.com/citations?user=T04c3fwAAAAJ)
+- [Drago Anguelov – Machine Learning for Autonomous Driving at Scale](https://youtu.be/BV4EXwlb3yo)
+- [Waymo](https://waymo.com)
+- [Waymo - Twitter](https://twitter.com/waymo)
+- [Waymo - LinkedIn](https://www.linkedin.com/company/waymo)
