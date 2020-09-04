@@ -1,0 +1,8 @@
+- [TypeScript 4.0 released](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/)
+- [AST Explorer](https://astexplorer.net/)
+- [meta-typing](https://github.com/ronami/meta-typing)
+- [Airbnb's ts-migrate](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
+- [The Js13k Competition](https://js13kgames.com)
+- [Elder.js](https://github.com/elderjs/elderjs)
+- [Cheat sheet! Formatting JS Numbers](https://elijahmanor.com/format-js-numbers)
+- [Cheat sheet! Formatting JS Dates and Times](https://elijahmanor.com/format-js-dates-and-times)
