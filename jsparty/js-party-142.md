@@ -2,6 +2,7 @@
 - [AST Explorer](https://astexplorer.net/)
 - [meta-typing](https://github.com/ronami/meta-typing)
 - [Airbnb's ts-migrate](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
+- [Codemods: Refactoring JavaScript using JavaScript](https://www.youtube.com/watch?v=t8aQ5zVaEgU)
 - [The Js13k Competition](https://js13kgames.com)
 - [Elder.js](https://github.com/elderjs/elderjs)
 - [Cheat sheet! Formatting JS Numbers](https://elijahmanor.com/format-js-numbers)
