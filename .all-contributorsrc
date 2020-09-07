@@ -512,6 +512,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "datenreisender",
+      "name": "Marko Schulz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/260705?v=4",
+      "profile": "https://twitter.com/datenreisender",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
