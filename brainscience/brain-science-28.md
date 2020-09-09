@@ -1,0 +1,7 @@
+- [Intrapersonal Conflict Vs Interpersonal Conflict](https://marshaferrickcoaching.com/interpersonal-intrapersonal-conflict/)
+- [Understanding Conflict - Meaning and Phases of Conflict](https://www.managementstudyguide.com/understanding-conflict.htm)
+- [The Neurobiology of 'We', How Relationships, the Mind, and the Brain Interact to Shape Who We Are](https://www.audible.com/pd/The-Neurobiology-of-We-Audiobook/B005OZJFWA) - by Daniel J. Siegel
+- [14 Conflict Resolution Skills to Use with Your Team and Your Customers](https://blog.hubspot.com/service/conflict-resolution-skills)
+- [What is Conflict Resolution, and How Does It Work?](https://www.pon.harvard.edu/daily/conflict-resolution/what-is-conflict-resolution-and-how-does-it-work/)
+- [What’s Your Conflict Management Style?](https://www.waldenu.edu/connect/newsroom/walden-news/2017/0530-whats-your-conflict-management-style)
+- [Conflict Resolution: Definition, Process, Skills, Examples](https://www.thebalancecareers.com/conflict-resolutions-skills-2063739)
