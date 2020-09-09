@@ -1,0 +1,14 @@
+- [Mozilla Common Voice](https://commonvoice.mozilla.org/en)
+- [Announcement of Josh and Remy's fellowship work on speech tech for African languages](https://foundation.mozilla.org/en/blog/mozilla-welcomes-two-new-fellows-voice-technology/)
+- [Artie Bias Corpus](https://www.artie.com/blog/the-artie-bias-corpus)
+- Readings on Demographic Bias in ASR:
+    - [Voice recognition still has significant race and gender biases](https://hbr.org/2019/05/voice-recognition-still-has-significant-race-and-gender-biases)
+    - [Gender and Dialect Bias in YouTube’s Automatic Captions](http://www.ethicsinnlp.org/workshop/pdf/EthNLP06.pdf)
+    - [Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684)
+- [Common Voice LREC Paper](https://arxiv.org/pdf/1912.06670.pdf)
+- Common Voice + DeepSpeech collaborators for Low-resource languages:
+    - [Digital Umuganda](https://digitalumuganda.com/)
+    - [AI Lab, Makerere University](http://www.air.ug/)
+    - [Language Technologies Unit, Bangor University](https://www.bangor.ac.uk/canolfanbedwyr/technolegau_iaith.php.en)
+    - [Linguistics Department, Indiana University Bloomington](https://www.chinlanguages.org/community-resources)
+- "under-sampled majority" is a quote from Joy Boulamwini (see [this article](https://www.bostonmagazine.com/news/2018/02/23/artificial-intelligence-race-dark-skin-bias/))
