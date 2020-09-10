@@ -1,9 +1,20 @@
 - [How much do we bend to the will of our tools?](https://thorstenball.com/blog/2020/02/04/how-much-do-we-bend-to-the-will-of-our-tools/)
+- [vim](https://github.com/vim/vim) - A terminal-based text editor.
+- [tmux](https://github.com/tmux/tmux/wiki) - A terminal multiplexer.
+- [postgres.app](https://postgresapp.com/) - A postgres server for macOS.
+- [psql](https://www.postgresql.org/docs/current/app-psql.html) - The default PostgreSQL CLI, configurable via `~/.psqlrc`.
 - [pgcli](https://www.pgcli.com/) - CLI for postgres.
 - [jq](https://stedolan.github.io/jq/) - Command line JSON parsing tool.
 - [bolt db](https://github.com/boltdb/bolt) - A key value store written in Go.
+- [bleve](https://github.com/blevesearch/bleve) - A text indexing library for go
 - [ngrok](https://ngrok.com/) - A useful tool for exposing localhost apps to the web for testing things like webhooks.
 - [Paw](https://paw.cloud/) - A tool for testing APIs on a Mac.
 - [Postman](https://www.postman.com/) - Another tool for testings APIs, but works on all OSes.
 - [modd](https://github.com/cortesi/modd) - A tool for reloading code and running tests when it changes.
 - [gotest](https://github.com/rakyll/gotest) - A tool for running Go tests with color output.
+- [Github CLI](https://github.com/cli/cli) - Github's official CLI tool.
+- [Getting Things Done](https://gettingthingsdone.com/) - A time management method.
+- [Trello](https://trello.com/en-US) - A task management platform.
+- [Things](https://culturedcode.com/things/) - A todo app for macOS.
+- [Todoist](https://todoist.com/) - A cross-platform todo app.
+- [Notion](https://notion.so/) - A cross-platform todo app.
