@@ -97,6 +97,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/calaway"><img src="https://avatars2.githubusercontent.com/u/14339707?v=4" width="100px;" alt=""/><br /><sub><b>Calaway</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=calaway" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/hedythedev"><img src="https://avatars0.githubusercontent.com/u/50042066?v=4" width="100px;" alt=""/><br /><sub><b>Hedy Li</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=hedythedev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://twitter.com/datenreisender"><img src="https://avatars2.githubusercontent.com/u/260705?v=4" width="100px;" alt=""/><br /><sub><b>Marko Schulz</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=datenreisender" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/rsynnest"><img src="https://avatars0.githubusercontent.com/u/4392850?v=4" width="100px;" alt=""/><br /><sub><b>rsynnest</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=rsynnest" title="Documentation">📖</a></td>
   </tr>
 </table>
 
