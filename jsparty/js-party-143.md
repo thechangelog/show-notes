@@ -1,0 +1,5 @@
+- [Solving Solved Problems](https://ahmadnassri.com/blog/solving-solved-problems/)
+- [JS Party #107 - Modular software architecture](https://changelog.com/jsparty/107)
+- [The Changelog #185 – Kong, APIs, Microservices](https://changelog.com/podcast/185)
+- [Indigo Ag](https://www.indigoag.com)
+- [The Changelog #362 – Machine powered refactoring with AST's](https://changelog.com/podcast/362)
