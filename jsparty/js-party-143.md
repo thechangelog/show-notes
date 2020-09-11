@@ -3,3 +3,4 @@
 - [The Changelog #185 – Kong, APIs, Microservices](https://changelog.com/podcast/185)
 - [Indigo Ag](https://www.indigoag.com)
 - [The Changelog #362 – Machine powered refactoring with AST's](https://changelog.com/podcast/362)
+- [Kyle Simpson @getify - Tyranny of complexity](https://twitter.com/getify/status/1301136586948718598)
