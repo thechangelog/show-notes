@@ -1,0 +1,5 @@
+- [Why developing clarity is the #1 habit of highly effective leaders](https://sheevaunmoran.com/blog/success/why-developing-clarity-is-the-1-habit-of-highly-effective-leaders/)
+- [11 Ways to Gain Clarity](https://www.stevepavlina.com/blog/2009/12/11-ways-to-gain-clarity/)
+- [Books by Brendon Burchard](https://brendon.com/books/)
+- [Always Challenge Your Never]() - because there is joy and freedom in knowing your true potential
+- [10 Strategies for Absolute Clarity](https://bemorewithless.com/clarity/)
