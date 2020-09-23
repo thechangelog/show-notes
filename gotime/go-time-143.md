@@ -1,2 +1,7 @@
 - [Just For Func: #9 - The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw) - Francesc's YouTube channel & his episode on the context package
+- [context.WithValue example of avoiding key collision](https://golang.org/pkg/context/#example_WithValue)
+- [Context Keys in Go](https://medium.com/@matryer/context-keys-in-go-5312346a868d) - Mat Ryer's article expanding on this
+- [Context is for Cancelation](https://dave.cheney.net/2017/01/26/context-is-for-cancelation) - Dave Cheney's argument that context is for cancellation
+- [Context isn't for Cancelation](https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation) - Dave Cheney's argument that context *isn't* for cancellation
+- [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff) - Mat Ryer's technique for triggering a graceful cascade of shutdown across your program
 - [Join Changelog++](https://changelog.com/++) — directly support us, make the ads disappear, and get closer to the metal
