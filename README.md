@@ -99,6 +99,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://twitter.com/datenreisender"><img src="https://avatars2.githubusercontent.com/u/260705?v=4" width="100px;" alt=""/><br /><sub><b>Marko Schulz</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=datenreisender" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rsynnest"><img src="https://avatars0.githubusercontent.com/u/4392850?v=4" width="100px;" alt=""/><br /><sub><b>rsynnest</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=rsynnest" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/SeeThruHead"><img src="https://avatars1.githubusercontent.com/u/8273939?v=4" width="100px;" alt=""/><br /><sub><b>Shane Keulen</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=SeeThruHead" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/StevenACoffman"><img src="https://avatars3.githubusercontent.com/u/1942608?v=4" width="100px;" alt=""/><br /><sub><b>Steve Coffman</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=StevenACoffman" title="Documentation">📖</a></td>
   </tr>
 </table>
 
