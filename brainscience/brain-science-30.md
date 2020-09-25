@@ -1,0 +1,5 @@
+- [Stressed or stressed out: What is the difference?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1197275/)
+- ['Allostatic Load' Is the Psychological Reason for Our Pandemic Brain Fog](https://www.vice.com/en_us/article/n7jap8/allostatic-load-is-the-reason-you-feel-anxious-stressed-from-isolation)
+- [Loneliness and Social Isolation as Risk Factors for Mortality: A Meta-Analytic Review](https://journals.sagepub.com/doi/10.1177/1745691614568352)
+- [The Happiness Lab #10: Good Screens and Bad Screens](https://www.happinesslab.fm/coronavirus-bonus-episodes/episode-10-good-screens-and-bad-screens)
+- [Covid-19 Tips for remote work](http://workplacementalhealth.org/covid19tips)
