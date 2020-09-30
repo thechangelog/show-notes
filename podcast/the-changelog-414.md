@@ -1,5 +1,6 @@
 [Share your feedback](https://changelog.typeform.com/to/yACAtmo8) on our podcast and Changelog++ experiences.
 
+- [Welcoming Gitter to Matrix!](https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix)
 - [Gitter](https://gitter.im/) - Where developers come to talk
 - [Element](https://element.io) - All-in-one secure chat app for teams, friends and organisations
 - [Matrix](https://matrix.org/) - An open network for secure, decentralized communication
