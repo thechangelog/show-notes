@@ -101,6 +101,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/SeeThruHead"><img src="https://avatars1.githubusercontent.com/u/8273939?v=4" width="100px;" alt=""/><br /><sub><b>Shane Keulen</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=SeeThruHead" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/StevenACoffman"><img src="https://avatars3.githubusercontent.com/u/1942608?v=4" width="100px;" alt=""/><br /><sub><b>Steve Coffman</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=StevenACoffman" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/aru233"><img src="https://avatars3.githubusercontent.com/u/23175498?v=4" width="100px;" alt=""/><br /><sub><b>Arushi Agarwal</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=aru233" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
