@@ -2,4 +2,4 @@
 - [Pioneer BDR-XD05B 6x Slim Portable USB 3.0 BD/DVD/CD BDR-XD05B](https://www.bhphotovideo.com/c/product/1086416-REG/pioneer_bdr_xd05b_external_blu_ray_dvr_drive.html)
 - [Plex’s DVR now lets you skip the commercials… by removing them for you | TechCrunch](https://techcrunch.com/2017/11/27/plexs-dvr-now-lets-you-skip-the-commercials-by-removing-them-for-you/)
 - [Live TV Streaming | Watch TV now free with Plex DVR](https://www.plex.tv/live-tv-dvr/)
-- [FAQ - Plex Cloud | Plex Support](https://support.plex.tv/articles/226825168-faq-plex-cloud/)
+- [FAQ - Plex Cloud | Plex Support](https://support.plex.tv/articles/categories/plex-media-server/faq-troubleshooting/)
