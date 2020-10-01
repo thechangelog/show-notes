@@ -1,0 +1,3 @@
+- [Brain Science #27: What does it mean to be Indistractible?](https://changelog.com/brainscience/27)
+- [What is self care?](https://www.healthline.com/health-news/self-care-is-not-just-treating-yourself)
+- [12 Ways to Take Better Care of Yourself](https://www.psychologytoday.com/us/blog/click-here-happiness/201812/self-care-12-ways-take-better-care-yourself)
