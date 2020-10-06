@@ -1,0 +1,8 @@
+- [Elixir Radar](https://elixir-radar.com)
+- [Elixir Talk on The Changelog](https://changelog.com/podcast/365)
+- [José Valim on The Changelog](https://changelog.com/podcast/402)
+- [Caleb Porzio on Maintainer Spotlight](https://changelog.com/podcast/381)
+- [Livewire](https://laravel-livewire.com)
+- [It’s OK to make money from your open source](https://changelog.com/podcast/405)
+- [The Truth Is Paywalled But The Lies Are Free](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free)
+- [Benedict Evans' newsletter](https://www.ben-evans.com/newsletter)
