@@ -1,0 +1,7 @@
+[Teamistry](https://link.chtbl.com/teamistry?sid=podcast.changelog) is the chemistry of unsung teams that achieve the impossible Season two begins September 21st. New episodes every other Monday. Teamistry is hosted by award-winning documentary and feature film director Gabriela Cowperthwaite.
+
+Search for Teamistry anywhere you listen to podcasts or [click here to subscribe and listen](https://link.chtbl.com/teamistry?sid=podcast.changelog).
+
+---
+
+In the final episode of Season 1 of [Teamistry](https://link.chtbl.com/teamistry?sid=podcast.changelog), host Gabriela Cowperthwaite shines a light on the team of seamstresses and engineers whose meticulous craftwork, creativity, and dedication helped us realize the dream of putting a man on the moon. In this episode, Joanne Thompson and Jean Wilson — two of last surviving seamstresses who worked on the Apollo 11 moonsuits — talk about the intricate seams, needlework, and personal sacrifices that went into outfitting Neil Armstrong. We hear from Homer Reihm, one of the engineers who worked with the seamstresses, and Bill Ayrey, former historian at ILC Dover and Nicholas de Monchaux, author of 'Spacesuit: Fashioning Apollo', who take us through the pivotal moments of this monumental task. Also, Janet Ferl, the current design engineering manager at ILC Dover, tells us how the legacy of dedication and teamwork on the Apollo 11 moonsuit continues to inspire the company today.
