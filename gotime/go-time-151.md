@@ -1,0 +1,4 @@
+- [Learn Go with Tests by Chris James](https://quii.gitbook.io/learn-go-with-tests/)
+- [Go By Example](https://gobyexample.com/)
+- [Go Jobs posted on Twitter](https://twitter.com/golangprojects) - A Twitter account mentioned in the Gophers Slack during the episode.
+- [Inception (movie)](https://en.wikipedia.org/wiki/Inception) - Mat jokes referring to the movie briefly.
