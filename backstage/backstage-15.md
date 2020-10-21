@@ -1,0 +1,2 @@
+- [changelog.com source code on GitHub](https://github.com/thechangelog/changelog.com)
+- [John Resig talks GraphQL on JS Party](https://changelog.com/jsparty/38)
