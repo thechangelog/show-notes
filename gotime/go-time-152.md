@@ -1,0 +1,3 @@
+- [Go Time at GopherCon session 1](https://www.gophercon.com/agenda/session/233449)
+- [Go Time at GopherCon session 2](https://www.gophercon.com/agenda/session/370104)
+- [Go Time at GopherCon session 3](https://www.gophercon.com/agenda/session/370104)
