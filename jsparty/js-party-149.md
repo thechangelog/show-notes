@@ -1,3 +1,3 @@
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [avrgirl](https://github.com/noopkat/avrgirl)
-- [Ben's minishops](https://www.benmvp.com/blog/introducing-minishops/)
+- [Ben's minishops](https://www.benmvp.com/minishops/)
