@@ -1,6 +1,5 @@
 - [Looking Back at Postgres](https://arxiv.org/pdf/1901.01973.pdf)
 - [Customizing My Postgres Shell](https://www.citusdata.com/blog/2017/07/16/customizing-my-postgres-shell-using-psqlrc/)
-- python function tweets/code
 - [ZomboDB](https://github.com/zombodb/zombodb)
 - [Postgres Weekly](https://postgresweekly.com)
 - [Planet PostgreSQL](https://planet.postgresql.org)
