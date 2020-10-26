@@ -1,0 +1,2 @@
+- [Sajari](https://www.sajari.com/)
+- [Blog post: "Reinforcement Learning Assisted Search Ranking"](https://www.sajari.com/blog/reinforcement-learning-assisted-search-ranking/)
