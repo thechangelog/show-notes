@@ -6,3 +6,5 @@
 - [pgsql-hackers mailing list](https://www.postgresql.org/list/pgsql-hackers/)
 - [pgsql-novice mailing list](https://www.postgresql.org/list/pgsql-novice/)
 - [PostgreSQL IRC info](https://www.postgresql.org/community/irc/)
+- [Building a recommendation engine inside Postgres with Python and Pandas](https://info.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Craig's twitter thread of building it](https://twitter.com/craigkerstiens/status/1294315343544950784)
