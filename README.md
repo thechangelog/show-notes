@@ -103,6 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/aru233"><img src="https://avatars3.githubusercontent.com/u/23175498?v=4" width="100px;" alt=""/><br /><sub><b>Arushi Agarwal</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=aru233" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/jsilvers"><img src="https://avatars3.githubusercontent.com/u/61248505?v=4" width="100px;" alt=""/><br /><sub><b>jsilvers</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jsilvers" title="Documentation">📖</a></td>
   </tr>
 </table>
 
