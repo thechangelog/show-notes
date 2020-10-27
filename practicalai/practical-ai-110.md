@@ -1,2 +1,5 @@
 - [Sajari](https://www.sajari.com/)
 - [Blog post: "Reinforcement Learning Assisted Search Ranking"](https://www.sajari.com/blog/reinforcement-learning-assisted-search-ranking/)
+- [Blog post: "Query Understanding 101"](https://www.sajari.com/blog/query-understanding-101/)
+- [Blog post: "The Inevitable Collision of Search and AI Tech"](https://www.sajari.com/blog/search-ai-tech/)
+- [Special offer from Sajari for Changelog listeners](https://try.sajari.com/changelog) 
