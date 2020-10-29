@@ -1,0 +1,8 @@
+- [The Official Github CLI repo on Github](https://github.com/cli/cli)
+- [The Official Github CLI website](https://cli.github.com/)
+- [hub, the original Github CLI](https://hub.github.com/) - This is the project that eventually lead to the creation of the CLI linked above.
+- [The past and the future of hub](https://mislav.net/2020/01/github-cli/) - Mislav wrote an article talking about his experience building hub and some of the challenges.
+- [Kubectl CLI](https://github.com/kubernetes/kubectl) - Another CLI that was examined when determining how to build the Github CLI and what libraries to consider.
+- [Github CLI’s go.mod file](https://github.com/cli/cli/blob/trunk/go.mod) - Github's go.mod file has all of the third party libraries they use in the CLI. Useful for anyone starting with a new CLI.
+- [Git command line tool](https://git-scm.com/) - The original `hub` CLI wrapped `git`.
+- [More GitHub-focused podcasts on Changelog.com](https://changelog.com/topic/github/podcasts#feed)
