@@ -1,0 +1,6 @@
+- ["4 years ago Envoy became OSS"](https://twitter.com/mattklein123/status/1305562833975869440)
+- [Optimizing impact: why I will not start an Envoy platform company](https://medium.com/@mattklein123/optimizing-impact-why-i-will-not-start-an-envoy-platform-company-8904286658cb)
+- [The (broken) economics of OSS](https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182)
+- [#envoycon2020](https://events.linuxfoundation.org/envoycon/)
+- [CNCF graduated project](https://landscape.cncf.io/category=service-proxy&format=card-mode&grouping=category&selected=envoy)
+- [envoyproxy.io](https://www.envoyproxy.io)
