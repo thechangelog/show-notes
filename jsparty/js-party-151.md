@@ -1,0 +1,3 @@
+- [Take the next Frontend Feud survey!](https://jsparty.fm/ff)
+- [Watch the video on our YouTube channel](https://www.youtube.com/watch?v=INj8MmBvUeA)
+- [HalfStack Conf](https://halfstackconf.com)
