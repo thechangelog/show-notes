@@ -10,3 +10,4 @@ Read Gerhard's post covering all the details for [Changelog's 2020 and beyond in
 - Check out [Fernand Galiana](https://github.com/derailed) and [K9s](https://github.com/derailed/k9s)
 - [Bitwarden ](https://bitwarden.com/)
 - [Grafana Labs](https://grafana.com)
+- [Keel](https://keel.sh)
