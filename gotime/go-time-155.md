@@ -1,0 +1,6 @@
+- [Things in Go I Never Use (Mat at Gotham Go)](https://www.youtube.com/watch?v=5DVV36uqQ4E)
+- [Label Breaks in Go](https://www.ardanlabs.com/blog/2013/11/label-breaks-in-go.html)
+- [Go tips and tricks: almost everything about imports](https://scene-si.org/2018/01/25/go-tips-and-tricks-almost-everything-about-imports/)
+- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
+- [The container/list package](https://golang.org/pkg/container/list/)
+- [Understanding init in Go](https://www.digitalocean.com/community/tutorials/understanding-init-in-go)
