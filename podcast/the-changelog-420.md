@@ -1,0 +1,2 @@
+- [Kode Vicious on ACM Queue](https://queue.acm.org/listing.cfm?typefilter=Kodevicious&sort=publication_date&order=desc&qc_type=Kodevicious&article_type=&item_topic=all&filter_type=topic&page_title=Kode%20Vicious&filter=all)
+- [(Book) The Kollected Kode Vicious](https://www.informit.com/store/kollected-kode-vicious-9780136788249)
