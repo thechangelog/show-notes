@@ -1,0 +1,1 @@
+Projects mentioned in this episode include [Pixie](https://pixielabs.ai/) and [Velero](https://velero.io/).
