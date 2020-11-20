@@ -1,0 +1,5 @@
+- [Apple's "One more thing" event](https://www.apple.com/apple-events/november-2020/)
+- [Apple's M1 chip](https://www.apple.com/mac/m1/)
+- [macOS Big Sur](https://www.apple.com/macos/big-sur/)
+- [Rene Ritchie - M1 Benchmarks & Experience — MacBook Pro, Air, Mac mini!](https://www.youtube.com/watch?v=017ABj3hYG4)
+- [The Omni Group](https://www.omnigroup.com/)
