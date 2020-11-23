@@ -1,0 +1,5 @@
+- [What $24 million means for our open source community](https://grafana.com/blog/2019/10/24/what-24-million-means-for-our-open-source-community/)
+- [Grafana Labs raises $50 million to accelerate R&D investments in open source logs, metrics and composable observability](https://grafana.com/blog/2020/08/17/introducing-the-grafana-accelerator-program-one-of-the-investments-were-making-in-the-community-after-raising-50-million/)
+- [Grafana Cloud](https://grafana.com/products/cloud/) is a fully managed observability platform for your applications and infrastructure. Metrics, logs, and dashboards at scale.
+- [Grafana Enterprise](https://grafana.com/products/enterprise/) includes access to enterprise plugins that take your existing data sources and allow you to drop them right into Grafana.
+- [Grafana Metrics Enterprise](https://grafana.com/products/metrics-enterprise/) is a scalable, self-hosted Prometheus service that is seamless to use, simple to operate/maintain, and supported by Grafana Labs.
