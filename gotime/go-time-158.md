@@ -1,0 +1,11 @@
+- [Play with Go](https://play-with-go.dev) - The live site running Play with Go
+- [Play with Go on Github](https://github.com/play-with-go/play-with-go) - The open source repository and source code.
+- [Play with Go on Twitter](https://twitter.com/playwithgo)
+- [Play with Docker](https://github.com/play-with-docker/play-with-docker) - The project that Play with Go was based on.
+- [play-with-go/preguide](https://github.com/play-with-go/preguide) - A validation tool used in Play with Go.
+- [CUE](https://cuelang.org/) - Syntax language similar to JSON used in Play with Go. Built with Go.
+- [Using Go Modules](https://blog.golang.org/using-go-modules) - A blog article mentioned in the show as having issues due to repositories changing.
+- [Gitea](https://gitea.io/) - An open source, self-hosted Git service used in Play with Go.
+- [gio](https://gioui.org/) - A Go GUI library mentioned in the show.
+- [Jonathan Leibiusky](https://twitter.com/xetorthio) - Helped create Play with Docker.
+- [SIV is Unsound](https://peter.bourgon.org/blog/2020/09/14/siv-is-unsound.html) - An article mentioned during the unpopular opinion segment about semantic versioning.
