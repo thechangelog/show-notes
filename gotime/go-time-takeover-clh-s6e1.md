@@ -1,0 +1,3 @@
+We're working with Command Line Heroes to promote Season 6. Command Line Heroes is a podcast that tells the epic true tales of developers, programmers, hackers, geeks, and open source rebels who are revolutionizing the technology landscape. It's an awesome show and we’re huge fans of Saron and the team behind the podcast, so we wanted to share it with you.
+
+Search for Command Line Heroes anywhere you listen to podcasts, or [head here to learn more and subscribe](https://link.chtbl.com/commandlineheroes_cyoa?sid=podcast.GoTime).
