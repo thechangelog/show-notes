@@ -1,0 +1,2 @@
+- [Delve is a debugger for Go](https://github.com/go-delve/delve)
+- [Weaver – trace Go program execution with uprobes and eBPF](https://github.com/grantseltzer/weaver)
