@@ -1,0 +1,6 @@
+- [Josh on hands-free coding](https://joshwcomeau.com/accessibility/hands-free-coding/)
+- [Jerod on his RSI battle](https://jerodsanto.net/2015/02/i-fought-the-rsi-and-the-rsi-almost-won/)
+- [The Mindbody Prescription](https://www.amazon.com/dp/B00FOTRPJQ/)
+- [Talon Software](https://talonvoice.com/docs/)
+- [CSS for JavaScript Developers](https://css-for-js.dev)
+- [Tobii Eye Tracker 5](https://gaming.tobii.com/product/eye-tracker-5/)
