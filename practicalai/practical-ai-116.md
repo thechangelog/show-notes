@@ -1,0 +1,1 @@
+The Government & Public Sector R Conference, or R|Gov for short, is returning in Fall of 2021 and the R Conference New York is returning in 2021 as well and you can learn more at [rstats.ai](http://rstats.ai/), [twitter.com/rstatsnyc](https://twitter.com/rstatsnyc) and [twitter.com/rstatsdc](https://twitter.com/rstatsdc).
