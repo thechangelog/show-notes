@@ -5,3 +5,6 @@
 - [My Unforgettable Uber Ride](https://blog.pragmaticengineer.com/my-unforgettable-uber-ride/)
 - Gergely's Indie Hackers post: [14 days, $14K in sales, 1,000 customers and what worked for me](https://www.indiehackers.com/post/14-days-14k-in-sales-1-000-customers-and-what-worked-for-me-e08032d029)
 - [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
+- [The Changelog #415: Spotify's open platform for shipping at scale
+with Jim Haughwout and Stefan Ålund](https://changelog.com/podcast/415)
+- [Spotify's open platform for building developer portals](https://changelog.com/news/spotifys-open-platform-for-building-developer-portals-83Lk)
