@@ -1,0 +1,7 @@
+- [You May Finally Use JSHint for Evil](http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/)
+- [2020 Relicensing](https://jshint.com/relicensing-2020/)
+- [JSHint: Watching the Ship Sink](http://mikepennisi.com/blog/2020/jshint-watching-the-ship-sink/)
+- [JSHint: Dug In](http://mikepennisi.com/blog/2020/jshint-dug-in/)
+- [JSHint: Asking Nicely](http://mikepennisi.com/blog/2020/jshint-asking-nicely/)
+- [JSHint: Wrestling it Free](http://mikepennisi.com/blog/2020/jshint-wrestling-it-free/)
+- [Karen Sandler from the FSC on The Changelog](https://changelog.com/podcast/238)
