@@ -1,0 +1,8 @@
+- [JS Party Vue episode #1](https://changelog.com/jsparty/135)
+- [JS Party Vue episode #2](https://changelog.com/jsparty/126)
+- [Emma's onboarding blog post](https://compiled.blog/blog/five-reasons-why-spotifys-onboarding-is-better-than-yours)
+- [Remote: Office Not Required book](https://basecamp.com/books/remote)
+- [Rework book](https://basecamp.com/books/rework)
+- [Accelerate: Building & Scaling High Performing Technology Organizations book](https://www.oreilly.com/library/view/accelerate/9781457191435/)
+- [It Doesn't Have To Be Crazy At Work book](https://basecamp.com/books/calm)
+- [KBall dancing at All Things Open](https://twitter.com/ladyleet/status/1184091187134844928?s=20)
