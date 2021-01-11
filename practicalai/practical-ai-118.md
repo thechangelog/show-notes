@@ -1,0 +1,2 @@
+- [AMEX AI Labs research](https://www.americanexpress.com/in/careers/ai-labs.html#research)
+- [O'Reilly article about "doing good data science"](https://www.oreilly.com/radar/doing-good-data-science/)
