@@ -1,0 +1,8 @@
+- [Guillermo on The Changelog #213](https://changelog.com/podcast/213)
+- [Guillermo on JS Party #122](https://changelog.com/jsparty/122)
+- [Web Vitals](https://web.dev/vitals/)
+- [Next.js](https://nextjs.org)
+- [Nuxt.js](https://nuxtjs.org)
+- [SvelteKit](https://svelte.dev/blog/whats-the-deal-with-sveltekit)
+- [Temporal](https://tc39.es/proposal-temporal/docs/cookbook.html)
+- [AssemblyKit](https://www.assemblyscript.org)
