@@ -1,0 +1,4 @@
+- [CI/CD with Docker and Kubernetes](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - A free book about CI/CD written by Jérôme & Marko
+- [Sysbox](https://github.com/nestybox/sysbox) - A tool mentioned by Jérôme on the show
+- [Tilt](https://tilt.dev/) - A tool mentioned on the show
+- [Semaphore](https://semaphoreci.com/) - The SaaS CI company that Mark is the co-founder of.
