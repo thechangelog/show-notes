@@ -1,0 +1,8 @@
+- [Gretel | Website](https://gretel.ai)
+- [Gretel | LinkedIn](https://www.linkedin.com/company/gretelai)
+- [Gretel | Twitter](https://twitter.com/gretel_ai)
+- [Gretel | Slack](https://gretel.ai/slackinvite)
+- [Gretel Synthetics | GitHub](https://github.com/gretelai/gretel-synthetics)
+- [Gretel Blueprints | GitHub](https://github.com/gretelai/gretel-blueprints)
+- [Gretel | Improving massively imbalanced datasets in machine learning with synthetic data](https://gretel.ai/blog/improving-massively-imbalanced-datasets-in-machine-learning-with-synthetic-data)
+- [Gretel | Deep dive on generating synthetic data for Healthcare](https://gretel.ai/blog/deep-dive-on-generating-synthetic-data-for-healthcare)
