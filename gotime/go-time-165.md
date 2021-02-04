@@ -1,0 +1,7 @@
+- [Make Ctrl+C Cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff) - An article by Mat Ryer discussing how to capture `ctrl+c` and cancel a context.
+- [NotifyContext proposal](https://github.com/golang/go/issues/21521) - Our very own Mark Bates made the proposal for NotifyContext!
+- [NotifyContext](https://godoc.org/github.com/golang/go/src/os/signal#NotifyContext) - docs for the `NotifyContext` functionality added in Go
+- [12 Factor](https://12factor.net/)
+- [Graceful shutdown in Go http server](https://medium.com/honestbee-tw-engineer/gracefully-shutdown-in-go-http-server-5f5e6b83da5a) - an article discussing grateful shutdowns with Go HTTP servers.
+- [kill linux man page](https://linux.die.net/man/1/kill) - `kill` is a linux command mentioned on the show
+- [os/signal](https://golang.org/pkg/os/signal/) - docs for the `os/signal` package in Go.
