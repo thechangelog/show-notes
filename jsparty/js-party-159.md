@@ -2,4 +2,4 @@
 - [Developer Roadmap website](https://roadmap.sh)
 - [Developer Roadmap on GitHub](https://github.com/kamranahmedse/developer-roadmap)
 - [The Frontend Roadmap image](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/frontend.png)
-- [The Backend Roadmap image](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/frontend.png)
+- [The Backend Roadmap image](https://github.com/kamranahmedse/developer-roadmap/blob/master/img/backend.png)
