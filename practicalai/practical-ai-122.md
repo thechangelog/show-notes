@@ -1,0 +1,3 @@
+- [Aidoc | Website](https://www.aidoc.com)
+- [Aidoc Medical | LinkedIn](https://www.linkedin.com/company/aidoc)
+- [Aidoc | Twitter](https://twitter.com/aidocmed)
