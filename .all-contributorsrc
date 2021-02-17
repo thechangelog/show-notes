@@ -566,6 +566,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "vmbrasseur",
+      "name": "VM Brasseur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298927?v=4",
+      "profile": "https://vmbrasseur.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
