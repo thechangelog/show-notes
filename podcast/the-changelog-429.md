@@ -55,9 +55,9 @@ Paul shared a few links to Twitter threads he started:
 - [https://twitter.com/pauldix/status/1352615503366381570](https://twitter.com/pauldix/status/1352615503366381570)
 - [https://twitter.com/pauldix/status/1352727425717825536](https://twitter.com/pauldix/status/1352727425717825536)
 
-### Vicky Brasseur
+### VM (Vicky) Brasseur
 
-Vicky Brasseur has been in free and open source software for 30 years and has been working with startups and enterprises doing open source & free software business strategy for quite a while now. We used Vicky's post titled "Elasticsearch and Kibana are now business risks" as a reference on this situation. We even quoted her post a few times in our conversation on this episode with with Heather Meeker.
+VM (Vicky) Brasseur has been in free and open source software for 30 years and has been working with startups and enterprises doing open source & free software business strategy for quite a while now. We used Vicky's post titled "Elasticsearch and Kibana are now business risks" as a reference on this situation. We even quoted her post a few times in our conversation on this episode with with Heather Meeker.
 
 - [Elasticsearch and Kibana are now business risks](https://anonymoushash.vmbrasseur.com/2021/01/14/elasticsearch-and-kibana-are-now-business-risks)
 
