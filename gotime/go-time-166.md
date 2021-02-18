@@ -1,3 +1,5 @@
+[You could win Mark Bates' Raspberry Pi 400!](https://changelog.com/posts/were-giving-away-mark-bates-raspberry-pi-400)
+
 The proposals we discuss are:
 
 * 21670 - [Have functions auto-implement interfaces with only a single method of that same signature](https://github.com/golang/go/issues/21670)
