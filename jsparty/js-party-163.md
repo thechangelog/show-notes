@@ -1,3 +1,3 @@
 - Listen to Eric [on The Changelog](https://changelog.com/podcast/267)  back in 2017
-- Order [Grokking Simplicity](http://mng.bz/nM8e) today (Use code **podjsparty20** for 20% off!)
+- Order [Grokking Simplicity](http://mng.bz/nM8e) today (Use code **podjsparty20** for 40% off!)
 - Join #jsparty in [our community slack](https://changelog.com/community) for your chance at 1 of 3 free e-books!
