@@ -1,0 +1,5 @@
+- [Green AI article in the communications of the ACM](https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext)
+- [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
+- [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305)
+- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)
+- [Reproducibility at EMNLP 2020](https://2020.emnlp.org/blog/2020-05-20-reproducibility)
