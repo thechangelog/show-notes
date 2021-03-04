@@ -575,6 +575,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "crhntr",
+      "name": "Christopher Hunter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8398225?v=4",
+      "profile": "http://crhntr.com",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
