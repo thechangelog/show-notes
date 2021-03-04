@@ -1,0 +1,8 @@
+- [wag](https://github.com/Clever/wag) - a tool for generating Go web APIs using a subset of Swagger v2.
+- [sphinx](https://github.com/Clever/sphinx) - http rate limiting tool.
+- [leakybucket](https://github.com/Clever/leakybucket) - leaky bucket implemented in Go.
+- [microplane](https://github.com/Clever/microplane) - CLI used to make git changes across multiple repos.
+- [optimus](https://github.com/Clever/optimus) - a library used to concurrently manipulate collections of data.
+- [reposync](https://github.com/Clever/reposync)
+- [gitbot](https://github.com/clever/gitbot)
+- [Mo Repos, Mo Problems? How We Make Changes Across Many Git Repositories](https://engineering.clever.com/2017/12/11/mo-repos-mo-problems-how-we-make-changes-across-many-git-repositories/) - a writeup by Nathan about how Clever uses the microplane CLI.
