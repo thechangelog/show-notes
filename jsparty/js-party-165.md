@@ -1,0 +1,7 @@
+- [Introducing Open Web Docs](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
+- [Open Web Docs on GitHub](https://github.com/openwebdocs/project)
+- [browser-compat-data](https://github.com/mdn/browser-compat-data)
+- [Can I Use](https://caniuse.com)
+- [mdn on GitHub](https://github.com/mdn)
+- [Open Web Docs OpenCollective](https://opencollective.com/open-web-docs)
+- [Open Web Docs on Twitter](https://twitter.com/openwebdocs)
