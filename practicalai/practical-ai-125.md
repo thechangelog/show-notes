@@ -1,0 +1,10 @@
+- [Atomwise](https://www.atomwise.com/)
+- [Atomwise Receives a $2.3M Grant to Develop New Therapies for Drug Resistant Malaria and Tuberculosis](https://www.atomwise.com/2020/10/06/atomwise-receives-grant-to-develop-new-therapies-for-drug-resistant-malaria-and-tuberculosis/)
+- [Atomwise Partners with Global Research Teams to Pursue Broad-Spectrum Treatments Against COVID-19 and Future Coronavirus Outbreaks](https://www.atomwise.com/2020/05/21/atomwise-partners-with-global-research-teams-to-pursue-broad-spectrum-treatments-against-covid-19-and-future-coronavirus-outbreaks/)
+- [World robotic soccer](https://en.wikipedia.org/wiki/RoboCup)
+- [Philadelphia chromosome](https://en.wikipedia.org/wiki/Philadelphia_chromosome)
+- [Alphafold](https://deepmind.com/research/case-studies/alphafold)
+- [Canavan disease](https://en.wikipedia.org/wiki/Canavan_disease) example:
+    - [Paper: "Discovery of Novel Inhibitors of a Critical Brain Enzyme Using a Homology Model and a Deep Convolutional Neural Network"](https://pubs.acs.org/doi/10.1021/acs.jmedchem.0c00473)
+- [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/abs/1510.02855)
+- ["Memorizing yesterday's stock price" example](Most Ligand-Based Classification Benchmarks Reward Memorization Rather than Generalization)
