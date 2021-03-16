@@ -1,0 +1,5 @@
+- [We're Building a Data Science Curriculum with Advanced Mathematics and Machine Learning](https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/)
+- [Why I’m donating $150k to freeCodeCamp to help fund their advanced math & machine learning curriculum](https://darrellsilver.medium.com/why-im-donating-150k-to-freecodecamp-to-help-fund-their-next-big-curriculum-ffb7ff4ae828)
+- [freeCodeCamp in 2020 (and other year-end facts)](https://www.freecodecamp.org/news/freecodecamp-2020/)
+- [The Changelog #369: Five years of freeCodeCamp with Quincy Larson](https://changelog.com/podcast/369)
+- [The Best Tech Podcasts for Software Developers in 2021](https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/)
