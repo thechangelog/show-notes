@@ -1,0 +1,3 @@
+- [Tuning Up: From A/B testing to Bayesian optimization](https://www.manning.com/books/tuning-up-from-a-b-testing-to-bayesian-optimization)
+- [Tuning Up | GitHub](https://github.com/tuningup/tuningup)
+- Manning 40% discount code: podpracticalAI19
