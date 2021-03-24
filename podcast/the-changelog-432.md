@@ -1,0 +1,4 @@
+- [_Big Breaches: Cybersecurity Lessons for Everyone_ on Amazon](https://www.amazon.com/Big-Breaches-Cybersecurity-Lessons-Everyone/dp/1484266544)
+- [Equifax data breach FAQ: What happened, who was affected, what was the impact?](https://www.csoonline.com/article/3444488/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html)
+- [Capital One fined $80 million for 2019 hack of 100 million credit card applications](https://www.washingtonpost.com/national-security/capital-one-fined-2019-hack/2020/08/06/90c2c836-d7f3-11ea-aff6-220dd3a14741_story.html)
+- [What you need to know about the biggest hack of the US government in years](https://www.theguardian.com/technology/2020/dec/15/orion-hack-solar-winds-explained-us-treasury-commerce-department)
