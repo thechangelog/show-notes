@@ -1,0 +1,1 @@
+Many of the design philosophies discussed during the show are encapsulated [in this repo](https://github.com/ardanlabs/gotraining/blob/master/topics/go/README.md).
