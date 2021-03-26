@@ -1,0 +1,5 @@
+- Spencer is a co-founder of [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/) (but is no longer involved with the project)
+- [Cockroach Labs](https://www.cockroachlabs.com/)
+- [CockroachCloud](https://www.cockroachlabs.com/product/cockroachcloud/) - Build and scale fast with CockroachDB-as-a-service on AWS and Google Cloud.
+- [How We're Building a Business to Last](https://www.cockroachlabs.com/blog/how-were-building-a-business-to-last/)
+- [Cockroach Labs scores $160M Series E on $2B valuation](https://techcrunch.com/2021/01/12/cockroach-labs-scores-160m-series-e-on-2b-valuation/)
