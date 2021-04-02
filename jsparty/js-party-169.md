@@ -1,0 +1,5 @@
+* [The Dispassionate Developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
+* [How to Stop Saying Yes When You Want to Say No](https://tinybuddha.com/blog/stop-saying-yes-want-say-no/)
+* [Transcript: Ezra Klein Interviews Cal Newport](https://www.nytimes.com/2021/03/05/podcasts/ezra-klein-podcast-cal-newport-transcript.html)
+* [A World Without Email](https://www.calnewport.com/blog/2021/01/11/a-world-without-email/)
+* [Developer Happiness Index](https://cult.honeypot.io/developer-happiness-index/global-insights)
