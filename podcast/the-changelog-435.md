@@ -1,0 +1,6 @@
+- [The Future of Web Software Is HTML-over-WebSockets](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/)
+- [StimulusReflex](https://docs.stimulusreflex.com/)
+- [Hotwire](https://hotwire.dev)
+- [ChaosMage](https://chaosmage.app/welcome)
+- [M.E. Patterson on Amazon](https://amzn.to/mepatt)
+- [Matt works at SkillsEngine](https://skillsengine.com/)
