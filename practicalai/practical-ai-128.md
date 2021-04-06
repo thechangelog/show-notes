@@ -1,0 +1,6 @@
+-[PolyAI](https://www.polyai.com)
+-[The Science Behind PolyAI](https://www.polyai.com/technology)
+-[How Customer Service Voice Assistants Handle Different Languages and Accents](https://www.polyai.com/voice-assistants-languages-and-accents)
+-[PolyAI Maintains Lead Over IBM Watson Assistant and Other Popular Language Understanding Models](https://www.polyai.com/polyai-maintains-lead-over-ibm-watson-assistant-and-other-popular-open-source-language-models)
+-[PolyAI’s ConveRT Model Outperforms BERT and GPT-Based Models in Salesforce Research Evaluation](https://www.polyai.com/polyais-convert-model-outperforms-bert-and-gpt-based-models)
+-[Few-Shot Slot Labeling with ConVEx: The Most Accurate Value Extractor on The Market](https://www.polyai.com/few-shot-slot-labeling-with-convex-the-most-accurate-value-extractor-on-the-market)
