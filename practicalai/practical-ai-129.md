@@ -1,0 +1,2 @@
+- [Graphcore](https://www.graphcore.ai)
+- [Poplar Graph Framework Software](https://www.graphcore.ai/products/poplar)
