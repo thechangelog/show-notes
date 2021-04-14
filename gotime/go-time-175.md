@@ -1,0 +1,6 @@
+- [Storytelling On Stage series](https://blog.gopheracademy.com/series/storytelling-on-stage/)
+- [Storytelling On Stage: The Basics](https://blog.gopheracademy.com/storytelling-on-stage-the-basics/) starts at [4:29](#t=4:29)
+- [Storytelling On Stage: Storytelling](https://blog.gopheracademy.com/storytelling-on-stage-storytelling/) starts at [33:48](#t=33:48)
+- [Storytelling On Stage: Advice](https://blog.gopheracademy.com/storytelling-on-stage-advice/) starts at [52:26](#t=52:26)
+- Storytelling On Stage: Proposal Writing for Procrastinators (not yet published) starts at [1:04:53](#t=1:04:53)
+- [GopherCon CFP](https://www.papercall.io/gophercon-2021)
