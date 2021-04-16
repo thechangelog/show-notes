@@ -1,0 +1,3 @@
+- [two kinds of dumb](https://www.imdb.com/title/tt0091217/characters/nm0743304)
+- [Cornell Law School on 230](https://www.law.cornell.edu/uscode/text/47/230)
+- [EFF on 230](https://www.eff.org/issues/cda230)
