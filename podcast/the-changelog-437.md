@@ -1,0 +1,8 @@
+- [NixOS.org](https://nixos.org)
+- [Nix Manual](https://nixos.org/manual/nix/stable/)
+- [Nix Pills](https://nixos.org/guides/nix-pills/)
+- [Nix shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
+- [nix.dev](https://nix.dev) - The Nix ecosystem guide
+- [NixOS Weekly newsletter](https://weekly.nixos.org)
+- [The Changelog #237: Reproducible builds and secure software with Chris Lamb](https://changelog.com/podcast/237)
+- [NixOS on ARM](https://nixos.wiki/wiki/NixOS_on_ARM) - for example, if you want to try it out on a Raspberry Pi
