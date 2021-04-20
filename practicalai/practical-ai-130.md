@@ -1,0 +1,3 @@
+- [Intuit Website](https://www.intuit.com)
+- [Intuit Blog | Nhung Ho, Director of Data Science](https://www.intuit.com/blog/author/nhung-ho-director-of-data-science)
+- [Intuit Blog | How AI Can Help Build Resiliency for Small Businesses in a Global Economic Crisis](https://www.intuit.com/blog/technology/how-ai-can-help-build-resiliency-for-small-businesses-in-a-global-economic-crisis)
