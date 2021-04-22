@@ -1,8 +1,8 @@
 <mark>Enter to win one of two FREE physical copies of Adam's book!</mark> All you have to do is:
 
 1.  Follow [@GoTimeFM](https://twitter.com/gotimefm) on Twitter
-2.  RT this tweet announcing the episode
-3.  Reply on that thread stating why you're interested
+2.  RT [this tweet announcing the episode](https://twitter.com/GoTimeFM/status/1385266561460719618)
+3.  Reply [on that thread](https://twitter.com/GoTimeFM/status/1385266561460719618) stating why you're interested
 
 We'll announce winners at the end of the month. ✊
 
