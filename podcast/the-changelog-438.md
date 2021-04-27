@@ -1,0 +1,8 @@
+- [Non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token)
+- [NFTs on SNL](https://www.youtube.com/watch?v=mrNOYudaMAc)
+- [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+- [Palm, A New NFT Ecosystem and Studio for Creators](https://consensys.net/blog/press-release/palm-a-new-nft-ecosystem-and-studio-for-creators-announces-launch-of-first-project-with-damien-hirst/)
+- [Filecoin](https://filecoin.io) - A decentralized storage network for humanity's most important information
+- [Heart Shaped Me from Carly Chaikin](https://foundation.app/carlychaikin/heart-shaped-me-13253)
+- [NFT.storage](https://nft.storage/)
+- [Magic Link](https://magic.link)
