@@ -1,0 +1,5 @@
+- [CARMERA](https://www.carmera.com)
+- [The Mapping Hierarchy of Needs](https://medium.com/field-of-view/the-mapping-hierarchy-of-needs-77100bea3426)
+- [Mapping Change When It Matters Most](https://medium.com/field-of-view/mapping-change-when-it-matters-most-ebf1314fa8fa)
+- [CARMERA and Toyota Demonstrate Further Progress on Urban and Highway Mapping in Japan and the US](https://medium.com/field-of-view/carmera-and-tri-ad-demonstrate-further-progress-on-urban-and-highway-mapping-in-japan-and-the-us-a1d8a0a93504)
+- [The Mapping Singularity Is Near](https://medium.com/field-of-view/the-mapping-singularity-is-near-85dc4577b33d)
