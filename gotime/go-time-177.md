@@ -1,0 +1,4 @@
+- [Segmed](https://www.segmed.ai/) - W. Adam Koszek's startup with a focus on high-quality, anonymous medical data.
+- [Rebank](https://www.rebanknow.com/) - Simon White's startup that aims to automate your business banking.
+- [Okteto](https://okteto.com) - Ramiro Berrelleza's startup that provides a Kubernetes development platform to improve developer productivity.
+- [Hightouch](https://hightouch.io/) - Josh Curl's startup that syncs customer data across the tools your business uses.
