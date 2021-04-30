@@ -1,0 +1,6 @@
+- [Single Threaded podcast by Jenn Creighton](https://anchor.fm/single-threaded)
+- [Apollo](https://www.apollographql.com/)
+- [GraphQL Fragments](https://www.apollographql.com/docs/react/data/fragments/)
+- [Apollo Federation](https://www.apollographql.com/docs/federation/)
+- [GraphQL Foundation](https://graphql.org/foundation/)
+- [hey JS buds, i know lots of you have had some "moments"](https://twitter.com/horse_js/status/1381964876772306953)
