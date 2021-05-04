@@ -1,0 +1,3 @@
+- [Video about hunches](https://www.youtube.com/watch?v=whahElqS5eA&feature=youtu.be)
+- [Amazon’s Alexa can now act on its own hunches to turn off lights and more](https://www.theverge.com/2021/1/25/22249044/amazon-alexa-update-proactive-hunches-guard-plus-subscription)
+- [What Are Alexa Hunches?](https://www.amazon.com/gp/help/customer/display.html?nodeId=G7F5F7K93GKSLC4F)
