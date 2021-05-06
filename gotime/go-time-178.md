@@ -1,0 +1,3 @@
+- [GopherConEU](https://gophercon.eu/)
+- [GopherConEU Security workshop](https://gophercon.eu/workshops/#security)
+- [GoBridge Community](https://blog.golangbridge.org/)
