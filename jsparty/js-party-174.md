@@ -1,0 +1,11 @@
+- [Web Stories on Google](https://stories.google/)
+- [French company that is using Stories on their site](https://join-stories.com/)
+- [Web Stories for WordPress](https://wp.stories.google/)
+- [Make Stories](https://makestories.io/)
+- [Newsroom AI](https://www.nws.ai/)
+- [AMP Story Player](https://amp.dev/documentation/guides-and-tutorials/integrate/embed-stories/)
+- Web Creators on:
+  - [YouTube](https://youtube.com/GoogleWebCreators)
+  - [Instagram](https://www.instagram.com/googlewebcreators/)
+  - [Twitter](https://twitter.com/WebCreators)
+  - [Blog](https://blog.google/web-creators/)
