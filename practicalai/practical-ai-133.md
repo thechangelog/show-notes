@@ -1,0 +1,4 @@
+- [Cobalt Speech and Language](https://www.cobaltspeech.com/)
+- [Building Blocks of Speech Technology](https://www.cobaltspeech.com/coblog/2020/4/16/building-blocks-of-voice-technology)
+- [Article: "BYU students, creator of Alexa develop software to preserve Cambodian stories"](https://news.byu.edu/character/byu-students-creator-of-alexa-develop-software-to-preserve-cambodian-stories)
+- [Previous episode with Catherine Breslin (previously with Cobalt)](https://changelog.com/practicalai/82)
