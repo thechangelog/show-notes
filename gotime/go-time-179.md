@@ -1,0 +1,8 @@
+- [Batch](https://batch.sh) - Daniel's company, which is a platform for working with message busses and event-driven systems.
+- [RabbitMQ](https://www.rabbitmq.com/) - An event/message bus tool.
+- [MQTT](https://mqtt.org/) - Another event/message bus option that is very simple.
+- [etcd](https://github.com/etcd-io/etcd) - A fast key/value store. Daniel talks about using it as a cache in the episode.
+- [Plumber CLI](https://github.com/batchcorp/plumber) - A tool written by Batch to help work with any message bus
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Martin Fowler's article on event sourcing.
+- [CUE](https://cuelang.org/) - An encoding tool mentioned in the episode.
+- [Code blocks example from Steve](https://gist.github.com/schigh-ntwrk/e2ffedfaf689616bf536a2264542c6bd) - In the show Steve mentions code blocks helping readability. This is an example of this.
