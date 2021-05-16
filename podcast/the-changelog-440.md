@@ -1,5 +1,6 @@
 - [Open source goes to Mars 🚀](https://github.blog/2021-04-19-open-source-goes-to-mars/)
 - [Open Source on Mars: Community powers NASA’s Ingenuity Helicopter](https://github.com/readme/nasa-ingenuity-helicopter)
+- [The Mars Helicopter, Ingenuity](https://www.jpl.nasa.gov/missions/ingenuity)
 - [nasa/fprime](https://github.com/nasa/fprime)
 - [The .NET Foundation](https://dotnetfoundation.org)
 - [James Webb Space Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope)
