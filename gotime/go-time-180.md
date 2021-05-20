@@ -1,0 +1,2 @@
+- [Encore's website](https://encore.dev)
+- [Encore on GitHub](https://github.com/encoredev/encore)
