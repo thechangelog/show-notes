@@ -1,0 +1,6 @@
+- [Go implementation of Ethereum proof of stake](https://github.com/prysmaticlabs/prysm)
+- [Prysmatic Labs](https://prysmaticlabs.com/)
+- [Official Go implementation of the Ethereum protocol](https://github.com/ethereum/go-ethereum)
+- [Eth2 Mainnet Incident Retrospective](https://medium.com/prysmatic-labs/eth2-mainnet-incident-retrospective-f0338814340c)
+- [Ethereum.org](https://ethereum.org/en/)
+- [Ardan Labs](https://www.ardanlabs.com/)
