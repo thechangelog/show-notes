@@ -1,0 +1,5 @@
+- [prom_ex](https://github.com/akoutmos/prom_ex) - an Elixir Prometheus metrics library built on top of Telemetry
+- [Grafana Agent](https://github.com/grafana/agent)
+- [Alex's hex.pm packages](https://hex.pm/users/akoutmos)
+- [My.Thoughts v1](https://akoutmos.com/)
+- [Beam Radio](https://www.beamrad.io/)
