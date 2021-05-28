@@ -3,3 +3,4 @@
 - [Alex's hex.pm packages](https://hex.pm/users/akoutmos)
 - [My.Thoughts v1](https://akoutmos.com/)
 - [Beam Radio](https://www.beamrad.io/)
+- [Friday night deploy - YouTube live stream](https://youtu.be/90pKWXj5CII)
