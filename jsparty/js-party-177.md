@@ -1,0 +1,7 @@
+- [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/events/)
+- [Serverless Framework](https://www.serverless.com)
+- [How to create an OpenJS Architect serverless app with TypeScript](https://blog.begin.com/how-to-create-an-openjs-architect-serverless-app-with-typescript-d8549102f73c)
+- [Hotwire](https://hotwire.dev)
+- [Fred Schott's Astro demo](https://www.youtube.com/watch?v=mgkwZqVkrwo)
+- [Astro](https://astro.build)
+- [The JS Drama. It's rare](https://twitter.com/horse_js/status/1392189354194448395)
