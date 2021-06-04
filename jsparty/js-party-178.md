@@ -1,0 +1,2 @@
+- [Introducing WebContainers](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+- [WebContainers on GitHub](https://github.com/stackblitz/webcontainer-core)
