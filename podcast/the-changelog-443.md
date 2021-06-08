@@ -1,0 +1,5 @@
+- [10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Ryan Dahl @ JSConf EU 2019
+- [deno.land](https://deno.land)
+- [deno.land/manual](https://deno.land/manual)
+- [Announcing the Deno Company](https://deno.com/blog/the-deno-company)
+- [The Changelog #155: The Future of Node.js with Scott Hammond](https://changelog.com/podcast/155)
