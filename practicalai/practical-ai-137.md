@@ -1,0 +1,5 @@
+- [High-performance speech recognition with no supervision at all](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
+- [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://gumroad.com/l/learn_deep_learning)
+- [deeplearning.ai MLOps course](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/)
+- [GitHub MLOps resources](https://mlops.githubapp.com/)
+- ["Cracking the Data Code" book](https://www.amazon.com/Cracking-Data-Code-Unlock-organisation-ebook/dp/B07KHVPNZL)
