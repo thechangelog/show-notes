@@ -21,7 +21,3 @@
   <img src="https://changelog-assets.s3.amazonaws.com/shipit/05/OODA-the-algorithm-of-adaptation.png" alt="The OODA diagram that is easiest to remember">
   <figcaption><span>The OODA diagram that is easiest to remember</span></figcaption> 
 </figure>
-
-<figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--ben-ford.jpg" alt="Gerhard & Ben">
-</figure>
