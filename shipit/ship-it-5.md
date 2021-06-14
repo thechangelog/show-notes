@@ -12,3 +12,7 @@ Gerhard's favourite CD videos, in order of preference:
 - [How To Build Quality Software Fast](https://youtu.be/ZmgbjaRfp_Q)
 - [Why CI is BETTER Than Feature Branching](https://www.youtube.com/watch?v=lXQEi1O5IOI)
 - [What’s Wrong With The State Of DevOps?](https://www.youtube.com/watch?v=vlD0bHQKX94)
+
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-5--dave-farley.jpg" alt="Gerhard & Dave">
+</figure>
