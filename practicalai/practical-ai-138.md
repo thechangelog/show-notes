@@ -1,0 +1,11 @@
+- [PyTorch Lightning | Website](https://www.pytorchlightning.ai)
+- [PyTorch Lightning | Twitter](https://twitter.com/PyTorchLightnin)
+- [PyTorch Lightning | LinkedIn](https://www.linkedin.com/company/pytorch-lightning)
+- [PyTorch Lightning | GitHub](https://github.com/PyTorchLightning/pytorch-lightning)
+- [Grid.ai | Website](https://www.grid.ai)
+- [Grid.ai | Twitter](https://twitter.com/gridai_)
+- [Grid.ai | LinkedIn](https://www.linkedin.com/company/grid-ai)
+- [Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production](https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production)
+- [Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production
+](https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production)
+- [Grid.ai Launches Platform to Train Machine Learning Models in the Cloud](https://www.prnewswire.com/news-releases/gridai-launches-platform-to-train-machine-learning-models-in-the-cloud-301267901.html)
