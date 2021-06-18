@@ -1,0 +1,11 @@
+- [Introducing: Funds for Open Source](https://blog.opencollective.com/funds-for-open-source/)
+- [Airbnb on Open Collective](https://opencollective.com/airbnb)
+- [Indeed on Open Collective](https://opencollective.com/indeed)
+- [Pia Mancini on Open Collective](https://opencollective.com/piamancini)
+- [Chrome's Web Framework & Tools Performance Fund on Open Collective](https://opencollective.com/chrome)
+- [Discover awesome collectives to support](https://opencollective.com/discover)
+- [fundoss.org](https://fundoss.org) - Open Source Collective partnered with GitCoin to launch FundOSS, a pilot matching campaign based on a democratic funding model.
+- [The Changelog #392: Indeed's FOSS Contributor Fund with Duane O'Brien](https://changelog.com/podcast/392)
+- [About Open Collective](https://docs.opencollective.com/help/about/company)
+- [Open Source Collective](https://www.oscollective.org)
+- [Sustain](https://sustainoss.org/)
