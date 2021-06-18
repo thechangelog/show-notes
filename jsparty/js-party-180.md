@@ -1,0 +1,8 @@
+- [SpiderMonkey's website](https://spidermonkey.dev)
+- [The Monkey posters](https://spidermonkey.dev/docs/#the-monkeys)
+- [TC39 Discourse](https://es.discourse.group/)
+- [Argumentation theory](https://en.wikipedia.org/wiki/Argumentation_theory)
+- [TC39 Realms Proposal](https://github.com/tc39/proposal-realms)
+- [LavaMoat](https://github.com/LavaMoat/lavamoat)
+- [Compartments proposal](https://github.com/tc39/proposal-compartments)
+- [Yulia's Twitch stream](https://www.twitch.tv/codehag)
