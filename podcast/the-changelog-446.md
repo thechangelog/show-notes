@@ -1,0 +1,8 @@
+- [The Changelog #3 - Rob Pike](https://changelog.fm/3)
+- [xbar's website](https://xbarapp.com)
+- [What happens when your old open-source project unexpectedly gets to the top of Hacker News?](https://medium.com/@matryer/what-happens-when-your-old-open-source-project-unexpectedly-gets-to-the-top-of-hacker-news-31114c6c6efb)
+- [Go Time #154 - Where Jerod shares his unpopular opinion](https://changelog.com/gotime/154)
+- [Go Time #144 - Building desktop apps with Go + web tech](https://changelog.com/gotime/144)
+- [Wails.app](https://wails.app/)
+- [Become a sponsor to Mat Ryer](https://github.com/sponsors/matryer)
+- [xbar on GitHub](https://github.com/matryer/xbar)
