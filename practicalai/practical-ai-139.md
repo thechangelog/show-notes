@@ -1,0 +1,5 @@
+- [Pinecone | Website](https://pinecone.io)
+- [Pinecone | Twitter](https://twitter.com/Pinecone_io)
+- [Pinecone | LinkedIn](https://www.linkedin.com/company/pinecone-io)
+- [TheNextPlatform - It's Time to Start Paying Attention to Vector Databases](https://www.nextplatform.com/2021/03/11/its-time-to-start-paying-attention-to-vector-databases)
+- [TheNewStack - Pinecone: A Vector Database for Machine Learning Applications](https://thenewstack.io/pinecone-a-vector-database-for-machine-learning-applications)
