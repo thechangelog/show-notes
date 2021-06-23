@@ -1,6 +1,4 @@
-[Follow-up YouTube stream](https://www.youtube.com/watch?v=v7_Ebpkazis)
-
-Other links:
+- 🎬[Follow-up YouTube stream](https://www.youtube.com/watch?v=v7_Ebpkazis)
 - [Post-mortem: 10 years in the vertical: Part 1](https://underjord.io/10-years-in-the-vertical-part-1.html)
 - [Beam Bloggers Webring](https://beambloggers.com/)
 - [Litestream](https://litestream.io/) - Continuously stream SQLite changes to an object store
