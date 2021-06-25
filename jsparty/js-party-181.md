@@ -1,0 +1,18 @@
+Help us play Frontend Feud (and enter to win a free t-shirt) by [taking the survey](https://jsparty.fm/ff)!
+
+- [Test Automation University](https://testautomationu.applitools.com/)
+- [Mocha](https://mochajs.org/)
+- [Chai Assertion Library](https://www.chaijs.com/)
+- [Which tests Should I Automate talk by Angie](https://www.youtube.com/watch?v=VL-_pnICmGY)
+- [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/)
+- [Cypress](https://www.cypress.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Jest](https://jestjs.io/)
+- [Enzyme](https://enzymejs.github.io/enzyme/)
+- [Kent C. Dodds](https://kentcdodds.com/)
+- [Atomic Habits](https://jamesclear.com/atomic-habits)
+- [JUnit](https://junit.org/junit5/)
+- [Supertest](https://www.npmjs.com/package/supertest)
+- [Nock](https://github.com/nock/nock)
+- [Cucumber](https://cucumber.io/)
+- [do you want to start a youtube channel together called javascript](https://twitter.com/horse_js/status/1405256536969056258)
