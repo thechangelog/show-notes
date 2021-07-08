@@ -1,0 +1,5 @@
+- [The Fuzzing beta announcement](https://blog.golang.org/fuzz-beta)
+- [Our Fuzzing discussion last year](https://gotime.fm/145) 
+- [The design proposal](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
+- [Hot Fuzz movie](https://www.imdb.com/title/tt0425112/) 🐣
+- [List of bugs fuzzing has found](https://github.com/dvyukov/go-fuzz#trophies)
