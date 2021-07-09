@@ -1,0 +1,6 @@
+- [Oxidizing Source Maps with Rust and WebAssembly](https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/)
+- [Making JavaScript Run Fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+- [Wizer](https://github.com/bytecodealliance/wizer)
+- [Talk: Hit the Ground Running: Wasm Snapshots for Fast Startup](https://www.youtube.com/watch?v=C6pcWRpHWG0)
+- [Ableton](https://www.ableton.com/en/)
+- [Wasmtime](https://wasmtime.dev/)
