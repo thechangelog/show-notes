@@ -1,0 +1,6 @@
+- [This Week in Startups #425: From caller to cofounder: how Mitch Wainer raised $37.2m from Andreessen Horowitz](https://thisweekinstartups.com/digital-ocean-andreessen-horowitz-cloud-techstars/)
+- [DigitalOcean](https://www.digitalocean.com) OR [do.co/changelog](https://do.co/changelog) if you want to use a link DigitalOcean no longer pays us to promote
+- [DigitalOcean becomes a public company](https://www.digitalocean.com/blog/digitalocean-becomes-a-public-company/)
+- [DigitalOcean IPO](https://a16z.com/2021/03/24/digitalocean-ipo/)
+- [Welcome Homes](https://www.welcomehomes.com) (or, just Welcome)
+- [Sponsored](https://sponsored.us)
