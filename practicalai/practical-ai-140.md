@@ -1,0 +1,3 @@
+- [ACM article: "Deep Learning for AI"](https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext)
+- [GitHub Copilot](https://copilot.github.com/)
+- [Book: Human in the loop machine learning](https://www.manning.com/books/human-in-the-loop-machine-learning) (use **podpracticalAI19** for 40% off)
