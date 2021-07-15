@@ -1,0 +1,4 @@
+- [proposal: optional SIV](https://github.com/golang/go/issues/44550#issuecomment-787496240)
+- [Go Modules Wiki](https://github.com/golang/go/wiki/Modules)
+- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
+- [Quote about Go by Rob Pike mentioned on the show](https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/From-Parallel-to-Concurrent)
