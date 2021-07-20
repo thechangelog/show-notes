@@ -1,0 +1,2 @@
+- [NVIDIA GTC21 Talk on "Addressing Garbage In Garbage Out"](https://youtu.be/5cp_JBrDZvk)
+- [BeyondMinds](https://beyondminds.ai/)
