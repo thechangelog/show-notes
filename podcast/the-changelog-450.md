@@ -43,6 +43,7 @@
 - [Vim Adventures](https://vim-adventures.com)
 - [vimcasts](http://vimcasts.org)
 - [Practical Vim by Drew Neil](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275)
+- [Vim cheatsheet](https://quickref.me/vim)
 
 #### Extras
 
