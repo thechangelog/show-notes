@@ -1,0 +1,7 @@
+- [Modern alternatives to Unix commands](https://changelog.com/news/modern-alternatives-to-unix-commands-Z31l)
+- [Modern Unix](https://github.com/ibraheemdev/modern-unix)
+- [bat](https://github.com/sharkdp/bat)
+- [fzf](https://github.com/junegunn/fzf)
+- [mcfly](https://github.com/cantino/mcfly)
+- [https://uses.tech](https://uses.tech_
+- [NanoVMs let you run your apps faster and safer with Unikernels](https://runninginproduction.com/podcast/79-nanovms-let-you-run-your-apps-faster-and-safer-with-unikernels)
