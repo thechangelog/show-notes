@@ -1,0 +1,7 @@
+- [Never Before Heard Sounds](https://heardsounds.com/)
+- [Yotam's personal website](https://yotammann.info/)
+- [Holly+](https://heardsounds.com/holly-plus)
+- [Real Time Hardware for Audio Processing](https://heardsounds.com/hardware)
+- [gan.style](https://heardsounds.com/gan-style)
+- [Onsets and Frames (Piano Transcription)](https://arxiv.org/abs/1710.11153)
+- [DDSP: Differentiable Digital Signal Processing](https://magenta.tensorflow.org/ddsp)
