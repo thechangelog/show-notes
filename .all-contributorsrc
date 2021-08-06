@@ -585,6 +585,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "justinjunodev",
+      "name": "Justin Juno",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50022106?v=4",
+      "profile": "https://www.justinjuno.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
