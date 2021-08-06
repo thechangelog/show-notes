@@ -1,6 +1,6 @@
 - [Epic React](https://epicreact.dev/)
 - [React docs](https://reactjs.org/docs/getting-started.html)
-[Getting Closure on React Hooks by Swyx](https://www.swyx.io/hooks/)
+- [Getting Closure on React Hooks by Swyx](https://www.swyx.io/hooks/)
 - [Common Mistakes With React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 - [Soft Skills Podcast](https://softskills.audio/meet-the-hosts/)
 - [Why React Hooks](https://kentcdodds.com/talks/#why-react-hooks)
