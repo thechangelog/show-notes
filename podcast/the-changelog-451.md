@@ -3,5 +3,6 @@
 - [bat](https://github.com/sharkdp/bat)
 - [fzf](https://github.com/junegunn/fzf)
 - [mcfly](https://github.com/cantino/mcfly)
+- [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html) (comes with GNU gettext); [envsubst](https://github.com/a8m/envsubst) (Go implementation)
 - [https://uses.tech](https://uses.tech)
 - [NanoVMs let you run your apps faster and safer with Unikernels](https://runninginproduction.com/podcast/79-nanovms-let-you-run-your-apps-faster-and-safer-with-unikernels)
