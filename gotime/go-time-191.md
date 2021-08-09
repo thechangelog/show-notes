@@ -4,19 +4,19 @@
 2. [Using `err` as an error variable make code hard to read](https://twitter.com/GoTimeFM/status/1402981188483092480) (Steve High on [episode #179](https://gotime.fm/179))
 3. [Chocolate is nasty](https://twitter.com/GoTimeFM/status/1390345891840618500) (Jon Sabados on [episode #174](https://gotime.fm/174))
 4. [JS Party is better than Go Time](https://twitter.com/GoTimeFM/status/1334165485257170951) (Jerod Santo (of course) on [episode #154](https://gotime.fm/154))
-5. [Copy/paste with formatting should be default](https://twitter.com/GoTimeFM/status/1422256489947975681) (Jay Conrod on [episode #187](https://gotime.fm/154))
+5. [Copy/paste with formatting should be default](https://twitter.com/GoTimeFM/status/1422256489947975681) (Jay Conrod on [episode #187](https://gotime.fm/187))
 
 ##### Runners up
 
 - On [episode #167](https://gotime.fm/167) Ian Lopshire said he thinks [futures have a place in Go](https://twitter.com/GoTimeFM/status/1366775266119462912)
-- On [episode #183](https://gotime.fm/167) Preslav Rachev said that [Go needs more magic)](https://twitter.com/GoTimeFM/status/1412842352515981312)
+- On [episode #183](https://gotime.fm/183) Preslav Rachev said that [Go needs more magic](https://twitter.com/GoTimeFM/status/1412842352515981312)
 - On [episode #171](https://gotime.fm/171) Mark Bates confessed [he doesn't particularly like bacon](https://twitter.com/GoTimeFM/status/1379436873701990401)
 
 #### LEAST unpopular
 
-1. [Inheritance and complexity in configuration languages](https://twitter.com/GoTimeFM/status/1356686331116728322) (Marcel van Lohuizen on [episode #163](https://gotime.fm/154))
+1. [Inheritance and complexity in configuration languages](https://twitter.com/GoTimeFM/status/1356686331116728322) (Marcel van Lohuizen on [episode #163](https://gotime.fm/163))
 2. [Disadvantages can become advantages as the world changes](https://twitter.com/GoTimeFM/status/1346144655495327751) (Kris Brandow on [episode #157](https://gotime.fm/157))
-3. [The Go community lacks great GraphQL clients](https://twitter.com/GoTimeFM/status/1331619363976343554) (Mislav Marohnić on [episode #153](https://gotime.fm/157))
+3. [The Go community lacks great GraphQL clients](https://twitter.com/GoTimeFM/status/1331619363976343554) (Mislav Marohnić on [episode #153](https://gotime.fm/153))
 4. [Bad feedback better than no feedback from new users](https://twitter.com/GoTimeFM/status/1417903145993244678) (Carolyn Van Slyck on [episode #184](https://gotime.fm/184))
 5. [Successful devs are stubborn (83% pop)](https://twitter.com/GoTimeFM/status/1368937648782475264) (Jerod Santo on [episode #167](https://gotime.fm/167))
 
