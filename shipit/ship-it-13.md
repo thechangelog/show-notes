@@ -14,5 +14,5 @@
 - [Drip](https://www.drip.com/) - email marketing
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-13--alan-saul-wycliffe.jpg" alt="Gerhard & Tom">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-13--alan-saul-wycliffe.jpg" alt="Gerhard, Alan, Saul & Wycliffe">
 </figure>
