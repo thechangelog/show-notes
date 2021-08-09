@@ -3,5 +3,7 @@
 - [bat](https://github.com/sharkdp/bat)
 - [fzf](https://github.com/junegunn/fzf)
 - [mcfly](https://github.com/cantino/mcfly)
+- [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html) from GNU gettext; [envsubst](https://github.com/a8m/envsubst) in Go
+    - [Nick's blog post on envsubst](https://nickjanetakis.com/blog/using-envsubst-to-merge-environment-variables-into-config-files)
 - [https://uses.tech](https://uses.tech)
 - [NanoVMs let you run your apps faster and safer with Unikernels](https://runninginproduction.com/podcast/79-nanovms-let-you-run-your-apps-faster-and-safer-with-unikernels)
