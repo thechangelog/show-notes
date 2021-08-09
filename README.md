@@ -107,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://vmbrasseur.com"><img src="https://avatars.githubusercontent.com/u/298927?v=4?s=100" width="100px;" alt=""/><br /><sub><b>VM Brasseur</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=vmbrasseur" title="Documentation">📖</a></td>
     <td align="center"><a href="http://crhntr.com"><img src="https://avatars.githubusercontent.com/u/8398225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christopher Hunter</b></sub></a><br /><a href="#content-crhntr" title="Content">🖋</a> <a href="https://github.com/thechangelog/show-notes/commits?author=crhntr" title="Documentation">📖</a></td>
     <td align="center"><a href="https://www.justinjuno.dev"><img src="https://avatars.githubusercontent.com/u/50022106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Justin Juno</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=justinjunodev" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ernstki"><img src="https://avatars.githubusercontent.com/u/4009681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kevin Ernst</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=ernstki" title="Documentation">📖</a></td>
   </tr>
 </table>
 
