@@ -1,0 +1,2 @@
+- [Benthos](https://www.benthos.dev) - a data streaming tool created by guest Ashley Jeff's. 
+- [Materialize](https://materialize.com/) - a tool for making data streams with sql queries. 
