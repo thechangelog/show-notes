@@ -1,0 +1,6 @@
+- [Okta Signs Definitive Agreement to Acquire Auth0](https://auth0.com/blog/okta-auth0-announcement/)
+- [Okta Completes Acquisition of Auth0](https://auth0.com/blog/okta-acquisition-announcement/)
+- [Building Company Culture for Scale](https://auth0.com/blog/how-auth0-is-building-and-scaling-company-culture/)
+- [Auth0 CEO Eugenio Pace on the $6.5 billion deal with Okta and his advice for entrepreneurs](https://www.geekwire.com/2021/auth0-ceo-eugenio-pace-6-5-billion-deal-okta-advice-entrepreneurs/)
+- [Three Practices For Tranquility](https://www.linkedin.com/pulse/three-practices-tranquility-eugenio-pace/)
+- Eugenio on [infinite game mindset and leadership](https://www.linkedin.com/posts/eugeniop_the-most-successful-impactful-purposeful-activity-6810992874264645632-6tdA/)
