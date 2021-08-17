@@ -1,0 +1,4 @@
+- [Jacaranda Health video](https://youtu.be/CgV9QVF2VYw)
+- [Jacaranda Health article](https://kenya.ai/how-jacaranda-health-is-getting-help-for-mothers-in-kenya-faster-using-natural-language-processing/)
+- [Jacaranda Health website](https://www.jacarandahealth.org/)
+- [How AI helps mothers in Kenya get the care they need, faster (article)](https://towardsdatascience.com/how-ai-helps-mothers-in-kenya-get-the-care-they-need-faster-eb4f05b34732)
