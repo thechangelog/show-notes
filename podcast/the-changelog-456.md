@@ -1,0 +1,14 @@
+- [IndieWeb.org](https://indieweb.org)
+- [IndieWeb Chat](https://chat.indieweb.org)
+- [It's Time for OAuth 2.1](https://aaronparecki.com/2019/12/12/21/its-time-for-oauth-2-dot-1)
+- [OAuth 2.0](https://oauth.net/2/)
+- [OAuth 2.0 Simplified](https://oauth2simplified.com)
+- [GNAP Core Protocol](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol)
+- [oktadev.events](https://oktadev.events)
+- [GNAP (Grant Negotiation and Authorization Protocol)](https://oauth.net/gnap/)
+- [PKCE (Proof Key for Code Exchange)](https://oauth.net/2/pkce/)
+- [Books about OAuth 2.0](https://oauth.net/books/)
+- [OAuth 2.0 Playground](https://www.oauth.com/playground/)
+- [The Nuts and Bolts of OAuth 2.0](https://www.udemy.com/course/oauth-2-simplified/)
+- [Okta Developer Day - Auth for All](https://www.okta.com/developerday/) - Virtual Event: August 24, 2021
+- [Okta Developer Day Labs](https://developer-day.live) - August 25, 2021
