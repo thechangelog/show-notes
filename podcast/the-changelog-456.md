@@ -9,6 +9,6 @@
 - [PKCE (Proof Key for Code Exchange)](https://oauth.net/2/pkce/)
 - [Books about OAuth 2.0](https://oauth.net/books/)
 - [OAuth 2.0 Playground](https://www.oauth.com/playground/)
-- [The Nuts and Bolts of OAuth 2.0](https://www.udemy.com/course/oauth-2-simplified/)
+- [The Nuts and Bolts of OAuth 2.0]( https://oauth2simplified.com/course)
 - [Okta Developer Day - Auth for All](https://www.okta.com/developerday/) - Virtual Event: August 24, 2021
 - [Okta Developer Day Labs](https://developer-day.live) - August 25, 2021
