@@ -1,0 +1,8 @@
+- [Monocle](https://github.com/thesephist/monocle)
+- [Ink](https://dotink.co)
+- [Crafting Interpreters](https://www.craftinginterpreters.com)
+- [Thorsten Ball on creating a programming language (Go Time 28)](https://changelog.com/gotime/28)
+- [Monocle search for Taylor Swift](https://monocle.surge.sh/?q=taylor+swift)
+- [Linus's Taylor Swift tweet](https://twitter.com/thesephist/status/1107889861707599872)
+- [Apollo](https://github.com/amirgamil/apollo)
+- [Purple Cow](https://www.goodreads.com/book/show/641604.Purple_Cow)
