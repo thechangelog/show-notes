@@ -1,0 +1,7 @@
+- [A New AI Lexicon](https://medium.com/a-new-ai-lexicon)
+- [A New AI Lexicon: An Electric Brain](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-an-electric-brain-77a81f3ce446)
+- [A New AI Lexicon: Function Creep](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-function-creep-1c20834fab4a)
+- [A New AI Lexicon: Smart](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-smart-580484078624)
+- [A New AI Lexicon: Artificial Identity Cataracts](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-artificial-identity-cataracts-29f73c32e6bb)
+- [A New AI Lexicon: Imbrication](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-imbrication-40b380dafa35)
+- [Free 500+ PDF "Applications of Deep Learning" book from Jeff Heaton, who is teaching this course at Washington University in St. Louis ](https://t.co/0ZQ27vTx7O?amp=1)
