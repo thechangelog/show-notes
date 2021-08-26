@@ -1,0 +1,5 @@
+- [How to build an app, get acquired by GitHub, buy an app back from GitHub and then sell it again](https://www.johnnunemaker.com/speakerdeck/)
+- [Speaker Deck](https://speakerdeck.com)
+- [Fewer & Faster](https://fewerandfaster.com)
+- [Box Out Sports](https://boxoutsports.com)
+- [Flipper Cloud](https://www.flippercloud.io)
