@@ -1,0 +1,6 @@
+- [GitHub Issue on replacing Sass](https://github.com/Shopify/polaris/discussions/44)
+- [Polaris Solutions Matrix](https://docs.google.com/spreadsheets/d/1rxrRTlbNWiLVu-Q5IK7xh5O1FmWcjyAS2XN7jiPrhYM/edit?usp=sharing)
+- [Tailwind](https://tailwindcss.com/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Stitches](https://stitches.dev/)
+- [vanilla-extract](https://vanilla-extract.style/)
