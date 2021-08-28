@@ -1,3 +1,4 @@
 - [Official TENET film website](https://www.tenetfilm.com/site/)
 - [Heavy Spoilers on YouTube](https://www.youtube.com/definition1988)
+- [Visual explanation of inversion](https://www.youtube.com/watch?v=aNQ3pyngtYM)
 - [Backstage #7: The John Wick trilogy (prepare for war)](https://changelog.com/backstage/7)
