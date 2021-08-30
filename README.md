@@ -109,6 +109,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://www.justinjuno.dev"><img src="https://avatars.githubusercontent.com/u/50022106?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Justin Juno</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=justinjunodev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ernstki"><img src="https://avatars.githubusercontent.com/u/4009681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kevin Ernst</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=ernstki" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://maecapozzi.com/newsletter"><img src="https://avatars.githubusercontent.com/u/11462208?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mae Capozzi</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=maecapozzi" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
