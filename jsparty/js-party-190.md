@@ -4,3 +4,4 @@
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Stitches](https://stitches.dev/)
 - [vanilla-extract](https://vanilla-extract.style/)
+- [Design Systems Newsletter](https://maecapozzi.com/newsletter/)
