@@ -612,6 +612,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "thetamind",
+      "name": "Matthew Boehlig",
+      "avatar_url": "https://avatars.githubusercontent.com/u/872?v=4",
+      "profile": "https://twitter.com/thetamind",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
