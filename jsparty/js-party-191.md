@@ -1,0 +1,6 @@
+- [XState](https://xstate.js.org/)
+- [Actors](https://xstate.js.org/docs/guides/actors.html#actor-api)
+- [XState Visualizer](https://xstate.js.org/viz/)
+- [xstate-inspect](https://xstate.js.org/docs/packages/xstate-inspect/)
+- [xstate-fsm](https://xstate.js.org/docs/packages/xstate-fsm/)
+- [XState Discord](https://discord.gg/xstate)
