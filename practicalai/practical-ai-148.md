@@ -1,0 +1,5 @@
+- [Deci](https://deci.ai)
+- [An Introduction to the Inference Stack and Inference Acceleration Techniques](https://deci.ai/resources/blog/inference-stack-and-inference-acceleration-techniques)
+- [Deci and Intel Collaborate to Optimize Deep Learning Inference on Intel’s CPUs](https://deci.ai/resources/news/deci-intel-optimize-deep-learning-inference-cpus)
+- [DeciNets:  A New Efficient Frontier for Computer Vision Models](https://deci.ai/decinets)
+- [White paper](https://info.deci.ai/hubfs/resources/deci-white-paper-autonac.pdf)
