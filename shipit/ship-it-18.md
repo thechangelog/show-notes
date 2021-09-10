@@ -15,5 +15,5 @@
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <a href="(https://www.youtube.com/watch?v=7zmRhHd-ohk"><img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-18--rawkode-live.jpg" alt="Live Debugging the Changelog's Production Kubernetes | Rawkode Live"></a>
+  <a href="https://www.youtube.com/watch?v=7zmRhHd-ohk"><img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-18--rawkode-live.jpg" alt="Live Debugging the Changelog's Production Kubernetes | Rawkode Live"></a>
 </figure>
