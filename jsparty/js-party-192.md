@@ -1,0 +1,6 @@
+- [The Feud At The Seventh Mountain](https://www.bendsource.com/bend/the-feud-at-the-seventh-mountain-condo-owners-prominent-oregon-family-fight-over-repairs-to-inn/Content?oid=2130385)
+- [Amelia's repo visualizer](https://github.com/githubocto/repo-visualizer)
+- [CSS-Tricks](https://css-tricks.com)
+- [freeCodeCamp](https://freecodecamp.org)
+- [Wes Bos' courses](https://wesbos.com/courses)
+- [Changelog Merch](https://merch.changelog.com)
