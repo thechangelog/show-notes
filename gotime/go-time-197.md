@@ -1,0 +1,2 @@
+- [Go Recipes](https://go-recipes.dev)
+- [Sao Sheong's writings](https://sausheong.com)
