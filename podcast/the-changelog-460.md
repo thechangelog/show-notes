@@ -1,0 +1,10 @@
+- [Read this Twitter thread from Adam Jacob](https://twitter.com/adamhjk/status/1424092659606450176)
+- [The Changelog #353: The war for the soul of open source featuring Adam Jacob](https://changelog.com/podcast/353)
+- [The Changelog #429: Community perspectives on Elastic vs AWS (a deep dive on the business of open source)](https://changelog.com/podcast/429)
+- [Progress Announces Acquisition of Chef](https://investors.progress.com/news-releases/news-release-details/progress-announces-acquisition-chef)
+- [Chef co-founder and CTO Adam Jacob stepping down, will remain on board of directors](https://www.geekwire.com/2019/chef-co-founder-cto-adam-jacob-stepping-will-remain-board-directors/)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Why We're Relicensing CockroachDB](https://www.cockroachlabs.com/blog/oss-relicensing-cockroachdb/)
+- [Founders Talk #75: The journey to massive scale and ultra-resilience
+featuring Spencer Kimball, CEO & Co-founder of Cockroach Labs](https://changelog.com/founderstalk/75)
+- [System Initiative](https://www.systeminit.com)
