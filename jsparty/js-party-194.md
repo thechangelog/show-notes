@@ -1,0 +1,11 @@
+- [1Password 8: The Story So Far](https://blog.1password.com/1password-8-the-story-so-far/)
+- [wc3 community group for web extensions](https://www.w3.org/community/webextensions/) 
+- [1Password Security Design](https://1password.com/files/1Password-White-Paper.pdf)
+- [GopherJS](https://github.com/gopherjs)
+- [React](https://reactjs.org/)
+- [Svelte](https://svelte.dev/)
+- [Electron](https://www.electronjs.org/)
+- [Rust](https://www.rust-lang.org/)
+- [Neon (rust in Electron)](https://neon-bindings.com/)
+- RFCs for [JMAP](https://datatracker.ietf.org/doc/html/rfc8620)?
+- [1Password Careers Page (they are hiring!)](https://1password.com/jobs/)
