@@ -1,0 +1,8 @@
+- [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin)
+- [Trust Fauna](https://trust.fauna.com)
+- [Fauna pricing](https://fauna.com/pricing)
+- [Fauna on GitHub](https://github.com/fauna)
+- [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [What is a Relational Database Management System?](https://www.codecademy.com/articles/what-is-rdbms-sql)
+- [Fauna on Crunchbase](https://www.crunchbase.com/organization/fauna)
+- [Fauna on Changelog.com](https://changelog.com/search?q=fauna)
