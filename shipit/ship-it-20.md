@@ -4,7 +4,6 @@
 - [Incident.io](https://incident.io): Our incidents platform
 - [DNSimple](https://dnsimple.com/): Our DNS provider
 - [Fastly](https://www.fastly.com): Our content delivery network
-- [Linode K8s](https://www.linode.com/products/kubernetes/): Our managed Kubernetes
 - Linode - [Connectivity Issue - US-East (Newark)](https://status.linode.com/incidents/405n9754f0m5)
 - Linode - [Service Issue - Linode Kubernetes Engine](https://status.linode.com/incidents/6tpw1dql792w)
 - [Linode Global Infrastructure](https://www.linode.com/global-infrastructure/)
