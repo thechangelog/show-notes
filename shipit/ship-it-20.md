@@ -11,7 +11,7 @@
 - Jerod: [This is what happens when @gerhardlazu...](https://twitter.com/jerodsanto/status/1439977396401328134)
 - [Founderstalk #80](https://changelog.com/founderstalk/80): Iterating to globally distributed apps and databases
 - 🎬 [Firecracker VMs on Metal, Oh My! - Kurt Mackey, March 2021](https://metal.equinix.com/proximity/?wchannelid=ujj9b20qi5&wmediaid=k7nalrr1wz)
-- 🎬 [Live Debugging the Changelog's Production Kubernetes | Rawkode Live, September 2021]
+- 🎬 [Live Debugging the Changelog's Production Kubernetes | Rawkode Live, September 2021](https://www.youtube.com/watch?v=7zmRhHd-ohk)
 
 <figure class="richtext-figure richtext-figure--full">
   <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-20--kaizen2.jpg" alt="Gerhard, Jerod & Adam">
