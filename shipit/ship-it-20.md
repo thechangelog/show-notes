@@ -4,7 +4,7 @@
 - [Incident.io](https://incident.io): Our incidents platform
 - [DNSimple](https://dnsimple.com/): Our DNS provider
 - [Fastly](https://www.fastly.com): Our content delivery network
-- [Linode K8s](https://www.linode.com/products/kubernetes/): Our managed K8s
+- [Linode K8s](https://www.linode.com/products/kubernetes/): Our managed Kubernetes
 - [Sentry](https://sentry.io): Our error tracking
 - [Founderstalk #80](https://changelog.com/founderstalk/80): Iterating to globally distributed apps and databases
 - Jerod: [This is what happens when @gerhardlazu...](https://twitter.com/jerodsanto/status/1439977396401328134)
