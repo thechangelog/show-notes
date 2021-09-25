@@ -7,6 +7,7 @@
 - [Linode K8s](https://www.linode.com/products/kubernetes/): Our managed Kubernetes
 - Linode - [Connectivity Issue - US-East (Newark)](https://status.linode.com/incidents/405n9754f0m5)
 - Linode - [Service Issue - Linode Kubernetes Engine](https://status.linode.com/incidents/6tpw1dql792w)
+- [Linode Global Infrastructure](https://www.linode.com/global-infrastructure/)
 - [Sentry](https://sentry.io): Our error tracking
 - [Founderstalk #80](https://changelog.com/founderstalk/80): Iterating to globally distributed apps and databases
 - Jerod: [This is what happens when @gerhardlazu...](https://twitter.com/jerodsanto/status/1439977396401328134)
