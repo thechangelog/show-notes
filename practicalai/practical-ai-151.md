@@ -1,0 +1,2 @@
+- [Polarity Mapping](https://universityinnovation.org/wiki/Resource:Polarity_Mapping)
+- [Barry Johnson's paper "Reflections A Perspective on Paradox and Its Application to Modern Management"](https://www.semanticscholar.org/paper/Reflections-A-Perspective-on-Paradox-and-Its-to-Johnson/758d3dfe8842e4e39fd9c06f88ab7254133d8485)
