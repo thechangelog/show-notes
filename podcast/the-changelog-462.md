@@ -1,0 +1,11 @@
+- [Camille Fournier (Camille Forn-yay) - An incomplete list of skills senior engineers need](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+- [Katrina Owens - Cultivating Instinct](https://www.youtube.com/watch?v=DUhaZjduryY)
+- [Note-taking and the decision to externalize memory](https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=7677&context=etd)
+- [Guide to Medical Education in the Teaching Hospital](https://www.amazon.com/Guide-Medical-Education-Teaching-Hospital/dp/0692672540) - lots of good things about how they integrate learning into their day-to-day business operations
+- [Science of Learning Concepts for Teachers (Project Illuminated)](https://illuminated.pressbooks.com/)
+- [Culturally Responsive Teaching - A 50-State Survey of Teaching Standards](https://www.newamerica.org/education-policy/reports/culturally-responsive-teaching/)
+- [What is Project Based Learning (PBL)?](https://www.pblworks.org/what-is-pbl)
+- [A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+- [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595)
+- [Jeli - dedicated incident analysis platform](https://www.jeli.io)
+- [Turing School of Software and Design](https://turing.edu)
