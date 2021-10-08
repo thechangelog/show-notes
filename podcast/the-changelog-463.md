@@ -1,0 +1,5 @@
+- [Reflections on 10,000 Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/)
+- [Heptagon of Configuration](https://matt-rickard.com/heptagon-of-configuration/)
+- [Linux Kernel Docs on commenting](https://www.kernel.org/doc/html/v4.10/process/coding-style.html#commenting)
+- [Ahmad Nassri on JS Party](https://jsparty.fm/143)
+- [Todo or Die - Python Edition](https://changelog.com/news/todo-or-die-python-edition-EQNG)
