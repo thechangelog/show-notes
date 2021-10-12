@@ -13,5 +13,5 @@
 > Justin Searls: If you’re a programmer and you’re happy with the work you’re doing, you’re growing in the ways you want, and you feel pushed to do your best work as opposed to work the most hours, congratulations! That’s all too rare.
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-16--justin-searls.jpg" alt="Gerhard & Justin">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-16--justin-searls.jpg" alt="Gerhard & Justin" loading="lazy">
 </figure>
