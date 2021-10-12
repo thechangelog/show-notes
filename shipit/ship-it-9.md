@@ -13,5 +13,5 @@
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-9--jean-sebastien.jpg" alt="Gerhard & Jean-Sébastien">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-9--jean-sebastien.jpg" alt="Gerhard & Jean-Sébastien" loading="lazy">
 </figure>
