@@ -6,5 +6,5 @@
 - [BLOOMBERG: What Is Fastly and Why a Slew of Websites Went Offline](https://www.bloomberg.com/news/articles/2021-06-08/fastly-outage-shows-web-still-vulnerable-to-key-provider-failure)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-10--kaizen.jpg" alt="Gerhard, Jerod & Adam">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-10--kaizen.jpg" alt="Gerhard, Jerod & Adam" loading="lazy">
 </figure>
