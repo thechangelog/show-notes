@@ -11,9 +11,9 @@
 [#7 Why Kubernetes?](https://changelog.com/shipit/7) was mentioned, as well as [the follow-up YouTube stream](https://www.youtube.com/watch?v=v7_Ebpkazis) with Lars Wikman.
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-18--david-marques.jpg" alt="Gerhard, Marques & David">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-18--david-marques.jpg" alt="Gerhard, Marques & David" loading="lazy">
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <a href="https://www.youtube.com/watch?v=7zmRhHd-ohk"><img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-18--rawkode-live.jpg" alt="Live Debugging the Changelog's Production Kubernetes | Rawkode Live"></a>
+  <a href="https://www.youtube.com/watch?v=7zmRhHd-ohk"><img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-18--rawkode-live.jpg" alt="Live Debugging the Changelog's Production Kubernetes | Rawkode Live" loading="lazy"></a>
 </figure>
