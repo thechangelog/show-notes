@@ -5,5 +5,5 @@
 - [Announcing Traefik Proxy 2.5](https://traefik.io/blog/announcing-traefik-proxy-2-5/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-19--emile-vauge.jpg" alt="Gerhard & Emile">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-19--emile-vauge.jpg" alt="Gerhard & Emile" loading="lazy">
 </figure>
