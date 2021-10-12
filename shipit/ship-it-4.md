@@ -8,16 +8,16 @@
 - [The Thousand Brains Theory of Intelligence](https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--OODA.png" alt="Ben's OODA after John Boyd's original">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--OODA.png" alt="Ben's OODA after John Boyd's original" loading="lazy">
   <figcaption><span>Ben's OODA remake of John Boyd's original</span></figcaption> 
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--OODA-new.png" alt="Ben's representation of OODA - my favourite">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--OODA-new.png" alt="Ben's representation of OODA - my favourite" loading="lazy">
   <figcaption><span>Ben's representation of OODA - my favourite 💙</span></figcaption> 
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--OODA-the-algorithm-of-adaptation.png" alt="The OODA diagram that is easiest to remember">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-4--OODA-the-algorithm-of-adaptation.png" alt="The OODA diagram that is easiest to remember" loading="lazy">
   <figcaption><span>The OODA diagram that is easiest to remember</span></figcaption> 
 </figure>
