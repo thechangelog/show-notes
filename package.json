@@ -1,0 +1,24 @@
+{
+  "name": "show-notes",
+  "version": "1.0.0",
+  "description": "The repository of [Changelog](https://changelog.com) episode show notes in Markdown format.",
+  "main": "checklinks.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simeydk/show-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simeydk/show-notes/issues"
+  },
+  "homepage": "https://github.com/simeydk/show-notes#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
