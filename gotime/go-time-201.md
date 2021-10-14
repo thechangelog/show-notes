@@ -1,0 +1,5 @@
+* [Learn more about eBPF on ebpf.io](https://ebpf.io/)
+* [Email thread on eBPF's 7th Birthday](https://lore.kernel.org/bpf/20210926203409.kn3gzz2eaodflels@ast-mbp.dhcp.thefacebook.com/T/#r7453f2b0f5bff1c14b2a880f1f12d8b61c4cfe6)
+* [Package libbpfgo](https://github.com/aquasecurity/libbpfgo) - libbpfgo is a Go library for Linux's eBPF project (Apache License 2.0)
+* [Tracee: Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee) - A project discussed in this episode (Apache License 2.0)
+* [Liz Rice's talks on eBPF](https://www.lizrice.com/talks)
