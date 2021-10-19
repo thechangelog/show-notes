@@ -1,0 +1,5 @@
+- [Makerere AI Lab](https://air.ug/)
+- [Makerere AI Lab - projects](https://air.ug/projects/)
+- [Open for Good Alliance](https://www.openforgood.info/)
+- [International Development Research Centre - Canada](https://www.idrc.ca/en)
+- [FAIR Forward – Artificial Intelligence for All - GIZ](https://www.giz.de/expertise/html/61982.html)
