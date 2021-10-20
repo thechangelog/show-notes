@@ -1,0 +1,7 @@
+- [Announcing Sourcegraph's Series D](https://about.sourcegraph.com/blog/announcing-sourcegraphs-series-d-round/)
+- [The future of code search](https://about.sourcegraph.com/blog/the-future-of-code-search/)
+- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) on GitHub
+- [Sourcegraph quick install](https://docs.sourcegraph.com/#quick-install)
+- [Sourcegraph  handbook](https://about.sourcegraph.com/handbook)
+- [OpenGrok ](https://oracle.github.io/opengrok/)
+- [Why I love code (and how I started coding)](https://slack.org/why-i-love-code)
