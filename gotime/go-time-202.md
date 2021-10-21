@@ -1,0 +1,2 @@
+- [Mage – a Make/rake-like dev tool using Go](https://github.com/magefile/mage)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
