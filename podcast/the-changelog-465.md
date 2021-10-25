@@ -1,0 +1,8 @@
+- [The Changelog #61: Oh My Zsh with Robby Russell](https://changelog.com/podcast/61)
+- [Oh My Zsh](https://ohmyz.sh/)
+- [ohmyzsh/ohmyzsh/pulls on GitHub](https://github.com/ohmyzsh/ohmyzsh/pulls)
+- [d’Oh My Zsh](https://medium.com/free-code-camp/d-oh-my-zsh-af99ca54212c)
+- [colorize  plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/colorize)
+- [Planet Argon](https://www.planetargon.com/)
+- [maintainable.fm](https://www.maintainable.fm/)
+- [Oh My Zsh merch](https://shop.planetargon.com)
