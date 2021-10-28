@@ -1,0 +1,2 @@
+- [My Journey to InfluxData](https://www.influxdata.com/blog/evan-kaplan-my-journey-to-influx-data/)
+- [The Changelog #429: Community perspectives on Elastic vs AWS - a deep dive on the business of open source](https://changelog.com/podcast/429)
