@@ -1,0 +1,2 @@
+- [Submit here](https://jsparty.fm/200)
+- [T-shirt here](https://merch.changelog.com/products/js-party)
