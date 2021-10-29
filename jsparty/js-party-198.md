@@ -9,3 +9,4 @@
 - [Friends with Benefits DAO](https://www.fwb.help/)
 - [Developer DAO](https://www.developerdao.com/)
 - [How to join Developer DAO](https://jonkuperman.com/how-to-join-developer-dao/)
+- [RxJS. Please don't](https://twitter.com/horse_js/status/1438954661575217153)
