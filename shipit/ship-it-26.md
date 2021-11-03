@@ -1,8 +1,7 @@
 ### Liz Rice, Cilium
 
 - 🎬 [Cloud Native Superpowers with eBPF - Liz Rice, Isovalent - KCNA 2021](https://www.youtube.com/watch?v=KY5qujcujfI)
-- https://github.com/lizrice/ebpf-networking
-- https://kccncna2021.sched.com/event/lV2X
+- [The Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)
 - [CNI Benchmark: Understanding Cilium Network Performance](https://cilium.io/blog/2021/05/11/cni-benchmark) - May 2021
 - 🎙 [GoTime #201 - eBPF and Go](https://changelog.com/gotime/201)
 - [ebpf.io](https://ebpf.io/)
