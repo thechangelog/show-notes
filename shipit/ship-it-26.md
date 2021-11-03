@@ -11,6 +11,10 @@
 - [ebpf.io](https://ebpf.io/)
 - [Cilium joins CNCF as an incubating project](https://www.cncf.io/blog/2021/10/13/cilium-joins-cncf-as-an-incubating-project/)
 
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--jared-dan.jpg" alt="Gerhard, Jared & Dan" loading="lazy">
+</figure>
+
 ### Jared Watts & Dan Mangum, Crossplane
 
 - 🎬 [Registries After Dark - Daniel Mangum, Upbound & Jon Johnson, Google - KCNA 2021](https://www.youtube.com/watch?v=Ve_CFyVYo3M)
@@ -18,9 +22,17 @@
 - [SIG-Running met at 6:30AM at KubeCon](https://twitter.com/hasheddan/status/1448693355664138240)
 - [Crossplane is now a CNCF Incubating project](https://blog.crossplane.io/crossplane-cncf-incubation/)
 
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--david-ansari.jpg" alt="Gerhard & David" loading="lazy">
+</figure>
+
 ### David Ansari, first KubeCon talk
 
 - 🎬 [RabbitMQ on Kubernetes Deep Dive - David Ansari, VMware - KCNA 2021](https://www.youtube.com/watch?v=GxdyQSUEj5U)
+
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--dan-lorenc.jpg" alt="Gerhard & Dan" loading="lazy">
+</figure>
 
 ### Dan Lorenc, Chainguard
 
