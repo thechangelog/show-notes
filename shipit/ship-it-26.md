@@ -1,3 +1,7 @@
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--liz-rice.jpg" alt="Gerhard & Liz" loading="lazy">
+</figure>
+
 ### Liz Rice, Cilium
 
 - 🎬 [Cloud Native Superpowers with eBPF - Liz Rice, Isovalent - KCNA 2021](https://www.youtube.com/watch?v=KY5qujcujfI)
