@@ -1,0 +1,2 @@
+- [2021 Go Developer Survey](https://go.dev/blog/survey2021)
+- [Dark Matter Developers](https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99)
