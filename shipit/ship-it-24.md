@@ -1,3 +1,4 @@
+- [The tweet that start this conversation - Photo 2](https://twitter.com/arnaudporterie/status/1438154680677371909/photo/2)
 - [EchoesHQ](https://www.echoeshq.com/) - Measure and communicate engineering activity
 - [Echoes HQ on Product Hunt](https://www.producthunt.com/posts/echoes-hq)
 - [The ticketing conundrum](https://www.echoeshq.com/post/the-ticketing-conundrum)
