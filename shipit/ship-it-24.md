@@ -1,4 +1,4 @@
-- [EchoesHQ in one picture - Photo 2](https://twitter.com/arnaudporterie/status/1438154680677371909/photo/2)
+- EchoesHQ in one picture: [Photo 2](https://twitter.com/arnaudporterie/status/1438154680677371909/photo/2)
 - [Echoes HQ on Product Hunt](https://www.producthunt.com/posts/echoes-hq)
 - [The ticketing conundrum](https://www.echoeshq.com/post/the-ticketing-conundrum)
 - [Here’s some lesser-known products we use on a daily basis at @Echoes_HQ which deserve a shoutout](https://twitter.com/arnaudporterie/status/1448586630391025668)
