@@ -1,0 +1,4 @@
+- [The AI Index Report: Measuring Trends in Artificial Intelligence](https://aiindex.stanford.edu/report)
+- [IEEE Spectrum:  15 Graphs You Need to See to Understand AI in 2021](https://spectrum.ieee.org/the-state-of-ai-in-15-graphs/number-of-ai-journals)
+- [Delphi: Towards Machine Ethics and Norms](https://arxiv.org/abs/2110.07574)
+- [IEEE Spectrum: Machines Learn Good From Commonsense Norm Bank](https://spectrum.ieee.org/ai-ethics-machines-learn-good)
