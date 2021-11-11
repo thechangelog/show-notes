@@ -1,0 +1,6 @@
+- [Donate to #VetsWhoCode](https://vetswhocode.io/donate/)
+- [Listen to the #VetsWhoCode podcast](https://vetswhocode.io/podcast)
+- [Waking Up On the Appalachian Trail: A Story of War, Brotherhood, and the Pursuit of Truth](https://www.amazon.com/Waking-Up-Appalachian-Trail-Brotherhood-ebook/dp/B08715WVPF)
+- [N. B. Hankes](https://www.nbhankes.com)
+- [Veteran Artist Residencies](https://www.veteranarts.org)
+- [Terminal Lance](https://terminallance.com)
