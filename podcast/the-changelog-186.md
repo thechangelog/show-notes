@@ -7,7 +7,7 @@
 * [From the Ground Up: How I Built the Developer's Dream Keyboard](http://www.toptal.com/embedded/from-the-ground-up-how-i-built-the-developers-dream-keybooard)
 * [Ultimate Hacking Keyboard's campaign on Crowd Supply](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
 * [Ultimate Hacking Keyboard - Image Gallery](http://www.engadget.com/2015/10/15/ultimate-hacking-keyboard/#gallery=330012&slide=3665533)
-* [KiCad EDA](http://kicad-pcb.org/)
+* [KiCad EDA](http://kicad.org/)
 * [Hero: John Carmack](https://en.wikipedia.org/wiki/John_Carmack)
 * [Hero: Coding Horror (Jeff Atwood)](http://blog.codinghorror.com/)
 * [Hero: Dean Camera (@abcminiuser) on Twitter](https://twitter.com/abcminiuser?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
