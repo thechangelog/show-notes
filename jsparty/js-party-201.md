@@ -1,0 +1,6 @@
+- [New React Beta Docs Site](https://beta.reactjs.org/)
+- [Code Sandbox API](https://github.com/reactjs/reactjs.org/issues/3308 )
+- [Overreated - Dan Abramov’s Blog](https://overreacted.io/ )
+- [GitHub discussion and feedback for new blog](https://github.com/reactjs/reactjs.org/issues/3308 )
+- [ReactiFlux Discord Community](https://www.reactiflux.com/)
+- [Mark Erikson aka Aceamake - Beloved React community educator](https://twitter.com/acemarke)
