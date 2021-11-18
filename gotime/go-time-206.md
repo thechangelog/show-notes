@@ -1,0 +1,5 @@
+- [The Saga pattern](https://microservices.io/patterns/data/saga.html)
+- [Eventual consistency](https://en.m.wikipedia.org/wiki/Eventual_consistency)
+- [Two-phase commit protocol](https://en.m.wikipedia.org/wiki/Two-phase_commit_protocol)
+- [Caitie McCaffrey's Applying the Saga Pattern talk](https://www.youtube.com/watch?v=xDuwrtwYHu8)
+- [The tiago package](https://pkg.go.dev/search?q=tiago)
