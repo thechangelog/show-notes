@@ -1,0 +1,6 @@
+- [Frameworks Panel (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=q5HDhQtpDRU)
+- [New React Beta Site](https://beta.reactjs.org/)
+- [Creact React App Site & Docs](https://create-react-app.dev/)
+- [ReactJS StackOverflow](https://stackoverflow.com/questions/tagged/reactjs)
+- [Humu](https://www.humu.com)
+- [Humu is hiring! See open roles](https://boards.greenhouse.io/humu)
