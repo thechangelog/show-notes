@@ -1,0 +1,7 @@
+- [Equinix Completes Acquisition of Bare Metal Leader Packet](https://www.equinix.com/newsroom/press-releases/2020/03/equinix-completes-acquisition-of-bare-metal-leader-packet)
+- [Equinix.com](https://www.equinix.com) - We power the world’s digital leaders
+- [Founders Talk #73: Balancing business and open source with Raj Dutt, Founder & CEO of Grafana Labs](https://changelog.com/founderstalk/73)
+- [The Linux Foundation Hosts Open19 to Accelerate Data Center and Edge Hardware Innovation](https://www.linuxfoundation.org/press-release/the-linux-foundation-hosts-open19-to-acceleratebrdata-center-and-edge-hardware-innovation/)
+- [Alex Polvi](https://twitter.com/polvi)
+- [Power usage effectiveness (PUE)](https://en.wikipedia.org/wiki/Power_usage_effectiveness)
+- [Ask Your Developer by Jeff Lawson](https://www.askyourdeveloper.com)
