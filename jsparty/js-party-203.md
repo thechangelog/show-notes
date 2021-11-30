@@ -3,4 +3,6 @@
 [Slides from "Being Glue" Talk](https://noidea.dog/glue)
 [HBR article on What it Takes to Be a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager)
 [The Rise of Product Management on Business School Campuses](https://productcraft.com/perspectives/the-rise-of-product-management-on-business-school-campuses/)
-[Amal's alternative MBA of choice - MIT's SDM Degree](https://sdm.mit.edu/) 
+[Amal's alternative MBA of choice - MIT's SDM Degree](https://sdm.mit.edu/)
+[Liana singing live at Rails Conf 2014 - Let Me Code](https://www.youtube.com/watch?v=kRUS8Zvg3sg)
+[Liana JS Party Inspired Song - It's UNIX, I know this!](https://www.youtube.com/watch?v=6X-Evpj_Wb0)
