@@ -1,0 +1,3 @@
+- [GitHub Copilot](https://copilot.github.com/)
+- [OpenAI Codex Beta](http://beta.openai.com/codex-waitlist)
+- [Previous GopherCon Workshop: Infrastructure for a Fraud Detection ML Application](https://github.com/Pisush/gc-ml-infra-workshop)
