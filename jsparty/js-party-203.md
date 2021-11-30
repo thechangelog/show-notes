@@ -1,5 +1,2 @@
-(Liana's blog post on being the "Glue")[https://blogs.harvard.edu/liana/2021/04/19/glue/]
-(Slides from "Being Glue" Talk)[https://noidea.dog/glue]
-(HBR Article on What it Takes to Be a Great Product Manager)[https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager]
-(The Product Manager Career Path)[https://www.lucidchart.com/blog/product-management-careers]
-(The Rise of Product Management on Business School Campuses)[https://productcraft.com/perspectives/the-rise-of-product-management-on-business-school-campuses/]
+[Liana's blog post on being the "Glue"](https://blogs.harvard.edu/liana/2021/04/19/glue/)
+
