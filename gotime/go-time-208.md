@@ -1,0 +1,8 @@
+- [The free lunch is over](http://www.gotw.ca/publications/concurrency-ddj.htm)
+- [The C10K problem](https://en.wikipedia.org/wiki/C10k_problem)
+- [Selenium](https://www.selenium.dev/) and [Go’s bindings](https://github.com/tebeka/selenium)
+- [t.Parallel()](https://pkg.go.dev/testing#T.Parallel)
+- [Python’s asyncio](https://docs.python.org/3/library/asyncio.html)
+- [Go Community Code of Conduct](https://go.dev/conduct)
+- Roger talking about the acme editor in [Dev Tool Time](https://about.sourcegraph.com/blog/dev-tool-time-roger-peppe/)
+- Miki was trying [Clojure](https://clojure.org/) and [Erlang](https://www.erlang.org/) before settling on Go
