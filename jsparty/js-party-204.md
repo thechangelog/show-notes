@@ -1,6 +1,5 @@
 - [How to Prevent the Collapse of Society by Building an Accessible Web - slides to Salma's talk](https://speakerdeck.com/whitep4nth3r/how-to-prevent-the-collapse-of-society-by-building-an-accessible-web)
 - [man, javascript is just... pure](https://twitter.com/horse_js/status/1462925404092571651)
-- [Manhattan Partners - Salma's album on Spotify](https://open.spotify.com/show/4mvUp3SBeWCzapa7nYq3jd)
 - [Revenue Lost When a Retail Website is Inaccessible](https://www.levelaccess.com/retailers-take-note-putting-price-tag-lack-digital-accessibility/)
 - [Axe Devtools - site & docs](https://www.deque.com/axe/)
 - [Axe Devtools Chromium Browser Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
