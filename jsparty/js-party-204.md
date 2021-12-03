@@ -7,7 +7,7 @@
 - [Wave Eval Tool]()
 - [Lighthouse Devtools](https://developers.google.com/web/tools/lighthouse/)
 - [Google's Core Web Vitals](https://web.dev/vitals/)
-- [Google Core Web Vitals Used in Search Ranking 2021]()
+- [Google Core Web Vitals Used in Search Ranking 2021](https://developers.google.com/search/blog/2020/11/timing-for-page-experience)
 - [Aliexpress - one of the worlds most popular sites with less than great a11y](https://www.aliexpress.com/)
 - [AsyncJS Meetup](https://www.meetup.com/Async-Web-Tech-Meetup/)
 - [AsyncJS Community Site](https://asyncjs.com/)
