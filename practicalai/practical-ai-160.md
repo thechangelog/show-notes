@@ -1,0 +1,4 @@
+- [Our FC episode on federated learning](https://practicalai.fm/153)
+- [Flower](https://flower.dev/)
+- [Flower Blog](https://flower.dev/blog)
+- [Flower Conference (with videos)](https://flower.dev/conf/flower-summit-2021)
