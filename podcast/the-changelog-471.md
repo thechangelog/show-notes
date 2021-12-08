@@ -1,0 +1,6 @@
+- [Five years of freeCodeCamp with Quincy Larson](https://changelog.com/podcast/369)
+- [Oh my! Zsh. with Robby Russell](https://changelog.com/podcast/465)
+- [A Protocol for Dying with Pieter Hintjens](https://changelog.com/podcast/205)
+- [Leading Leaders Who Lead Engineers with Lara Hogan](https://changelog.com/podcast/453)
+- [Every Commit is a Gift](https://changelog.com/podcast/444)
+- [Open Sourcing the DEV Community with Ben Halpern](https://changelog.com/podcast/310)
