@@ -1,0 +1,2 @@
+- [How A Blind Developer Uses Visual Studio](https://www.youtube.com/watch?v=94swlF55tVc)
+- [Orca Screen Reader](https://help.gnome.org/users/orca/stable/)
