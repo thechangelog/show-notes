@@ -1,0 +1,4 @@
+- [Rich on The Changelog](https://changelog.fm/332)
+- [Sratch for Developers](https://scratch.mit.edu/developers)
+- [Lerna](https://github.com/lerna/lerna)
+- [Rush](https://rushjs.io)
