@@ -630,6 +630,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "RockyKev",
+      "name": "Rocky Kev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6101650?v=4",
+      "profile": "http://heyitsrocky.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
