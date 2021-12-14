@@ -1,0 +1,5 @@
+- [OpenAI’s API Now Available with No Waitlist](https://openai.com/blog/api-no-waitlist/)
+- [Hugging Face SnowballFight beta](https://huggingface.co/spaces/ThomasSimonini/SnowballFight)
+- [Hugging Face Data Measurements Tool](https://huggingface.co/blog/data-measurements-tool)
+- [Pandas Tutor](https://pandastutor.com/)
+- [ClearML](https://clear.ml/)
