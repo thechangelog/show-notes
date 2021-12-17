@@ -1,0 +1,2 @@
+- [JS Party Merch!](https://jsparty.fm/merch)
+- [JavaScript’s security model is based](https://twitter.com/horse_js/status/1466619468071661570)
