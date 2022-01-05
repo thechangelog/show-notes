@@ -1,0 +1,7 @@
+- [What is GitOps?](https://www.gitops.tech/)
+- [What is OpenGitOps?](https://opengitops.dev/)
+- 🎬 [Creating the Enterprise App Store](https://www.youtube.com/watch?v=ke-cKKzqriM) - GitOpsCon NA 2021 Keynote
+- 🎬 [GitOps Maturity Model](https://www.youtube.com/watch?v=jMjB7H2IzQE&t=14787s) - GitOps Days 2021
+- [How to get robust GitOps?](https://www.cncf.io/blog/2021/09/30/how-to-get-robust-gitops-the-u-s-department-of-defense-uses-flux-and-helm/) The U.S. Department of Defense uses Flux and Helm
+- [Notes on GitOps potential role in compliance](https://redmonk.com/jgovernor/2021/11/19/notes-on-gitops-potential-role-in-compliance/)
+- 🎬 [A Multi-Cluster, Multi-Cloud Infrastructure with GitOps at CERN](https://www.youtube.com/watch?v=h6xDWc6fXao&t=15s) - Ricardo Rocha, CERN
