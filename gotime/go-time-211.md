@@ -1,0 +1,1 @@
+- [Watch the session from GopherCon 2021](https://youtu.be/Vh4jqSMWoSg)
