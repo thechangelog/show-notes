@@ -1,0 +1,3 @@
+- [Linus: When Toy Languages Grow Up](https://www.gophercon.com/agenda/session/593047)
+- [Daniela: Pac-Man from Scratch](https://www.gophercon.com/agenda/session/649345)
+- [Sebastian: 3D Printing Gophers with Go](https://www.gophercon.com/agenda/session/593018)
