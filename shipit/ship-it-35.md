@@ -53,3 +53,8 @@
   <img src="https://changelog-assets.s3.amazonaws.com/shipit/35/trunk-rb5009-speedtest.png" alt="Trunk Networks speedtest with MikroTik RB5009" loading="lazy">
   <figcaption><span>Trunk Networks speedtest with MikroTik RB5009 - Backup connection</span></figcaption> 
 </figure>
+
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/35/rb2011uas-2012-12-24.jpg" alt="Gerhard's MikroTik RB2011, 24 December 2012" loading="lazy">
+  <figcaption><span>Gerhard's MikroTik RB2011, 24 December 2012</span></figcaption> 
+</figure>
