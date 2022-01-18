@@ -1,0 +1,6 @@
+- [Matt Ahrens on openzfs.org](https://openzfs.org/wiki/User:Mahrens)
+- [State of OpenZFS 2021 by Matt Ahrens](https://www.youtube.com/watch?v=RiLSdwx1yhU)
+- [ZFS RAIDZ stripe width, or: How I Learned to Stop Worrying and Love RAIDZ](https://www.delphix.com/blog/delphix-engineering/zfs-raidz-stripe-width-or-how-i-learned-stop-worrying-and-love-raidz)
+- [ZFS fans, rejoice—RAIDz expansion will be a thing very soon](https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/)
+- [Common Development and Distribution License 1.0](https://opensource.org/licenses/CDDL-1.0)
+- [Linus Torvalds: Avoid Oracle's ZFS kernel code on Linux until 'litigious' Larry signs off](https://www.zdnet.com/article/linus-torvalds-avoid-oracles-zfs-kernel-code-on-linux-until-litigious-larry-signs-off/)
