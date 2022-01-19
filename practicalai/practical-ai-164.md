@@ -1,0 +1,11 @@
+- Press Release about MLCommons datasets: [MLCommons™ Association Unveils Open Datasets and Tools to Drive Democratization of Machine Learning](https://mlcommons.org/en/news/neurips21/)
+- NeurIPS Papers: 
+    - [People’s Speech Dataset](https://openreview.net/forum?id=R8CwidgJ0yT)
+    - [Multilingual Spoken Words Corpus (MSWC)](https://openreview.net/forum?id=c20jiJ5K2H)
+- Gradient article: [New Datasets to Democratize Speech Recognition Technology](https://thegradient.pub/new-datasets-to-democratize-speech-recognition-technology-2/) 
+- Blog posts for more insight: 
+    - [People’s Speech](https://mlcommons.org/en/news/peoples-speech-blog/)
+    - [Multilingual Spoken Words Corpus (MSWC)](https://mlcommons.org/en/news/spoken-words-blog/)
+- Downloads: 
+    - [People’s Speech](https://mlcommons.org/en/peoples-speech/)
+    - [Multilingual Spoken Words Corpus](https://mlcommons.org/en/multilingual-spoken-words/)
