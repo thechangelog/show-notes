@@ -1,0 +1,3 @@
+- [FerretDB](https://www.ferretdb.io)
+- [OpenAI Codex](https://openai.com/blog/openai-codex/)
+- [GitHub Copilot](https://copilot.github.com)
