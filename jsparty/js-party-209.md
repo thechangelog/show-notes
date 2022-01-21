@@ -1,0 +1,6 @@
+- [Workers](https://workers.cloudflare.com)
+- [Workers Chat Demo](https://github.com/cloudflare/workers-chat-demo)
+- [Argo Smart Routing](https://www.cloudflare.com/products/argo-smart-routing/)
+- [R2 announcement](https://blog.cloudflare.com/aws-egregious-egress/)
+- [Durable Objects](https://blog.cloudflare.com/introducing-workers-durable-objects/)
+- [KV](https://blog.cloudflare.com/workers-kv-is-ga/)
