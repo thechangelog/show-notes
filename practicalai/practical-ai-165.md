@@ -1,0 +1,2 @@
+- [Bonaventure Dossou | Instagram](https://www.instagram.com/bona.dossou)
+- [2020 — ongoing: My Year of Fame and how I joined the world of Research](https://medium.com/masakhane/2020-my-year-of-fame-909f6cc670ed)
