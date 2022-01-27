@@ -1,0 +1,3 @@
+- [How Honeycomb Is Using $50M in New Funding to Bring Observability to All](https://www.honeycomb.io/blog/series-c-funding-bringing-observability-to-all/)
+- [The Changelog #356: Observability is for your unknown unknowns with Christine Yen](https://changelog.com/podcast/356)
+- [2020: The Year Bee-hind Us](https://www.honeycomb.io/blog/2020-the-year-bee-hind-us/)
