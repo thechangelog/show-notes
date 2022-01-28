@@ -12,3 +12,7 @@
 - 🗂[One Minute Presubmits - Eric Burnett, Google - London Build Meetup 2019](https://docs.google.com/presentation/d/14dxac2omYI5Feaoiw-u09qB1fQgJU7ASNJag7YMg3TI)
 - Trustix: [Solving trust in binary distribution and software builds](https://build-transparency.org/)
 - Trustix: [Distributed trust and reproducibility tracking for binary caches](https://www.tweag.io/blog/2020-12-16-trustix-announcement/)
+
+<figure class="richtext-figure richtext-figure--full">
+  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-37--vincent-ambo.jpg" alt="Gerhard & Vincent" loading="lazy">
+</figure>
