@@ -1,0 +1,2 @@
+- [Thomas Simonini | Hugging Face](https://huggingface.co/ThomasSimonini)
+- [Deep Reinforcement Learning course](https://simoninithomas.github.io/deep-rl-course)
