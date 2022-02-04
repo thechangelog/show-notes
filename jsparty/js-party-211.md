@@ -1,0 +1,7 @@
+- [Holla! JSConf Mexico](https://jsconf.mx) ([On YouTube](https://www.youtube.com/c/JSConfEU))
+- [SolidJS website](https://www.solidjs.com)
+- [JS Framework Benchmark](https://github.com/krausest/js-framework-benchmark)
+- [Isomorphic UI Benchmark](https://github.com/marko-js/isomorphic-ui-benchmarks)
+- [Ryan Florence Tweet](https://twitter.com/ryanflorence/status/1486530142507655173)
+- [Solid Start meta-framework](https://github.com/solidjs/solid-start/)
+- [MarkoJS](https://markojs.com)
