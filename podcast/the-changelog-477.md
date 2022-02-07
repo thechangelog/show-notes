@@ -6,4 +6,4 @@
 - [Kingston Trio-Merry Minuet](https://www.youtube.com/watch?v=bp6dsKleGpU)
 - [Big Tech ((It's Probably Fine))](https://www.youtube.com/watch?v=ZB_aklcD2Hg)
 - [The AWS Elastic Load Balancer Yodel Rag](https://twitter.com/forrestbrazeal/status/1398074742310162433?)
-- [Song Encoder: $STDOUT]()
+- [Song Encoder: $STDOUT](https://changelog.fm/466)
