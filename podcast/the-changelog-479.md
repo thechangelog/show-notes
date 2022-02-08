@@ -1,0 +1,5 @@
+- [Series: Work Sample Tests](https://jacobian.org/series/work-sample-tests/)
+- [Work Sample Tests: A Framework for Good Work Sample Tests: Eight Rules for Fair Tests](https://jacobian.org/2021/nov/17/wst-framework/)
+- [Work Sample Tests: Wrap Up and Q&A](https://jacobian.org/2022/jan/6/wst-wrap-up/)
+- [The Changelog #474: Complex systems & second-order effects with Paul Orlando](https://changelog.com/podcast/474)
+- [A New Morality of Attainment (Goodhart’s Law)](https://unintendedconsequenc.es/new-morality-of-attainment-goodharts-law/)
