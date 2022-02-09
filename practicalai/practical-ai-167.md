@@ -1,0 +1,4 @@
+- ["Introducing myself" from Kathleen](https://foundation.mozilla.org/en/blog/kujitambulisha-kathleen-siminyu-introducing-myself-kathleen-siminyu/)
+- [Masakhane](https://www.masakhane.io/)
+- [Common Voice](https://commonvoice.mozilla.org/en)
+- [Open for Good Alliance](https://www.openforgood.info/#Start)
