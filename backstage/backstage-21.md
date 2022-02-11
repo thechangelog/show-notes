@@ -1,0 +1,5 @@
+- [The issue: A GitHub Action to auto-improve transcripts](https://github.com/thechangelog/transcripts/issues/844)
+- [The post: Auto-improved transcripts with GitHub Actions](https://changelog.com/posts/auto-improved-transcripts-with-github-actions)
+- [The script: format.js](https://github.com/thechangelog/transcripts/blob/master/scripts/format.js)
+- [Our survey-game repo](https://github.com/thechangelog/survey-game)
+- [Eric Normand talks FP with us](https://changelog.com/person/ericnormand/podcasts)
