@@ -19,3 +19,4 @@
 - [Vite SSR](https://github.com/vitejs/vite/tree/main/packages/vite/src/node/ssr)
 - [es-module-lexer](https://github.com/guybedford/es-module-lexer)
 - [MagicString (Rust)](https://github.com/guybedford/es-module-lexer)
+- [Recent JS Party episode on Svelte with Rich Harris](https://changelog.com/jsparty/205)
