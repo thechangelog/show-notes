@@ -1,0 +1,8 @@
+- [Git Organized: A Better Git Flow](https://render.com/blog/git-organized-a-better-git-flow)
+- [I wrote a thing (on Twitter)](https://twitter.com/_anniebabannie_/status/1481731016964276224)
+- [A User's Guide to the Brain - by John J. Ratey, M.D.](https://www.penguinrandomhouse.com/books/139282/a-users-guide-to-the-brain-by-john-j-ratey-md/)
+- [How to Squash Commits in Git](https://www.git-tower.com/learn/git/faq/git-squash)
+- [Move assets to S3 #400](https://github.com/thechangelog/changelog.com/pull/400)
+- [What is executive function?](https://www.understood.org/articles/en/what-is-executive-function)
+- [Dopamine](https://en.wikipedia.org/wiki/Dopamine)
+- [Norepinephrine](https://en.wikipedia.org/wiki/Norepinephrine)
