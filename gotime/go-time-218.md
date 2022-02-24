@@ -1,0 +1,7 @@
+- [Resources to learn GraphQL](https://graphql.org/learn/)
+- [GitHub GraphQL API](https://docs.github.com/en/graphql)
+- [genqlient](https://github.com/Khan/genqlient) - Khan Academy's open source GraphQL client library
+- [graphql](https://github.com/shurcooL/graphql) - Another GraphQL client library written in Go
+- [gqlgen](https://github.com/99designs/gqlgen) - A codegen tool for creating Go GraphQL servers
+- [graphql-go-tools](https://github.com/jensneuse/graphql-go-tools) - A toolkit for building GraphQL proxies, gateways, caches, etc
+- [gqlparser](https://github.com/vektah/gqlparser) - A GraphQL parser, written to mirror the graphql-js reference implementation as closely while remaining idiomatic and easy to use.
