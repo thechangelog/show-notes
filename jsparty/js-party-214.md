@@ -1,0 +1,4 @@
+- [Vite](https://vitejs.dev)
+- [Evan You on JS Party](https://jsparty.fm/212)
+- [Vitest](https://vitest.dev)
+- [Slidev](https://sli.dev)
