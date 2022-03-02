@@ -10,6 +10,7 @@
 - [Vulnerabilities in NPM allowed threat actors to publish new version of any package](https://portswigger.net/daily-swig/vulnerabilities-in-npm-allowed-threat-actors-to-publish-new-version-of-any-package)
 - [cve.org](https://www.cve.org)
 - [browserslist.dev](https://browserslist.dev/)
+- [The Changelog #227: Mad science, WebTorrent, WebRTC with Feross Aboukhadijeh](https://changelog.com/podcast/227)
 - [The Changelog #326: The insider perspective on the event-stream compromise with Dominic Tarr](https://changelog.com/podcast/326)
 - [JS Party #185: Into the Wormhole with Feross Aboukhadijeh](https://changelog.com/jsparty/185)
 - [JS Party #210: What's in your package.json? with Tobie Langel](https://changelog.com/jsparty/210)
