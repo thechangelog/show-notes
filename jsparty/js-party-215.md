@@ -1,0 +1,8 @@
+- [Remix Vs Next](https://remix.run/blog/remix-vs-next)
+- [Fly.io](https://fly.io/)
+- [JSParty #119 Redwood brings full-stack to the JAMstack](https://changelog.com/jsparty/119)
+- [Remix Quickstart](https://remix.run/docs/en/v1/tutorials/blog)
+- [Remix Deep Dive](https://remix.run/docs/en/v1/tutorials/jokes)
+- [Remix Discord](https://discord.com/invite/remix)
+- [React Server Components and Remix](https://remix.run/blog/react-server-components)
+- [A better idea would be to replace / improve the fetch spec](https://twitter.com/horse_js/status/1488723460511600647)
