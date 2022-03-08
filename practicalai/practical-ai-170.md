@@ -1,0 +1,6 @@
+- [SAP BPI](https://www.sap.com/products/business-process-intelligence.html)
+- [Pioneers, Settlers, Town Planners](https://medium.com/org-hacking/pioneers-settlers-town-planners-wardley-9dcd3709cde7)
+- [More with LeSS](https://less.works)
+- [The Fifth Discipline: The Art & Practice of The Learning Organization](https://www.goodreads.com/book/show/255127.The_Fifth_Discipline)
+- [Kaizen | Wikipedia](https://en.wikipedia.org/wiki/Kaizen)
+- [Stratechery](https://stratechery.com)
