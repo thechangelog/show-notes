@@ -1,0 +1,6 @@
+- [The ONE thing every dev should know (and other words of wisdom) with Jessica Kerr](https://changelog.com/podcast/398)
+- [Graceful.Dev](https://graceful.dev/) - the successor to [Ruby Tapas](https://www.rubytapas.com)
+- [Games: Agency As Art](https://www.amazon.com/Games-Agency-As-Art-Thinking/dp/0190052082)
+- [Trespassing on Einstein's Lawn](https://www.amazon.com/Trespassing-Einsteins-Lawn-Beginning-Everything/dp/0345531434)
+- [Shigeru Miyamoto](https://en.wikipedia.org/wiki/Shigeru_Miyamoto) on Wikipedia
+- [Better coordination, or better software?](https://jessitron.com/2021/08/02/better-coordination-or-better-software/)
