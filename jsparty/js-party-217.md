@@ -1,0 +1,4 @@
+- [Eleventy](https://v1-0-0.11ty.dev)
+- [Zach on JS Party #79](https://changelog.com/jsparty/79)
+- [Who Pays for Web Frameworks?](https://www.zachleat.com/web/monetization/)
+- [11ty on Open Collective](https://opencollective.com/11ty)
