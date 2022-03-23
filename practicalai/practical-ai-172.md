@@ -1,0 +1,2 @@
+- [Report: "On the Opportunities and Risks of Foundation Models"](https://crfm.stanford.edu/report.html)
+- [Follow up Blog post: "Reflections on Foundation Models"](https://hai.stanford.edu/news/reflections-foundation-models)
