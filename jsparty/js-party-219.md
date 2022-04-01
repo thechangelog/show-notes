@@ -1,0 +1,8 @@
+- [0 FPS](https://0fps.net)
+- [Changelog #482 - Securing the open source supply chain](https://changelog.com/podcast/482)
+- [Socket](https://socket.dev)
+- [React on Socket](https://socket.dev/npm/package/react)
+- [npm audit](https://docs.npmjs.com/cli/v6/commands/npm-audit)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- [peacenotwar supply chain attack](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
+- [If you're writing your first npm package: I highly recommend keeping it](https://twitter.com/horse_js/status/1500920492080779264)
