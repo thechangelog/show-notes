@@ -1,4 +1,3 @@
-**Let's install KCert on Linode Kubernetes Engine**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OcBAh9S_NRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Sep 2020: [cert-manager issue #3238](https://github.com/cert-manager/cert-manager/issues/3238) that kicked the KCert idea off
