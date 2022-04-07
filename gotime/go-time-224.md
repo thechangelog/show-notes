@@ -1,0 +1,3 @@
+- [Charm on The Changelog](https://changelog.fm/481)
+- [Go Proverbs](https://go-proverbs.github.io/)
+- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
