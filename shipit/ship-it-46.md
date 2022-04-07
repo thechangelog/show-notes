@@ -1,3 +1,7 @@
+<a href="https://www.youtube.com/watch?v=OcBAh9S_NRA"><img src="https://img.youtube.com/vi/OcBAh9S_NRA/maxresdefault.jpg"></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OcBAh9S_NRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Sep 2020: [cert-manager issue #3238](https://github.com/cert-manager/cert-manager/issues/3238) that kicked the KCert idea off
 - Oct 2020: [Kubernetes SSL certs the "Hard Way"](https://github.com/nabsul/k8s-letsencrypt)
 - Feb 2021: [KCert in practice after a few months](https://nabeel.blog/2021/02/06/kcert/)
