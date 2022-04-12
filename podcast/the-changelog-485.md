@@ -1,0 +1,6 @@
+- [vitess.io](https://vitess.io)
+- [Vitess Architecture](https://vitess.io/docs/13.0/overview/architecture/)
+- [github.com/vitessio/vitess](https://github.com/vitessio/vitess)
+- [Vitess Benchmarks (Are we fast yet?)](https://benchmark.vitess.io)
+- [New in MySQL 8.0](https://www.mysql.com/why-mysql/white-papers/whats-new-mysql-8-0/)
+- [CNCF Graduation Criteria v1.3](https://github.com/cncf/toc/blob/main/process/graduation_criteria.md)
