@@ -1,3 +1,4 @@
+- [Introducing Nushell](http://www.jonathanturner.org/2019/08/introducing-nushell.html)
 - [Nushell homepage]( https://nushell.sh)
 - [The Nu book](https://book.nushell.sh)
 - [nushell/nushell](https://github.com/nushell/nushell) on GitHub
