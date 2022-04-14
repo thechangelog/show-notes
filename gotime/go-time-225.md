@@ -1,0 +1,1 @@
+- [Thoughts on how to structure Go code](https://changelog.com/posts/on-go-application-structure)
