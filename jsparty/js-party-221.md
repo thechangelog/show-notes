@@ -1,0 +1,6 @@
+- [JSNation](https://jsnation.com)
+- [React Summit](https://reactsummit.com)
+- [postgres.js on GitHub](https://github.com/porsager/postgres)
+- [postgres-shift](https://www.npmjs.com/package/postgres-shift)
+- [HashQL](https://github.com/HashQL/HashQL)
+- [HashQL Todos Sample](https://github.com/porsager/HashQL-todos-sample)
