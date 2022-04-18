@@ -1,4 +1,5 @@
 - 🎧 Ship It #23: [A universal deployment engine](https://changelog.com/shipit/23)
+- 💬 [Dagger launch discussion on Hacker News](https://news.ycombinator.com/item?id=30857012)
 - A portable devkit for CI/CD pipelines: [dagger.io](https://dagger.io/)
 - [A new way to create CI/CD pipelines](https://dagger.io/blog/public-launch-announcement)
 - [dagger/dagger](https://github.com/dagger/dagger) on GitHub
