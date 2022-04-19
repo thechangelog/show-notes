@@ -1,0 +1,4 @@
+- [Get Oban Web+Pro](https://getoban.pro)
+- [Parker's Oban PR on our repo](https://github.com/thechangelog/changelog.com/pull/378)
+- [We discuss on Ship It! #20 (Kaizen!)](https://changelog.com/shipit/20)
+- [Plausible Analytics is also open source](https://github.com/plausible/analytics)
