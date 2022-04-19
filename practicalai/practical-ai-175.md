@@ -1,0 +1,5 @@
+- [Godliver's Google Scholar page](https://scholar.google.nl/citations?user=s26G8-QAAAAJ&hl=en)
+- [Godliver's academic homepage](https://godliver.cropspec.net/)
+- [Local Development Research Institute (LDRI)](https://www.developlocal.org/about-ldri/our-story/)
+- [CropSpec](https://cropspec.net/index.php)
+- [Open for Good Alliance](https://www.openforgood.info/#Start)
