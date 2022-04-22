@@ -1,0 +1,4 @@
+- [TypeScript 4.7 beta announcement](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/#resolution-customization-with-modulesuffixes)
+- [Type Annotations proposal (Stage 1)](https://tc39.es/proposal-type-annotations/)
+- [Type checking JavaScript files](https://www.typescriptlang.org/docs/handbook/type-checking-javascript-files.html)
+- [Understanding the TypeScript compiler](https://www.youtube.com/watch?v=kalHSSnYYIo)
