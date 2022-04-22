@@ -1,0 +1,4 @@
+- [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
+- Frank's app [iCircuit ](http://icircuitapp.com)
+- [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
+- [Merge Conflict](https://www.mergeconflict.fm)
