@@ -1,0 +1,3 @@
+- [Warp.dev](https://www.warp.dev)
+- [Warp on Product Hunt](https://www.producthunt.com/posts/warp)
+- [Warp on Hacker News](https://news.ycombinator.com/item?id=30921231)
