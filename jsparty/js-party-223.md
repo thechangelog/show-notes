@@ -1,0 +1,7 @@
+- [Nick's talk at React Global Online Summit](https://www.youtube.com/watch?v=B5BmHj0WCiA)
+- [Our Quiz Game repo on GitHub](https://github.com/thechangelog/quiz-game)
+- [JS Party #191 on XState](https://jsparty.fm/191)
+- [Don't check in broken code](https://twitter.com/nicknisi/status/57276488680083456?s=20&t=UeG7SpallnA22Vt5-VoXVw)
+- [Conventional Comments](https://conventionalcomments.org)
+- [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/)
+- [Elon Musk is buying Twitter. I'm buying JavaScript.](https://twitter.com/horse_js/status/1518795816076382209)
