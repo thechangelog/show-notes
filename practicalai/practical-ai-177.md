@@ -1,0 +1,7 @@
+- View Absci’s AI Lead Scientist Joshua Meier’s [presentation at NVIDIA GTC 2022](https://www.absci.com/NVIDIA-GTC?utm_source=PracticalAI)
+- [Learn more](https://www.absci.com/GEN22?utm_source=PracticalAI) about Absci’s machine learning breakthroughs presented at GTC
+- [Learn more](https://investors.absci.com/news-releases/news-release-details/absci-expands-drug-discovery-capabilities-opening-absci-aI?utm_source=PracticalAI) about Absci AI Research (AAIR) Lab
+- [View career opportunities](https://www.absci.com/careers/?utm_source=PracticalAI) at Absci
+- Absci AI drug discovery [technology](https://www.absci.com/zdnet22?utm_source=PracticalAI)
+- Watch the [Truist AI Symposium Podcast](https://www.youtube.com/watch?v=VwN1ftgahWY) to get help demystifying the use of AI in drug discovery
+- Absci [website](https://www.absci.com/?utm_source=PracticalAI)
