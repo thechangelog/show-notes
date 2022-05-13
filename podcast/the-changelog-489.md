@@ -1,0 +1,8 @@
+- [mikeriley.com](https://mikeriley.com)
+- [Portable Python Projects (Running your home on a Raspberry Pi)](https://pragprog.com/titles/mrpython/portable-python-projects/)
+- [Manjaro](https://manjaro.org)
+- [Pi-hole](https://pi-hole.net)
+- [Raspberry Pi hardware](https://www.raspberrypi.com/products/)
+- [Jeff Geerling](https://jeffgeerling.com)
+- [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com)
+- [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
