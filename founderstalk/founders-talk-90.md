@@ -1,0 +1,4 @@
+- [Video keeps your team connected and inspired](https://rewatch.com/blog/posts/connected-and-inspired/)
+- [Rewatch raises $20M in Series A funding](https://rewatch.com/blog/posts/series-a/)
+- [Zoom fatigue no more: Rewatch raises $20M to index, transcribe and store enterprise video content](https://techcrunch.com/2021/05/26/zoom-fatigue-no-more-rewatch-raises-20m-to-index-transcribe-and-store-enterprise-video-content/)
+- [Investing in Rewatch](https://a16z.com/2021/05/26/investing-in-rewatch/)
