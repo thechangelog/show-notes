@@ -1,0 +1,3 @@
+- [Caddy's homepage](https://caddyserver.com)
+- [Docs on extending Caddy](https://caddyserver.com/docs/extending-caddy)
+- [caddy-ssh](https://github.com/mohammed90/caddy-ssh)
