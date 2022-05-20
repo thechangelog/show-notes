@@ -1,0 +1,5 @@
+- [Schneier on Security](https://www.schneier.com)
+- [Public-Interest Technology Resources](https://public-interest-tech.com) - maintained by Bruce Schneier
+- [WannaCry, Petya, NotPetya: how ransomware hit the big time in 2017](https://www.theguardian.com/technology/2017/dec/30/wannacry-petya-notpetya-ransomware)
+- [The Tinder Swindler (official trailer)](https://www.youtube.com/watch?v=_R3LWM_Vt70)
+- [Trust No One: The Hunt for the Crypto King (official trailer)](https://www.youtube.com/watch?v=vW2BPQ15OSw)
