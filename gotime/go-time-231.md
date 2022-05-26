@@ -1,0 +1,1 @@
+- [GDG Berlin Golang](https://www.meetup.com/golang-users-berlin/)
