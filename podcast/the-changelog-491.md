@@ -1,0 +1,7 @@
+- [The Mom Test](http://momtestbook.com)
+- [Phabricator](https://en.wikipedia.org/wiki/Phabricator)
+- [Graphite demo video](https://www.youtube.com/watch?v=pP0AYz9ttC0)
+- [graphite.dev](https://graphite.dev)
+- [docs.graphite.dev](https://docs.graphite.dev)
+- [Graphite jobs](https://jobs.lever.co/joingraphite)
+- [$20m funding from a16z](https://graphite.dev/blog/post/EjK76U2pBbR7RGYBo21A)
