@@ -1,0 +1,2 @@
+- [The Hugging Face hub](https://huggingface.co/)
+- [New Hugging Face community features](https://huggingface.co/blog/community-update)
