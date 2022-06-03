@@ -1,0 +1,4 @@
+- [Kent talks Remix on JS Party #215](https://jsparty.fm/215)
+- [Storyblok](https://www.storyblok.com)
+- [Shopify Hydrogen](https://github.com/Shopify/hydrogen)
+- [Aaron's YouTube channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg)
