@@ -1,5 +1,6 @@
 - [2 months ago, Maikel reached out via our Slack](https://changelog.slack.com/archives/C024Q4CER/p1648847178417109)
 - 🎬 [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) - the video that introduced Maikel to cloud engineering
+- [Terraform Argo CD](https://gitlab.com/vlasman/terraform-argo-cd) - sets up Argo CD in K8s & then maintains the cluster (including Argo CD itself) using Argo CD GitOps pull functionality
 
 <figure class="richtext-figure richtext-figure--full">
   <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-56--maikel-vlasman.jpg" alt="Gerhard & Maikel" loading="lazy">
