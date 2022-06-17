@@ -1,0 +1,5 @@
+- [📘 Learning TypeScript](https://www.oreilly.com/library/view/learning-typescript/9781098110321/)
+- [typescript-eslint.io](https://typescript-eslint.io)
+- [@ts-expect-error](https://typescript-eslint.io/rules/prefer-ts-expect-error/)
+- [Execute Program](https://www.executeprogram.com)
+- [Chris's Amazon Profile](https://www.amazon.com/Christopher-Hiller/e/B00CKFSRLC/ref=aufs_dp_fta_dsk)
