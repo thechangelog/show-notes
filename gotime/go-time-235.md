@@ -1,0 +1,2 @@
+- [New merch!](https://merch.changelog.com/products/changelog-sticker-pack)
+- [Graphite on The Changelog](https://changelog.fm/491)
