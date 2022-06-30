@@ -1,0 +1,3 @@
+- [Noise: A Flaw in Human Judgment](https://www.goodreads.com/book/show/55339408-noise)
+- [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
+- [How to Use the Fibonacci Scale in Agile Estimation](https://www.wrike.com/blog/fibonacci-scale-in-agile-estimation/)
