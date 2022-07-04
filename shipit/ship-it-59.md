@@ -1,4 +1,4 @@
-🆕 [Live read replicas update in GitHub issue comment](https://github.com/benbjohnson/litestream/issues/8#issuecomment-1173214316)
+🆕 FOLLOW-UP: [Live read replicas update in GitHub issue comment](https://github.com/benbjohnson/litestream/issues/8#issuecomment-1173214316)
 
 - [How this episode started](https://twitter.com/gerhardlazu/status/1523987284441415680)
 - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
