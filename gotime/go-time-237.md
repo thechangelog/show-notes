@@ -1,0 +1,7 @@
+- [GolangCI-Lint](https://github.com/golangci/golangci-lint) — "5x faster than gometalinter"
+- [vim-go](https://github.com/fatih/vim-go)
+- [How can I track tool dependencies for a module?](https://github.com/golang/go/wiki/Modules#how-can-i-track-tool-dependencies-for-a-module)
+- [go/packages](https://godoc.org/golang.org/x/tools/go/packages)
+- [Golint](https://github.com/golang/lint) — a linter for Go source code
+- [conprof](https://github.com/conprof/conprof) — Continuous profiling
+- [func Walk](https://golang.org/pkg/path/filepath/#Walk)
