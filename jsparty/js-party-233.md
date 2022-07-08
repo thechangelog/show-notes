@@ -1,0 +1,7 @@
+- [Open source developer corrupts his own files, impacting millions](https://www.siliconrepublic.com/enterprise/github-marak-squires-colors-faker-npm-corrupt-open-source)
+- 🎧 [JS Party #210: What's in your package.json?](https://changelog.com/jsparty/210)
+- [Component Driven User Interfaces](https://www.componentdriven.org)
+- [The Neopets HTML Guide](https://www.neopets.com/help/html1.phtml)
+- [Histoire - A new way to write stories](https://histoire.dev)
+- [Svelte Summit 2022](https://www.sveltesummit.com)
+- 🎧 [JS Party #148: Thank you, Dr. Bahmutav!](https://jsparty.fm/148)
