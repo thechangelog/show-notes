@@ -115,6 +115,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <td align="center"><a href="https://github.com/ferdymercury"><img src="https://avatars.githubusercontent.com/u/10653970?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ferdymercury</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=ferdymercury" title="Documentation">📖</a></td>
     <td align="center"><a href="http://heyitsrocky.com"><img src="https://avatars.githubusercontent.com/u/6101650?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rocky Kev</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=RockyKev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/w3bdev1"><img src="https://avatars.githubusercontent.com/u/65990737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudeep Biswas</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=w3bdev1" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://maikelvlasman.com"><img src="https://avatars.githubusercontent.com/u/1732671?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Maikel</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=maikelvl" title="Documentation">📖</a></td>
   </tr>
 </table>
 
