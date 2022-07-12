@@ -1,0 +1,5 @@
+- [Coqui](https://coqui.ai/)
+- [BibleTTS - Data and models for African langauges](https://coqui.ai/blog/tts/african-languages-dataset-collaboration)
+- [Coqui TTS Hugging Face Space](https://huggingface.co/spaces/coqui/CoquiTTS)
+- [Coqui on Github](https://github.com/coqui-ai)
+- [Joshua's previous Practical AI episode about Common Voice](https://changelog.com/practicalai/104)
