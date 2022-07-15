@@ -1,0 +1,7 @@
+- [tauri.app](https://tauri.app)
+- [Tauri 1.0 Release](https://tauri.app/blog/tauri_1_0/)
+- [Tauri prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites)
+- [Tauri SOCIAL_CONTRACT.md](https://github.com/tauri-apps/governance-and-guidance/blob/main/SOCIAL_CONTRACT.md)
+- [Awesome Tauri](https://github.com/tauri-apps/awesome-tauri)
+- [The Changelog #470: Returning to GitHub to lead Sponsors with Jessica Lord](https://changelog.com/podcast/470)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
