@@ -1,0 +1,6 @@
+- [Subscribe to Changelog News](https://changelog.com/weekly)
+- [37 Easy Ways to Spice Up Your UI Designs](https://www.learnui.design/blog/spice-up-designs.html)
+- [Yes, I have opinions on your open source contributions](https://www.b-list.org/weblog/2022/jul/11/pypi/)
+- [awesome-privacy](https://github.com/lissy93/awesome-privacy)
+- [What's the real cost of interruption and context switching](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)?
+- [jqq: an interactive wrapper around jq](https://github.com/jcsalterego/jqq)
