@@ -1,0 +1,6 @@
+- Watch the video on our [YouTube channel](https://youtu.be/53NegkYw7zc)
+- Shout out to [Una's Twitter](https://twitter.com/una)!
+- Shout out to [OneWheel](https://onewheel.com)!
+- Shout out to [ShopTalk Show](https://shoptalkshow.com)!
+- Shout out to [The CSS Podcast](https://thecsspodcast.libsyn.com)!
+- Shout out to [JS Party](https://jsparty.fm)?
