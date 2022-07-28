@@ -1,0 +1,3 @@
+- [1.19 release notes (draft)](https://tip.golang.org/doc/go1.19)
+- [The Go Memory Model](https://tip.golang.org/ref/mem)
+- [Carl’s blog post](https://blog.carlmjohnson.net/post/2022/golang-119-new-features)
