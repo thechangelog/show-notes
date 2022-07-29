@@ -1,0 +1,7 @@
+- [feedbin.com](https://feedbin.com)
+- [The Changelog #240: Feedbin and RSS resurgence with Ben Ubois](https://changelog.com/podcast/240)
+- [Matt Rickard - Thoughts on RSS](https://changelog.com/news/thoughts-on-rss-Pppm) ([source](https://matt-rickard.com/thoughts-on-rss/))
+- [podcastindex.org](https://podcastindex.org)
+- [listennotes.com](https://www.listennotes.com/)
+- [Canonical MAAS](https://maas.io)
+- [airshow.fm](http://airshow.fm)
