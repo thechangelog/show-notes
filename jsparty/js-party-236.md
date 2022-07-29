@@ -1,0 +1,5 @@
+- [NX](https://nx.dev/)
+- [NX Github](https://github.com/nrwl/nx)
+- [Monorepo.tools](https://monorepo.tools/)
+- [ESLint and TypeScript](https://changelog.com/jsparty/230)
+- [Taming Code Organization with Module Boundaries in Nx](https://blog.nrwl.io/mastering-the-project-boundaries-in-nx-f095852f5bf4)
