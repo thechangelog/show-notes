@@ -1,0 +1,7 @@
+- [Subscribe to Changelog Weekly](https://changelog/com/weekly)
+- [Founders Talk #93](https://founderstalk.fm/93)
+- [Ok! So...](https://okso.app/about)
+- [Which generator builds markdown the fastest?](https://www.zachleat.com/web/build-benchmark/)
+- [A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
+- [Douglas Crockford interview with Evrone](https://evrone.com/douglas-crockford-interview)
+- [Your code doesn't have to be a mess](https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html)
