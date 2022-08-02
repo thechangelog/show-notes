@@ -1,0 +1,2 @@
+- [The Internet Health Report 2022](https://2022.internethealthreport.org/)
+- [Facts of the AI Power Imbalance](https://2022.internethealthreport.org/facts/)
