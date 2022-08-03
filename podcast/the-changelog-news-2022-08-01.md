@@ -1,4 +1,4 @@
-- [Subscribe to Changelog Weekly](https://changelog/com/weekly)
+- [Subscribe to Changelog Weekly](https://changelog.com/weekly)
 - [Founders Talk #93](https://founderstalk.fm/93)
 - [Ok! So...](https://okso.app/about)
 - [Which generator builds markdown the fastest?](https://www.zachleat.com/web/build-benchmark/)
