@@ -1,5 +1,6 @@
 - [Nick's Tweet thread](https://twitter.com/nicknisi/status/1539246805355044872)
 - [Yulia Startsev on JS Party #180](https://changelog.com/jsparty/180)
+- [Hung on Twitter](https://twitter.com/hung_dev)
 - [Jest Preview](https://www.jest-preview.com)
 - [Jest Preview on GitHub](https://github.com/nvh95/jest-preview)
 - [OS Awards](https://osawards.com/react/#nominees)
