@@ -1,0 +1,4 @@
+- [Join Changelog++!](https://changelog.com/++)
+- [Jerod's first episode: #85](https://changelog.fm/85)
+- [Super early days: #3](https://changelog.fm/3)
+- [The one with Chris McCord: #147](https://changelog.fm/147)
