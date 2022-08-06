@@ -1,0 +1,7 @@
+- [Backstage #24: Reflecting on 500 episodes](https://changelog.com/backstage/24)
+- [CSS-Tricks is joining DigitalOcean!](https://css-tricks.com/css-tricks-is-joining-digitalocean/)
+- [CSS-Tricks joins DigitalOcean, expanding our commitment to community](https://www.digitalocean.com/blog/css-tricks-joins-digitalocean)
+- [CSS-Tricks Design History](https://css-tricks.com/design-history/)
+- [Geoff Graham](https://geoffgraham.me)
+- [ShopTalk Show.com/](https://shoptalkshow.com/)
+- [Codepen Challenges](https://codepen.io/challenges)
