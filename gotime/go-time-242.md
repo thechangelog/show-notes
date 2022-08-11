@@ -1,0 +1,3 @@
+- [Sam Boyer saying dependency managers being a human problem](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
+- [Pyrsia.io untemperable ledger for modules](https://pyrsia.io/)
+- [PGP Keys](https://keys.openpgp.org/)
