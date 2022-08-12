@@ -1,0 +1,2 @@
+- [Astro 1.0 announcement post](https://astro.build/blog/astro-1/)
+- [Astro's website](https://astro.build)
