@@ -1,0 +1,8 @@
+- [Truss on GitHub](https://github.com/basetenlabs/truss)
+- [CMU: AI Pilot Can Navigate Crowded Airspace](https://www.cs.cmu.edu/news/2022/ai-pilot)
+- [Embarrassingly Parallel Training of Expert Language Models](https://arxiv.org/abs/2208.03306)
+- [Toucan: Learn español without even trying](https://jointoucan.com)
+- [3D Vision with Transformers: A Survey](https://arxiv.org/pdf/2208.04309v1.pdf)
+- [Sphere: Natural Language Processing with Transformers](https://www.getsphere.com/ml-engineering/natural-language-processing-with-transformers?source=Instructor-Socials-LinkedIn-80822-announcement-post)
+- [SkyJack on GitHub](https://github.com/samyk/skyjack)
+- [NVIDIA AI Demos](https://www.nvidia.com/en-us/research/ai-demos)
