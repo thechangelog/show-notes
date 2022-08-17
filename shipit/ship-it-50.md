@@ -1,4 +1,4 @@
-- [PR #407 - ✈️ Migrate changelog.com to fly.io ✈️](https://github.com/thechangelog/changelog.com/pull/407)
+- [PR #407 - ✈️ Migrate changelog.com to Fly.io ✈️](https://github.com/thechangelog/changelog.com/pull/407)
 
 <figure class="richtext-figure richtext-figure--full">
   <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-50--kaizen5.jpg" alt="Gerhard, Adam & Jerod" loading="lazy">
