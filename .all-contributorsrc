@@ -666,6 +666,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "chessmango",
+      "name": "Owen Valentine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8074719?v=4",
+      "profile": "https://remount.ro",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
