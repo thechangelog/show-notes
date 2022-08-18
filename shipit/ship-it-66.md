@@ -1,0 +1,6 @@
+- [BBC News: The firm that starts work at 9.06am](https://www.bbc.co.uk/news/business-37998577)
+- [Cloud Foundry](https://www.cloudfoundry.org/)
+- [Concourse CI](https://concourse-ci.org/)
+- [Pivotal IPO - 2018](https://www.cnbc.com/2018/04/20/pivotal-ipo-pvtl-stock-opening-price.html)
+- 🎧 [Ship It! #9](https://changelog.com/shipit/9) - the one where we talk about the RabbitMQ Concourse CI pipeline
+- 🎬 [Panel discussion around startups, venture capital in the Erlang Ecosystem](https://www.codesync.global/media/panel-discussion-around-startups-venture-capital-in-the-erlang-ecosystem-cbvamerica2021/) - Code BEAM America 2021
