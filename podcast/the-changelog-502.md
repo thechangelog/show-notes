@@ -1,0 +1,5 @@
+- [Block.xyz](https://www.block.xyz)
+- [Square Unboxed 2022](https://squareup.com/us/en/unboxed)
+- [Square Unboxed 2022's replay on YouTube ](https://www.youtube.com/watch?v=ZKs_5E8ae2w&list=PLKxvFH5604ZFcBXTeLUVj_feARnOpdFti)
+- [Square Unboxed 2022's recap blog post](https://developer.squareup.com/blog/recap-square-unboxed-2022/)
+- [Jack Dorsey on Lex Fridman (#91)](https://www.youtube.com/watch?v=60KJz1BVTyU)
