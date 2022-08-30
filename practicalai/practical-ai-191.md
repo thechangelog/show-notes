@@ -1,0 +1,5 @@
+- [Google's Responsible AI Practices - Privacy](https://ai.google/responsibilities/responsible-ai-practices/?category=privacy)
+- [What is Data De-identification and Why is It Important?](https://www.immuta.com/blog/what-is-data-de-identification)
+- [Hugging Face - Stable Diffusion Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+- [floret: lightweight, robust word vectors](https://explosion.ai/blog/floret-vectors)
+- [Using oneAPI with Intel® FPGAs Workshop](https://plan.seek.intel.com/psg_ASMO_dcaipsgloc_LPE_EN_2022_oneAPIworkshopSep8?cid=em&source=elo&campid=psg_ASMO_dcaipsgloc_EMIE_EN_2022_oneAPI%20workshop%20invite_C-MKA-29855_T-MKA-33098&content=psg_ASMO_dcaipsgloc_EMIE_EN_2022_oneAPI%20workshop%20invite_C-MKA-29855_T-MKA-33098&elq_cid=6649892&em_id=83558&elqrid=3039f3b248fb40cc890417beb8248254&elqcampid=52978&erpm_id=9748747)
