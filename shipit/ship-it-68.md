@@ -1,0 +1,4 @@
+- 📄 [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444) - March, 2016
+- 🎬 [How to use GitOps with Microsoft Azure](https://www.youtube.com/watch?v=hAPRatgA91g&list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT) - Brendan Burns - July, 2021
+- 🎬 [Kubernetes: The Documentary - Part 1](https://www.youtube.com/watch?v=BE77h7dmoQU&t=742s) - January, 2022
+- [Event Grid on Kubernetes with Azure Arc](https://docs.microsoft.com/en-us/azure/event-grid/kubernetes/overview)
