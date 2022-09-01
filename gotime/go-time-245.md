@@ -1,0 +1,3 @@
+- [GopherCon's agenda](https://www.gophercon.com/agenda)
+- [Storytelling On Stage](https://blog.gopheracademy.com/storytelling-on-stage-the-basics/)
+- [Go Community Code of Conduct](https://go.dev/conduct)
