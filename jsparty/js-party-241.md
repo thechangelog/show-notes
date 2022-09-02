@@ -1,0 +1,6 @@
+- [Gleb on JS Party #148](https://jsparty.fm/148)
+- [Mark Erikson on TypeScript](https://blog.isquaredsoftware.com/2019/11/blogged-answers-learning-and-using-typescript/)
+- [Gleb's YouTube channel](https://www.youtube.com/glebbahmutov)
+- [BlazeMeter University](https://www.blazemeter.com/university)
+- [Cypress Tips](https://cypress.tips/courses) - 15% off in Sept. with code `JSPARTY15`
+- [The Web Platform Podcast](https://thewebplatformpodcast.com)
