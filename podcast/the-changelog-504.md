@@ -1,0 +1,5 @@
+- [Go Time #195](https://gotime.fm/195)
+- [Go Time #202](https://gotime.fm/202)
+- [Uber's Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+- [Why smart engineers write bad code](https://changelog.fm/339)
+- [Rant about "performant"](https://youtu.be/fHNmRkzxHWs?t=760)
