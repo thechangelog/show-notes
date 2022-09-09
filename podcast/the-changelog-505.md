@@ -1,0 +1,7 @@
+- [Typesense on the iconic Nasdaq billboard in Times Square](https://www.linkedin.com/posts/jasonbosco_docker-fromgithubtonasdaqmaybe-github-activity-6970830567311384576-Awf7)
+- [typesense.org](https://typesense.org)
+- [typesense/typesense](https://github.com/typesense/typesense)
+- [Typesense Cloud pricing](https://cloud.typesense.org/pricing)
+- [Typesense on HN](https://news.ycombinator.com/item?id=22181437)
+- [Why Upgrade to GPLv3](https://www.gnu.org/licenses/rms-why-gplv3.en.html)
+- [Airbyte](https://airbyte.com)
