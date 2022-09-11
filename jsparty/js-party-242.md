@@ -14,6 +14,6 @@
 #### KBall's Topic
 
 - [How to start a movement](https://www.youtube.com/watch?v=V74AxCqOTvg)
-- [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)
+- ~~[Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)~~ [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 - [Cory Wilkerson on The Changelog](https://changelog.fm/459)
 - [The Dip](https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666)
