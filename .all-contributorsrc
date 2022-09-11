@@ -675,6 +675,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "robertology",
+      "name": "Robert Purcell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11565712?v=4",
+      "profile": "https://github.com/robertology",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
