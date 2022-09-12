@@ -14,3 +14,6 @@ in Go](http://bepsays.com/en/2016/10/13/react-in-go/)
 - [go-qemu](https://github.com/digitalocean/go-qemu) - Go packages to interact with QEMU using the QEMU Machine Protocol (QMP)
 - [myLG](https://github.com/mehrdadrad/mylg) - an open source software utility which combines the functions of the different network probes in one network diagnostic tool.
 - [stability-badges](https://github.com/emersion/stability-badges) - SVG badges for Go projects
+- [netstat](http://netstat.net/) - Find out who is listening on a specific port
+- [lsof](https://github.com/lsof-org/lsof) - List of open files or open ports
+- [strace](https://github.com/strace/strace) - It's diagnostic, debugging and instructional userspace utility for Linux 
