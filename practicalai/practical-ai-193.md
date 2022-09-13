@@ -1,0 +1,5 @@
+- [Announcement blog post](https://stability.ai/blog/stable-diffusion-announcement)
+- [Stable diffusion paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
+- [Blog post about the model from Marc Päpper](https://www.paepper.com/blog/posts/how-and-why-stable-diffusion-works-for-text-to-image-generation/)
+- [Stable Diffusion on Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+- [Hugging Face Diffusers library](https://github.com/huggingface/diffusers)
