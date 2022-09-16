@@ -1,0 +1,8 @@
+- [TIL: You can access a user's camera with just HTML](https://austingil.com/html-capture-attribute/)
+- [HN Link](https://news.ycombinator.com/item?id=32738501)
+- [Video Explainer](https://youtu.be/DSTXUEHZRiU)
+- [Obsidian](https://obsidian.md)
+- [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin)
+- [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
+- [Function Call podcast](https://www.thefncall.com/)
+- [Submit to Changelog News](https://changelog.com/news/submit)
