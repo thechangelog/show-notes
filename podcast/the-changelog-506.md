@@ -1,0 +1,23 @@
+- [Simon Willison on Wikipedia](https://en.wikipedia.org/wiki/Simon_Willison)
+- [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
+- [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+- [Exploring the training data behind Stable Diffusion](https://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/)
+- [Stability.ai](https://stability.ai)
+- Greg Rutkowsk on [ArtStation](https://www.artstation.com/rutkowski) and on [Twitter](https://twitter.com/grzegorzrutko14)
+- [Stable Diffusion Launch Announcement](https://stability.ai/blog/stable-diffusion-announcement)
+- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)
+- [The full text of the CreativeML Open RAIL-M license](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+- [Prompt injection attacks against GPT-3](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+- [Twitter thread about the ethics of the Stable Diffusion release from Joshua Achiam who works on AI safety at OpenAI](https://twitter.com/jachiam0/status/1568610112742334467)
+- [Lexica.art](https://lexica.art/) - that really good search engine for 10m+ Stable Diffusion images and prompts
+- [Simon's Twitter thread about Stable Diffusion - I keep on adding new things to this as they happen, the thread has been running for a few weeks now](https://twitter.com/simonw/status/1563555645453848581)
+- [4.2 Gigabytes, or: How to Draw Anything](https://andys.page/posts/how-to-draw/) - a great post that talks through the process involved in getting good results out of Stable Diffusion using image2image and multiple round-trips through the model
+- [This tweet from Simon has a animated GIF of the Stable Diffusion Discord scrolling by during the 1.5 model preview](https://twitter.com/simonw/status/1564793051205095425)
+- [Textual Inversion](https://textual-inversion.github.io/) also see [this thread on Twitter](https://twitter.com/simonw/status/1568655679883460610)
+- [This tweet](https://twitter.com/multimodalart/status/1568647681765163011) talks about [the Stable Diffusion concepts library](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion_textual_inversion_library_navigator.ipynb), using Textual Inversion
+- [This tweet](https://twitter.com/minimaxir/status/1569041160328577024) has great examples of Textual Inversion in action
+- Simon's [Datasette Cloud](https://www.datasette.cloud/) preview - Check it out and signup
+- [Compressing images with Stable Diffusion](https://www.stavros.io/posts/compressing-images-with-stable-diffusion/)
+- ["neuromancer" on Lexica](https://lexica.art/?q=neuromancer)
+- [Online Art Communities Begin Banning AI-Generated Images](https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/)
+- [The Changelog #296: Burnout, open source, Datasette](https://changelog.com/podcast/296)
