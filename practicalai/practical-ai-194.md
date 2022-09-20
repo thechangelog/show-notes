@@ -1,0 +1,3 @@
+- [WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)
+- [Talk from the Silicon Valley ACM meetup](https://www.youtube.com/watch?v=Tnafo6JVoJs)
+- [A deep dive into the theory behind WeightWatcher (a talk from ENS)](https://youtu.be/xEuBwBj_Ov4)
