@@ -1,0 +1,8 @@
+- [The self-fulfilling prophecy of React](https://joshcollinsworth.com/blog/self-fulfilling-prophecy-of-react)
+- [React](https://reactjs.org)
+- [Svelte](https://svelte.dev)
+- [Vue](https://vuejs.org)
+- [Angular](https://angular.io)
+- [Nick's spicy initial take on React at JS Conf 2013](https://twitter.com/nicknisi/status/339855756046249984)
+- [Svelte Summit](https://www.sveltesummit.com)
+- 🐴 [RxJS. lol. Not a lot to back it up, but okay.](https://twitter.com/horse_js/status/1572868087262879744)
