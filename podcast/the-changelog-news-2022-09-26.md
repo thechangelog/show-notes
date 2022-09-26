@@ -1,0 +1,8 @@
+- [Firefox will continue to support current content blockers](https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/)
+- [Nats: You Need it Now!](https://nabeel.dev/2022/09/17/nats)
+  - [Dwayne Bradley's comment](https://changelog.com/news/nats-you-need-it-now-RdlG#comment-Az3)
+- [Multi-Factor Authentication Fatigue Key Factor in Uber Breach](https://www.infoq.com/news/2022/09/Uber-breach-mfa-fatigue)
+- [OAuth2 explained with cute shapes](https://engineering.backmarket.com/oauth2-explained-with-cute-shapes-7eae51f20d38)
+  - 🎧 [Aaron Parecki on The Changelog #456])(https://changelog.fm/456)
+  - [A nice Twitter review](https://twitter.com/do_stick/status/1572322683056005126)
+- [Aging programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
