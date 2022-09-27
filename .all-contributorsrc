@@ -693,6 +693,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "burhan",
+      "name": "Burhan Khalid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/603112?v=4",
+      "profile": "https://burhan.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
