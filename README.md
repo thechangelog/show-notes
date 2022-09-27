@@ -123,6 +123,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center"><a href="https://remount.ro"><img src="https://avatars.githubusercontent.com/u/8074719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Owen Valentine</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=chessmango" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/robertology"><img src="https://avatars.githubusercontent.com/u/11565712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Robert Purcell</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=robertology" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/xseman"><img src="https://avatars.githubusercontent.com/u/9111485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Filip Seman</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=xseman" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://burhan.dev"><img src="https://avatars.githubusercontent.com/u/603112?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Burhan Khalid</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=burhan" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
