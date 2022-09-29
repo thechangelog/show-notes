@@ -1,0 +1,5 @@
+- [A new chapter for Changelog podcasts (our shows have chapters baked in now, whoop whoop!)](https://changelog.com/posts/a-new-chapter-for-changelog-podcasts)
+- [thechangelog/id3vx](https://github.com/thechangelog/id3vx)
+- [Id3vx – a library for parsing and encoding ID3 tags](https://changelog.com/posts/id3vx-a-library-for-parsing-and-encoding-id3-tags)
+- [Ship It! #70: Kaizen! Four PRs, one big feature](https://shipit.show/70)
+- [Folyo](https://folyo.me)
