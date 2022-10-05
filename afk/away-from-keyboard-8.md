@@ -1,2 +1,3 @@
 - [Grinnell College - Wikipedia](https://en.wikipedia.org/wiki/Grinnell_College)
 - [Modern Tribe](https://tri.be/)
+- [Inadvertent Algorithmic Cruelty](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/) by Eric Meyer

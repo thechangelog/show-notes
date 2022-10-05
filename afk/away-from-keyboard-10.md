@@ -2,3 +2,5 @@
 - She's the Executive Director for [Minnestar](https://minnestar.org/)
 - Minnestar puts on quite a few events, two of them being [Minnebar](https://minnestar.org/minnebar/) and [Minnedemo](https://minnestar.org/minnedemo/)
 - I actually did [a talk on CSS Grid at Minnebar 2017](https://youtu.be/3WWgtQWo9wA)
+- [Twin Cities Startup Week](https://www.twincitiesstartupweek.com/)  
+- [The 5 Love Languages](https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X)
