@@ -1,0 +1,15 @@
+- [Nick finished a transition to Vite](https://twitter.com/nicknisi/status/1575266239517270017)
+- [Jerod shipped chapters support](https://changelog.com/posts/a-new-chapter-for-changelog-podcasts)
+- KBall shipped...
+- [Cloudflare announces Turnstile](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
+- [Updates from the 92nd TC39 meeting](https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6)
+    - [Extractors](https://github.com/tc39/proposal-extractors)
+    - [Array.fromAsync](https://github.com/tc39/proposal-array-from-async)
+- [Linkify v4.0](https://linkify.js.org)
+    - 😱 [Obsidian plugin](https://github.com/matthewhchan/linkify)
+- [Figma acquisition](https://www.cmswire.com/digital-experience/how-does-adobes-20b-acquisition-of-figma-impact-ux-designers/)
+    - [Figjam](https://www.figma.com/figjam/)
+- [Penpot](https://penpot.app) SVG-based figma alternative?
+    - [open source on GitHub](https://github.com/penpot)
+- [California pay transparency law](https://www.cnbc.com/2022/09/28/california-pay-transparency-law-to-require-salary-ranges-on-job-postings.html)
+- [TypeScript 4.9 beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/) `satisfies`
