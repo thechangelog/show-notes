@@ -1,0 +1,3 @@
+- [GopherCon EU](https://gophercon.eu)
+- [Gophers Say! GopherCon EU Edition](https://gotime.fm/241)
+- [TinyGo](https://tinygo.org)
