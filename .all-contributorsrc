@@ -711,9 +711,19 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jiyeonseo",
+      "name": "Cheese ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2231510?v=4",
+      "profile": "https://jiyeonseo.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }

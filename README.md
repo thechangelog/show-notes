@@ -126,10 +126,10 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center"><a href="https://burhan.dev"><img src="https://avatars.githubusercontent.com/u/603112?v=4?s=100" width="100px;" alt="Burhan Khalid"/><br /><sub><b>Burhan Khalid</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=burhan" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/pkdyn"><img src="https://avatars.githubusercontent.com/u/72981484?v=4?s=100" width="100px;" alt="pkdyn"/><br /><sub><b>pkdyn</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=pkdyn" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://jiyeonseo.github.io"><img src="https://avatars.githubusercontent.com/u/2231510?v=4?s=100" width="100px;" alt="Cheese "/><br /><sub><b>Cheese </b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jiyeonseo" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
-  <tfoot>
-    
-  </tfoot>
 </table>
 
 <!-- markdownlint-restore -->
