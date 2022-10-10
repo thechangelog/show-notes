@@ -1,0 +1,6 @@
+- [Unpopular Opinion Twitter Thread](https://twitter.com/GoTimeFM/status/1579090897161318403)
+- [libSQL is a fork of SQLite](https://github.com/libsql/libsql)
+- [StabilityAI announced AI Music Generator Harmonai](https://mpost.io/stabilityai-announced-ai-music-generator-harmonai-based-on-dance-diffusion-model/)
+- [I Don’t Believe in Sprints](https://www.robinrendle.com/notes/i-don’t-believe-in-sprints/)
+- [Awesome Diagramming](https://github.com/shubhamgrg04/awesome-diagramming)
+- [Facts About State Machines](https://github.com/cpressey/Facts-about-State-Machines)
