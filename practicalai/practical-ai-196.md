@@ -1,0 +1,5 @@
+- [DocQuery](https://www.impira.com/product/docquery)
+- [DocQuery Announcement](https://twitter.com/ankrgyl/status/1565437042032402433)
+- [DocQuery Blog Announcement](https://www.impira.com/blog/hey-machine-whats-my-invoice-total)
+- [DocQuery | GitHub](https://github.com/impira/docquery)
+- [Impira](https://www.impira.com)
