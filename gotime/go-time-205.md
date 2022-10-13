@@ -1,3 +1,4 @@
+- 🎧 [Hacking with Go: Part 2](https://gotime.fm/251)
 - [AlphaGolang](https://github.com/SentineLabs/AlphaGolang)
 - Sunburst, part of the SolarWinds attack [report 1](https://www.microsoft.com/security/blog/2021/03/04/goldmax-goldfinder-sibot-analyzing-nobelium-malware/) [report 2](https://www.mandiant.com/resources/sunshuttle-second-stage-backdoor-targeting-us-based-entity)
 - [Flareon challenge](https://flare-on.com/)?
