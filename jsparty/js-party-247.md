@@ -1,0 +1,4 @@
+- [Docusaurus](https://docusaurus.io)
+- [The showcase](https://docusaurus.io/showcase)
+- [docusaurus.new](https://docusaurus.new)
+- [This Week in React](https://thisweekinreact.com) 
