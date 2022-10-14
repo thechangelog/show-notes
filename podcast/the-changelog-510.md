@@ -1,0 +1,7 @@
+- [neon.tech](https://neon.tech)
+- [Neon doubles funding to $54M](https://neon.tech/blog/funding-a1/)
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)
+- [datafold.com](https://www.datafold.com/)
+- [The Changelog #476: Supabase is all in on Postgres](https://changelog.com/podcast/476)
+- [The Changelog #461: Fauna is rethinking the database](https://changelog.com/podcast/461)
+- [Practical AI #94: Operationalizing ML/AI with MemSQL](https://changelog.com/practicalai/94)
