@@ -1,0 +1,5 @@
+- [op3.dev](https://op3.dev)
+- [Livewire.io](https://livewire.io)
+- [The Podcast Index](https://podcastindex.org)
+- [podcastindex.social](https://podcastindex.social)
+- [The new podcast namespace](https://podcastnamespace.org)
