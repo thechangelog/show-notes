@@ -1,4 +1,5 @@
 - [vex.dev](https://vex.dev/) - Stream your meeting, or your moon landing
+- [demo.vex.dev](https://demo.vex.dev/)
 - [WebRTC](https://webrtc.org/)
 - [HLS - HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
 - [Typescript SDK for working with the Vex API](https://github.com/vex-dev/web-sdk)
