@@ -1,0 +1,6 @@
+- [Tidelift](https://tidelift.com/)
+- [Luis's new newsletter!](https://www.openml.fyi/)
+- [NYTimes review of Dennis Duncan's "Index, A History of the"](https://www.nytimes.com/2022/02/09/books/review-index-history-of-dennis-duncan.html)
+- [The Berne Convention for the Protection of Literary and Artistic Works](https://www.congress.gov/treaty-document/99th-congress/27/all-info)
+- [Google LLC v. Oracle America, Inc.](https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc.#:~:text=On%20August%2013%2C%202010%2C%20Oracle,Google%20therefore%20infringed%20Oracle's%20copyright.)
+- [Why Andy Warhol’s ‘Prince Series,’ the Subject of a Long-Term Copyright Dispute, Should Be Considered Fair Use After All](https://news.artnet.com/opinion/andy-warhol-prince-series-op-ed-1962050)
