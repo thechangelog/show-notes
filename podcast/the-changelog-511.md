@@ -1,0 +1,6 @@
+- [Textualize.io](https://www.textualize.io)
+- [Textualize is Hiring!](https://www.willmcgugan.com/blog/tech/post/textualize-is-hiring/)
+- [Textualize/textual](https://github.com/Textualize/textual)
+- [Projects using Textual](https://www.textualize.io/textual/gallery)
+- [Textualize/rich](https://github.com/Textualize/rich)
+- [Projects using Rich](https://www.textualize.io/rich/gallery)
