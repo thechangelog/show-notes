@@ -1,0 +1,2 @@
+- [bluemonday](https://github.com/microcosm-cc/bluemonday)
+- ["All About Regular Expressions" by Jade Allen](https://www.youtube.com/watch?v=S1pseKYYd4c)
