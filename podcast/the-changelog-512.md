@@ -1,0 +1,4 @@
+- [Learn Linux TV](https://www.learnlinux.tv/)
+- [RetroPie](https://retropie.org.uk)
+- [The Homelab Show](https://thehomelab.show)
+- [All Things Open 2022](https://2022.allthingsopen.org)
