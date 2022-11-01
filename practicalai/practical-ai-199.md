@@ -1,0 +1,3 @@
+- [Daniel's team license from recent work](https://huggingface.co/spaces/sil-ai/model-license)
+- [Graph Neural Network courses from Zak Jost](https://www.graphneuralnets.com/)
+- [Coqui voice studio](https://coqui.ai/)
