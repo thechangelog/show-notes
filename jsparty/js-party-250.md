@@ -1,0 +1,5 @@
+- [Stanza](https://stanza.systems)
+- [OpenTelemetry](https://opentelemetry.io)
+- 📘 [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
+- 📘 [The Site Reliability Workbook](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
+- [web components has egg on its face because the zeitgeist](https://twitter.com/horse_js/status/1583548324959096832)
