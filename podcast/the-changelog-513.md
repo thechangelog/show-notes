@@ -1,5 +1,4 @@
 - [Heroku.com](https://www.heroku.com/)
-- [Y Combinator W2008](https://www.ycombinator.com/companies?batch=W08)
 - [Heroku Lifts Ruby on Rails Development into the Cloud](https://techcrunch.com/2008/02/07/heroku-lifts-ruby-on-rails-development-to-the-cloud/)
 - [Post-exit: What on earth is Heroku co-founder Adam Wiggins doing in Europe? (spoiler: not vacationing)](https://tech.eu/2014/02/14/heroku-adam-wiggins-europe/)
 - [My journey into the Berlin startup scene](https://medium.com/wandering-cto/my-journey-into-the-berlin-startup-scene-4dc8faecd305)
