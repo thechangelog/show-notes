@@ -1,0 +1,7 @@
+- [(Part 1) The Changelog #513: The story of Heroku with Adam Wiggins](https://changelog.fm513)
+- [My journey into the Berlin startup scene](https://medium.com/wandering-cto/my-journey-into-the-berlin-startup-scene-4dc8faecd305)
+- [Making computers better](https://adamwiggins.com/making-computers-better/)
+- [Museapp.com](https://museapp.com/)
+- [Ink & Switch](https://www.inkandswitch.com)
+- [Adam's Heroku values.md](https://gist.github.com/adamwiggins/5687294)
+- [Muse principles](https://museapp.com/principles/)
