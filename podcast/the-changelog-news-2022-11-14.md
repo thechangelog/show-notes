@@ -1,0 +1,7 @@
+- [layoffs.fyi](https://layoffs.fyi)
+- [Despite Big Layoffs, Tech Workers Are Still in Demand](https://www.wired.com/story/despite-big-layoffs-meta-twitter-stripe-tech-workers-are-still-in-demand/)
+  - [Meta LinkedIn Group](https://www.linkedin.com/groups/14148191/)
+  - [Google sheet of opportunities](https://docs.google.com/spreadsheets/d/1IN0OcFGJij56T4CNWeFeWV1ncNHg8dbK3_QSshO8l6s/edit#gid=972776897)
+- [ntfy.sh](https://ntfy.sh)
+- [devenv.sh](https://devenv.sh)
+- [Markdoc](https://markdoc.dev)
