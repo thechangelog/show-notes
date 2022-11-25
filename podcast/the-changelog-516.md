@@ -1,0 +1,7 @@
+- [The Changelog #464: This insane tech hiring market](https://changelog.fm/464)
+- [PragmaticEngineer.com](https://www.pragmaticengineer.com)
+- [Wired.com: Despite Big Layoffs, Tech Workers Are Still in Demand](https://www.wired.com/story/despite-big-layoffs-meta-twitter-stripe-tech-workers-are-still-in-demand/)
+- [Layoffs.fyi](https://layoffs.fyi)
+- [Adyen](https://www.adyen.com)
+- [Fast.co](https://www.fast.co)
+- [Which one of these will be the biggest “unicorn” failure ever?](https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/)
