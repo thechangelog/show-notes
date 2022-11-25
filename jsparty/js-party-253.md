@@ -1,0 +1,15 @@
+Shout out to [Caio Amaral](https://twitter.com/caicorre) for requesting this episode. You, too, can [request an episode](https://jsparty.fm/request)!
+
+- [Mallorca](https://en.wikipedia.org/wiki/Mallorca)
+- [playwright.dev](https://playwright.dev)
+- [Playwright on GitHub](https://github.com/microsoft/playwright)
+- [Nuxt](https://nuxtjs.org)
+- [puppeteer](https://en.wikipedia.org/wiki/Mallorca)
+- [Selenium](https://www.selenium.dev)
+- [Playwright test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
+- [Getting started - VS Code](https://playwright.dev/docs/getting-started-vscode)
+- [Testing Library](https://testing-library.com)
+- [Playwright on YouTube](https://www.youtube.com/@Playwrightdev)
+- [What's new in Playwright 1.27](https://www.youtube.com/watch?v=b84eqab3kwc)
+- [Test Generator](https://playwright.dev/docs/codegen-intro)
+- [CI GitHub Actions](https://playwright.dev/docs/ci-intro)
