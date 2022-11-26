@@ -4,7 +4,7 @@ Shout out to [Caio Amaral](https://twitter.com/caicorre) for requesting this epi
 - [playwright.dev](https://playwright.dev)
 - [Playwright on GitHub](https://github.com/microsoft/playwright)
 - [Nuxt](https://nuxtjs.org)
-- [puppeteer](https://en.wikipedia.org/wiki/Mallorca)
+- [puppeteer](https://pptr.dev)
 - [Selenium](https://www.selenium.dev)
 - [Playwright test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
 - [Getting started - VS Code](https://playwright.dev/docs/getting-started-vscode)
