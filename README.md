@@ -129,6 +129,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <tr>
       <td align="center"><a href="https://jiyeonseo.github.io"><img src="https://avatars.githubusercontent.com/u/2231510?v=4?s=100" width="100px;" alt="Cheese "/><br /><sub><b>Cheese </b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jiyeonseo" title="Documentation">📖</a></td>
       <td align="center"><a href="https://rdela.com"><img src="https://avatars.githubusercontent.com/u/74381?v=4?s=100" width="100px;" alt="Ricky de Laveaga"/><br /><sub><b>Ricky de Laveaga</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=rdela" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://blueheronlabs.net"><img src="https://avatars.githubusercontent.com/u/1742341?v=4?s=100" width="100px;" alt="Phill Zarfos"/><br /><sub><b>Phill Zarfos</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=pzarfos" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
