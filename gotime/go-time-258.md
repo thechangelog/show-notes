@@ -1,0 +1,5 @@
+- [The tweet that started it all](https://twitter.com/goinggodotnet/status/1570764101097500674)
+- 📘 [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [The Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Internet Protocol Suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+- 🐘 [techhub.social](https://techhub.social)
