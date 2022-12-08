@@ -1,0 +1,8 @@
+- [Hacking with Go: Part 1](https://gotime.fm/205)
+- [Hacking with Go: Part 2](https://gotime.fm/251)
+- [Pascal (programming language)](https://en.wikipedia.org/wiki/Pascal_(programming_language))
+- [Hacking tool: IDA Pro](https://hex-rays.com/ida-pro/)
+- [Hacking tool: Ghidra](https://ghidra-sre.org)
+- [Stowaway -- Multi-hop Proxy Tool for pentesters](https://github.com/ph4ntonn/Stowaway)
+- [Ivan's video on reversing a Go malware](https://www.youtube.com/watch?v=_cL-OwU9pFQ)
+- [“Stylometry" - recognizing author by code style, talk from the CCC 2014](https://media.ccc.de/v/31c3_-_6173_-_en_-_saal_g_-_201412291715_-_source_code_and_cross-domain_authorship_attribution_-_aylin_-_greenie_-_rebekah_overdorf)
