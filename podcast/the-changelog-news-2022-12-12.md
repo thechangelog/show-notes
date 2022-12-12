@@ -1,0 +1,6 @@
+- 📥 [Subscribe to Changelog's Weekly newsletter](https://changelog.com/weekly)
+- [tRPC.io](https://trpc.io)
+- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug)
+- [Awesome ChatGPT Prompts](https://prompts.chat)
+- [Dev environments in the cloud are a half-baked solution](https://www.mikenikles.com/blog/dev-environments-in-the-cloud-are-a-half-baked-solution)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)
