@@ -1,0 +1,4 @@
+- [Unbabel](https://unbabel.com/)
+- [COMET](https://unbabel.com/research/comet/)
+- [The WMT workshop/ conference](https://www.statmt.org/wmt22/)
+- [EMNLP](https://2022.emnlp.org/)
