@@ -1,0 +1,5 @@
+- [Ryan on The Changelog #443](https://changelog.fm/443)
+- [Deno 1.28 announcement](https://deno.com/blog/v1.28)
+- [JavaScript ShadowRealms](https://fjolt.com/article/javascript-shadowrealms)
+- [JavaScript Containers](https://tinyclouds.org/javascript_containers)
+- [WinterCG](https://wintercg.org)
