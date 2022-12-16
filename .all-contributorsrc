@@ -738,6 +738,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "lllama",
+      "name": "Felix Ingram",
+      "avatar_url": "https://avatars.githubusercontent.com/u/598411?v=4",
+      "profile": "https://lllama.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
