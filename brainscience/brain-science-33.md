@@ -1,0 +1,6 @@
+- [Burnout and the Brain](https://www.psychologicalscience.org/observer/burnout-and-the-brain)
+- [Alexandra Michel, MPH on Twitter](https://twitter.com/alexandra_em)
+- [Are you headed towards burnout?](https://changelog.com/news/are-you-headed-towards-burnout-EZE3)
+- [Simple Burnout Triage](https://benmccormick.org/2020/08/31/simple-burnout-triage)
+- [Brain Science #30: I'm just so stressed](https://changelog.com/brainscience/30)
+- [Recovering from burnout](https://kierantie.com/a/burnout)
