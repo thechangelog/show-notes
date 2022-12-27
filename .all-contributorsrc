@@ -747,6 +747,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "msquared-au",
+      "name": "Msquared",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4065899?v=4",
+      "profile": "https://github.com/msquared-au",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
