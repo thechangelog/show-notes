@@ -1,6 +1,6 @@
 ### Part 1
 
-- [WebSssembly](https://webassembly.org)
+- [WebAssembly](https://webassembly.org)
 - [Bytecode Alliance](https://bytecodealliance.org)
 - [Cloud Native Computing Foundation on Slack](https://communityinviter.com/apps/cloud-native/cncf)
 
