@@ -131,6 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center"><a href="https://rdela.com"><img src="https://avatars.githubusercontent.com/u/74381?v=4?s=100" width="100px;" alt="Ricky de Laveaga"/><br /><sub><b>Ricky de Laveaga</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=rdela" title="Documentation">📖</a></td>
       <td align="center"><a href="https://blueheronlabs.net"><img src="https://avatars.githubusercontent.com/u/1742341?v=4?s=100" width="100px;" alt="Phill Zarfos"/><br /><sub><b>Phill Zarfos</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=pzarfos" title="Documentation">📖</a></td>
       <td align="center"><a href="https://lllama.github.io/"><img src="https://avatars.githubusercontent.com/u/598411?v=4?s=100" width="100px;" alt="Felix Ingram"/><br /><sub><b>Felix Ingram</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=lllama" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/msquared-au"><img src="https://avatars.githubusercontent.com/u/4065899?v=4?s=100" width="100px;" alt="Msquared"/><br /><sub><b>Msquared</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=msquared-au" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
