@@ -4,4 +4,7 @@
 - [A New AI Lexicon: Smart](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-smart-580484078624)
 - [A New AI Lexicon: Artificial Identity Cataracts](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-artificial-identity-cataracts-29f73c32e6bb)
 - [A New AI Lexicon: Imbrication](https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-imbrication-40b380dafa35)
-- [Free 500+ PDF "Applications of Deep Learning" book from Jeff Heaton, who is teaching this course at Washington University in St. Louis ](https://t.co/0ZQ27vTx7O?amp=1)
+
+#### Books
+
+- [Free 500+ PDF "Applications of Deep Neural Networks with Keras" book from Jeff Heaton, who is teaching this course at Washington University in St. Louis](https://arxiv.org/pdf/2009.05673.pdf)

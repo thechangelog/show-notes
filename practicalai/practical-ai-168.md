@@ -2,3 +2,8 @@
 - [DeepMind says its new AI coding engine is as good as an average human programmer](https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce)
 - [Artificial intelligence system rapidly predicts how two proteins will attach](https://news.mit.edu/2022/ai-predicts-protein-docking-0201)
 - [Seeing Theory](https://seeing-theory.brown.edu)
+
+#### Books
+
+- ["The Art of Doing Science and Engineering" by Richard W. Hamming](https://www.amazon.com/dp/1732265178)
+- ["Patterns, Predictions, and Actions" by Moritz Hardt and Benjamin Recht](https://www.amazon.com/dp/069123373X)

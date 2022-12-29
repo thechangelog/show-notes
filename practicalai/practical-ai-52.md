@@ -20,3 +20,8 @@ Relevant learning resources:
     - [Advanced NLP with spacy:](https://course.spacy.io/)
     - [New fast.ai course! A Code-First Introduction to NLP:](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [Google Cloud - Deep Learning Containers](https://cloud.google.com/ai-platform/deep-learning-containers)
+
+#### Books
+
+- ["The Pragmatic Programmer" by David Thomas and Andrew Hunt](https://www.amazon.com/dp/0135957052)
+- ["Data Science from Scratch" by Joel Grus](https://www.amazon.com/dp/1492041130)

@@ -19,3 +19,7 @@ References / notes:
 - [SUMMARY OF THE 2018 DEPARTMENT OF DEFENSE ARTIFICIAL INTELLIGENCE STRATEGY: Harnessing AI to Advance Our Security and Prosperity](https://media.defense.gov/2019/Feb/12/2002088963/-1/-1/1/SUMMARY-OF-DOD-AI-STRATEGY.PDF)
 - [Artificial Intelligence Is Now a Pentagon Priority. Will Silicon Valley Help?](https://www.nytimes.com/2018/08/26/technology/pentagon-artificial-intelligence.html)
 - [DOD Takes Strategic Approach to Artificial Intelligence](https://www.defense.gov/explore/story/Article/1755991/dod-takes-strategic-approach-to-artificial-intelligence)
+
+#### Books
+
+- ["AI Superpowers" by Kai-Fu Lee](https://www.amazon.com/dp/0358105587)

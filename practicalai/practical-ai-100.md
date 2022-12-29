@@ -14,3 +14,7 @@ Episodes mentioned on the show:
 - [Artificial intelligence at NVIDIA](https://changelog.com/practicalai/15)
 - [Growing up to become a world-class AI expert](https://changelog.com/practicalai/36)
 - [Helping African farmers with TensorFlow](https://changelog.com/practicalai/3)
+
+#### Books
+
+- ["Interpretable Machine Learning" by Christoph Molnar](https://www.amazon.com/dp/0244768528)

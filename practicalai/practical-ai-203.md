@@ -3,3 +3,7 @@
 - [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
 - [SIL International](https://www.sil.org/)
 - [The bloom-captioning dataset](https://huggingface.co/datasets/sil-ai/bloom-captioning)
+
+#### Books
+
+- ["Applied Machine Learning and AI for Engineers" by Jeff Prosise](https://www.amazon.com/dp/B0BM35KY4C)
