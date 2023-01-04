@@ -14,5 +14,9 @@ Links relevant to the show:
 - [Jenny Bryan on naming things](https://speakerdeck.com/jennybc/how-to-name-files)
 - [JD Long's talk at rstudio::conf this year about being empathetic](https://resources.rstudio.com/rstudio-conf-2019/putting-empathy-in-action-building-a-community-of-practice-for-analytics-in-a-global-corporation)
 - [python's version of pyprojroot](https://github.com/chendaniely/pyprojroot)
-- [Pandas for everyone book](https://smile.amazon.com/Pandas-Everyone-Analysis-Addison-Wesley-Analytics-ebook/dp/B0789WKTKJ)
 - [“Be kind: all else is details”. -- Greg Wilson, Teaching Teach Together -- The Rules](http://teachtogether.tech/)
+
+#### Books
+
+- ["Pandas for Everyone" by Daniel Chen](https://www.amazon.com/dp/0137891156)
+- ["Advanced R" by Hadley Wickham](https://www.amazon.com/dp/0815384572)

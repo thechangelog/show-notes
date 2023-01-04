@@ -10,8 +10,9 @@
 
 #### Books
 
-- [Deep Learning textbook](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- [Machine Learning With Go](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go) by Daniel Whitenack
+- ["Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org)
+- ["Natural Language Processing with PyTorch" by Delip Rao and Brian McMahan](https://www.amazon.com/dp/1491978236)
+- ["Machine Learning With Go" by Daniel Whitenack and Janani Selvaraj](https://www.amazon.com/dp/1789619890)
 
 (Daniel is too humble to put his own book in this list, so Chris inserted it above without Daniel's knowledge - because it's a damn fine book!)
 

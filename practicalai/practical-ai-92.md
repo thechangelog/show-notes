@@ -4,3 +4,7 @@
 - [A DARPA Perspective on Artificial Intelligence](https://www.darpa.mil/attachments/AIFull.pdf)
 - [DARPA | Wikipedia](https://en.wikipedia.org/wiki/DARPA)
 - [U.S. Department of Defense Directive 3000.09: Autonomy in Weapon Systems](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/300009p.pdf)
+
+#### Books
+
+- ["Thinking, Fast and Slow" by Daniel Kahneman](https://www.amazon.com/dp/0374533555)

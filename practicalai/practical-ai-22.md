@@ -18,4 +18,7 @@ News/Discussion:
 Learning resources:
 
 - [The Backpropagation Algorithm Demystified](https://medium.com/@nathaliejeans7/the-backpropagation-algorithm-demystified-41b705229727)
-- [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
+
+#### Books
+
+- ["Grokking Deep Learning" by Andrew Trask](https://github.com/iamtrask/Grokking-Deep-Learning)

@@ -5,3 +5,8 @@
 - [OECD Principles on AI](https://www.oecd.org/going-digital/ai/principles)
 - [Cambridge - The Role and Limits of Principles in AI Ethics: Towards a Focus on Tensions](https://dl.acm.org/doi/pdf/10.1145/3306618.3314289)
 - [Nature - Principles alone cannot guarantee ethical AI](https://www.nature.com/articles/s42256-019-0114-4)
+
+#### Books
+
+- ["Artificial Intelligence" by Stuart Russell and Peter Norvig](https://www.amazon.com/dp/0134610997)
+- ["Human Compatible" by Stuart Russell](https://www.amazon.com/dp/0525558632)

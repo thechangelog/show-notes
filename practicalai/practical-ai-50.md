@@ -2,8 +2,8 @@ Learn more about neural networks with the following learning resources.
 
 #### Books
 
-- [Deep Learning textbook](https://www.deeplearningbook.org)
-- [Data Science from Scratch, 2nd Edition](https://learning.oreilly.com/library/view/data-science-from/9781492041122/)
+- ["Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org)
+- ["Data Science from Scratch" by Joel Grus](https://learning.oreilly.com/library/view/data-science-from/9781492041122/)
 - There are literally too many others to name...
 
 #### Online Courses

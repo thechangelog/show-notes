@@ -4,4 +4,7 @@
 - [Papermill](https://papermill.readthedocs.io/en/latest/)
 - [nbdev](https://www.fast.ai/2019/12/02/nbdev/)
 - [nbval](https://github.com/computationalmodelling/nbval)
-- [DevOps for dummies](https://www.amazon.com/DevOps-Dummies-Computer-Tech/dp/1119552222)
+
+#### Books
+
+- ["DevOps For Dummies" by Emily Freeman](https://www.amazon.com/dp/1119552222)

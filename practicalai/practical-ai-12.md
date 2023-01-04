@@ -9,3 +9,7 @@ News/Updates:
 Learning Resources:
 - [Hands on ML books dataviz](https://anvaka.github.io/greview/hands-on-ml/1/)
 - [Udemy - Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python)
+
+#### Books
+
+- ["Hands-On Machine Learning" by Aurélien Géron](https://www.amazon.com/dp/1492032646)

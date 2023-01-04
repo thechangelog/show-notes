@@ -1,3 +1,6 @@
 - [Metaflow](https://metaflow.org/)
-- [Ville's book "Effective Data Science Infrastructure"](https://www.manning.com/books/effective-data-science-infrastructure)
-    - Use code **podpracticalAI19** for 40% off!
+
+#### Books
+
+- ["Effective Data Science Infrastructure" by Ville Tuulos](https://www.manning.com/books/effective-data-science-infrastructure)
+  - Use code **podpracticalAI19** for 40% off!

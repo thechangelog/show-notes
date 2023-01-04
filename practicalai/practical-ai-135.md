@@ -4,3 +4,7 @@
 - [Jax](https://github.com/google/jax)
 - [Livebook demo on YouTube](https://www.youtube.com/watch?v=RKvqc-UEe34)
 - [Erlang Ecosystem Foundation](https://erlef.org)
+
+#### Books
+
+- ["Genetic Algorithms in Elixir" by Sean Moriarity](https://www.amazon.com/dp/168050794X)
