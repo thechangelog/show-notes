@@ -1,0 +1,2 @@
+- [user-defined iteration using range over func values](https://github.com/golang/go/discussions/56413)
+- 📼 [City of Hilliard Leaf Collection](https://www.youtube.com/watch?v=QL-0M0cDpdk)
