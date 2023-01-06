@@ -1,2 +1,3 @@
+- [Take our latest Frontend Feud survey!](https://jsparty.fm/ff)
 - [NUC (Next Unit Computing)](https://en.wikipedia.org/wiki/Next_Unit_of_Computing)
 - [ConstitutionDAO](https://en.wikipedia.org/wiki/ConstitutionDAO)
