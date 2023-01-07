@@ -1,3 +1,4 @@
+- [Talos Linux](https://www.talos.dev/)
 - [🎬 Hack Sesh: K8s@Home Edition](https://www.youtube.com/watch?v=ZbXwTXSI9lk) - April, 2022
 - [🎬 DevOps Toolkit - Talos: Linux Designed For Kubernetes](https://www.youtube.com/watch?v=iEFb2Zg4xUg) - March, 2022
 - [🎬 Sidero Metal Webinar](https://www.youtube.com/watch?v=hPuu5mgIl2M) - January, 2022
