@@ -134,6 +134,9 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center"><a href="https://github.com/msquared-au"><img src="https://avatars.githubusercontent.com/u/4065899?v=4?s=100" width="100px;" alt="Msquared"/><br /><sub><b>Msquared</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=msquared-au" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/jasonkeene"><img src="https://avatars.githubusercontent.com/u/161453?v=4?s=100" width="100px;" alt="Jason Keene"/><br /><sub><b>Jason Keene</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jasonkeene" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/wheresalice"><img src="https://avatars.githubusercontent.com/u/84906?v=4?s=100" width="100px;" alt="Alice"/><br /><sub><b>Alice</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=wheresalice" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
