@@ -765,6 +765,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "wheresalice",
+      "name": "Alice",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84906?v=4",
+      "profile": "https://github.com/wheresalice",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
