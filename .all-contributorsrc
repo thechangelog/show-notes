@@ -774,6 +774,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "searls",
+      "name": "Justin Searls",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79303?v=4",
+      "profile": "http://justin.searls.co",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
