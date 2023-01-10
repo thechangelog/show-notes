@@ -1,0 +1,3 @@
+- [ChatGPT](https://chat.openai.com/chat)
+- [OpenAI Blog:  ChatGPT](https://openai.com/blog/chatgpt)
+- [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
