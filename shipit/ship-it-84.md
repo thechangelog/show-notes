@@ -5,5 +5,5 @@
 - [🎬 I am Installing Talos OS (Sidero) at Home](https://www.youtube.com/watch?v=XTEkjRALZYM) - October, 2021
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-84--sidero-labs.jpg" alt="Supermicro, Andrew & Steve" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-84--sidero-labs.jpg" alt="Supermicro, Andrew & Steve" loading="lazy">
 </figure>
