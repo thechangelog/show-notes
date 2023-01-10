@@ -3,5 +3,5 @@
 - Early inspiration: [Let a 1000 flowers bloom. Then rip 999 of them out by the roots.](https://gigamonkeys.com/flowers/) - September 2015
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-73--matias-pan.jpg" alt="Matias & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-73--matias-pan.jpg" alt="Matias & Gerhard" loading="lazy">
 </figure>
