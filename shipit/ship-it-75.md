@@ -6,5 +6,5 @@
 - [Postgres WASM](https://supabase.com/blog/postgres-wasm)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-75--jason-carter.jpg" alt="Jason & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-75--jason-carter.jpg" alt="Jason & Gerhard" loading="lazy">
 </figure>
