@@ -4,7 +4,7 @@
 - [📖 Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes)
 
 <figure class="richtext-figure richtext-figure--full">
-  <a target="_blank" href="https://static.sched.com/hosted_files/kccncna2022/65/spider_rainbows.pdf"><img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-81--slide.jpg" alt="What a RUSH! Let's Deploy Straight to Production!" loading="lazy"></a>
+  <a target="_blank" href="https://static.sched.com/hosted_files/kccncna2022/65/spider_rainbows.pdf"><img src="https://cdn.changelog.com/shipit/shipit-81--slide.jpg" alt="What a RUSH! Let's Deploy Straight to Production!" loading="lazy"></a>
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
