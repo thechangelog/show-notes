@@ -9,5 +9,5 @@
 - [Email's new heyday](https://www.hey.com/how-it-works/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-77--dhh.jpg" alt="David & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-77--dhh.jpg" alt="David & Gerhard" loading="lazy">
 </figure>
