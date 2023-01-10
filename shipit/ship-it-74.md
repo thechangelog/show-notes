@@ -6,5 +6,5 @@
 - 🚙 [Audi Films: An Avant Story](https://www.youtube.com/watch?v=g8gw8B939Eo)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-74--sebastian-kister.jpg" alt="Sebastian & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-74--sebastian-kister.jpg" alt="Sebastian & Gerhard" loading="lazy">
 </figure>
