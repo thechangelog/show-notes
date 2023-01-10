@@ -10,10 +10,10 @@
 - 🐦 [Do you know what’s cool? Keeping your #kubernetes clusters secure.](https://twitter.com/nais_io/status/1580810098355556352)
 
 <figure class="richtext-figure richtext-figure--full">
-  <a target="_blank" href="https://data.nav.no/datapakke/e1556a04a484bbe06dda2f6b874f3dc1"><img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-78--nav-deployments-2009-2022.png" alt="NAV.no average weekly service deployments, 2009 - 2022" loading="lazy"></a>
+  <a target="_blank" href="https://data.nav.no/datapakke/e1556a04a484bbe06dda2f6b874f3dc1"><img src="https://cdn.changelog.com/shipit/shipit-78--nav-deployments-2009-2022.png" alt="NAV.no average weekly service deployments, 2009 - 2022" loading="lazy"></a>
   <figcaption><span>NAV.no average weekly service deployments, 2009 - 2022</span></figcaption>
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-78--audun-fauchald-strand.jpg" alt="Audun & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-78--audun-fauchald-strand.jpg" alt="Audun & Gerhard" loading="lazy">
 </figure>
