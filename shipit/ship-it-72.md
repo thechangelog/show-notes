@@ -7,5 +7,5 @@
 - [KubeHuddle - Oct. 3-4, 2022](https://kubehuddle.com) - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland’s first Kubernetes conference
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-72--david-flanagan.jpg" alt="David & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-72--david-flanagan.jpg" alt="David & Gerhard" loading="lazy">
 </figure>
