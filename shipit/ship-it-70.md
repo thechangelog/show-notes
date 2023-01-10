@@ -10,5 +10,5 @@
 - [Signing Git Commits with SSH Keys](https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-70--kaizen7.jpg" alt="Gerhard, Lars, Adam & Jerod" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-70--kaizen7.jpg" alt="Gerhard, Lars, Adam & Jerod" loading="lazy">
 </figure>
