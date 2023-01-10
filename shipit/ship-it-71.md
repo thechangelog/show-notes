@@ -8,5 +8,5 @@
 - 👕 [Qwertee.com](https://www.qwertee.com/) - Dave buys his quirky t-shirts here
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-71--dave-farley.jpg" alt="Gerhard & Dave" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-71--dave-farley.jpg" alt="Gerhard & Dave" loading="lazy">
 </figure>
