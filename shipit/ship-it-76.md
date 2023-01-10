@@ -9,9 +9,9 @@
 - ["We discovered a bug in our repository management service"](https://twitter.com/ariadneconill/status/1582755040720089089)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-76--apko-melange-wolfi-ecosystem.png" alt="apko, melange & Wolfi ecosystem" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-76--apko-melange-wolfi-ecosystem.png" alt="apko, melange & Wolfi ecosystem" loading="lazy">
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-76--ariadne-conill.jpg" alt="Ariadne & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-76--ariadne-conill.jpg" alt="Ariadne & Gerhard" loading="lazy">
 </figure>
