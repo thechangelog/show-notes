@@ -8,5 +8,5 @@
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-81--mauricio-and-whitney.jpg" alt="Gerhard, Mauricio & Whitney" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-81--mauricio-and-whitney.jpg" alt="Gerhard, Mauricio & Whitney" loading="lazy">
 </figure>
