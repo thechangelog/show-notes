@@ -1,0 +1,4 @@
+- [HealthCare.gov](https://www.healthcare.gov/)
+- [Paul's company Ad Hoc is hiring](https://adhoc.team)
+- [Obama's Trauma Team](http://time.com/10228/obamas-trauma-team/)
+- [Paul on MSNBC talking about the rescue](http://www.msnbc.com/all-in/watch/the-nerds-who-saved-obamacare-175808579562)
