@@ -1,0 +1,6 @@
+- [Subscribe to Changelog Weekly!](https://changelog.com/weekly)
+- [PCB cheat sheets](https://www.westartfactory.com)
+- [How a single dev dropped AWS costs by 90%, then disappeared](https://scribe.rip/@maximetopolov/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a)
+- [The HyperSwitch project](https://github.com/juspay/hyperswitch)
+- [Servo to Advance in 2023](https://servo.org/blog/2023/01/16/servo-2023/)
+- [Cloudflare Wildebeest](https://github.com/cloudflare/wildebeest)
