@@ -1,0 +1,6 @@
+- [Who owns our code? Part 1](https://gotime.fm/252)
+- [Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute)
+- [Berne Convention for the Protection of Literary and Artistic Works](https://www.wipo.int/treaties/en/ip/berne/)
+- [OpenAi](https://openai.com/)
+- [Luis Villa's newsletter](https://www.openml.fyi/)
+- [Big Code](https://www.bigcode-project.org/)
