@@ -1,0 +1,5 @@
+- [webstack](https://webstack.dancroak.com/)
+- [The Art of PostgreSQL](https://theartofpostgresql.com)
+- [Crunchy Data](https://www.crunchydata.com)
+- [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+- [The Changelog #510: Taking Postgres serverless with Nikita Shamgunov from Neon](https://changelog.fm/510)
