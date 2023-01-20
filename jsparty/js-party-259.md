@@ -1,0 +1,7 @@
+- [The 2022 State of JS survey](https://2022.stateofjs.com)
+- [Amazon is now accepting your applications for its home surveillance drone](https://www.theverge.com/2021/9/28/22692048/ring-always-home-cam-drone-amazon-price-release-date-specs)
+- [ProseLint](http://proselint.com/)
+- [mason.nvim](https://github.com/williamboman/mason.nvim)
+- [Store app state in the url](https://www.scottantipa.com/store-app-state-in-urls)
+- [Graphite](https://graphite.dev)
+- [Graphite on The Changelog](https://changelog./491)
