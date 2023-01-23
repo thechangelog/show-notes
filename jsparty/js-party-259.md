@@ -4,4 +4,4 @@
 - [mason.nvim](https://github.com/williamboman/mason.nvim)
 - [Store app state in the url](https://www.scottantipa.com/store-app-state-in-urls)
 - [Graphite](https://graphite.dev)
-- [Graphite on The Changelog](https://changelog./491)
+- [Graphite on The Changelog](https://changelog.com/491)
