@@ -783,6 +783,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mgreenw",
+      "name": "Max Greenwald",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2615374?v=4",
+      "profile": "https://maxgreenwald.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
