@@ -1,0 +1,13 @@
+- [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+- GoTime Episode with Ole on the Berlin transition to Go
+- GoTime Episode with Bill Kennedy on TDD
+- OS projects mentioned by Ssandor
+  - [skipper](https://github.com/zalando/skipper)
+    - [proxytest](https://pkg.go.dev/github.com/zalando/skipper/proxy/proxytest)
+    - [kubernetestest](https://pkg.go.dev/github.com/zalando/skipper/dataclients/kubernetes/kubernetestest)
+  - [kube-ingress-aws-controller](https://github.com/zalando-incubator/kube-ingress-aws-controller)
+- [Omega](https://github.com/onsi/gomega)
+- [BDD - Behaviour Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+- OS projects mentioned by Ole Bulbuk
+  - [Spaghetti Analyzer](https://github.com/flowdev/spaghetti-analyzer)
+  - [Spaghetti Cutter](https://github.com/flowdev/spaghetti-cutter)
