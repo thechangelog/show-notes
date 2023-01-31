@@ -1,0 +1,3 @@
+- [NVIDIA's Omniverse](https://www.nvidia.com/en-us/omniverse/usd/)
+- [Beau’s GTC 2023 session around how to build simulation-ready USD 3D assets](https://www.nvidia.com/gtc/session-catalog/?search=S52401&tab.catalogallsessionstab=16566177511100015Kus#/)
+- [Tech blog around Omniverse and SimReady assets](https://developer.nvidia.com/blog/new-cloud-applications-simready-assets-and-tools-for-omniverse-developers-announced-at-gtc/)
