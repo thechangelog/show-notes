@@ -1,0 +1,4 @@
+- [Qwik is a new kind of web framework](https://jsparty.fm/237)
+- [Qwik](https://qwik.builder.io/)
+- [Qwik Discord](https://qwik.builder.io/chat)
+- [Stackblitz Qwik Trial](https://qwik.new/)
