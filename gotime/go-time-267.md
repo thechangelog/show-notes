@@ -1,0 +1,7 @@
+- [GopherCon Europe 2023 CFP](https://www.papercall.io/gceu23)
+- [GopherCon UK 2023](https://www.gophercon.co.uk)
+- [Shout AT: London Gophers](https://gophers.london)
+- [Ron Evans on 2053: A Go Odyssey](https://gotime.fm/235)
+- [What’s New in Go 1.20, Part I: Language Changes](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/)
+- [What’s New in Go 1.20, Part II: Major Standard Library Changes](https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/)
+- [What’s New in Go 1.20, Part III: Minor Standard Library Changes](https://blog.carlmjohnson.net/post/2023/golang-120-minor-features/)
