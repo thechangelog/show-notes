@@ -1,3 +1,4 @@
+- [📝 Why Discord is Switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
 - [🎬 Rust is interesting, but does it really make sense for me?](https://www.youtube.com/watch?v=DHMfRFkhv-w) - AWS re:Invent 2022 - Tim McNamara
 - [📝 Optimizing 700 CPUs Away With Rust](https://medium.com/tenable-techblog/optimizing-700-cpus-away-with-rust-dc7a000dbdb2) - Alan Ning, SRE at Tenable.io
 - [📊 Lambda Cold Starts analysis by maxday](https://maxday.github.io/lambda-perf/)
