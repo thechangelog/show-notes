@@ -2,6 +2,7 @@
 - [The case for frameworks - a rebuttal post by Laurie Voss](https://seldo.com/posts/the_case_for_frameworks)
 - [A visual for session depth & frequency - a potential rubric for app architecture](https://infrequently.org/2023/02/the-market-for-lemons/depth-and-frequency-small.png)
 - [How Browsers Work](https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/)
+- [How to build a Browser in Python](https://browser.engineering/)
 - [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
 - [WebPageTest](https://www.webpagetest.org)
 - [The Mobile Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)
