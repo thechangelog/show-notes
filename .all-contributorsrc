@@ -801,6 +801,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "notpeter",
+      "name": "Peter Tripp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145113?v=4",
+      "profile": "https://github.com/notpeter",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
