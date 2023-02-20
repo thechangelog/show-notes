@@ -1,0 +1,9 @@
+- [Bing: “I will not harm you unless you harm me first”](https://simonwillison.net/2023/Feb/15/bing/)
+- [A nimble Mastodon web client](https://elk.zone)
+- [Writing an engineering strategy](https://lethain.com/eng-strategies/)
+- [So, what's next for core-js?](https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md)
+- Lightning round ⚡️
+  - [Obsidian](https://obsidian.md)
+  - [MLML](https://mjml.io)
+  - [Sloth](https://github.com/sveinbjornt/Sloth)
+  - [AI Commits](https://github.com/Nutlope/aicommits)
