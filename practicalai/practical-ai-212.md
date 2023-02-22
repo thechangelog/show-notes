@@ -1,0 +1,4 @@
+- [Jay's popular blog (with posts including "The Illustrated Transformer")](http://jalammar.github.io/)
+- [co:here](https://cohere.ai/)
+- [Topically sandbox - topic modeling](https://github.com/cohere-ai/sandbox-topically)
+- [co:here's prompt engineering guide](https://docs.cohere.ai/docs/prompt-engineering)
