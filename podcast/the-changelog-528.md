@@ -1,0 +1,7 @@
+- [ActivityPub - W3C Recommendation (23 January 2018)](https://www.w3.org/TR/activitypub/)
+- [PeerTube](https://joinpeertube.org/)
+- [Twitter says it’s intentionally blocking apps like Tweetbot](https://www.theverge.com/2023/1/17/23559180/twitter-blocking-apps-tweetbot)
+- [Changelog.social](https://changelog.social/)
+- [Mastodon Roadmap](https://joinmastodon.org/roadmap)
+- [The Changelog #257 with Evan Prodromou](https://changelog.com/podcast/257)
+- [Medium embraces Mastodon](https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11)
