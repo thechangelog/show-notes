@@ -1,0 +1,7 @@
+- [containers.dev](https://containers.dev)
+- [Dev containers templates](https://containers.dev/templates) and [on GitHub](https://github.com/devcontainers/templates)
+- [Dev containers CLI](https://github.com/devcontainers/cli)
+- PR #437 (from Chris Eggert): [Add GitHub Codespaces support - https://containers.dev 👀 ](https://github.com/thechangelog/changelog.com/pull/437)
+- [Beginner's Series to: Dev Containers](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
+- [The Changelog #459: Coding in the cloud with Codespaces with Cory Wilkerson](https://changelog.com/podcast/459)
+- [The Changelog #277: The Story of Visual Studio Code](https://changelog.com/podcast/277)
