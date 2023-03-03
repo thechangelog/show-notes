@@ -1,0 +1,8 @@
+- [Tauri](https://tauri.app/)
+- [Tauri isolation](https://tauri.app/v1/references/architecture/inter-process-communication/isolation)
+- [Tauri Discord](https://discord.com/invite/tauri)
+- [Awesome Tauri](https://github.com/tauri-apps/awesome-tauri)
+- [Padloc](https://github.com/padloc/padloc)
+- [Galata.app](https://www.galata.app/)
+- [Recut](https://getrecut.com/)
+- [curses](https://github.com/mmpneo/curses)
