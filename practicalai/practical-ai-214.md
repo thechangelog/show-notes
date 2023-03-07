@@ -1,0 +1,2 @@
+- [Modal](https://modal.com/)
+- [Episode 142 discussing Erik's "building a data team" article](https://changelog.com/practicalai/142)
