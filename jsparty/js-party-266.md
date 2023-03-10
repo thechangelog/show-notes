@@ -1,0 +1,6 @@
+- [Going full-time on Eleventy (JS Party #217)](https://changelog.com/jsparty/217)
+- [Eleventy on YouTube](https://www.youtube.com/channel/UCskGTioqrMBcw8pd14_334A)
+- [The JavaScript Site Generator Review, 2023](https://www.zachleat.com/web/site-generator-review/)
+- [Astro](https://astro.build/)
+- [WebC - single file web components](https://github.com/11ty/webc)
+- [is-land](https://is-land.11ty.dev/)
