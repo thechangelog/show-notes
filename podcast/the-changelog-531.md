@@ -1,0 +1,3 @@
+- [zed.dev](https://zed.dev)
+- [The Changelog #241: The Story of Atom with Nathan Sobo](https://changelog.fm/241)
+- [GitHub officially says farewell to Atom](https://changelog.com/news/github-officially-says-farewell-to-atom-ZoqM)
