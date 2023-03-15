@@ -1,0 +1,3 @@
+- [You.com](https://you.com)
+- [Open Platform for developers](https://you.com/developers)
+- [Join the You.com Discord server](https://discord.gg/gbH6XaQdBQ)
