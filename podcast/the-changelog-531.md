@@ -1,3 +1,5 @@
 - [zed.dev](https://zed.dev)
+- [Zed raises $10M for a code editor built for collaboration](https://techcrunch.com/2023/03/15/zed-code-editor-raises-10m/)
 - [The Changelog #241: The Story of Atom with Nathan Sobo](https://changelog.fm/241)
 - [GitHub officially says farewell to Atom](https://changelog.com/news/github-officially-says-farewell-to-atom-ZoqM)
+- [Founders Talk #7:Henk Rogers / The Tetris Company](https://founderstalk.fm/7)
