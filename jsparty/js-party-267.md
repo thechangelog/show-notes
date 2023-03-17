@@ -1,0 +1,5 @@
+- [React server componenets intro video](https://www.youtube.com/watch?v=TQQPAU21ZUw)
+- [React server componenets demo app](https://github.com/reactjs/server-components-demo)
+- [React server componenets RFC](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md)
+- [Try out React server componenets with Next.js's app router](https://beta.nextjs.org/docs/getting-started)
+- [React's blog to get updates]( https://beta.reactjs.org/blog)
