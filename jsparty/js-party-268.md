@@ -1,0 +1,4 @@
+- Holla! [BeJS CONF](https://www.bejs.io/conf) Use code `JSPARTYTIME` for 30% off
+- 🎥 [Creating your own JavaScript Runtime using V8, Libuv and more](https://www.youtube.com/watch?v=ynNDmp7hBdo)
+- [ECMAScript 2023 Language Specification](https://tc39.es/ecma262/)
+- [LibUV](https://libuv.org/)
