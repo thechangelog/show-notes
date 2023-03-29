@@ -1,0 +1,7 @@
+- [Filippo on Go Time talking fuzzing](https://gotime.fm/145)
+- [Filippo on Go Time talking security](https://gotime.fm/101)
+- [I’m now a full-time professional open source maintainer](https://words.filippo.io/full-time-maintainer/)
+- [age file encryption](https://age-encryption.org/)
+- [mkcert](https://mkcert.dev/)
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent)
+- [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
