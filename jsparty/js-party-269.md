@@ -1,0 +1,5 @@
+- [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Mozilla.ai](https://mozilla.ai)
+- [Firefly Adobe GenAI](https://www.cnbc.com/2023/03/21/adobe-firefly-generative-ai-lets-you-type-to-edit-images.html)
+- [TypeScript 5.0](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
+- [React.dev](https://react.dev) is now a thing
