@@ -1,0 +1,5 @@
+- [Wails](https://github.com/wailsapp/wails)
+- [Fyne](https://github.com/fyne-io/fyne)
+- [Xbar](https://github.com/matryer/xbar)
+- [Taskfile](https://taskfile.dev)
+- [Go GUI developer survey](https://fynelabs.com/2022/05/03/go-gui-developer-survey-results/)
