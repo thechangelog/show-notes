@@ -1,0 +1,5 @@
+- [Christof Henkel | Kaggle](https://www.kaggle.com/christofhenkel)
+- [NVIDIA Kaggle Grandmasters](https://www.nvidia.com/en-us/ai-data-science/kaggle-grandmasters)
+- [Kaggle](https://www.kaggle.com)
+- [NVIDIA RAPIDS](https://rapids.ai)
+- [NVIDIA Data Loading Library (DALI)](https://developer.nvidia.com/dali)
