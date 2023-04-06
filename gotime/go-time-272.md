@@ -1,0 +1,4 @@
+- [GopherCon 2021: Natalie Pistunovich - AI Driven Development in Go](https://www.youtube.com/watch?v=TBKQkjt_Q_4)
+- [GopherCon 2019: Mat Ryer - How I Write HTTP Web Services after Eight Years](https://www.youtube.com/watch?v=rWBSMsLG8po)
+- [Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367](https://www.youtube.com/watch?v=L_Guz73e6fw)
+- [How Do You Do Fellow Kids? | 30 Rock ](https://www.youtube.com/watch?v=fiOMbqPHFwo)
