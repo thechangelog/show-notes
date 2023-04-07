@@ -1,6 +1,6 @@
 - [Hacking with Go: Part 1](https://gotime.fm/205)
 - [Hacking with Go: Part 2](https://gotime.fm/251)
-- [Hacking with Go: Part 1](https://gotime.fm/259)
+- [Hacking with Go: Part 3](https://gotime.fm/259)
 - [GPT-4 announcement](https://openai.com/research/gpt-4)
 - [Felix former colleague of Ivan](https://twitter.com/felixaime/status/1627745932560240660)
 - [The JS left padding fiasco](https://www.theregister.com/2016/03/23/npm_left_pad_chaos/)
