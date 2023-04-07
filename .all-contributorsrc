@@ -810,6 +810,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "uilian",
+      "name": "Uilian Souza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/236106?v=4",
+      "profile": "https://uilian.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
