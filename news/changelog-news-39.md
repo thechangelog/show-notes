@@ -1,0 +1,1 @@
+Links for all episodes of Changelog News are in [the companion newsletter](https://changelog.com/news/39/email).
