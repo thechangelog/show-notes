@@ -1,0 +1,6 @@
+- [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com)
+  - [Oz on The Changelog #260](https://changelog.fm/260)
+-  [All Programming Philosophies Are About State](https://www.worldofbs.com/minimize-state/)
+- [You might not need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+- [Scalability is overrated](https://waseem.substack.com/p/scalability-is-overrated)

@@ -1,8 +1,0 @@
-- [ChatGPT's new API](https://github.com/reorx/awesome-chatgpt-api)
-	- [OpenAI announcement post](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
-	- [Whisper.cpp](https://github.com/ggerganov/whisper.cpp)
-- [Self-Host All the Things?](https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/)
-- [Dart Frog: A Frontend Language Moves to the Backend](https://thenewstack.io/dart-frog-a-frontend-language-moves-to-the-backend/)
-	- [Dart Frog website](https://dartfrog.vgv.dev)
-- [The curl nuget story](https://daniel.haxx.se/blog/2023/03/02/the-curl-nuget-story/)
-- [Hacker Stations](https://hackerstations.com)

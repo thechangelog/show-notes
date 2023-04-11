@@ -1,5 +1,0 @@
-- [The Sonic search backend](https://github.com/valeriansaliou/sonic)
-- [How to build software like an SRE](https://www.willett.io/posts/precepts/)
-- [Why we're leaving the cloud](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
-- [The HTTP crash course nobody asked for](https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for)
-- [Why We're Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)

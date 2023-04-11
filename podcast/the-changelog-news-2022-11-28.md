@@ -1,6 +1,0 @@
-- [Send us a message for state of the "log" 2022!](https://changelog.fm/sotl)
-- [Heroku will delete all free dbs and shut down all free dynos Monday](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq)
-- [Why "Prompt Engineering" and "Generative AI" are overhyped](https://lspace.swyx.io/p/why-prompt-engineering-and-generative)
-- [Why Twitter Didn’t Go Down: From a Real Twitter SRE](https://matthewtejo.substack.com/p/why-twitter-didnt-go-down-from-a)
-- [Git Notes: Git's Coolest, Most Unloved Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-- [Joel Lord's Brain Brew](https://brainbrew.ca/)

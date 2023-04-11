@@ -1,5 +1,0 @@
-- [Zach Evans on Twitter](https://twitter.com/zqevans/status/1579900653295775745)
-- [Lessons learned since posting my salary history publicly](https://www.jvt.me/posts/2022/09/21/year-later-salary-history/)
-- [Open Core Ventures](https://opencoreventures.com)
-- [Stripe is Paypal circa 2010](https://learnjsthehardway.com/blog/18-stripe-is-paypal-circa-2010/)
-- [Helix Editor](https://helix-editor.com) ([pic](https://github.com/helix-editor/helix/raw/master/screenshot.png))

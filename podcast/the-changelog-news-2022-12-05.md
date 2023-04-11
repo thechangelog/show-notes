@@ -1,6 +1,0 @@
-- [Send us a message for state of the “log” 2022!](https://changelog.fm/sotl)
-- [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
-- [Advent of Code 2022](https://adventofcode.com/2022)
-- [Liam Neeson Impression - Web developer (from Taken)](https://www.youtube.com/watch?v=BXPYUQtoEKw)
-- [Fedifinder](https://fedifinder.glitch.me)
-- [Open Sauced](https://opensauced.pizza)

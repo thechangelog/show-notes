@@ -1,0 +1,5 @@
+- [Bun](https://bun.sh)
+- [Kubernetes is a red flag](https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/)
+- [Congratulations: We Now Have Opinions on Your Open Source Contributions](https://lucumr.pocoo.org/2022/7/9/congratulations/)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)

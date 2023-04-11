@@ -1,0 +1,8 @@
+- [Brain Science](https://brainscience.fm)
+- [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+- [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
+- [Notes about Juice](https://garden.bradwoods.io/notes/design/juice)
+- [Logto](https://logto.io)
+- [Basaran](https://github.com/hyperonym/basaran)
+- [llama-cli](https://github.com/go-skynet/llama-cli)

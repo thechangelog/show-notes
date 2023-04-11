@@ -1,0 +1,8 @@
+- [Subscribe to Changelog Weekly!](https://changelog.com/weekly)
+- [Your next smart home device is a $30 used Kindle](https://matthealy.com/kindle)
+- [Changelog's Mastodon instance](https://changelog.social/directory)
+    - [Eugen Rochko on The Changelog](https://changelog.fm/315)
+    - [github.com/tmm1/flyapp-mastodon](https://github.com/tmm1/flyapp-mastodon)
+    - [github.com/thechangelog/changelog.social](https://github.com/thechangelog/changelog.social)
+- [GPT-3 Powered CLI](https://github.com/abhagsain/ai-cli)
+- [No architecture is better than bad architecture](https://rogovoy.me/blog/no-architecture)

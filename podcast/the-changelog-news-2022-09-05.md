@@ -1,6 +1,0 @@
-- [Subscribe to Changelog Weekly!](https://changelog.com/weekly)
-- [Python's Walrus Operator](https://martinheinz.dev/blog/79)
-- [Email falsehoods](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
-  - [There's only ONE way to validate](https://changelog.com/posts/theres-only-one-way-to-validate-an-email-address)
-- [No more self-hosting](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
-- [Leon.ai](https://getleon.ai)

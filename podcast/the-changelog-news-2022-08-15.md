@@ -1,7 +1,0 @@
-- [Subscribe to Changelog Weekly](https://changelog.com/weeky)
-- [Subscribe to our YouTube Channel](https://youtube.com/changelog)
-- [Why your daily stand-ups don't work and how to fix them](https://lucasfcosta.com/2022/08/07/how-to-improve-daily-standups.html)
-- [Redis Explained](https://architecturenotes.co/redis/)
-- [Big Changes Ahead for Deno](https://deno.com/blog/changes)
-- [DevDash](https://thedevdash.com)
-- [MVPy: Minimum Viable Python](https://snarky.ca/mvpy-minimum-viable-python/)

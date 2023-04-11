@@ -1,8 +1,0 @@
-- [Taking stock of my "data tool belt"](https://www.jeremiak.com/blog/data-toolbelt/)
-- [The "Build Your Own Redis" book is completed](https://build-your-own.org/blog/20230127_byor/)
-	- [free web version](https://build-your-own.org/redis/)
-	- [purchaseable version](https://build-your-own.org/redis/99_wip.html)
-- [A comments system powered by GitHub Discussions](https://giscus.app)
-- [Prompt Engineering Shouldn't Exist](https://matt-rickard.com/prompt-engineering-shouldnt-exist)
-- [The ALPACA game engine](https://github.com/pinguin999/ALPACA)
-	- [Portal Dogs](https://portaldogs.com)

@@ -1,0 +1,8 @@
+- [Twitter's algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+	- [Rowan Cheung](https://twitter.com/rowancheung/status/1642604461016113160)
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+- [Think of an LLM as a "calculator for words"](https://simonwillison.net/2023/Apr/2/calculator-for-words/)
+- [A Powerful Pseudocode Programming Language for LLMs](https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b)
+	- [Spec](https://github.com/paralleldrive/sudolang-llm-support/blob/main/sudolang.sudo.md)
+- [What is a stochastic parrot?](https://www.quora.com/What-is-a-stochastic-parrot)
+  - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)

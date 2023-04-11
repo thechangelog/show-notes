@@ -1,0 +1,7 @@
+- [Qalculate!](https://qalculate.github.io)
+- ['qalc' is awesome!](https://www.reddit.com/r/commandline/comments/wyhdm0/qalc_is_awesome/)
+- [Restic 0.14](https://restic.net/blog/2022-08-25/restic-0.14.0-released/)
+- [Alex Neumann on The Changelog #434](https://changelog.fm/434)
+- [Coping with Copilot](https://www.sigarch.org/coping-with-copilot/)
+- [Heroku's Next Chapter](https://blog.heroku.com/next-chapter)
+- [joerick's comment](https://changelog.com/news/herokus-next-chapter-doesnt-include-free-plans-pjgV#comment-pWL)

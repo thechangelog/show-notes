@@ -1,0 +1,7 @@
+- [Subscribe to Changelog Weekly](https://changelog.com/weekly)
+- [Changelog Weekly #412](https://changelog.com/news/issues/412)
+- [Markwhen is like Markdown for timelines](https://markwhen.com)
+- [Tauri 1.0 Release](https://tauri.app/blog/tauri_1_0/)
+- [Why products should be “slick”, not just viable](https://herman.bearblog.dev/mvp-vs-slc/)
+- [I hate MVPs. So do your customers. Make it SLC instead.](https://blog.asmartbear.com/slc.html)
+- [No-one knows what they are doing](https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/)
