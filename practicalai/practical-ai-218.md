@@ -1,0 +1,1 @@
+- [Computational Formalism Art History and Machine Learning](https://mitpress.mit.edu/9780262545648/computational-formalism/)
