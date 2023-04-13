@@ -1,0 +1,6 @@
+- [Matt’s book on DDD w/ Go](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
+- [Jon on DDD](https://www.calhoun.io/moving-towards-domain-driven-design-in-go/)
+- [The big blue book; the famous DDD book that started it all.](https://amzn.to/3KcEN37)
+- [The big red book](https://www.promyze.com/why-read-red-book-domain-driven-design/)
+- [Martin Fowler on CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [Snactiv](https://snactiv.com/)
