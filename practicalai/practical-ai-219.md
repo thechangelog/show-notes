@@ -1,0 +1,17 @@
+- [Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf) | [GitHub](https://github.com/microsoft/JARVIS)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- [Wolfram ChatGPT](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+- [Comparing LLMs](https://nat.dev/)
+- [LangChain](https://python.langchain.com/en/latest/)
+- Learn about LLMs: 
+  - [Emergence and reasoning in large language models (Jason Wei)](https://youtu.be/0Z1ZwY2K2-M)
+  - [Sparks of Artificial General Intelligence](https://arxiv.org/abs/2303.12712)
+- [Learning Prompting](https://learnprompting.org/)
+- Getting Started with Transformers: 
+  - [Transformers course (free)](https://huggingface.co/course/chapter1/1)
+  - [Tasks at Hugging Face](https://huggingface.co/tasks)
+- Training your own LLM Models:
+  - [Efficient Large Language Model training with LoRA and Hugging Face](https://www.youtube.com/watch?v=YKCtbIJC3kQ)
+  - [PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft)
+- [Dolly blog post](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+- [Illustrating Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf)
