@@ -1,0 +1,2 @@
+- [Introducing "safe npm"](https://socket.dev/blog/introducing-safe-npm)
+- [Source code on GitHub](https://github.com/SocketDev/socket-cli-js)
