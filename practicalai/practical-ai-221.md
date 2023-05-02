@@ -1,0 +1,6 @@
+- [Neural Magic](https://neuralmagic.com/)
+- [SparseML](https://neuralmagic.com/sparseml/)
+- [SparseZoo](https://sparsezoo.neuralmagic.com/)
+- [Neural Magic Scales up MLPerf™ Inference v3.0 Performance With Demonstrated Power Efficiency; No GPUs Needed](https://neuralmagic.com/blog/neural-magic-scales-up-mlperf-inference-performance-with-demonstrated-power-efficiency-no-gpus-needed/)
+- [Deploy Optimized Hugging Face Models With DeepSparse and SparseZoo](https://neuralmagic.com/blog/deploy-hugging-face-nlp-and-cv-models-for-fast-inference-with-deepsparse-pipelines-and-sparseml/)
+- [SparseGPT: Remove 100 Billion Parameters for Free](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)
