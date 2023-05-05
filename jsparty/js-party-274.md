@@ -1,0 +1,5 @@
+- [AWS Amplify](https://aws.amazon.com/amplify/)
+- [OpenNext](https://open-next.js.org/)
+- [SST](https://sst.dev/)
+- [Next.JS](https://nextjs.org/)
+- [React](https://react.dev/)
