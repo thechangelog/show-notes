@@ -1,0 +1,7 @@
+- [WorkOS](https://workos.com/)
+- [Ironclad ](https://ironcladapp.com)
+- [WorkOS: Enterprise’s Great Equalizer](https://www.generalist.com/briefing/workos)
+- [WorkOS raises $80m in Series B financing, acquires Modulz](https://workos.com/blog/series-b)
+- [WorkOS raises $15M to build “Stripe for enterprise-ready features”](https://grinich.medium.com/workos-raises-15m-to-build-stripe-for-enterprise-ready-features-35040ee7f353)
+- [WorkOS careers](https://workos.com/careers)
+- [Resend](https://resend.com)
