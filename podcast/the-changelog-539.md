@@ -8,5 +8,5 @@ We're at Open Source Summit North America 2022 this week. If you're there, come 
 - [Changelog Interviews #392: Indeed's FOSS Contributor Fund with Duane O'Brien](https://changelog.com/podcast/392)
 - [Sovereign Tech Fund](https://sovereigntechfund.de/en/)
 - [Changelog Interviews #490: Schneier on security for tomorrow’s software](https://changelog.com/podcast/490)
-- [Investing in Open Source: The FOSS Contributor Fund](https://www.oreilly.com/library/view/investing-in-open/9781098111915/) by Duane O’Brien, Mandy Grover
+- [Investing in Open Source: The FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund/blob/main/Investing_in_Open_Source-FOSS_Contributor_Fund.pdf) by Duane O’Brien, Mandy Grover
 - [Changelog Interviews #515: ANTHOLOGY — Advocating for and supporting open source](https://changelog.com/podcast/515)
