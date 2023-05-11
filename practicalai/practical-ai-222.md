@@ -1,0 +1,2 @@
+- [ChatGPT Hacker Community](https://www.chatgpthackers.dev/)
+- [ChatGPTBot](https://twitter.com/ChatGPTBot)
