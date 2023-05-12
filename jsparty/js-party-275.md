@@ -1,0 +1,6 @@
+- [Myst](https://en.wikipedia.org/wiki/Myst)
+- [The html Review](https://thehtml.review)
+- [Grid World](https://alex.miller.garden/grid-world/)
+- [Daniel Shiffman](https://en.wikipedia.org/wiki/Daniel_Shiffman)
+- [Drawing Lines is Hard](https://mattdesl.svbtle.com/drawing-lines-is-hard)
+- [Algorithmically generated goods by SPACEFILLER](https://shop.spacefiller.space)
