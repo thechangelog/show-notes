@@ -1,0 +1,2 @@
+- [Label Studio](https://labelstud.io/)
+- [Slides from Erin's recent PyData talk on RLHF](https://docs.google.com/presentation/d/17GDvbYAf3SfuNTRNzbuX5We3mVKBwnAE-wX5I1XOP6w/edit?usp=sharing)
