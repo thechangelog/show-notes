@@ -1,0 +1,3 @@
+- [LlamaIndex Docs](https://gpt-index.readthedocs.io/en/latest/)
+- [LlamaHub](https://llamahub.ai/)
+- [LlamaIndex Blog](https://medium.com/llamaindex-blog)
