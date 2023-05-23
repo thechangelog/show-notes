@@ -1,0 +1,4 @@
+- [Go Time #265: How to ace that CFP](https://gotime.fm/265)
+- [Go Time #164: Why writing is important](https://gotime.fm/164)
+- [xkcd #2501](https://xkcd.com/2501/)
+- [Phind: AI search engine for devs](https://phind.com)
