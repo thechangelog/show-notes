@@ -1,0 +1,9 @@
+- [Class Variance Authority](https://cva.style)
+- KBall's new stack
+    - [QwikCity](https://qwik.builder.io/docs/qwikcity/)
+    - [Joist-ORM](https://joist-orm.io/)
+- [Bun's new bundler](https://bun.sh/blog/bun-bundler)
+- [MDN's new Baseline](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
+- [JavaScript's new frontend framework: VanJS](https://vanjs.org)
+  - [kriszyp/put-selector](https://github.com/kriszyp/put-selector)
+  - [Rich Harris quote](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
