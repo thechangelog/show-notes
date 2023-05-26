@@ -141,7 +141,10 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/exegeteio"><img src="https://avatars.githubusercontent.com/u/2538668?v=4?s=100" width="100px;" alt="Jack M."/><br /><sub><b>Jack M.</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=exegeteio" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/notpeter"><img src="https://avatars.githubusercontent.com/u/145113?v=4?s=100" width="100px;" alt="Peter Tripp"/><br /><sub><b>Peter Tripp</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=notpeter" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://uilian.dev/"><img src="https://avatars.githubusercontent.com/u/236106?v=4?s=100" width="100px;" alt="Uilian Souza"/><br /><sub><b>Uilian Souza</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=uilian" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/oneoneonepig"><img src="https://avatars.githubusercontent.com/u/13197632?v=4?s=100" width="100px;" alt="oneoneonepig"/><br /><sub><b>oneoneonepig</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=oneoneonepig" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://www.lars-ellingsen.dev/"><img src="https://avatars.githubusercontent.com/u/7565593?v=4?s=100" width="100px;" alt="Lars Ellingsen"/><br /><sub><b>Lars Ellingsen</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=lellingsen" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
