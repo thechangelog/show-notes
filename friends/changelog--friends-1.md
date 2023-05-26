@@ -1,0 +1,3 @@
+- Monday: [Changelog News](https://changelog.com/news)
+- Wednesday: [Changelog Interviews](https://changelog.com/interviews)
+- Friday: [Changelog & Friends](https://changelog.com/friends)
