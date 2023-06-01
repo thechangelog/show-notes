@@ -8,5 +8,5 @@
 - 🎬 [Developing a Secrets Engine for HashiCorp Vault](https://www.youtube.com/watch?v=rn6PyZbagzY) - Rosemary Wang, August 2021
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-58--rosemary-and-rob.jpg" alt="Gerhard, Rosemary & Rob" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-58--rosemary-and-rob.jpg" alt="Gerhard, Rosemary & Rob" loading="lazy">
 </figure>

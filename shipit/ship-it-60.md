@@ -6,5 +6,5 @@
 - [1Password/vault-plugin-secrets-onepassword](https://github.com/1Password/vault-plugin-secrets-onepassword) 👍 thanks Owen Valentine
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-60--kaizen6.jpg" alt="Gerhard & Jerod" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-60--kaizen6.jpg" alt="Gerhard & Jerod" loading="lazy">
 </figure>

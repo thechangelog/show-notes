@@ -7,5 +7,5 @@
 - [GitHub Repo Sync](https://github.com/marketplace/actions/github-repo-sync)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-17--kathy-korevec.jpg" alt="Gerhard & Kathy" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-17--kathy-korevec.jpg" alt="Gerhard & Kathy" loading="lazy">
 </figure>

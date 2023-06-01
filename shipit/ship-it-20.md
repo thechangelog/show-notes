@@ -14,5 +14,5 @@
 - 🎬 [Live Debugging the Changelog's Production Kubernetes | Rawkode Live, September 2021](https://www.youtube.com/watch?v=7zmRhHd-ohk)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-20--kaizen2.jpg" alt="Gerhard, Jerod & Adam" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-20--kaizen2.jpg" alt="Gerhard, Jerod & Adam" loading="lazy">
 </figure>

@@ -18,5 +18,5 @@
 - [Jony Ive](https://en.wikipedia.org/wiki/Jony_Ive)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-22--steve-jobs.jpg" alt="Gerhard & Steve" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-22--steve-jobs.jpg" alt="Gerhard & Steve" loading="lazy">
 </figure>

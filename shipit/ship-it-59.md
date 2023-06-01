@@ -15,5 +15,5 @@
 - [Fly Machines: An API for Fast-booting VMs](https://fly.io/blog/fly-machines/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-59--ben-johnson.jpg" alt="Gerhard & Ben" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-59--ben-johnson.jpg" alt="Gerhard & Ben" loading="lazy">
 </figure>

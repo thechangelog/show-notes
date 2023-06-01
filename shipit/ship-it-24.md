@@ -8,10 +8,10 @@
 - 🎸 [Pink Floyd - Echoes (Remastered)](https://www.youtube.com/watch?v=KBca3xf-j3o)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-24--arnaud-porterie.jpg" alt="Gerhard & Arnaud" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-24--arnaud-porterie.jpg" alt="Gerhard & Arnaud" loading="lazy">
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-24--echoes-screenshot-2021-09-15.jpg" alt="Echoes HQ - September 2021" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-24--echoes-screenshot-2021-09-15.jpg" alt="Echoes HQ - September 2021" loading="lazy">
   <figcaption><span>EchoesHQ - September 2021 screenshot</span></figcaption>
 </figure>

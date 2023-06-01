@@ -8,5 +8,5 @@
 - [Twitter thread on re-reading sent emails](https://twitter.com/richburroughs/status/1487598803783806976)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-42--rich-burroughs.jpg" alt="Gerhard & Rich" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-42--rich-burroughs.jpg" alt="Gerhard & Rich" loading="lazy">
 </figure>

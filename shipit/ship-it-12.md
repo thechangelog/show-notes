@@ -7,5 +7,5 @@
 - [What Does the Future Hold for Observability? Kubecon EU 2019 Keynote](https://www.youtube.com/watch?v=MkSdvPdS1oA)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-12--tom-wilkie.jpg" alt="Gerhard & Tom" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-12--tom-wilkie.jpg" alt="Gerhard & Tom" loading="lazy">
 </figure>

@@ -5,5 +5,5 @@
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) is the continuous deployment system mentioned in our conversation
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-8--katie-gamanji.jpg" alt="Gerhard & Katie" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-8--katie-gamanji.jpg" alt="Gerhard & Katie" loading="lazy">
 </figure>

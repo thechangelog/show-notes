@@ -1,5 +1,5 @@
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--liz-rice.jpg" alt="Gerhard & Liz" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-26--liz-rice.jpg" alt="Gerhard & Liz" loading="lazy">
 </figure>
 
 ### Liz Rice, Cilium
@@ -12,7 +12,7 @@
 - [Cilium joins CNCF as an incubating project](https://www.cncf.io/blog/2021/10/13/cilium-joins-cncf-as-an-incubating-project/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--jared-dan.jpg" alt="Gerhard, Jared & Dan" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-26--jared-dan.jpg" alt="Gerhard, Jared & Dan" loading="lazy">
 </figure>
 
 ### Jared Watts & Dan Mangum, Crossplane
@@ -23,7 +23,7 @@
 - [Crossplane is now a CNCF Incubating project](https://blog.crossplane.io/crossplane-cncf-incubation/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--david-ansari.jpg" alt="Gerhard & David" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-26--david-ansari.jpg" alt="Gerhard & David" loading="lazy">
 </figure>
 
 ### David Ansari, first KubeCon talk
@@ -31,7 +31,7 @@
 - 🎬 [RabbitMQ on Kubernetes Deep Dive - David Ansari, VMware - KCNA 2021](https://www.youtube.com/watch?v=GxdyQSUEj5U)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-26--dan-lorenc.jpg" alt="Gerhard & Dan" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-26--dan-lorenc.jpg" alt="Gerhard & Dan" loading="lazy">
 </figure>
 
 ### Dan Lorenc, Chainguard

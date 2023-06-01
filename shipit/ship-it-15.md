@@ -6,5 +6,5 @@
 - 🎬 [Crossplane Community Day Keynote - Kelsey Hightower, May 2020](https://www.youtube.com/watch?v=UffM5Gr1m-0)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-15--dan-jared.jpg" alt="Gerhard, Dan & Jared" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-15--dan-jared.jpg" alt="Gerhard, Dan & Jared" loading="lazy">
 </figure>

@@ -5,5 +5,5 @@
 - 🎬 [Participatory Budgeting Financing in the 21st Century](https://www.youtube.com/watch?v=Kmbdjnu6KKg&t=445s)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-28--romano-roth.jpg" alt="Gerhard & Romano" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-28--romano-roth.jpg" alt="Gerhard & Romano" loading="lazy">
 </figure>

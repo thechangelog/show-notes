@@ -3,20 +3,20 @@
 - [Terraform Argo CD](https://gitlab.com/vlasman/terraform-argo-cd) - set up Argo CD in K8s & then maintain everything (including Argo CD) using Argo CD GitOps pull functionality
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-56--maikel-vlasman.jpg" alt="Gerhard & Maikel" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-56--maikel-vlasman.jpg" alt="Gerhard & Maikel" loading="lazy">
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/56/shipit-56--dev-environment-setup.png" alt="Maikel's thinking behind dev env setup" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/56/shipit-56--dev-environment-setup.png" alt="Maikel's thinking behind dev env setup" loading="lazy">
   <figcaption><span>Maikel's thinking behind dev env setup</span></figcaption> 
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/56/shipit-56--setup-bootstrap.png" alt="Maikel's infra setup bootstrap" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/56/shipit-56--setup-bootstrap.png" alt="Maikel's infra setup bootstrap" loading="lazy">
   <figcaption><span>Maikel's infra bootstrap</span></figcaption> 
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/56/shipit-56--setup-running.png" alt="Maikel's infra running setup" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/56/shipit-56--setup-running.png" alt="Maikel's infra running setup" loading="lazy">
   <figcaption><span>Maikel's infra running setup</span></figcaption> 
 </figure>

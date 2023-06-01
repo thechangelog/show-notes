@@ -7,5 +7,5 @@
 - 🎧 [Thinking Elixir #93 - Preventing Service Abuse with Michael Lubas](https://podcast.thinkingelixir.com/93)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-51--mark-ericksen.jpg" alt="Gerhard & Mark" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-51--mark-ericksen.jpg" alt="Gerhard & Mark" loading="lazy">
 </figure>

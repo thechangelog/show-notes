@@ -1,5 +1,5 @@
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-25--william-morgan.jpg" alt="Gerhard & William" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-25--william-morgan.jpg" alt="Gerhard & William" loading="lazy">
 </figure>
 
 ### William Morgan, Linkerd
@@ -11,7 +11,7 @@
 - [Linkerd Community Guide to KubeCon + CloudNativeCon NA 2021](https://buoyant.io/2021/09/21/linkerd-community-guide-kubecon-na-2021/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-25--frederic-branczyk.jpg" alt="Gerhard & Frederic" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-25--frederic-branczyk.jpg" alt="Gerhard & Frederic" loading="lazy">
 </figure>
 
 ### Frederic Branczyk, Parca
@@ -23,7 +23,7 @@
 - [On Building Company Culture](https://www.polarsignals.com/blog/posts/2021/10/26/on-building-company-culture/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-25--andrew-rynhard.jpg" alt="Gerhard & Andrew" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-25--andrew-rynhard.jpg" alt="Gerhard & Andrew" loading="lazy">
 </figure>
 
 ### Andrew Rynhard, Talos OS
@@ -34,7 +34,7 @@
 - 🎬 [Managing bare-metal Kubernetes with Sidero](https://www.twitch.tv/videos/1157891304)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-25--david-flanagan.jpg" alt="Gerhard & David" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-25--david-flanagan.jpg" alt="Gerhard & David" loading="lazy">
 </figure>
 
 ### David Flanagan, new beginnings

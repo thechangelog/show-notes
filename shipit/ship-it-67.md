@@ -7,5 +7,5 @@
 - ✨ [Twinkly](https://www.twinkly.com/products/flex-multicolor-2-meter/) - Liz's wall neon
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-67--liz-and-thomas.jpg" alt="Liz, Thomas & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-67--liz-and-thomas.jpg" alt="Liz, Thomas & Gerhard" loading="lazy">
 </figure>

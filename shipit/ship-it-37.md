@@ -14,5 +14,5 @@
 - Trustix: [Distributed trust and reproducibility tracking for binary caches](https://www.tweag.io/blog/2020-12-16-trustix-announcement/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-37--vincent-ambo.jpg" alt="Gerhard & Vincent" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-37--vincent-ambo.jpg" alt="Gerhard & Vincent" loading="lazy">
 </figure>

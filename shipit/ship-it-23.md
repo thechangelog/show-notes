@@ -6,5 +6,5 @@
 - 🎙[The Return of Docker/Dagger's Solomon Hykes | POPCAST #75](https://www.youtube.com/watch?v=oMAGtvVfcRk&t=13s)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-23--sam-solomon.jpg" alt="Gerhard, Sam & Solomon" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-23--sam-solomon.jpg" alt="Gerhard, Sam & Solomon" loading="lazy">
 </figure>

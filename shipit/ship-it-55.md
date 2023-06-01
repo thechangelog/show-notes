@@ -14,5 +14,5 @@
 - [Notion](https://www.notion.so/) - One workspace. Every team.
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-55--ben-ford.jpg" alt="Gerhard & Ben" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-55--ben-ford.jpg" alt="Gerhard & Ben" loading="lazy">
 </figure>

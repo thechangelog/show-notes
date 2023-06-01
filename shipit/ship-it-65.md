@@ -4,5 +4,5 @@
 - Top Gear Fan Wiki: [The Cool Wall](https://topgear.fandom.com/wiki/The_Cool_Wall)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-65--tammer-saleh.jpg" alt="Gerhard & Tammer" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-65--tammer-saleh.jpg" alt="Gerhard & Tammer" loading="lazy">
 </figure>

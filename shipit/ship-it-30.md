@@ -9,5 +9,5 @@
 - SPOILER: [shipit-christmas-gifts](https://github.com/thechangelog/changelog.com/labels/echoes%2Finitiative%3A%20ship-it-christmas-gifts)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-30--kaizen3.jpg" alt="Gerhard, Adam & Jerod" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-30--kaizen3.jpg" alt="Gerhard, Adam & Jerod" loading="lazy">
 </figure>

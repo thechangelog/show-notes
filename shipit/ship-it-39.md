@@ -4,5 +4,5 @@
 - [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html) - A modern branching strategy
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-39--robin-morero.jpg" alt="Gerhard, Gunnar & Tom" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-39--robin-morero.jpg" alt="Gerhard, Gunnar & Tom" loading="lazy">
 </figure>

@@ -5,5 +5,5 @@
 - [CLI utility to generate SPDX-compliant Bill of Materials manifests](https://github.com/kubernetes-sigs/bom)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-53--adolfo-garcia-veytia.jpg" alt="Gerhard & Puerco" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-53--adolfo-garcia-veytia.jpg" alt="Gerhard & Puerco" loading="lazy">
 </figure>

@@ -8,5 +8,5 @@
 - [Why more incidents is no bad thing](https://incident.io/blog/why-more-incidents-is-no-bad-thing) - Gerhard's favourite blog post
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-21--chris-stephen.jpg" alt="Gerhard, Chris & Stephen" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-21--chris-stephen.jpg" alt="Gerhard, Chris & Stephen" loading="lazy">
 </figure>

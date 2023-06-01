@@ -6,5 +6,5 @@
 **Follow-up** 📖[If You Want To Transform IT, Start With Finance](https://zwischenzugs.com/2021/07/12/if-you-want-to-transform-it-start-with-finance/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-6--ian-miell.jpg" alt="Gerhard & Ian" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-6--ian-miell.jpg" alt="Gerhard & Ian" loading="lazy">
 </figure>

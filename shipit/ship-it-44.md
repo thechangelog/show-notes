@@ -12,5 +12,5 @@
 **[@lawik](https://changelog.com/person/lawik) follow-up**: [Fundamentals & Deployment](https://underjord.io/fundamentals-and-deployment.html)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-44--kelsey-hightower.jpg" alt="Kelsey & Gerhard" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-44--kelsey-hightower.jpg" alt="Kelsey & Gerhard" loading="lazy">
 </figure>
