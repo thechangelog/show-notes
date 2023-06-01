@@ -5,6 +5,6 @@
 - [Revel Rail29 - The New Long Travel 29er From Revel Bikes](https://www.youtube.com/watch?v=_1Q6NbrpLao)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/founderstalk/adam-revel-rascal-2022.jpg" alt="Adam's Revel Rascal (2022)" loading="lazy">
+  <img src="https://cdn.changelog.com/founderstalk/adam-revel-rascal-2022.jpg" alt="Adam's Revel Rascal (2022)" loading="lazy">
   <figcaption><span>Adam's Revel Rascal (circa 2022)</span></figcaption>
 </figure>
