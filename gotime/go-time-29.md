@@ -1,4 +1,4 @@
-Mark's power went out at his home office so he did the show from his local Dunkin' Donuts. [Listen to the FULL raw uncut edition](https://changelog-assets.s3.amazonaws.com/gotime-29-uncut.mp3) of this show (NSFW).
+Mark's power went out at his home office so he did the show from his local Dunkin' Donuts. [Listen to the FULL raw uncut edition](https://cdn.changelog.com/gotime-29-uncut.mp3) of this show (NSFW).
 
 ---
 
@@ -17,4 +17,4 @@ Mark's power went out at his home office so he did the show from his local Dunki
 
 Mark Bates at Dunkin' Donuts
 
-![mark-bates-dunkin-donuts.jpg](https://changelog-assets.s3.amazonaws.com/mark-bates-dunkin-donuts.jpg)
+![mark-bates-dunkin-donuts.jpg](https://cdn.changelog.com/mark-bates-dunkin-donuts.jpg)

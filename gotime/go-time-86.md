@@ -1,4 +1,4 @@
-- [Here's the computer](https://changelog-assets.s3.amazonaws.com/gotime-86--marwan91-computer.png) Marwan talked about
+- [Here's the computer](https://cdn.changelog.com/gotime-86--marwan91-computer.png) Marwan talked about
 - Marwan attended [App Academy](https://www.appacademy.io/)
 - [gomods/athens](https://github.com/gomods/athens) on GitHub
 - [Athens download protocol](https://docs.gomods.io/intro/protocol/)
