@@ -17,4 +17,4 @@ You can always add more sprinkles!
 
 Below is the photo Dave mentioned when telling the story about the origins of the "Fort Awesome" name (listen at around 24:40).
 
-![fort-awesome.jpg](https://changelog-assets.s3.amazonaws.com/fort-awesome.jpg)
+![fort-awesome.jpg](https://cdn.changelog.com/fort-awesome.jpg)

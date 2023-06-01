@@ -29,4 +29,4 @@ Mike McQuaid and Nadia Eghbal work at GitHub in Open Source Programs — We talk
 
 - [dear-github/dear-github](https://github.com/dear-github/dear-github)
 
-![github-open-source-alley.jpg](https://changelog-assets.s3.amazonaws.com/github-open-source-alley.jpg)
+![github-open-source-alley.jpg](https://cdn.changelog.com/github-open-source-alley.jpg)

@@ -14,5 +14,5 @@ Gerhard's favourite CD videos, in order of preference:
 - [What’s Wrong With The State Of DevOps?](https://www.youtube.com/watch?v=vlD0bHQKX94)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-5--dave-farley.jpg" alt="Gerhard & Dave">
+  <img src="https://cdn.changelog.com/shipit/shipit-5--dave-farley.jpg" alt="Gerhard & Dave">
 </figure>
