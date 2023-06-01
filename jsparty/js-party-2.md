@@ -24,4 +24,4 @@ The topics covered in today's show:
 - Alex: [flow-typed](https://github.com/flowtype/flow-typed)
 - Rachel: [Data Sketches](http://www.datasketch.es/)
 
-[![december-nadieh.png](https://changelog-assets.s3.amazonaws.com/sketches-december-nadieh.png)](http://www.datasketch.es/december/code/nadieh/)
+[![december-nadieh.png](https://cdn.changelog.com/sketches-december-nadieh.png)](http://www.datasketch.es/december/code/nadieh/)
