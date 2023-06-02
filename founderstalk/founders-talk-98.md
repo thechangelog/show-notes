@@ -1,0 +1,8 @@
+- [How Docker 2.0 went from $11M to $135M in 2 years](https://sacra.com/research/docker-plg-pivot/)
+- [Docker Pricing](https://www.docker.com/pricing/)
+- [Docker Series B](https://www.docker.com/press-release/docker-series-b/)
+- [Docker Scout](https://docs.docker.com/scout/)
+- [We’re No Longer Sunsetting the Free Team Plan](https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/)
+- [Docker-Sponsored Open Source Program](https://www.docker.com/community/open-source/application/)
+- [OrbStack](https://orbstack.dev)
+- [Podman](https://podman-desktop.io/)
