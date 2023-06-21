@@ -1,0 +1,1 @@
+- [NYT Article: "Europeans Take a Major Step Toward Regulating A.I."](https://www.nytimes.com/2023/06/14/technology/europe-ai-regulation.html)
