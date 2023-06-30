@@ -7,5 +7,5 @@
 - [The Unison language](https://www.unison-lang.org/)
 - [Scrapscript](https://scrapscript.org/)
 - [The Mother of All Demos - Wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
-- [Opening Keynote: Greg Young - Stop Over-Engenering - YouTube](https://www.youtube.com/watch)
-- [The art of destroying software (Greg Young) - YouTube](https://www.youtube.com/watch)
+- [Opening Keynote: Greg Young - Stop Over-Engenering - YouTube](https://www.youtube.com/watch?v=GRr4xeMn1uU)
+- [The art of destroying software (Greg Young) - YouTube](https://www.youtube.com/watch?v=Ed94CfxgsCA)
