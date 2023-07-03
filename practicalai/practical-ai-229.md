@@ -3,6 +3,6 @@
 - [Tracking invader species](https://cantabria.maps.arcgis.com/apps/webappviewer/index.html?id=a7305e3e80394d769ff789bc6c4909c4)
 - [Tracking urban growth with AI](https://experience.arcgis.com/experience/ba08444d130a47d4835b6cf2ddd2049a)
 - [Spatial behavior in beaches using AI](https://storymaps.arcgis.com/stories/862bf11ce2034208b47ef43f32a7e84a)
-- [Inference with SAM (Meta’s Segment Anything Model) over urban areas](https://cantabria.maps.arcgis.com/home/webmap)/viewer.html?webmap=4af373c294e24394ae25e4acadab71cc 
+- [Inference with SAM (Meta’s Segment Anything Model) over urban areas](https://geocontenidos.maps.arcgis.com/apps/mapviewer/index.html?webmap=921f134ac43240df8317d8d26d0caff1)/viewer.html?webmap=4af373c294e24394ae25e4acadab71cc 
 - [SuperResolution on aerial or satellite imagery](https://cantabria.maps.arcgis.com/apps/webappviewer/index.html?id=f14ab31439644f118c3ca7ef8c2258c9)
 - More of the work of Gabriel and his team can be seen [here](https://mapas.cantabria.es) and also on his [LinkedIn profile](https://www.linkedin.com/in/gabriel-ortiz-gis-cantabria)
