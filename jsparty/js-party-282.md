@@ -1,7 +1,7 @@
 - [Darcy / vlt’s  blog post on this massive npm bug](https://blog.vlt.sh/blog/the-massive-hole-in-the-npm-ecosystem)
 - [Feross / Socket’s follow-up blog post in this issue](https://socket.dev/blog/manifest-confusion)
  - [Refactor Conf - Darcy & Feross will be speaking in July]( https://www.refactorconf.com/)
-- [Verdaccio (not to be mistaken with Versace) - an open source npm proxy registry](https://verdaccio.org/) 
+- [Verdaccio (not to be mistaken with Versace) - an open source npm registry proxy](https://verdaccio.org/) 
 - [Github layoffs for engineering team in India](https://techcrunch.com/2023/03/27/github-slashes-engineering-team-in-india/)
 - [Bug filled July 28th, 2022 related to binding.gyp](https://github.com/npm/cli/issues/5234) and [triaged on October 22nd, 2022](https://github.com/npm/cli/issues/5234#issuecomment-1285891430)
 - [Darcy’s original test POC from Nov 2nd, 2022](https://registry.npmjs.com/darcyclarke-testing-malformed)
