@@ -1,0 +1,3 @@
+- [sorbet.org](https://sorbet.org)
+- [Getting started with Sorbet](https://sorbet.org/docs/overview)
+- [Sorbet: Stripe’s type checker for Ruby](https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby)
