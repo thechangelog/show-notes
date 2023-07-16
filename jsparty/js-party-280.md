@@ -1,0 +1,7 @@
+- [Graphite](https://graphite.dev/)
+- [Reviewable](https://reviewable.io/)
+- [The way to fully automated releases in open source projects](https://kevinkreuzer.medium.com/the-way-to-fully-automated-releases-in-open-source-projects-44c015f38fd6)
+- [Feature Toggles (aka Feature Flags)](https://martinfowler.com/articles/feature-toggles.html)
+- [LaunchDarkly](https://launchdarkly.com/)
+- [Split.io](https://www.split.io/)
+- [Minimum Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example)

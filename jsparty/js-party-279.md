@@ -1,0 +1,6 @@
+- [Million.js](https://million.dev/)
+- [Million Discord](https://discord.gg/X9yFbcV2rF)
+- [Next.js](https://nextjs.org/)
+- [Rules of Blocks](https://million.dev/docs/rules)
+- [React](https://react.dev/)
+- [What is the virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react/)

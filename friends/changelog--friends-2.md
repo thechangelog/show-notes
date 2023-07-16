@@ -1,0 +1,8 @@
+- [Kaizen episodes](https://changelog.com/topic/kaizen)
+- [Gource](https://gource.io)
+- [Gerhard's Ansible blog post from 2014 (!)](https://changelog.com/posts/ansible-docker)
+- [changelog.com on GitHub](https://github.com/thechangelog/changelog.com)
+- [GitHub discussion changelog.com#452](https://github.com/thechangelog/changelog.com/discussions/452)
+- [Ken Kost's merged contribution](https://github.com/thechangelog/changelog.com/pull/462)
+- [Jerod wants a WiFi BaseStation XG](https://store.ui.com/us/en/collections/unifi-wifi-mega-capacity)
+- [Gerhard recommends Mikrotik](https://mikrotik.com/products/group/wireless-systems)

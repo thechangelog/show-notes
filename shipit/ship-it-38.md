@@ -6,5 +6,5 @@
 - 📄[Communication barriers in organizations and creating effective communication APIs](https://medium.com/better-practices/how-to-dissolve-communication-barriers-in-your-api-development-organization-3347179b4ecc)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-38--gunnar-tom.jpg" alt="Gerhard, Gunnar & Tom" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-38--gunnar-tom.jpg" alt="Gerhard, Gunnar & Tom" loading="lazy">
 </figure>

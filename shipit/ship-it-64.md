@@ -11,6 +11,6 @@
 - [Package repository size/freshness map](https://repology.org/repositories/graphs)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-64--alex-suraci.jpg" alt="Gerhard & Alex shipping bass v0.9.0" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-64--alex-suraci.jpg" alt="Gerhard & Alex shipping bass v0.9.0" loading="lazy">
   <figcaption><span>Gerhard & Alex shipping bass v0.9.0</span></figcaption> 
 </figure>

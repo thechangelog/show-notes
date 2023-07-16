@@ -10,5 +10,5 @@
 - Julia Evans: [How to spy on a Ruby program](https://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-57--frederic-branczyk.jpg" alt="Gerhard & Frederic" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-57--frederic-branczyk.jpg" alt="Gerhard & Frederic" loading="lazy">
 </figure>

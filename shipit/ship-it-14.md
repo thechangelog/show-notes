@@ -7,5 +7,5 @@
 - 🎬 [ChaosCarnival Day 1 Keynote - Adrian Cockcroft](https://www.youtube.com/watch?v=O2UzvvtHkL4)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-14--uma-karthik.jpg" alt="Gerhard, Uma & Karthik" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-14--uma-karthik.jpg" alt="Gerhard, Uma & Karthik" loading="lazy">
 </figure>

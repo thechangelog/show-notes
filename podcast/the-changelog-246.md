@@ -20,4 +20,4 @@ with James Long](https://changelog.com/podcast/242)
 
 Adam Stacoviak in Bosnia and Herzegovina on a peacekeeping mission with the United States Army in 2000.
 
-![adam-in-bosnia-herzegovina-2000.jpg](https://changelog-assets.s3.amazonaws.com/adam-in-bosnia-herzegovina-2000.jpg)
+![adam-in-bosnia-herzegovina-2000.jpg](https://cdn.changelog.com/adam-in-bosnia-herzegovina-2000.jpg)

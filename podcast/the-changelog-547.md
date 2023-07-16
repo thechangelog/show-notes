@@ -1,0 +1,4 @@
+- [Efficient Linux at the Command Line](https://danieljbarrett.com/books/efficient-linux-at-the-command-line/)
+- [Daniel's books](https://danieljbarrett.com/books/)
+- [Dan on O'Reilly](https://www.oreilly.com/pub/au/426)
+- [Cold Ice Cream & Hot Kisses](https://hollywoodpictures.shop/products/silicon-valley-gavin-belsons-signed-novel-cold-ice-cream-hot-kisses)

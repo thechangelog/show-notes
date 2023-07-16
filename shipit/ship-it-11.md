@@ -9,5 +9,5 @@
 - [hnycon 2021 keynote](https://www.youtube.com/watch?v=EJai7CbV9mY&list=PLlmOKTb2JQLM-mfuucJ2VXY2_SDp9pe6E)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-11--charity-majors.jpg" alt="Gerhard & Charity" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-11--charity-majors.jpg" alt="Gerhard & Charity" loading="lazy">
 </figure>

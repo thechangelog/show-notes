@@ -11,5 +11,5 @@
 - [Ansible OpenTelemetry Plugin](https://docs.ansible.com/ansible/latest/collections/community/general/opentelemetry_callback.html)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-27--cyrille-oleg.jpg" alt="Gerhard, Cyrille & Oleg" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-27--cyrille-oleg.jpg" alt="Gerhard, Cyrille & Oleg" loading="lazy">
 </figure>

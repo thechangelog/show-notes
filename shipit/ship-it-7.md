@@ -8,5 +8,5 @@
 - [BEAM Radio](https://www.beamrad.io/) - Stories and conversations around Elixir, Erlang and the BEAM ecosystem
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-7--lars-wikman-alt.jpg" alt="Gerhard & Lars" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-7--lars-wikman-alt.jpg" alt="Gerhard & Lars" loading="lazy">
 </figure>

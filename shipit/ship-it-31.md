@@ -5,5 +5,5 @@
 - [UNIX Programming by Example: `runit`](http://tammersaleh.com/posts/unix-programming-by-example-runit/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-31--tammer-saleh.jpg" alt="Gerhard & Tammer" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-31--tammer-saleh.jpg" alt="Gerhard & Tammer" loading="lazy">
 </figure>

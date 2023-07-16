@@ -14,4 +14,4 @@
 
 Go source code looks particularly good when displayed in [Go fonts](https://blog.golang.org/go-fonts).
 
-![go-font.png](https://changelog-assets.s3.amazonaws.com/go-font.png)
+![go-font.png](https://cdn.changelog.com/go-font.png)

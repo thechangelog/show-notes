@@ -8,5 +8,5 @@
 - 🎙 [Founders Talk #86 - Bringing observability superpowers to all](https://changelog.com/founderstalk/86) - we have a lot in common with Honeycomb
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-40--kaizen4.jpg" alt="Gerhard, Jerod & Adam" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-40--kaizen4.jpg" alt="Gerhard, Jerod & Adam" loading="lazy">
 </figure>

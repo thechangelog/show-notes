@@ -4,5 +4,5 @@
 - [Knative OSS Diaries - week #29](https://salaboy.com/2022/02/19/knative-oss-diaries-week-29/)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-41--mauricio-salatino.jpg" alt="Gerhard & Mauricio" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-41--mauricio-salatino.jpg" alt="Gerhard & Mauricio" loading="lazy">
 </figure>

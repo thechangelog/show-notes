@@ -1,0 +1,3 @@
+- [wait-for-it - bash script version](https://github.com/vishnubob/wait-for-it)
+- [wait-for-it - go implementation](https://github.com/roerohan/wait-for-it)
+- [Sam’s blog on experience using wait-for-it go implementation](https://medium.com/@samcoyle/some-things-in-life-are-worth-waiting-for-even-other-services-cbcfca75a9b5)

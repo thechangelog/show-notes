@@ -5,5 +5,5 @@
 - 🎧 Build your SaaS E135: [What's it really like to work at Transistor?](https://saas.transistor.fm/episodes/team-call)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-61--jon-and-jason.jpg" alt="Gerhard, Jason & Jon" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-61--jon-and-jason.jpg" alt="Gerhard, Jason & Jon" loading="lazy">
 </figure>

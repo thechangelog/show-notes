@@ -8,10 +8,10 @@
     - [Target system principles](https://erlang.org/doc/system_principles/create_target.html)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-9--rabbitmq-3-8-pipeline-2020.png" alt="RabbitMQ v3.8 CI/CD pipeline in 2020">
+  <img src="https://cdn.changelog.com/shipit/shipit-9--rabbitmq-3-8-pipeline-2020.png" alt="RabbitMQ v3.8 CI/CD pipeline in 2020">
   <figcaption><span>RabbitMQ v3.8 CI/CD pipeline in 2020 - each square is either a test suite, build or publish step</span></figcaption> 
 </figure>
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-9--jean-sebastien.jpg" alt="Gerhard & Jean-Sébastien" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-9--jean-sebastien.jpg" alt="Gerhard & Jean-Sébastien" loading="lazy">
 </figure>

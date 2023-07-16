@@ -1,0 +1,7 @@
+- [DJ by Spotify](https://support.spotify.com/us/article/dj/)
+- [Stenography](https://stenography.dev)
+- [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback )
+- [Phind](https://www.phind.com/)
+- [Karpathy building a kind of Jarvis](https://twitter.com/karpathy)
+- [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+- [microsoft/guidance](https://github.com/microsoft/guidance)

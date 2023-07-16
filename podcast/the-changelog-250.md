@@ -7,4 +7,4 @@
 - [Kubernetes on Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
 - [kubernetes/minikube](https://github.com/kubernetes/minikube)
 
-![Kubernetes.png](https://changelog-assets.s3.amazonaws.com/kubernetes.png)
+![Kubernetes.png](https://cdn.changelog.com/kubernetes.png)

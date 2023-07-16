@@ -7,5 +7,5 @@
 - [github.com/edeliver/edeliver](https://github.com/edeliver/edeliver)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-43--cameron-dutro.jpg" alt="Gerhard & Cameron" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-43--cameron-dutro.jpg" alt="Gerhard & Cameron" loading="lazy">
 </figure>

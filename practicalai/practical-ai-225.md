@@ -1,0 +1,3 @@
+- [Prediction Guard](https://www.predictionguard.com/)
+- [Prediction Guard docs](https://docs.predictionguard.com/)
+- [LLMs in Production II event](https://home.mlops.community/public/events/llm-in-prod-part-ii-2023-06-20)

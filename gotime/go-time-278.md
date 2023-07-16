@@ -1,0 +1,3 @@
+- [Ben's post about package layout](https://www.gobeyond.dev/standard-package-layout/)
+- [Russ Cox saying this is NOT standard](https://github.com/golang-standards/project-layout/issues/117)
+- [Chris' unpopular opinion](https://twitter.com/quii/status/1608401387552923648)

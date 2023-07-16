@@ -1,0 +1,6 @@
+- [Stable Diffusion XL 0.9](https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9)
+- [OpenChat](https://huggingface.co/openchat/openchat)
+- [Zeroscope XL](https://huggingface.co/cerspense/zeroscope_v2_XL)
+- [Salesforce XGen](https://huggingface.co/Salesforce/xgen-7b-8k-base)
+- [AI is Eating The World](https://txt.cohere.com/ai-is-eating-the-world)
+- [LLM university](https://docs.cohere.com/docs/llmu)

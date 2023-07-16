@@ -5,5 +5,5 @@
 - From Docker to Docker Swarm: [The new changelog.com setup for 2019](https://changelog.com/posts/the-new-changelog-setup-for-2019)
 
 <figure class="richtext-figure richtext-figure--full">
-  <img src="https://changelog-assets.s3.amazonaws.com/shipit/shipit-47--andrea-luzzardi.jpg" alt="Gerhard & Andrea" loading="lazy">
+  <img src="https://cdn.changelog.com/shipit/shipit-47--andrea-luzzardi.jpg" alt="Gerhard & Andrea" loading="lazy">
 </figure>

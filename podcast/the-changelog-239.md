@@ -16,6 +16,6 @@ JS Party goes live February 24 at Noon PT / 3pm ET.
 - [Shamir's Secret Sharing](https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing)
 - [HashiConf](https://www.hashiconf.com/)
 
-![vault-architecture](https://changelog-assets.s3.amazonaws.com/vault-architecture.jpg)
+![vault-architecture](https://cdn.changelog.com/vault-architecture.jpg)
 
-![vault-shamir](https://changelog-assets.s3.amazonaws.com/vault-shamir.jpg)
+![vault-shamir](https://cdn.changelog.com/vault-shamir.jpg)

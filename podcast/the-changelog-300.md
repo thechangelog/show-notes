@@ -1,4 +1,4 @@
-- [PDF copy of Zed's Twitter thread](https://changelog-assets.s3.amazonaws.com/zed-shaw-twitter-thread.pdf) (because he's testing his Twitter account as being private)
+- [PDF copy of Zed's Twitter thread](https://cdn.changelog.com/zed-shaw-twitter-thread.pdf) (because he's testing his Twitter account as being private)
 - [The original Twitter thread](https://twitter.com/zedshaw/status/981343864274538498)
 - [The Changelog #34: Mongrel2 and High Performance Web Sites with Zed Shaw](https://changelog.com/podcast/34)
 - [Learn Code the Hard Way](https://learncodethehardway.org/)

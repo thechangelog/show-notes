@@ -3,4 +3,4 @@
 - [Microsoft has turned a spotlight onto one of its coolest execs, Office GM Julia White](http://www.businessinsider.com/microsoft-julia-white-profile-2014-7)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/)
 
-![julia-white.jpg](https://changelog-assets.s3.amazonaws.com/changelog-298-julia-white.jpg)
+![julia-white.jpg](https://cdn.changelog.com/changelog-298-julia-white.jpg)
