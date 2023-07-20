@@ -5,3 +5,4 @@
 - [Mastodon Roadmap](https://joinmastodon.org/roadmap)
 - [The Changelog #257 with Evan Prodromou](https://changelog.com/podcast/257)
 - [Medium embraces Mastodon](https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11)
+- [Cosocial](https://cosocial.info/)
