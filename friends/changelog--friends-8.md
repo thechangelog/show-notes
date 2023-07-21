@@ -1,0 +1,4 @@
+- [Crate tui](https://docs.rs/tui/latest/tui/)
+- [On the Metal with Jeff Rothschild](https://oxide.computer/podcasts/on-the-metal/jeff-rothschild)
+- [Oxide specs](https://oxide.computer/product/specifications)
+- [The Changelog #496: Oxide builds servers (as they should be)](https://changelog.fm/496)
