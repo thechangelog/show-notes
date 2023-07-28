@@ -1,0 +1,4 @@
+- [dagger.io](https://dagger.io)
+- [docs.dagger.io](https://docs.dagger.io)
+- [Changelog & Friends #6: Even the best rides come to an end](https://changelog.com/friends/6)
+- [Ship It! #48: Launching Dagger](https://changelog.com/shipit/48)
