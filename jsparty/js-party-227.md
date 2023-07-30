@@ -3,6 +3,7 @@
 - [pino](https://github.com/pinojs/pino)
 - [grafana](https://grafana.com)
 - [DataDog RUM](https://www.datadoghq.com/product/real-user-monitoring/)
+- [Middleware RUM](https://middleware.io/product/real-user-monitoring/)
 - [React Suspense: Async Rendering in React](https://blog.logrocket.com/async-rendering-react-suspense/)
 - [Matomo](https://matomo.org)
 - [Abort Signal](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal)
