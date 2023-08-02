@@ -3,6 +3,6 @@
 - [Roger’s talk on unconstrained generics](https://www.gophercon.co.uk/videos/2022/generics%20unconstrained!/ )
 - [Roger’s proposal on type assertions](https://github.com/golang/go/issues/45380)
 - [Roger’s generics mini testing framework](https://pkg.go.dev/github.com/go-quicktest/qt)
-- [Mat’s mini testing framework](https://githuib.com/matryer/is)
+- [Mat’s mini testing framework](https://github.com/matryer/is)
 - [Dishwasher video](https://www.youtube.com/watch?v=_rBO8neWw04)
 - [Dishwasher video v2](https://www.youtube.com/watch?v=Ll6-eGDpimU)
