@@ -145,6 +145,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/oneoneonepig"><img src="https://avatars.githubusercontent.com/u/13197632?v=4?s=100" width="100px;" alt="oneoneonepig"/><br /><sub><b>oneoneonepig</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=oneoneonepig" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://www.lars-ellingsen.dev/"><img src="https://avatars.githubusercontent.com/u/7565593?v=4?s=100" width="100px;" alt="Lars Ellingsen"/><br /><sub><b>Lars Ellingsen</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=lellingsen" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="http://getdx.com"><img src="https://avatars.githubusercontent.com/u/50083?v=4?s=100" width="100px;" alt="Abi Noda"/><br /><sub><b>Abi Noda</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=abinoda" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

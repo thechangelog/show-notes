@@ -837,6 +837,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "abinoda",
+      "name": "Abi Noda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50083?v=4",
+      "profile": "http://getdx.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
