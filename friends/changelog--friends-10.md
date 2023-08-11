@@ -1,0 +1,7 @@
+- [All Kaizen episodes](https://changelog.com/topic/kaizen)
+- [Kaizen 11 Discussion on GitHub](https://github.com/thechangelog/changelog.com/discussions/469)
+- [Oban Pro](https://oban.dev)
+- [Apps V2](https://fly.io/docs/reference/apps/#apps-v2)
+- [Changelog Nightly](https://changelog.com/nightly)
+- [status.changelog.com](https://status.changelog.com)
+- [Changelog Community Slack](https://changelog.com/community)
