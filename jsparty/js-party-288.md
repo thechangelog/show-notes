@@ -1,0 +1,5 @@
+- [Language-Level Toll Roads](https://blog.jim-nielsen.com/2023/language-level-toll-roads/)
+- [The Art of Knowing When to Quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
+- [Metalsmith](https://metalsmith.io)
+- [Gorilla is back](https://gorilla.github.io/blog/2023-07-17-project-status-update/)
+- [Subscribe Wherever You Get Your Content](https://blog.jim-nielsen.com/2023/subscribe-wherever-you-get-your-content/)
