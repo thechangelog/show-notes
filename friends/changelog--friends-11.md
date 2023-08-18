@@ -1,0 +1,4 @@
+- [Justin's post](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer)
+- [Justin's monthly newsletter](https://justin.searls.co/newsletter/)
+- [Justin's Ruby Kaigi coverage](https://blog.testdouble.com/field-reports/ruby-kaigi/)
+- [Justin's previous Changelog appearances](https://changelog.com/person/searls/podcasts)
