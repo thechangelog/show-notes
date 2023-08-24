@@ -1,0 +1,5 @@
+- [Sponsor Andreas's work on GitHub Sponsors](https://github.com/sponsors/awesomekling)
+- [Andreas Kling on YouTube](https://www.youtube.com/@awesomekling)
+- [serenityOS](https://serenityos.org)
+- [Ladybird](https://ladybird.dev)
+- [The Jakt programming language](https://github.com/SerenityOS/jakt)
