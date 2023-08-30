@@ -1,0 +1,4 @@
+- [Changelog Interviews #487: Warp wants to be the terminal of the future](https://changelog.com/podcast/487)
+- [Warp.dev](https://www.warp.dev)
+- [Warp.dev/pricing](https://www.warp.dev/pricing)
+- [nvbn/thefuck](https://github.com/nvbn/thefuck)
