@@ -1,0 +1,2 @@
+- ["Waterfall" doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
+- [Kris's Go Time take on the tech debt analogy](https://changelog.com/gotime/286#transcript-263)
