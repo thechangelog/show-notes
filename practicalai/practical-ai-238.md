@@ -1,0 +1,3 @@
+- [MLOps Community](https://mlops.community/)
+- [LLM survey report](https://mlops.community/surveys/llm/)
+- [LLMs in Production Event - Part III](https://home.mlops.community/public/events/llms-in-production-part-iii-2023-10-03)
