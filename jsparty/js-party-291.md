@@ -1,0 +1,3 @@
+- [Astro 3.0](https://astro.build/blog/astro-3/)
+- [Vercel official hosting provider of Astro](https://astro.build/blog/vercel-official-hosting-partner/)
+- [Python in Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
