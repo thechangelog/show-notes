@@ -1,0 +1,7 @@
+- [Exadelic on Amazon](https://www.amazon.com/Exadelic-Jon-Evans/dp/1250877733)
+- [Inside GitHub's Arctic Code Vault](https://changelog.com/podcast/411)
+- [A Study: Ancient Egyptians used sound waves in building pyramids](https://egyptfwd.org/Article/6/455/A-Study-Ancient-Egyptians-used-sound-waves-in-building-pyramids)
+- [Extropia's Children Redux - by Jon Evans](https://aiascendant.substack.com/p/extropias-children)
+- [The Only Way to Deal With the Threat From AI? Shut It Down | Time](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/)
+- [Nick Jones](https://nickjonesauthor.com/books/)
+- [Dennis E. Taylor](http://dennisetaylor.org)
