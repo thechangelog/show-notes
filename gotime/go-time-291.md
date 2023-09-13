@@ -1,0 +1,2 @@
+- [templ.guid](https://templ.guide)
+- [htmx](https://htmx.org)
