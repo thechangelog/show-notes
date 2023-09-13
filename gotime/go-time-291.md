@@ -1,2 +1,3 @@
-- [templ.guid](https://templ.guide)
+- [templ.guide](https://templ.guide)
 - [htmx](https://htmx.org)
+- [plush](https://github.com/gobuffalo/plush)
