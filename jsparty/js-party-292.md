@@ -5,6 +5,7 @@
 - [JSDoc docs](https://jsdoc.app/)
 - [Official TS docs highlighting support for JS Doc type annotations](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html)
 - [ECMA proposal for Type Annotations](https://tc39.es/proposal-type-annotations/)
+- [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
 
 #### Alternate Episode Titles
 
