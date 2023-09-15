@@ -17,6 +17,7 @@
 - Web Dev D Day
 - Going off (Type)Script
 - Losing the (Type)Script
+- While typing(scripting) it
 - Not my type
 - Can't type this
 - You fought in the Type Wars?
