@@ -1,0 +1,3 @@
+- [Why Open Source Matters](https://redmonk.com/sogrady/2023/08/03/why-opensource-matters/)
+- [You can FINALLY use JSHint for evil with Mike Pennisi](https://changelog.com/podcast/424)
+- [Introducing Infrastructure Manager powered by Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
