@@ -1,3 +1,4 @@
+- [DX](https://getdx.com)
 - [GitHub acquires Pull Panda](https://github.blog/2019-06-17-github-acquires-pull-panda/)
 - [DevOps Research and Assessment](https://dora.dev/)
 - [A Better Way to Measure Developer Productivity](https://getdx.com/news/measuring-developer-productivity)
