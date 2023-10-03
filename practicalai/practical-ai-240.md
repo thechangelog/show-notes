@@ -1,0 +1,8 @@
+- [BigDL](https://github.com/intel-analytics/BigDL)
+- [Article: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+- [Previous episode: Running large models on CPUs](https://changelog.com/practicalai/221)
+- [Baseten's Truss](https://truss.baseten.co/welcome)
+- [Seldon](https://www.seldon.io/)
+- [Hugging Face's TGI](https://github.com/huggingface/text-generation-inference)
+- [Intel Gaudi 2](https://habana.ai/products/gaudi2/)
+- [Intel TDX](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-trust-domain-extensions.html)
