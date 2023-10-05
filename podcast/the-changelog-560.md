@@ -1,0 +1,2 @@
+- [Announcing Tauri 1.5](https://beta.tauri.app/blog/tauri-1-5/)
+- [CrabNebula](https://crabnebula.dev)
