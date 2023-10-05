@@ -1,0 +1,4 @@
+- [Bun — A fast all-in-one JavaScript runtime](https://bun.sh/)
+- [Why Bun is going to "be the biggest problem" for Deno](https://www.youtube.com/watch?v=c14gUr7E_7I)
+- [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
+- [Bun Careers](https://bun.sh/careers)
