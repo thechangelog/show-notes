@@ -1,0 +1,5 @@
+- [Netflix Mails Its Final DVD to Customers, Marking the End of an Era - IGN](https://www.ign.com/articles/netflix-mails-its-final-dvd-to-customers-marking-the-end-of-an-era)
+- [Netflix Prepares to Send Its Final Red Envelope - The New York Times](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
+- [Netflix’s Qwikster Debacle | MIT Technology Review](https://www.technologyreview.com/2011/10/11/117521/netflixs-qwikster-debacle/)
+- [The Ultimate Movie Platform - Kaleidescape](https://www.kaleidescape.com/)
+- [Matt Damon on Hot Ones](https://www.youtube.com/watch?v=yaXma6K9mzo)
