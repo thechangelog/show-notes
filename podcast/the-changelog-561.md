@@ -1,0 +1,4 @@
+- [asciinema.org](https://asciinema.org)
+- [Sponsor Marcin on GitHub Sponsors](https://github.com/sponsors/ku1ik)
+- [agg - asciinema gif generator](https://github.com/asciinema/agg)
+- [Star Wars: Episode IV](https://asciinema.org/a/569727)
