@@ -1,0 +1,3 @@
+- [Friends: What do we want from a web browser?](https://changelog.com/friends/14)
+- [Welcome to Effect](https://effect.website)
+- [Effect Days 2024](https://effect.website/events/effect-days)
