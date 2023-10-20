@@ -1,0 +1,3 @@
+- [Subscribe to Human Skills](https://www.humanskills.co/)
+- [Listen to Brain Science](https://changelog.com/brainscience)
+- [Jocko Willink "GOOD" (Official)](https://www.youtube.com/watch?v=IdTMDpizis8)
