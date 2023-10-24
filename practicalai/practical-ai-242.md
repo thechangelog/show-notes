@@ -1,0 +1,1 @@
+[burn-rs](https://github.com/burn-rs/burn): This library strives to serve as a comprehensive deep learning framework, offering exceptional flexibility and written in Rust. 
