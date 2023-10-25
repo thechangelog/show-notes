@@ -1,0 +1,2 @@
+- [7 Deadly Gopher Sins](https://github.com/necrophonic/talks/tree/main/7-gopher-sins)
+- [Eliza: a chatbot therapist](https://web.njit.edu/~ronkowit/eliza.html)
