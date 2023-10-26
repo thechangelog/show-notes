@@ -1,0 +1,7 @@
+- [React Jam](https://reactjam.com)
+- [React Jam Summer 2023 winners](https://summer-2023.reactjam.com/winners)
+- [Chop Chop game](https://app.rune.ai/dev-CAiKKUpg)
+- [The Rune platform](https://rune.ai)
+- [Inspiration: Pipe Dream game](https://classicreload.com/win3x-pipe-dream-1991.html_
+- [The Phaser game framework](https://phaser.io)
+- [Their Brave MMO game](https://brave-game.com/)
