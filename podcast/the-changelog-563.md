@@ -1,0 +1,4 @@
+- [OpenTofu](https://opentofu.org)
+- [Dagger](https://dagger.io)
+- [System Initiative](https://www.systeminit.com)
+- [Jordan Harband on GitHub Sponsors](https://github.com/sponsors/ljharb)
