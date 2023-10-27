@@ -1,0 +1,6 @@
+- [NextDNS - The new firewall for the modern Internet](https://nextdns.io/)
+- [pfSense® - World's Most Trusted Open Source Firewall](https://www.pfsense.org/)
+- [Gertrude | Mac Internet Filter, Parental Controls and Activity Monitoring](https://gertrude.app/)
+- [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
+- [Vapor](https://vapor.codes/)
+- [hummingbird: Lightweight, flexible HTTP server framework written in Swift](https://github.com/hummingbird-project/hummingbird)
