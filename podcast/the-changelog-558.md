@@ -1,3 +1,7 @@
 - [Why Open Source Matters](https://redmonk.com/sogrady/2023/08/03/why-opensource-matters/)
 - [You can FINALLY use JSHint for evil with Mike Pennisi](https://changelog.com/podcast/424)
-- [Introducing Infrastructure Manager powered by Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
+- [Introducing Infrastructure Manager powered by Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/) - _cloud.coogle.com_
+- [Luis Villa](https://en.wikipedia.org/wiki/Luis_Villa)'s [Open(ish) Machine Learning News](https://www.openml.fyi) newsletter
+- [Open Source Initiative](https://opensource.org/) - [donate](https://members.opensource.org/donate)
+  - [Deep Dive: AI Webinar Series](https://opensource.org/events/deep-dive-ai-webinar-series-2023/)
+  - Stefano Maffulli, [Executive Director](https://opensource.org/volunteersandstaff) of OSI since 2021
