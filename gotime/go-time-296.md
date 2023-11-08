@@ -1,0 +1,4 @@
+- [Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
+- [The Infinite Game - Simon Sinek](https://simonsinek.com/books/the-infinite-game/)
+- ["Simple Made Easy" - Rich Hickey (2011)](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- [“You can’t get snakes from chicken eggs”](https://www.youtube.com/watch?v=dF98ii6r_gU&t=190s )
