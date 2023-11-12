@@ -1,0 +1,8 @@
+- S100 Pbzzbaf Ebnq, Fhvg 7-701, Qevccvat Fcevatf, GK 78620
+- [ILOVEYOU - Wikipedia](https://en.wikipedia.org/wiki/ILOVEYOU)
+- [Samy (computer worm) - Wikipedia](https://en.m.wikipedia.org/wiki/Samy_(computer_worm))
+- [MySpace Worm Explanation](https://web.archive.org/web/20160305044015/http://samy.pl/popular/tech.html)
+- [The Net (1995) - IMDb](https://www.imdb.com/title/tt0113957/)
+- [Renfield (2023) - IMDb](https://www.imdb.com/title/tt11358390/)
+- [The Rock (1996) - IMDb](https://www.imdb.com/title/tt0117500/)
+- [Adaptation. (2002) - IMDb](https://www.imdb.com/title/tt0268126/)
