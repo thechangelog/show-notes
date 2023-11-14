@@ -1,0 +1,2 @@
+- [Blog post announcing this season of IRL about putting people first in AI](https://foundation.mozilla.org/en/blog/season-7-of-mozillas-podcast-irl-interrogates-the-risks-and-rewards-of-ai/)
+- [The IRL podcast](https://irlpodcast.org/)
