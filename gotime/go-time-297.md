@@ -1,0 +1,13 @@
+- [Temporal](https://temporal.io/)
+- [Patterns](https://microservices.io/patterns/data/transactional-outbox.html)
+- [Choreography vs orchestration](https://microservices.io/patterns/data/saga.html)
+- [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [CQRS](https://microservices.io/patterns/data/cqrs.html)
+- Cloud-based workflow solutions
+  - [GCP Workflows](https://cloud.google.com/workflows)
+    - [GCP workflows yaml language](https://cloud.google.com/workflows/docs/reference/syntax/syntax-cheat-sheet )
+  - [AWS Step Functions](https://aws.amazon.com/step-functions/)
+    - [“Amazon states language” based on json](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
+- Go specific microservices orchestration tools, frameworks, and libraries:
+  - [Temporal Go SDK](https://github.com/temporalio/sdk-go)
+  - [Watermill](https://github.com/ThreeDotsLabs/watermill )
