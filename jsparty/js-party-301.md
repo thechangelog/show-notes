@@ -1,0 +1,2 @@
+- [Changelog Merch](https://merch.changelog.com) (re-stocked)
+- [Not A Designer](https://notadesigner.io)
