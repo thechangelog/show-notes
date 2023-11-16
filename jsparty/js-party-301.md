@@ -1,3 +1,3 @@
 - [Changelog Merch](https://merch.changelog.com) (re-stocked)
 - [Not A Designer](https://notadesigner.io)
-- [Baz Luhrmann - Everybody's Free To Wear Sunscreen (aka Amal's "favorite song)](https://youtu.be/sTJ7AzBIJoI?si=PVkkTZKCFci77YoJ)
+- [Baz Luhrmann - Everybody's Free To Wear Sunscreen (aka Amal's "favorite song")](https://youtu.be/sTJ7AzBIJoI?si=PVkkTZKCFci77YoJ)
