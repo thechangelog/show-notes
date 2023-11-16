@@ -2,6 +2,7 @@
 - [Not A Designer](https://notadesigner.io)
 - [Code Newbie](https://www.codenewbie.org/)
 - [Code Newbie Podcast](https://www.codenewbie.org/podcast)
+- [Base CS Podcast (via Code Newbie)](https://www.codenewbie.org/basecs)
 - [CodeLand Conf](https://codelandconf.com/)
 - [Forem (now parent company of Dev.to)](https://www.forem.com/)
 - [Baz Luhrmann - Everybody's Free To Wear Sunscreen (aka Amal's "favorite song")](https://youtu.be/sTJ7AzBIJoI?si=PVkkTZKCFci77YoJ)
