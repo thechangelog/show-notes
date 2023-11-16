@@ -1,0 +1,8 @@
+- [Swift is available for macOS, Windows, and Linux](https://www.swift.org/install/)
+- [The Browser Company (who are bringing their Arc browser, written in Swift, to Windows) recently open sourced their bindings for WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
+- [The Swift on Server Working Group](https://www.swift.org/sswg/)
+- [Swift extension for VS Code (if Xcode isn’t your thing)](https://www.swift.org/blog/vscode-extension/)
+- [NSA recently published a report urging people to move off of C and C++:](https://media.defense.gov/2022/Nov/10/2003112742/-1/-1/0/CSI_SOFTWARE_MEMORY_SAFETY.PDF)
+- [John McCall (who chairs the Language Steering Group) at CppNow recently](https://www.youtube.com/watch?v=lgivCGdmFrw)
+- [The goals for Swift 6](https://forums.swift.org/t/progress-toward-the-swift-6-language-mode/68315)
+- [Miguel de Icaza proposing using Swift in the Godot game engine](https://media.ccc.de/v/godotcon2023-57866-swift-godot-fixing-the-multi-million-dollar-mistake#t=3279)
