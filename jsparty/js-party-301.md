@@ -8,4 +8,5 @@
 - [Forem (now parent company of Dev.to)](https://www.forem.com/)
 - [Beehiiv - the newsletter platform built for growth](https://www.beehiiv.com/)
 - [Substack - a new economic growth for culture](https://substack.com/)
+- [ConvertKit - the creator marketing platform](https://convertkit.com/)
 - [Baz Luhrmann - Everybody's Free To Wear Sunscreen (aka Amal's "favorite song")](https://youtu.be/sTJ7AzBIJoI?si=PVkkTZKCFci77YoJ)
