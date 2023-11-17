@@ -1,0 +1,6 @@
+- [Lineman.js and JavaScript apps with Justin Searls (Changelog Interviews #128)](https://changelog.com/podcast/128)
+- [Must have 10 years experience with Lineman.js: Why the right tools fail for the wrong reasons](https://blog.testdouble.com/posts/2023-10-16-must-have-10-years-experience-with-lineman-js/)
+- [Justin's favorite newsletter](https://changelog.com/news)
+- [Changelog Nightly source code](https://github.com/thechangelog/nightly)
+- [indieweb.org/POSSE](https://indieweb.org/POSSE)
+- [POSSE on justin.searls.co](https://justin.searls.co)
