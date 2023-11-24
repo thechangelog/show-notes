@@ -9,3 +9,4 @@
 - [Making web art the hard way with Alex Miller aka SPACEFILLER (JS Party #275)](https://jsparty.fm/275)
 - [Reports of Node's death are greatly exaggerated with Matteo Collina & James Snell (JS Party #294)](https://jsparty.fm/294)
 - [We ask a lawyer about GitHub Copilot with Luis Villa from Tidelift (JS Party #188)](https://jsparty.fm/188)
+- [p5.js - a JavaScript library for creative coding](https://p5js.org/)
