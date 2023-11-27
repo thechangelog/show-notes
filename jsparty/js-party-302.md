@@ -1,5 +1,5 @@
 - [What’s new in CSS UI 2023 (the blog post we referenced on the show)](https://developer.chrome.com/blog/whats-new-css-ui-2023/)
-- [CSS Podcast - USA and Adam’s AMAZZZZZZING Podcast - 🙌🏾❤️ Like and Subscribe ❤️🙌🏾](https://thecsspodcast.libsyn.com/)
+- [CSS Podcast - UNA and Adam’s AMAZZZZZZING Podcast - 🙌🏾❤️ Like and Subscribe ❤️🙌🏾](https://thecsspodcast.libsyn.com/)
 - [Igalia](https://www.igalia.com/)
 - [Bocoup](https://bocoup.com/)
 - Follow [Lea Verou](https://twitter.com/LeaVerou) and [Chris Lilley](https://twitter.com/svgeesus) for CSS Leveling up
