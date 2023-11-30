@@ -18,3 +18,6 @@
 - [Stately Discord](https://discord.gg/xstate)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [zustand](https://zustand-demo.pmnd.rs)
+
+And here's the state chart for the JS Danger game!
+![](https://nicknisi.com/img/jsdanger-state-machine.png)
