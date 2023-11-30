@@ -3,7 +3,7 @@
 - [XState](https://xstate.js.org)
 - [Jump straight into the Stately editor - via state.new (fancy!)](https://state.new)
 - [Laura's talk where she demoed state machines](https://www.youtube.com/watch?v=zq2yWJWoIIA) and the [outputted state machine](https://stately.ai/registry/editor/98294807-aabc-478e-9d01-aaf3e09a17b1?machineId=e6e18bdd-f033-4184-8803-0e26ccae9bd3)
-- [All the public machines that folks have made using Stately](https://stately.ai/registry/discover)
+- [All the public machines that folks have made using Stately (must be logged in)](https://stately.ai/registry/discover)
 - [An intro to state machines and statecharts (with puppies!)](https://stately.ai/docs/state-machines-and-statecharts)
 - [Laura’s awesome book via Book Apart - Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
 - [NodeConf EU](https://www.nodeconf.eu)
