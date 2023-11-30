@@ -1,3 +1,4 @@
+- [XState JS Party debut w/ David "Piano" - X' gon State it to ya (#191)](https://changelog.com/jsparty/191)
 - [Stately](https://stately.ai)
 - [XState](https://xstate.js.org)
 - [Jump straight into the Stately editor - via state.new (fancy!)](https://state.new)
