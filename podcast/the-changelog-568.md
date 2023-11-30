@@ -1,0 +1,4 @@
+- [SOTL 2023](https://changelog.fm/sotl)
+- [dagger.io](https://dagger.io)
+- [SuperOrbital](https://superorbital.io)
+- [Talos Linux](https://www.talos.dev)
