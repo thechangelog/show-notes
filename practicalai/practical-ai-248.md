@@ -1,0 +1,2 @@
+- [Article - "Inside the suspicion machine"](https://www.wired.com/story/welfare-state-algorithms/)
+- [The methodology behind Justin and Gabriel's report](https://pulitzercenter.org/stories/suspicion-machines-methodology)
