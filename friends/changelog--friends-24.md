@@ -1,0 +1,8 @@
+- [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+- [PostGraphile Instant GraphQL API](https://www.graphile.org/postgraphile/)
+- [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
+[The Tech Behind the New Grooveshark](https://jerodsanto.net/2010/12/the-tech-behind-the-new-grooveshark/)
+- [OpenAPI Spec](https://swagger.io/specification/)
+- [HTTP Specifications](https://httpwg.org/specs/)
+- [Roy Fielding Dissertation on REST](https://ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
+- [Mike Amundsen](https://mamund.substack.com)
