@@ -1,0 +1,1 @@
+[State of Open Source AI Book - 2023 Edition](https://book.premai.io/state-of-open-source-ai/index.html)
