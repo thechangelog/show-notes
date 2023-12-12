@@ -1,2 +1,3 @@
+- [What's new in Go's cryptography libraries: Part 2](https://gotime.fm/298)
 - [MultiAlgorithmSigner](https://github.com/golang/crypto/commit/28c53ff63c09fc7df7793600caa30989bc69e194)
 - [OpenSSH format keys](https://github.com/golang/crypto/commit/d359caa4a39d59a440003b37a6cc7ace3871fd4a)
