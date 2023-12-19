@@ -1,0 +1,2 @@
+- [LanceDB](https://lancedb.com/)
+- [Episode #234 "Vector DBs beyond the hype"](https://changelog.com/practicalai/234)
