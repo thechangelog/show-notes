@@ -1,0 +1,1 @@
+**Correction**: Near the end, Dan misspoke when said the [Bloomberg FOSS Fund](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/) was done in partnership with Bloomberg Philanthropies. It was actually done together with Bloomberg's Corporate Philanthropy team.
