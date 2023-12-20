@@ -23,5 +23,5 @@
 - [TC53 - ECMAScript modules for embedded systems](https://ecma-international.org/technical-committees/tc53/) 
 - [Iglia](https://www.igalia.com/)
 - [Bocoup](https://bocoup.com/)
-- ["We just gave $500,000 to open source maintainers" - Sentry's blog post on recent funding of their OSS dependencies](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
+- [Sentry's blog post on recent funding of their OSS dependencies](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 - [Bloomberg Open Source Program Office (OSPO) Launches FOSS Contributor Fund](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/)
