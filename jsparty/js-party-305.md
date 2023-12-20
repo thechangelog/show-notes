@@ -20,7 +20,7 @@
 - [Test262 Github Repo](https://github.com/tc39/test262)
 - [Source Map Spec Proposal](https://github.com/tc39/source-map-spec)
 - [TC39-T4 - a new TC39 task group to standard source maps](https://ecma-international.org/news/ecma-tc39-ecmascript-initiates-a-new-task-group-to-standardize-source-maps/) 
-- [TC53 ](https://ecma-international.org/technical-committees/tc53/) 
+- [TC53 - ECMAScript modules for embedded systems](https://ecma-international.org/technical-committees/tc53/) 
 - [Iglia](https://www.igalia.com/)
 - [Bocoup](https://bocoup.com/)
 - [Bloomberg Open Source Program Office (OSPO) Launches FOSS Contributor Fund](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/)
