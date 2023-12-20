@@ -17,5 +17,6 @@
 - [Array Grouping Proposal](https://github.com/tc39/proposal-array-grouping)
 - [Promise with Resolvers Proposal](https://github.com/tc39/proposal-promise-with-resolvers)
 - [Error Cause Proposal](https://github.com/tc39/proposal-error-cause)
+- [Async Context Proposal](https://github.com/tc39/proposal-async-context)
 - [Test262 Github Repo](https://github.com/tc39/test262)
 - [Bloomberg Open Source Program Office (OSPO) Launches FOSS Contributor Fund](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/)
