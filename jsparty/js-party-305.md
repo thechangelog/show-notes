@@ -1,7 +1,7 @@
 **Correction**: Near the end, Dan misspoke when said the [Bloomberg FOSS Fund](https://www.bloomberg.com/company/stories/bloomberg-ospo-launches-foss-contributor-fund/) was done in partnership with Bloomberg Philanthropies. It was actually done together with Bloomberg's Corporate Philanthropy team.
 
-- [TC39 Proposals](https://github.com/tc39/proposals)
-- [Finished Proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
+- [TC39's Active Proposals (Stage 1, 2, 3)](https://github.com/tc39/proposals)
+- [TC39's Finished Proposals (Stage 4)](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
 - [TC39 Website](https://tc39.es/)
 - [ECMA262 - Webview of the latest published specification of ECMAScript (aka JavaScript)](https://tc39.es/ecma262)
 - [ECMA262 GitHub Repo](https://github.com/tc39/ecma262)
