@@ -7,6 +7,7 @@
 - [ECMA262 GitHub Repo](https://github.com/tc39/ecma262)
 - [WinterCG](https://wintercg.org/)
 - [W3C Web Performance Working Group](https://www.w3.org/webperf/)
+- [Iterator Helpers Proposal](https://github.com/tc39/proposal-iterator-helpers)
 - [Record and Tuple Proposal](https://github.com/tc39/proposal-record-tuple)
 - [Temporal Proposal](https://github.com/tc39/proposal-temporal)
 - [Temporal Polyfills](https://github.com/tc39/proposal-temporal?tab=readme-ov-file#polyfills)
