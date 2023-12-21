@@ -21,6 +21,8 @@
 - [Source Map Spec Proposal](https://github.com/tc39/source-map-spec)
 - [TC39-T4 - a new TC39 task group to standard source maps](https://ecma-international.org/news/ecma-tc39-ecmascript-initiates-a-new-task-group-to-standardize-source-maps/) 
 - [TC53 - ECMAScript modules for embedded systems](https://ecma-international.org/technical-committees/tc53/) 
+- [Node Conf EU](https://www.nodeconf.eu/)
+- [Dan's talk on Async Context at this year's Node Conf EU](https://youtu.be/WJXoSsLTD70?si=aQ8PcyfqMICbjRHR)
 - [Iglia](https://www.igalia.com/)
 - [Bocoup](https://bocoup.com/)
 - [Sentry's blog post on recent funding of their OSS dependencies](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
