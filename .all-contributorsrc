@@ -846,6 +846,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jkaplon",
+      "name": "Jody",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1953657?v=4",
+      "profile": "https://blog.kaplon.us",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
