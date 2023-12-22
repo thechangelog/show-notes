@@ -26,7 +26,7 @@
 - [Perf.Now Conference](https://perfnow.nl/)
 - [Node Conf EU Conference](https://www.nodeconf.eu/)
 - [Dan's talk on Async Context at this year's Node Conf EU](https://youtu.be/WJXoSsLTD70?si=aQ8PcyfqMICbjRHR)
-- [Iglia](https://www.igalia.com/)
+- [Igalia](https://www.igalia.com/)
 - [Bocoup](https://bocoup.com/)
 - [Sentry's blog post on recent funding of their OSS dependencies](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 - [Bloomberg's Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
