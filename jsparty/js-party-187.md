@@ -8,5 +8,5 @@
 - [Why we 💚 Vim on The Changelog](https://changelog/fm/450)
 - [Three way to retain your dev flow](https://jerodsanto.net/2011/01/three-ways-to-retain-your-dev-flow/)
 - [Hell Yeah or No](https://sive.rs/n)
-- [Urgency Importance Matrix](https://changelog-assets.s3.us-east-1.amazonaws.com/jsparty/urgency-importance-matrix.png)
+- [Urgency Importance Matrix](https://cdn.changelog.com/jsparty/urgency-importance-matrix.png)
 - [Tommy Boy](https://www.imdb.com/title/tt0114694/)
