@@ -1,4 +1,4 @@
-<img src="https://changelog-assets.s3.us-east-1.amazonaws.com/jsparty/nick-loves-tom-holland.jpg" alt="Nick loves Tom Holland" />
+<img src="https://cdn.changelog.com/jsparty/nick-loves-tom-holland.jpg" alt="Nick loves Tom Holland" />
 
 #### Welcoming Amal
 
