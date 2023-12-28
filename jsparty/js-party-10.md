@@ -1,5 +1,3 @@
-** If we missed any links [let us know](https://github.com/thechangelog/ping).
-
 - [yayQuery podcast](http://yayquery.com/)
 - [Buy the yayQuery soundtrack on Bandcamp](https://jonneal.bandcamp.com/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) — an open-source, automated tool for improving the quality of web pages. You can run it against any page on the web. It has audits for performance, accessibility, progressive web apps, and more.
@@ -16,4 +14,4 @@
 
 Paul Irish shared this image as his pick.
 
-![http-return-code.jpg](http://changelog-assets.s3.amazonaws.com/http-return-code.jpg)
+![http-return-code.jpg](https://cdn.changelog.com/http-return-code.jpg)
