@@ -4,4 +4,4 @@
 - r/golang ~> [The init function](https://www.reddit.com/r/golang/comments/cojehd/the_init_function/eww5tvb/)
 - [Watch this on YouTube](https://www.youtube.com/watch?v=g8BD-0rIRN4)
 
-[![gotime-at-gophercon-uk.png](https://changelog-assets.s3.us-east-1.amazonaws.com/gotime-at-gophercon-uk.png)](https://www.youtube.com/watch?v=g8BD-0rIRN4)
+[![gotime-at-gophercon-uk.png](https://cdn.changelog.com/gotime-at-gophercon-uk.png)](https://www.youtube.com/watch?v=g8BD-0rIRN4)
