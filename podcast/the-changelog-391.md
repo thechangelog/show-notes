@@ -4,4 +4,4 @@ Check out the following links for the show notes of each show featured:
 - [Go Time #123: WFH](https://changelog.com/gotime/123)
 - [Brain Science #15: Working from home](https://changelog.com/brainscience/15)
 
-![spiderman-nick-nisi.png](https://changelog-assets.s3.us-east-1.amazonaws.com/jsparty/spiderman-nick-nisi.png)
+![spiderman-nick-nisi.png](https://cdn.changelog.com/jsparty/spiderman-nick-nisi.png)
