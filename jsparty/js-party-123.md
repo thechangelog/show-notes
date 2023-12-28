@@ -1,4 +1,4 @@
-![JS Dance Party](https://changelog-assets.s3.us-east-1.amazonaws.com/jsparty/js-party-outro-dance.gif)
+![JS Dance Party](https://cdn.changelog.com/jsparty/js-party-outro-dance.gif)
 
 - [Play the game yourself: round 1](https://jeopardylabs.com/play/js-party-danger-game)
 - [Play the game yourself: round 2](https://jeopardylabs.com/play/js-danger-party-round-2)
