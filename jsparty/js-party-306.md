@@ -1,0 +1,3 @@
+- [Last year's New Year's party](https://jsparty.fm/257)
+- [Smoot - Wikipedia](https://en.wikipedia.org/wiki/Smoot)
+- [JS Party Survey Github Collaboration Repo (content coming soon)](https://github.com/thechangelog/jsparty-survey)
