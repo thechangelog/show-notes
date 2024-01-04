@@ -1,3 +1,6 @@
 - [Last year's New Year's party](https://jsparty.fm/257)
+- [Twitter thread highlighting collaboration between NodeJS and Bun maintainers on finding and improving a node performance bottleneck](https://x.com/nomadtechie/status/1730990859540111465)
+- [Joyee Cheung (Node contributor and TSC member) sharing her updates on the node performance issue highlighted above](https://x.com/JoyeeCheung/status/1731696275836244130)
+- [Direct link to GH issue thread on the suggested node perf improvement](https://github.com/nodejs/performance/issues/136)
 - [Smoot - Wikipedia](https://en.wikipedia.org/wiki/Smoot)
 - [JS Party Survey Github Collaboration Repo (content coming soon)](https://github.com/thechangelog/jsparty-survey)
