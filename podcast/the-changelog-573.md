@@ -1,0 +1,4 @@
+- [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
+- [mintCast ](https://mintcast.org/)
+- [Ship It](https://changelog.com/shipit)
+- [Justin on Ship It takeover](https://www.linkedin.com/posts/justingarrison_the-ship-it-podcast-activity-7148111119444832256-9Dlp/)
