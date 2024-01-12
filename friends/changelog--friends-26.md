@@ -1,0 +1,10 @@
+![Jerod and Adam's one-handed cheers](https://cdn.changelog.com/friends/26--jerod-adam-cheers.jpg)
+
+- 📄 [Kaizen 13](https://github.com/thechangelog/changelog.com/discussions/485)
+- [Migrate Postgres to Neon.tech by gerhard · Pull Request #492](https://github.com/thechangelog/changelog.com/pull/492)
+- [CDN cache misses increased 7x · Issue #486](https://github.com/thechangelog/changelog.com/issues/486)
+- 🎥 [TGI RabbitMQ](https://www.youtube.com/playlist?list=PLfX-LA-Cf6rE16woOuRmi3goM_K8PUAhQ)
+- [Neon.tech](https://neon.tech)
+- [Supabase Postgres · Fly Docs](https://fly.io/docs/reference/supabase/)
+- [Vercel Postgres](https://vercel.com/docs/storage/vercel-postgres)
+- [KeyCDN - Content delivery made easy](https://www.keycdn.com/)
