@@ -1,0 +1,28 @@
+- [htmx site and docs](https://htmx.org/)
+- [EPIC htmx Twitter](https://twitter.com/htmx_org)
+- [Hypermedia Wikipedia](https://en.wikipedia.org/wiki/Hypermedia)
+- [Hypermedia Systems - A free digital book from Carson Gross, Adam Stepinski, and Deniz Aksimsek](https://hypermedia.systems/)
+- [Hypermedia Reintroduction (from Hypermedia Systems book)](https://hypermedia.systems/hypermedia-reintroduction/)
+- [Infrequently - Alex Russell’s EPIC blog](https://infrequently.org/)
+- [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons)
+- [Performance Inequality Series from Alex Russell](https://infrequently.org/series/performance-inequality/)
+- [Netflix Web Performance Case Study (refactoring the Netflix login to vanilla html, js and css)](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [Roy Fielding's Dissertation on REST](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+- [REST APIs Must Be Hypertext-Driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+- [HATEOAS Wikipedia](https://en.wikipedia.org/wiki/HATEOAS)
+- [Open Web Advocacy Group](https://open-web-advocacy.org/)
+- [Open UI Group](https://open-ui.org/)
+- [The Website vs Web App Dichotomy Doesn't Exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist)
+- [As We May Type](https://www.technologyreview.com/2013/10/16/82941/as-we-may-type/#:~:text=%E2%80%9CI%20think%20every,is%20always%20there)
+- [More Capable Form Controls](https://web.dev/articles/more-capable-form-controls)
+- [Fun Hacks for Faster Content](https://jakearchibald.com/2016/fun-hacks-faster-content/)
+- [Google jsaction lib on Github](https://github.com/google/jsaction)
+- [Intercooler.js (Carson’s precursor to htmx)](https://intercoolerjs.org/)
+
+Previous Changelog interviews with Carson Gross on htmx:
+
+- [Is htmx the way to Go? (Go Time #266)](https://changelog.com/gotime/266)
+- [Less JavaScript more htmx (JS Party #171)](https://changelog.com/jsparty/171)
+
+The Market for Lemons - Diagram on Session & Interaction Depth vs Application Architectures (referenced in our podcast discussion)
+![](https://infrequently.org/2023/02/the-market-for-lemons/depth-and-frequency-small.png)
