@@ -1,0 +1,10 @@
+- [Advent of GenAI Hackathon](https://adventofgenai.com/)
+- [Intel's Liftoff program for startups](https://www.intel.com/content/www/us/en/developer/tools/oneapi/liftoff.html)
+- [Prediction Guard](https://www.predictionguard.com/)
+- Blog posts:
+    - [Recap of Day 1](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advent-of-GenAI-Hackathon-Recap-of-Challenge-1/post/1552069)
+    - [Recap of Day 2](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advent-of-GenAI-Hackathon-Recap-of-Challenge-2/post/1552264)
+    - [Recap of Day 3](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advent-of-GenAI-Hackathon-Recap-of-Challenge-3/post/1553059)
+    - [Recap of Day 4](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advent-of-GenAI-Hackathon-Recap-of-Challenge-4/post/1555115)
+    - [Recap of Day 5](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advent-of-GenAI-Hackathon-Recap-of-Challenge-5/post/1556530)
+    - [Final Challenge](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Advent-of-GenAI-Hackathon-Recap-of-the-Final-Challenge-Custom/post/1556584)
