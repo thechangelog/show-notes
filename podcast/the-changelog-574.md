@@ -1,0 +1,5 @@
+- [The FreeBSD Project](https://www.freebsd.org/)
+- [FreeBSD on Wikipedia](https://en.wikipedia.org/wiki/FreeBSD)
+- [Repology, the packaging hub](https://repology.org)
+- [Allan's podcast: 2.5 Admins](https://2.5admins.com)
+- [FreeBSD Mastery: Advanced ZFS (Amazon)](https://www.amazon.com/FreeBSD-Mastery-Advanced-ZFS/dp/164235001X)
