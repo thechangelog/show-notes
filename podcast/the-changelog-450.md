@@ -19,7 +19,7 @@
 
 #### Links from Drew
 
-- [vim-exchanage](https://github.com/tommcdo/vim-exchange)
+- [vim-exchange](https://github.com/tommcdo/vim-exchange)
 - [vim-textobj-user](https://github.com/kana/vim-textobj-user)
 - [vim-commentary](https://github.com/tpope/vim-commentary)
 - [vim-surround](https://github.com/tpope/vim-surround)
