@@ -1,0 +1,47 @@
+- Jon's favorite episodes
+    - [Go & Templ](https://changelog.com/gotime/291)
+    - [Deep dive on TCP/IP & Networking](https://changelog.com/gotime/176)
+- Johnny's favorite episodes
+    - [7 deadly sins](https://changelog.com/gotime/294)
+    - What's New In Go episodes
+        - [1.21](https://changelog.com/gotime/289)
+        - [1.20](https://changelog.com/gotime/267)
+        - [1.19](https://changelog.com/gotime/240)
+- Ian's favorite episodes
+    - Episodes where we talk to experts that deeply care
+    - Who owns our code?
+        - [Who owns our code?](https://changelog.com/gotime/252)
+        - [Who owns our code? Part 2](https://changelog.com/gotime/263)
+    - Biology and Go
+        - [Go in medicine & biology](https://changelog.com/gotime/254)
+    - What's new in Go cryptopgrahy
+        - [What's new in Go's cryptography libraries: Part 1](https://changelog.com/gotime/295)
+        - [What's new in Go's cryptography libraries: Part 2](https://changelog.com/gotime/298)
+- Kris' favorite episodes
+    - [Maintenance mini series](https://changelog.com/topic/maintenance)
+    - Episodes about software engineering in general and the Go community
+        - [Principles of Simplicity](https://changelog.com/gotime/296)
+        - [Experiences from GopherCon 2023](https://changelog.com/gotime/293)
+- Angelica's favorite episodes
+    - [Maintenance mini series episodes](https://changelog.com/topic/maintenance)
+    - Event driven architectures
+        - [Event-driven systems & Architectures](https://changelog.com/gotime/297)
+    - Go deep dive episodes
+    - Episodes that are about Go and tech but are also apply outside of tech
+- Ian's recommendations
+    - Who owns our code? episodes
+        - [Who owns our code?](https://changelog.com/gotime/252)
+        - [Who owns our code? Part 2](https://changelog.com/gotime/263)
+- Jon's recommendations
+    - Depends on the person
+    - Usually episodes around the new to Go topic
+- Johnny's recommendations
+    - Doesn't relisten to episode he's on
+    - Start with the last one
+- Kris' recommendations
+    - Recent episode
+- Angelica's recommendations
+    - Episode around Go and simplicity
+        - [Principles of Simplicity](https://changelog.com/gotime/296)
+    - Angelica's first episode
+        - [The Secret Life of Gophers](https://changelog.com/gotime/157)
