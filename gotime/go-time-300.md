@@ -27,7 +27,10 @@
     - Event driven architectures
         - [Event-driven systems & Architectures](https://changelog.com/gotime/297)
     - Go deep dive episodes
+        - [A deep dive into Go's stack](https://changelog.com/gotime/288)
     - Episodes that are about Go and tech but are also apply outside of tech
+        - [Event-driven systems & architecture](https://changelog.com/gotime/297)
+        - [Principles of simplicity](https://changelog.com/gotime/296)
 - Ian's recommendations
     - Who owns our code? episodes
         - [Who owns our code?](https://changelog.com/gotime/252)
