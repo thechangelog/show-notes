@@ -1,0 +1,5 @@
+- [BoxyHQ.com](https://boxyhq.com)
+- [SAML Jackson](https://github.com/boxyhq/jackson) - Enterprise SSO made simple
+- [ Enterprise SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit)
+- [MVSP (Minimum Viable Secure Product](https://cloud.google.com/security/compliance/mvsp)
+- [Minimum Viable Secure Product (MVSP) checklist](https://mvsp.dev/mvsp.en/)
