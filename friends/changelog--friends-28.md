@@ -1,0 +1,4 @@
+- [José's previous appearances](https://changelog.com/person/josevalim)
+- [José's viral tweet](https://twitter.com/josevalim/status/1744395345872683471)
+- [Dialyzer](https://www.erlang.org/doc/man/dialyzer.html)
+- [Hare aims to be a 100 year language](https://changelog.com/podcast/569)
