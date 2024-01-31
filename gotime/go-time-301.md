@@ -1,0 +1,3 @@
+- [CTF Handbook](https://ctf101.org/)
+- [Rtfm: Red Team Field Manual](https://www.amazon.co.uk/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+- [Coverage of DefCon 8 from TechTV in 2000](https://www.youtube.com/watch?v=7wg-gWOfstk_)
