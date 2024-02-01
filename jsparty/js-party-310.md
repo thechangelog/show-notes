@@ -1,0 +1,7 @@
+- [Angular Signals](https://angular.io/guide/signals)
+- [Zone.js](https://github.com/angular/angular/tree/main/packages/zone.js)
+- [A Solid option for building UIs](https://changelog.com/jsparty/211)
+- [RxJS](https://rxjs.dev/)
+- [Angular RFCs](https://github.com/angular/angular/discussions)
+- [Angular Signals RFC](https://github.com/angular/angular/discussions/49685)
+- [Reactivity project](https://github.com/orgs/angular/projects/31)
