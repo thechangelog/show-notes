@@ -1,0 +1,2 @@
+- [Data Engineering in 2024. What I'm Seeing.](https://joereis.substack.com/p/data-engineering-in-2024-what-im)
+- [The Salt Shaker Theory of Leadership](https://paulstansik.medium.com/the-salt-shaker-theory-of-leadership-5a8ad62563f)
