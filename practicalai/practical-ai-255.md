@@ -1,0 +1,2 @@
+- [Nous on Hugging Face](https://huggingface.co/NousResearch)
+- [Nous Research](https://nousresearch.com/)
