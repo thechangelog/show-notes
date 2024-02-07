@@ -1,0 +1,4 @@
+- [Changelog Beats! Dance Party](https://changelog.com/beats/dance-party)
+- [Go 1.22 Release Notes](https://tip.golang.org/doc/go1.22)
+- [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
+- [What’s New in Go 1.22: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
