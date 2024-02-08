@@ -5,3 +5,4 @@
 - [Next.js 13: Server Components](https://nextjs.org/blog/next-13#server-components)
 - [Data Fetching with React Server Components (YouTube)](https://www.youtube.com/watch?v=TQQPAU21ZUw)
 - [JavaScript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4)
+- [Click to Component (Github)](https://github.com/ericclemmons/click-to-component)
