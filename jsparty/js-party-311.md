@@ -1,0 +1,7 @@
+- [React Server Components: No Framework Required! (Dan's favorite write-up on RSCs)](https://timtech.blog/posts/react-server-components-rsc-no-framework/)
+- [Introduction to React Server Components (YouTube)](https://www.youtube.com/watch?v=zMf_xeGPn6s)
+- [Data Fetching with React Server Components](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
+- [RFC: React Server Components (Github)](https://github.com/reactjs/rfcs/pull/188)
+- [Next.js 13: Server Components](https://nextjs.org/blog/next-13#server-components)
+- [Data Fetching with React Server Components (YouTube)](https://www.youtube.com/watch?v=TQQPAU21ZUw)
+- [JavaScript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4)
