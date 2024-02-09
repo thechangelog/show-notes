@@ -1,3 +1,4 @@
+- [Changelog Beats! Dance Party](https://changelog.com/beats/dance-party)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [How Next.js is delivering React's vision for the future](https://www.youtube.com/watch?v=9CN9RCzznZc)
 - [Simplifying Server Components](https://portal.gitnation.org/contents/simplifying-server-components)
