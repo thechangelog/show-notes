@@ -1,4 +1,4 @@
-- [React Server Components: No Framework Required! (Dan's favorite write-up on RSCs)](https://timtech.blog/posts/react-server-components-rsc-no-framework/)
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Introduction to React Server Components (YouTube)](https://www.youtube.com/watch?v=zMf_xeGPn6s)
 - [Data Fetching with React Server Components](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
 - [RFC: React Server Components (Github)](https://github.com/reactjs/rfcs/pull/188)
