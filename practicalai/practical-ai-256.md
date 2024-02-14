@@ -1,0 +1,3 @@
+- [Gemini](https://gemini.google.com/app)
+- [FCC decision on AI voices](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
+- [FCC Bans AI Voices in Unsolicited Robocalls](https://www.wsj.com/tech/ai/fcc-bans-ai-artificial-intelligence-voices-in-robocalls-texts-3ea20d9f)
