@@ -1,0 +1,5 @@
+- [Changelog Beats! Dance Party](https://changelog.com/beats/dance-party)
+- [angular.dev](https://angular.dev)
+- [Deferrable views](https://angular.io/guide/defer)
+- [Angular SSR](https://angular.io/guide/ssr)
+- [Angular tutorial](https://angular.dev/tutorials)
