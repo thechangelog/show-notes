@@ -1,0 +1,4 @@
+- [Open Source Initiative (OSI)](https://opensource.org/)
+- [Discuss the "Open Source AI Definition"](https://discuss.opensource.org/c/ai/5)
+- [A new draft of the Open Source AI Definition: v.0.0.5 is available for comments](https://discuss.opensource.org/t/a-new-draft-of-the-open-source-ai-definition-v-0-0-5-is-available-for-comments/174)
+- [The Open Source AI Definition](https://hackmd.io/@opensourceinitiative/osaid-0-0-5)
