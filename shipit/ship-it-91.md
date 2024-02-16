@@ -1,0 +1,3 @@
+- [Chainguard images](https://www.chainguard.dev/chainguard-images)
+- [Microservices vs Monoliths](https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith)
+- [Using AI imagery to fight spacial apartheid](https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/)
