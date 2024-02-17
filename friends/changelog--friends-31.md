@@ -1,0 +1,8 @@
+- [Jamie's first Changelog pod: Request For Commits #4)](https://changelog.com/rfc/4)
+- [One year in the indieweb](https://theadhocracy.co.uk/wrote/one-year-in-the-indieweb/)
+- [Blogumentation](https://www.jvt.me/posts/2017/06/25/blogumentation/)
+- [Why I Have a Website and You Should Too](https://www.jvt.me/posts/2019/07/22/why-website/)
+- [did you know jamie has a website](https://www.ripixel.co.uk/surprise)
+- [My Salary History](https://www.jvt.me/salary/)
+- [Memento (film) - Wikipedia](https://en.wikipedia.org/wiki/Memento_(film))
+- [DMD](https://dmd.tanna.dev)
