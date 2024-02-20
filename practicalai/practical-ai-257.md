@@ -1,0 +1,5 @@
+- [Gen AI Master class](https://lu.ma/nbi7pz6y)
+- [Written Testimony of Lieutenant General John (Jack) N.T. Shanahan (USAF, Ret.) AI Insight Forum: National Security](https://www.schumer.senate.gov/imo/media/doc/Jack%20Shanahan%20-%20Statement.pdf)
+- [Software Defined Warfare: Architecting the DOD's Transition to the Digital Age](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/220907-Mulchandani-SoftwareDefined-Warfare.pdf)
+- [Artificial Intelligence and Geopolitics:vHitching the Disruptive Technology Cart to the Geopolitics Horse | LinkedIn](https://www.linkedin.com/posts/jackntshanahan_ai-and-geopolitics-activity-7143953788532375552-Xzwr)
+- [Joint Artificial Intelligence Center (JAIC) | Wikipedia](https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center)
