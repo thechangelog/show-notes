@@ -1,0 +1,6 @@
+- [Take the OWA survey ASAP!](https://forms.gle/oD8chWN1oQzN6s5aA)
+- [It’s Official, Apple Kills Web Apps in the EU](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
+- [Arc from The Browser Company](https://arc.net/)
+- [LLRT: Amazon's new JS runtime](https://github.com/awslabs/llrt)
+- [QuickJS](https://bellard.org/quickjs/)
+- [Introducing Tempo • A new date library for JS/TS](https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a)
