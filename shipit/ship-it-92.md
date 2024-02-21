@@ -1,0 +1,6 @@
+- [Moving away from AWS CDK](https://sst.dev/blog/moving-away-from-cdk.html)
+- [$25 million deep fake heist](https://arstechnica.com/information-technology/2024/02/deepfake-scammer-walks-off-with-25-million-in-first-of-its-kind-ai-heist/)
+- [Orbital Side Kick (OSK)](https://www.orbitalsidekick.com)
+- [Dog](https://github.com/ogham/dog/)
+- [Doggo](https://github.com/mr-karan/doggo) 
+- [NASA open source library](https://opensource.gsfc.nasa.gov/projects/JAT/index.php)
