@@ -1,0 +1,3 @@
+- [Spam attack on Twitter/X rival Mastodon highlights ‘fediverse’ vulnerabilities](https://techcrunch.com/2024/02/20/spam-attack-on-twitter-x-rival-mastodon-highlights-fediverse-vulnerabilities/)
+- [brew.sh](https://brew.sh)
+- [Workbrew.com](https://workbrew.com)
