@@ -148,6 +148,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center" valign="top" width="16.66%"><a href="http://getdx.com"><img src="https://avatars.githubusercontent.com/u/50083?v=4?s=100" width="100px;" alt="Abi Noda"/><br /><sub><b>Abi Noda</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=abinoda" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://blog.kaplon.us"><img src="https://avatars.githubusercontent.com/u/1953657?v=4?s=100" width="100px;" alt="Jody"/><br /><sub><b>Jody</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jkaplon" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/frodera"><img src="https://avatars.githubusercontent.com/u/219724?v=4?s=100" width="100px;" alt="frodera"/><br /><sub><b>frodera</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=frodera" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/tripleee"><img src="https://avatars.githubusercontent.com/u/2160915?v=4?s=100" width="100px;" alt="tripleee"/><br /><sub><b>tripleee</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=tripleee" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
