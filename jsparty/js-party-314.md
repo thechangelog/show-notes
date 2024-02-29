@@ -1,0 +1,5 @@
+- Adrienne's books
+    - [Looks Good to Me: Constructive Code Reviews](https://www.manning.com/books/looks-good-to-me)
+    - [Coding for Kids: Python: Learn to Code with 50 Awesome Games and Activities](https://www.amazon.com/Coding-Kids-Python-Awesome-Activities/dp/1641521759)
+- Dylan's book
+    - [SvelteKit Up and Running](https://sveltekitbook.dev)
