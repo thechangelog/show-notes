@@ -4,3 +4,4 @@
 - [decksh: a little language for presentations, visualizations, and information displays](https://github.com/ajstarks/decksh)
 - [W. E. B. Du Bois's Data Portraits: Visualizing Black America](https://www.amazon.com/W-Boiss-Data-Portraits-Visualizing/dp/1616897066)
 - [African American Photographs Assembled for 1900 Paris Exposition](https://www.loc.gov/collections/african-american-photographs-1900-paris-exposition/?c=200&sp=3&st=grid)
+- [dchart: dchart makes charts using deck markup](https://github.com/ajstarks/dchart)
