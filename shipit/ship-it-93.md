@@ -1,0 +1,5 @@
+- [Infrastructure regrets and endorsements after 4 years](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [Reddit signing deal with AI company](https://www.bloomberg.com/news/articles/2024-02-16/reddit-is-said-to-sign-ai-content-licensing-deal-ahead-of-ipo)
+- This Week I Learned (TWIL):
+  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+  - [Threat model cookbook](https://github.com/OWASP/threat-model-cookbook)
