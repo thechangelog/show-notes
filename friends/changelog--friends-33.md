@@ -1,0 +1,5 @@
+- [Zed.dev](https://zed.dev)
+- [Goodbye Atom. Hello Zed. (The Changelog #531)](https://changelog.fm/531)
+- [Introducing Channels for Collaboration](https://zed.dev/blog/channels)
+- [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
+- [User themes now in Preview](https://zed.dev/blog/user-themes-now-in-preview)
