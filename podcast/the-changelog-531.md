@@ -4,3 +4,5 @@
 - [GitHub officially says farewell to Atom](https://changelog.com/news/github-officially-says-farewell-to-atom-ZoqM)
 - [Founders Talk #7: Henk Rogers / The Tetris Company](https://founderstalk.fm/7)
 - [Prioritize enablers and blockers](https://linear.app/method/prioritize-enablers-and-blockers) - _linear.app_
+- "[Because it's badass](https://www.youtube.com/watch?v=25ZuKkbHdqM&t=173s)"
+- [Zed's language support](https://github.com/zed-industries/zed/tree/main/docs/src/languages)
