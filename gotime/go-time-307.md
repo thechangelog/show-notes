@@ -1,0 +1,1 @@
+- [DAO acronym](https://en.wikipedia.org/wiki/Data_access_object)
