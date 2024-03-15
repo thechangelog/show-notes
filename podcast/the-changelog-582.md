@@ -1,0 +1,3 @@
+- [Oregon Just Struck a Blow to Parts Pairing and Won a Decade of Repair Support](https://www.ifixit.com/News/92144/oregon-just-struck-a-blow-to-parts-pairing-and-won-a-decade-of-repair-support)
+- [Repair.org](https://www.repair.org)
+- [iFixit.com](https://www.ifixit.com)
