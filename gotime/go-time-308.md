@@ -1,0 +1,3 @@
+- [Ambrosio](https://github.com/duarteocarmo/ambrosio)
+- [NewsHavn](https://newshavn.duarteocarmo.com/)
+- [errgroup package](https://pkg.go.dev/golang.org/x/sync/errgroup)
