@@ -1,0 +1,3 @@
+- [TrueNAS](https://www.truenas.com)
+- [Tailscale on TrueNAS SCALE](https://www.youtube.com/watch?v=o0Py62k63_c)
+- [Changelog Interviews – #574: Let's talk FreeBSD (finally) with Allan Jude](https://changelog.com/podcast/574)
