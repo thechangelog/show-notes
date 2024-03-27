@@ -1,0 +1,2 @@
+- [Open at Intel](https://www.intel.com/content/www/us/en/developer/topic-technology/open/podcast.html) [Our episode](https://www.intel.com/content/www/us/en/developer/articles/community/changelog-show-talks-about-the-art-of-the-podcast.html)
+- [The Work Item](https://theworkitem.com/) ([Jerod's episode](https://theworkitem.com/blog/give-people-what-they-came-for-jerod-santo/))
