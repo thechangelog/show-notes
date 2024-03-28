@@ -1,0 +1,5 @@
+- [Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
+- [Astro DB](https://astro.build/db/)
+- [JSR - the JavaScript Registry](https://deno.com/blog/jsr_open_beta)
+- [Tailwind 4](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
+- [Angular merging with Wiz](https://twitter.com/sarah_edo/status/1770478763253379488)
