@@ -1,0 +1,2 @@
+- [More "It Depends" episodes](https://changelog.com/topic/itdepends)
+- [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
