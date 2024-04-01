@@ -1,0 +1,1 @@
+All links mentioned in this episode of Changelog News (and more) are in [its companion newsletter](https://changelog.com/news/88/email).
