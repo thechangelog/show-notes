@@ -1,0 +1,3 @@
+- [NVIDIA GTC March 2024 Keynote with NVIDIA CEO Jensen Huang](https://youtu.be/Y2F8yisiS6E?list=TLGGFIbdOwQMZx4yODAzMjAyNA)
+- [5 Forces That Will Drive the Adoption of GenAI | Harvard Business Review](https://hbr.org/2023/12/5-forces-that-will-drive-the-adoption-of-genai)
+- [Here’s why AI search engines really can’t kill Google | The Verge](https://www.theverge.com/24111326/ai-search-perplexity-copilot-you-google-review)
