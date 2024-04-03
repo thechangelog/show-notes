@@ -1,0 +1,2 @@
+- [Making Go more efficient (Go Time #260)](https://changelog.com/gotime/260)
+- [More powerful Go execution traces](https://tip.golang.org/blog/execution-traces-2024)
