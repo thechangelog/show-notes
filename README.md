@@ -153,6 +153,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/vedrankolka"><img src="https://avatars.githubusercontent.com/u/30286931?v=4?s=100" width="100px;" alt="Vedran Kolka"/><br /><sub><b>Vedran Kolka</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=vedrankolka" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://twitter.com/harlantwood"><img src="https://avatars.githubusercontent.com/u/38769?v=4?s=100" width="100px;" alt="Harlan T Wood"/><br /><sub><b>Harlan T Wood</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=harlantwood" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://www.jvt.me"><img src="https://avatars.githubusercontent.com/u/3315059?v=4?s=100" width="100px;" alt="Jamie Tanna"/><br /><sub><b>Jamie Tanna</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jamietanna" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
