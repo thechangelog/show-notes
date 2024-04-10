@@ -1,0 +1,5 @@
+- [MLOps Community](https://linktr.ee/mlopscommunity)
+- [AI Quality Conference](https://www.aiqualityconference.com)
+- [Evaluation Survey](https://hq.yougot.us/primary/WebInterview/3AW6LW5D/Start)
+- [RAG failover talk from Jerry Lui](https://home.mlops.community/home/videos/a-survey-of-production-rag-pain-points-and-solutions)
+- [Prompt Templates the Song](https://www.youtube.com/watch?v=g6WT85gIsE8)
