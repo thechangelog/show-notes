@@ -1,0 +1,7 @@
+* [Angular and Wiz Are Better Together](https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a)
+* [Deferrable Views](https://angular.io/guide/defer)
+* [JSParty 312 - Angular Moves fast without breaking things](https://changelog.com/jsparty/312)
+* [JSAction](https://github.com/google/jsaction)
+* [JSParty 237 - Qwik is a new kind of web framework](https://changelog.com/jsparty/237)
+* [HTTP Archive](https://httparchive.org/)
+* [Angular primitives directory](https://github.com/angular/angular/tree/main/packages/core/primitives)
