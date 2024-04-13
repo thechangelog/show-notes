@@ -1,0 +1,1 @@
+- [Dance Party](https://changelog.com/beats/dance-party)
