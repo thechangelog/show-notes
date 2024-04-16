@@ -1,0 +1,4 @@
+- [Udio](https://www.udio.com/)
+- [CLIP](https://openai.com/research/clip)
+- [BridgeTower](https://arxiv.org/abs/2206.08657)
+- [LLaVA](https://llava-vl.github.io/)
