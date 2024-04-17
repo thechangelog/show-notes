@@ -1,0 +1,2 @@
+- [Raycast.com](https://www.raycast.com)
+- [One interface, many LLMs](https://www.raycast.com/blog/more-ai-models)
