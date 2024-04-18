@@ -1,0 +1,7 @@
+- [The Boring JavaScript Stack](https://docs.sailscasts.com/boring-stack/)
+- [Sails.js](https://sailsjs.com)
+- [Screencasts for the modern Sails developer](https://sailscasts.com/)
+- [Hagfish - Where creators do invoices](https://hagfish.io/)
+- [Inertia](https://inertiajs.com)
+- [Sailsconf](https://sailsconf.com/af)
+- [The Boring JavaScript Stack (keynote)](https://www.youtube.com/watch?v=qX69jEyAIc0)
