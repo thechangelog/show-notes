@@ -1,0 +1,5 @@
+- [What’s new in Go’s cryptography libraries: Part 1](https://gotime.fm/295)
+- [What’s new in Go’s cryptography libraries: Part 2](https://gotime.fm/298)
+- [ssh: add AlgorithmNegotiationError](https://go-review.googlesource.com/c/crypto/+/559056)
+- [ssh: validate key type in SSH_MSG_USERAUTH_PK_OK response](https://go-review.googlesource.com/c/crypto/+/573360)
+- [Filippo's open source maintenance policy](https://github.com/FiloSottile/FiloSottile/blob/main/maintenance.md)
