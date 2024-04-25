@@ -1,0 +1,5 @@
+- [Solid JS](https://www.solidjs.com)
+- [Solid/Signals](https://www.solidjs.com/tutorial/introduction_signals)
+- [The Signals Proposal](https://github.com/tc39/proposal-signals)
+- [Solid's Discord](https://discord.com/invite/solidjs)
+- [Ryan's YouTube](https://www.youtube.com/@ryansolid)
