@@ -1,0 +1,3 @@
+- [IBM to Acquire HashiCorp, Inc.](https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform)
+- [Matt Asay on OpenTofu](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
+- [System Initiative](https://www.systeminit.com/)
