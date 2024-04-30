@@ -1,0 +1,3 @@
+- [Register for our next webinar (similar to this one) focused on multimodal AI](https://tinyurl.com/genai-mastery3)
+- [LibreChat](https://github.com/danny-avila/LibreChat)
+- [Prediction Guard](https://www.predictionguard.com/)
