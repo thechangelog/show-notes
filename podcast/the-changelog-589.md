@@ -1,0 +1,3 @@
+- [A Fresh Start for Castro](https://castro.fm/blog/castro-is-back)
+- [Podcast app Castro now owned by indie developer Bluck Apps](https://techcrunch.com/2024/01/31/podcast-app-castro-now-owned-by-indie-developer-bluck-apps/)
+- [I am the owner of Castro Podcasts. Ask me anything!](https://www.reddit.com/r/podcasts/comments/1cdm2nv/i_am_the_owner_of_castro_podcasts_ask_me_anything/)
