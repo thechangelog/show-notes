@@ -1,0 +1,4 @@
+- [If Google decided to part with the core Go team, what would that mean for its future adoption?](https://www.reddit.com/r/golang/comments/1cft7mc/if_google_decided_to_part_with_the_core_go_team/)
+- [Microsoft now has a Go blog](https://devblogs.microsoft.com/go/welcome-to-the-microsoft-for-go-developers-blog/)
+- [Evolving the Go Standard Library with math/rand/v2](https://go.dev/blog/randv2)
+- [Redis re-implemented in Go with SQLite](https://github.com/nalgeon/redka)
