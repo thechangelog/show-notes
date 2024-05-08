@@ -1,0 +1,3 @@
+- [Pentagon takes AI dogfighting to next level in real-world flight tests against human F-16 pilot](https://defensescoop.com/2024/04/17/darpa-ace-ai-dogfighting-flight-tests-f16/)
+- [Top US Air Force official rides in front seat of autonomous F-16](https://www.flightglobal.com/fixed-wing/top-us-air-force-official-rides-in-front-seat-of-autonomous-f-16/158152.article)
+- [Open Platform for Enterprise AI](https://opea.dev/)
