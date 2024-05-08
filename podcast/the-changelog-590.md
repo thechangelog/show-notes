@@ -1,0 +1,8 @@
+- [Why Now: How Good Timing Makes Great Products (by Paul Orlando)](https://www.amazon.com/Why-Now-Timing-Makes-Products/dp/B0CYXSNMT3/)
+- [StartupsUnplugged.com](https://startupsunplugged.com)
+- [Unintended Consequences (Systems, complexity, second-order effects)](https://unintendedconsequenc.es)
+- [Changelog #474: Complex systems & second-order effects](https://changelog.com/podcast/474)
+- [Catching up with Yahoo’s Fire Eagle geolocation service](https://arstechnica.com/information-technology/2009/02/catching-up-with-fire-eagle/)
+- [The Web 2.0 Show #46 - Fire Eagle](https://web20show.com/92/1640-episode-46-fire-eagle)
+- [The Conjoined Triangles of Success](https://alexplescan.com/posts/2022/11/27/conjoined-triangles-of-success/)
+- [The confidential YouTube Investment Memo by Sequoia you were never meant to see](https://www.alexanderjarvis.com/the-confidential-youtube-investment-memo-by-sequoia-you-were-never-meant-to-see/)
