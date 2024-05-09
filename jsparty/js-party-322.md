@@ -1,0 +1,3 @@
+- [Shoelace.style](https://shoelace.style)
+- [Font Awesome](https://fontawesome.com)
+- [Web Awesome](https://www.kickstarter.com/projects/fontawesome/web-awesome)
