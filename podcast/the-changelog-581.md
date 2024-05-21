@@ -1,2 +1,2 @@
 - [Paul Vixie on Wikipedia](https://en.wikipedia.org/wiki/Paul_Vixie)
-- [Changelog Interviews: #574: Let's talk FreeBSD (finally) with Allan Jude](https://changelog.com/podcast/574)
+- [Changelog Interviews: #581: It's not always DNS with Paul Vixie](https://changelog.com/podcast/581)
