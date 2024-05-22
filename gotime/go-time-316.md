@@ -1,0 +1,2 @@
+- [Sonar](https://www.sonarsource.com)
+- [Encore](https://encore.dev)
