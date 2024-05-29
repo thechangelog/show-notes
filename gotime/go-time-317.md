@@ -1,0 +1,1 @@
+- [Go Programming - From Beginner to Professional](https://www.amazon.com/Go-Programming-Beginner-Professional-everything/dp/1803243058)
