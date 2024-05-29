@@ -1,0 +1,4 @@
+- [U.S. Representative Don Beyer](https://beyer.house.gov)
+- [Congressman Don Beyer, Mason student and lifelong learner](https://www.gmu.edu/news/2023-04/congressman-don-beyer-mason-student-and-lifelong-learner)
+- [Beyer Statement On President Biden’s AI Executive Order](https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6017)
+- [Beyer Appointed To Bipartisan Task Force On Artificial Intelligence](https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6082)
