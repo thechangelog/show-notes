@@ -1,0 +1,3 @@
+- [I Need Your Help to Make 11ty Fully Independent and Sustainable in 2024](https://www.zachleat.com/web/independent-sustainable-11ty/)
+- [An Organizer’s Retrospective on the 11ty Conference](https://www.zachleat.com/web/11ty-conf-retro/)
+- [xkcd: Dependency](https://xkcd.com/2347/)
