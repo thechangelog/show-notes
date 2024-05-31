@@ -1,0 +1,3 @@
+- [Upstream 2024 | A celebration of open source](https://upstream.live/)
+- [ANTHOLOGY — The way of open source (Changelog Interviews #563)](https://changelog.com/podcast/563)
+- [On self driving, Waymo is playing chess while Tesla plays checkers](https://www.understandingai.org/p/on-self-driving-waymo-is-playing)
