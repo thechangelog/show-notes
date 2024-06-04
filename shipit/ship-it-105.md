@@ -7,6 +7,10 @@
 
 - [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 - [Registry explorer](https://oci.dag.dev/)
+- [ima.ge.cx](https://ima.ge.cx/)
+- [How ima.ge.cx works](https://awsteele.com/blog/2023/12/29/how-ima-ge-cx-works.html)
+- [aidansteele/ima.ge.cx-backend](https://github.com/aidansteele/ima.ge.cx-backend)
+- [circulosmeos/gztool](https://github.com/circulosmeos/gztool)
 - [stargz snapshotter](https://github.com/containerd/stargz-snapshotter)
 - [SOCI](https://github.com/awslabs/soci-snapshotter)
 
