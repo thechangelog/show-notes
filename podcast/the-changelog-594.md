@@ -1,0 +1,1 @@
+- [Mark Russinovich, Author on Amazon](https://www.amazon.com/stores/Mark-E.-Russinovich/author/B001IGNICC)
