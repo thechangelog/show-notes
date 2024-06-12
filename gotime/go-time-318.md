@@ -1,0 +1,6 @@
+- [go.dev](https://go.dev/)
+- [Issue Tracker](https://github.com/golang/go/issues)
+- [Proposing Changes to Go](https://github.com/golang/proposal)
+- [GopherCon 2022: Russ Cox - Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo)
+- [John Ousterhout - Open Decision Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+- [GothamGo 2016 Codebase Refactoring (with help from Go) by Russ Cox](https://www.youtube.com/watch?v=v24wrd3RwGo)
