@@ -1,0 +1,5 @@
+- ["I'm retired, not tired."](https://x.com/kelseyhightower/status/1798155065125195799)
+- [Changelog & Friends #6: Even the best rides come to an end](https://changelog.com/friends/6)
+- [Run:ai](https://www.run.ai)
+- [Brondell Bidet](https://www.amazon.com/dp/B0815BNKLV)
+- [From Sleeping in His Car to Distinguished Engineer at Google (Kelsey Hightower)](https://www.linkedin.com/pulse/from-sleeping-his-car-distinguished-engineer-google-kelsey-newnham-ul8le/)
