@@ -1,0 +1,8 @@
+- [What software shouldn’t you write in Go?](https://www.reddit.com/r/golang/comments/1czlgon/what_software_shouldnt_you_write_in_golang/)
+- [The myth of Go garbage collection hindering "real-time" software?](https://www.reddit.com/r/golang/comments/173n28q/the_myth_of_go_garbage_collection_hindering/)
+- [The long-overdue problem coming for some people in Go 1.23](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
+- [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
+- [Alternatives to Makefiles written in Go](https://eltonminetto.dev/en/post/2024-05-26-alternatives-make/)
+- [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
+- [Teaching Concurrency](https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf)
+- [Computation and State Machines](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
