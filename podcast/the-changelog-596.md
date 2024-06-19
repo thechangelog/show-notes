@@ -1,0 +1,7 @@
+- [Where does your software (really) come from?](https://github.blog/2024-04-30-where-does-your-software-really-come-from/)
+- [Keeping secrets out of public repositories](https://github.blog/2024-02-29-keeping-secrets-out-of-public-repositories/)
+- [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
+- [Dependabot](https://github.com/dependabot)
+- [Introducing Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
+- [Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom)
+- [😶‍🌫️ Who in the world is Jia Tan?!](https://changelog.com/news/88)
