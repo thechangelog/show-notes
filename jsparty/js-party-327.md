@@ -1,0 +1,4 @@
+- [What do we want from a web browser?(Friends #14)](https://changelog.com/friends/14)
+- [You have how many open tabs?! (Friends #29)](https://changelog.com/friends/29)
+- [Core web vitals](https://developers.google.com/search/docs/appearance/core-web-vitals)
+- [Polypane](https://polypane.app)
