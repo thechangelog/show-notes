@@ -1,0 +1,7 @@
+- [curl turns 26 today](https://daniel.haxx.se/blog/2024/03/20/curl-turns-26-today/)
+- [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
+- [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
+- [tiny-curl](https://curl.se/tiny/)
+- [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
+- [How to verify a curl release](https://daniel.haxx.se/blog/2024/05/23/how-to-verify-a-curl-release/)
+- [github.com/curl/trurl](https://github.com/curl/trurl)
