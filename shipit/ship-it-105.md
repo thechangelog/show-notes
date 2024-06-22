@@ -5,6 +5,7 @@
 
 #### Interview
 
+- [Ship It #91, featuring Jason Hall from Chainguard](https://changelog.com/shipit/91)
 - [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 - [Registry explorer](https://oci.dag.dev/)
 - [ima.ge.cx](https://ima.ge.cx/)
