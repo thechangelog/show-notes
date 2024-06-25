@@ -7,5 +7,5 @@ This "The Future of Node" Spotlight series was produced in partnership with [The
 - [Arduino](https://www.arduino.cc/)
 - [Johnny-Five](http://johnny-five.io/) - the JavaScript robotics & IoT platform
 - [Johnny-Five Inventor's Kit](https://www.sparkfun.com/j5ik)
-- [Tessel](https://tessel.io/)
+- [Tessel](https://www.bairesdev.com/tools/tessel/)
 - [David Lynch](https://en.wikipedia.org/wiki/David_Lynch) - Filmmaker
