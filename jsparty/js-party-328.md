@@ -1,0 +1,7 @@
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.dev/)
+- [Galaxies.dev](https://galaxies.dev/)
+- [Simon's YouTube channel](https://www.youtube.com/@galaxies_dev)
+- [Tamagui — React Native + Web UI kit](https://tamagui.dev/)
+- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom)
+- [Evan Bacon](https://evanbacon.dev/)
