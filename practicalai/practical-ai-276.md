@@ -1,0 +1,2 @@
+- [Stanford HAI](https://hai.stanford.edu/)
+- [2024 AI Index Report](https://aiindex.stanford.edu/report/)
