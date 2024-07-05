@@ -1,0 +1,4 @@
+- [Polyfill.io supply chain attack hits 100,000+ websites — all you need to know](https://www.sonatype.com/blog/polyfill.io-supply-chain-attack-hits-100000-websites-all-you-need-to-know)
+- [How Go Mitigates Supply Chain Attacks](https://go.dev/blog/supply-chain)
+- [Go Proverbs](https://go-proverbs.github.io)
+- [A little copying is better than a little dependency](https://www.youtube.com/watch?v=PAAkCSZUG1c&t=9m28s)
