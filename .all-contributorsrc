@@ -909,6 +909,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jasonmccallister",
+      "name": "Jason McCallister",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5354908?v=4",
+      "profile": "https://mccallister.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
