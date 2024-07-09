@@ -5,4 +5,5 @@
 - [Alternatives to Makefiles written in Go](https://eltonminetto.dev/en/post/2024-05-26-alternatives-make/)
 - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
 - [Teaching Concurrency](https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf)
+- [Go: Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 - [Computation and State Machines](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
