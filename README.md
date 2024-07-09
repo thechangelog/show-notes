@@ -155,6 +155,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center" valign="top" width="16.66%"><a href="https://twitter.com/harlantwood"><img src="https://avatars.githubusercontent.com/u/38769?v=4?s=100" width="100px;" alt="Harlan T Wood"/><br /><sub><b>Harlan T Wood</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=harlantwood" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://www.jvt.me"><img src="https://avatars.githubusercontent.com/u/3315059?v=4?s=100" width="100px;" alt="Jamie Tanna"/><br /><sub><b>Jamie Tanna</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jamietanna" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="http://bws.bio"><img src="https://avatars.githubusercontent.com/u/26674818?v=4?s=100" width="100px;" alt="Brendon Smith"/><br /><sub><b>Brendon Smith</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=br3ndonland" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://mccallister.dev"><img src="https://avatars.githubusercontent.com/u/5354908?v=4?s=100" width="100px;" alt="Jason McCallister"/><br /><sub><b>Jason McCallister</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=jasonmccallister" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
