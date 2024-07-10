@@ -1,0 +1,2 @@
+- [Pinecone](https://www.pinecone.io)
+- [Pinecone | Blog](https://www.pinecone.io/blog)
