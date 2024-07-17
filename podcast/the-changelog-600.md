@@ -1,0 +1,6 @@
+- [Benn's Substack](https://benn.substack.com/)
+- [It's time to build](https://benn.substack.com/p/its-time-to-build)
+- [github.com/dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
+- [Disband the analytics team](https://benn.substack.com/p/disband-the-analytics-team)
+- [A gambler's guide to giving talks](https://benn.substack.com/p/a-gamblers-guide-to-giving-talks)
+- [gilesbowkett/archaeopteryx](https://github.com/gilesbowkett/archaeopteryx)
