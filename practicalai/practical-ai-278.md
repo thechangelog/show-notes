@@ -1,0 +1,3 @@
+- [Kyutai](https://kyutai.org/)
+- [Kyutai keynote video](https://www.youtube.com/live/hm2IJSKcYvo)
+- [Gartner Hype Cycle for AI](https://www.gartner.com/en/documents/5505695)
