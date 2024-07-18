@@ -1,0 +1,6 @@
+- [Dissecting slices, maps and channels in Go (at fosdem)](https://youtu.be/amPDRBznslg?si=dbi6zmIalUbnkM-d)
+- [The secret life of a goroutine](https://youtu.be/ZyjpzrelLEQ?si=k7i9a-HZstFzag3N)
+- [Understanding the go compiler](https://youtu.be/qnmoAA0WRgE?si=CmHx18ynfiqCx7KJ)
+- [Go compiler inliner overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/edit#heading=h.o82v9r2rjlej)
+- [Mr. Meeseeks](https://rickandmorty.fandom.com/wiki/Mr._Meeseeks)
+- [TinyGo](https://tinygo.org/)
