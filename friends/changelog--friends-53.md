@@ -1,0 +1,11 @@
+- Justin Garrison's [awesome-tuis](https://github.com/rothgar/awesome-tuis) repo
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- ["Getting started with tmux" on YouTube](https://www.youtube.com/results?search_query=getting+started+with+tmux)
+- [Changelog Interviews #511: The terminal as a platform (with Will McGugan)](https://changelog.com/podcast/511)
+- [LazyDocker](https://github.com/jesseduffield/lazydocker) - manage everything Docker
+- [Superfile](https://github.com/yorukot/superfile) - fancy and modern terminal file manager
+- [Ranger](https://github.com/ranger/ranger) - VIM-inspired filemanager
+- [Elia](https://github.com/darrenburns/elia) - TUI for interacting with large language models
+- [Atuin](https://atuin.sh) - Making your shell magical
+- [Warp](https://www.warp.dev) - the terminal reimagined
