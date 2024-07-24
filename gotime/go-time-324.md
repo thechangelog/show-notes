@@ -1,0 +1,3 @@
+- [Aha moments: Part 1](https://gotime.fm/323)
+- [Understanding the go runtime](https://youtu.be/YpRNFNFaLGY?si=FyvekcCRbeGHZyuq)  
+- [Deep dive into a go binary at Golab](https://golab.io/talks/deep-dive-into-a-go-binary)
