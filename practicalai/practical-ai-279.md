@@ -1,0 +1,3 @@
+- [MLOps Community](https://mlops.community)
+- [MLOps Community Podcast](https://tr.ee/2aUfMm9AIb)
+- [Gartner Hype Cycle for Artificial Intelligence, 2024](https://www.gartner.com/en/documents/5505695)
