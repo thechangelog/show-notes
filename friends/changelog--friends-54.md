@@ -1,0 +1,8 @@
+- [Inside the 78 minutes that took down millions of Windows machines](https://www.theverge.com/2024/7/23/24204196/crowdstrike-windows-bsod-faulty-update-microsoft-responses)
+- [How the CrowdStrike outage unfolded — a timeline](https://www.eastidahonews.com/2024/07/how-the-crowdstrike-outage-unfolded-a-timeline/)
+- [Nick Burns, Your Company's Computer Guy](https://www.youtube.com/watch?v=25J3u3P-HHg)
+- [Real men test in production… The truth about the CrowdStrike disaster](https://www.youtube.com/watch?v=H9RSeDUdkCA)
+- [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
+- [House committee calls on CrowdStrike CEO to testify on global outage](https://www.washingtonpost.com/technology/2024/07/22/house-committee-calls-crowdstrike-ceo-testify-global-outage/)
+- [CrowdStrike CEO called to testify to Congress over cybersecurity’s firm role in global tech outage](https://apnews.com/article/crowdstrike-tech-outage-microsoft-windows-falcon-8fe725037ab975e011b2cfad67b17c0f)
+- [Beyond the Headlines: The Unsung Art of Software Outage Management](https://firehydrant.com/blog/beyond-the-headlines-the-unsung-art-of-software-outage-management/)
