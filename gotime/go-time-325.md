@@ -1,0 +1,1 @@
+- [Go 1.23 pre-release notes](https://tip.golang.org/doc/go1.23)
