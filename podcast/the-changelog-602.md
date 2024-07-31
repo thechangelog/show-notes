@@ -1,0 +1,7 @@
+- [OSS Capital](https://oss.capital/)
+- [Changelog Interviews #320: Venture capital meets commercial OSS](https://changelog.com/podcast/320)
+- [Mark Zuckerberg on Llama 3.1, Open Source, AI Agents, Safety, and more](https://www.youtube.com/watch?v=Vy3OkbtUa5k)
+- [Inside Mark Zuckerberg's AI Era](https://www.youtube.com/watch?v=YuIc4mq7zMU)
+- [Open Source AI Is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+- [Just realized that I’ve led 37 rounds of funding at incorporation where OSS Capital was the first investor on the cap table...](https://www.linkedin.com/feed/update/urn:li:activity:7205813759917920257/)
+- Silicon Valley! [Jian Yang's New Pied Piper scene](https://www.youtube.com/watch?v=Km5XQxRrQvw)
