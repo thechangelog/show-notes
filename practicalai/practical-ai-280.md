@@ -1,0 +1,4 @@
+- [MLFlow](https://mlflow.org/)
+- [Prefect](https://www.prefect.io)
+- [DuckDB](https://duckdb.org/)
+- [Agrilla](https://argilla.io/)
