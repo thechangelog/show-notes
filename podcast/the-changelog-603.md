@@ -1,0 +1,8 @@
+- [dennisetaylor.org](http://dennisetaylor.org)
+- [We Are Legion (We Are Bob)](https://www.audible.com/pd/We-Are-Legion-We-Are-Bob-Audiobook/B01L082HJ2) - on Audible
+- [Not Till We Are Lost](https://www.audible.com/pd/Not-Till-We-Are-Lost-Audiobook/B0CW23CC7L) - on Audible
+- [Feedback](https://www.audible.com/pd/Feedback-Audiobook/B08LF1Y476) - on Audible
+- [Xprize - Deep Tech + Quantum](https://www.xprize.org/domains/tech)
+- [Self-replicating spacecraft](https://en.wikipedia.org/wiki/Self-replicating_spacecraft) on Wikipedia
+- [Hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) on Wikipedia
+- [Dennis E. Taylor](https://en.wikipedia.org/wiki/Dennis_E._Taylor) on Wikipedia
