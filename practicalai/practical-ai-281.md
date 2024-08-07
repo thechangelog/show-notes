@@ -1,0 +1,8 @@
+- [Intel's AI & Machine Learning Ecosystem Developer Resources](https://www.intel.com/content/www/us/en/developer/ecosystem/ai-ml-overview.html)
+- [Intel® Tiber™ Developer Cloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/services.html)
+- [Intel Gaudi AI Processors](https://habana.ai/products/gaudi/)
+- [Optimum Habana](https://github.com/huggingface/optimum-habana)
+- [Overview of AI tools from Intel](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
+- [OpenVINO](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html)
+- [Case Study: Prediction Guard De-Risks LLM Applications at Scale](https://www.intel.com/content/www/us/en/content-details/817317/case-study-prediction-guard-de-risks-llm-applications-at-scale.html)
+- [How Prediction Guard Delivers Trustworthy AI on Intel® Gaudi® 2 AI Accelerators](https://www.intel.com/content/www/us/en/developer/videos/prediction-guard-delivers-trustworthy-ai-on-gaudi2.html)
