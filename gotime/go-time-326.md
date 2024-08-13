@@ -1,0 +1,2 @@
+- [Russ Cox: passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
+- [80% of professional programmers are unhappy (Changelog News #106)](https://changelog.com/news/106)
