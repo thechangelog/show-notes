@@ -1,0 +1,7 @@
+- [Hyrum's Law](https://www.hyrumslaw.com/)
+- [Introduction to Scripting in Minecraft](https://learn.microsoft.com/en-us/minecraft/creator/documents/scriptingintroduction?view=minecraft-bedrock-stable)
+- [Minecraft Bedrock Editor Overview](https://learn.microsoft.com/en-us/minecraft/creator/documents/editoroverview?view=minecraft-bedrock-stable)
+- [microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples/)
+- [Active community Discords](https://wiki.bedrock.dev/discord.html)
+- Raph on Discord: MidoriTerra
+- Jake on Discord: DarkNavi
