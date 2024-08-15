@@ -1,5 +1,5 @@
 - [Jepsen - Consistency Models](https://jepsen.io/consistency)
-- [https://github.com/superfly/litefs](LiteFS)
+- [LiteFS](https://github.com/superfly/litefs)
 - [litestream](https://litestream.io)
 - [rqlite](https://rqlite.io/)
 - [BoltDB, InfluxDB, Key-Value Databases with Ben Johnson (Changelog Interviews #170)](https://changelog.com/podcast/170)
