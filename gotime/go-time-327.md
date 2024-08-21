@@ -1,0 +1,1 @@
+- [GopherCon 2024 - YouTube](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdtH-tLdfcDJaWABxySlkRj)
