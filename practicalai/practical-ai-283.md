@@ -1,0 +1,5 @@
+- [The Security Canvas for LLM Applications](https://www.withsecure.com/en/solutions/consulting/generative-ai-security)
+- [LLM Security Chronicles Playlist on YouTube](https://www.youtube.com/playlist?list=PLNg09XqZv0dHVDw7OiiRQJ315HnGHbDbG)
+- [Should you let ChatGPT control your browser?](https://labs.withsecure.com/publications/browser-agents-llm-prompt-injection)
+- [When your AI assistant has an evil twin](https://labs.withsecure.com/publications/gemini-prompt-injection)
+- [Pliny the Liberator - jailbreak guru](https://x.com/elder_plinius)
