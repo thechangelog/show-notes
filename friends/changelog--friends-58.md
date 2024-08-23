@@ -1,0 +1,6 @@
+- [Suz on Changelog pods](https://changelog.com/person/noopkat)
+- [Suz on freeCodeCamp pod](https://www.freecodecamp.org/news/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126/)
+- [Suz Live coding: OSCON edition](https://www.oreilly.com/radar/live-coding-oscon-edition/)
+- [Lego Cooking - YouTube](https://www.youtube.com/@LEGOCOOKING)
+- [New Kids On The Block - Hangin' Tough - YouTube](https://www.youtube.com/watch?v=By86PcLufOU)
+- [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
