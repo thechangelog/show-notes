@@ -1,0 +1,4 @@
+- [High Performance MySQL, 4th Edition [Book]](https://www.oreilly.com/library/view/high-performance-mysql/9781492080503/)
+- [dbsmasher corner](https://blog.dbsmasher.com/)
+- [Staff Engineer: Leadership beyond the management track](https://staffeng.com/book)
+- [The Manager's Path [Book]](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
