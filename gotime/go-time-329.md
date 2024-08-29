@@ -1,4 +1,4 @@
-- [Go Developers](https://www.meetup.com/go/)
+- [Go Developers](https://www.meetup.com/pro/go/)
 - [Platform Engineering New York](https://www.meetup.com/platform-engineering-new-york/)
 - [NJ Code & Coffee](https://www.meetup.com/nj-code-coffee/)
 - [GoBridge Atlanta](https://www.meetup.com/gobridgeatl/)
