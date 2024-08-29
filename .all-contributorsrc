@@ -927,6 +927,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ollytom",
+      "name": "Oliver Lowe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17470471?v=4",
+      "profile": "https://www.olowe.co",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
