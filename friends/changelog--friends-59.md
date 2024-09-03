@@ -1,1 +1,2 @@
 - [firecrawl](https://github.com/mendableai/firecrawl)
+- [Rate us in Pocket Casts!](https://pocketcasts.com/ratings)
