@@ -1,0 +1,2 @@
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [AutoML in Google Cloud](https://cloud.google.com/automl?hl=en)
