@@ -1,0 +1,4 @@
+- [1999: A Film Odyssey (Changelog++ 🔐)](https://changelog.com/friends/plusplus-build-2024)
+- [The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)
+- [Song Encoder: Forrest Brazeal](https://changelog.com/podcast/477)
+- [freeman + forrest](https://www.freemanandforrest.com/)
