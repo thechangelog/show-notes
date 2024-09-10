@@ -1,0 +1,1 @@
+- [Automate your home with Go](https://pragprog.com/titles/gohome/automate-your-home-using-go/) from Pragmatic Publishers
