@@ -1,0 +1,3 @@
+- [The Cyber Boardroom](https://www.thecyberboardroom.com)
+- [OWASP - Top 10 for LLMs and Generative AI Apps](https://genai.owasp.org/llm-top-10)
+- [OWASP - Generative AI](https://genai.owasp.org)
