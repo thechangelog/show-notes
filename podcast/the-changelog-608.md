@@ -1,0 +1,10 @@
+- [ErgoDox EZ](https://ergodox-ez.com)
+- [Changelog Interviews #582: We have a right to repair! with Kyle Wiens (iFixit)](https://changelog.com/podcast/582)
+- [ZSA.io](https://www.zsa.io/)
+- [DIY trackpad for the Voyager](https://blog.zsa.io/diy-voyager-trackpad-saucer/)
+- [How to spray paint your keyboard](https://blog.zsa.io/spray-paint-your-keyboard/)
+- [ZSA cards](https://zsa.fun/cards)
+- [Linus Tech Tips - Ergodox EZ Review](https://www.youtube.com/watch?v=LALQsqZP1nA)
+- [Microsoft Sculpt Ergonomic Keyboard](https://google.com/search?q=Microsoft+Sculpt+Ergonomic+Keyboard)
+- [Pagat.com](https://www.pagat.com) - A website dedicated to cards and card games.
+- [Ergodox EZ on Indiegogo](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/)
