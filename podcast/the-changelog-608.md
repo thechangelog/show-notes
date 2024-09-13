@@ -1,5 +1,6 @@
 - [ErgoDox EZ](https://ergodox-ez.com)
 - [Changelog Interviews #582: We have a right to repair! with Kyle Wiens (iFixit)](https://changelog.com/podcast/582)
+- [FairPhone](https://www.fairphone.com/)
 - [ZSA.io](https://www.zsa.io/)
 - [DIY trackpad for the Voyager](https://blog.zsa.io/diy-voyager-trackpad-saucer/)
 - [How to spray paint your keyboard](https://blog.zsa.io/spray-paint-your-keyboard/)
