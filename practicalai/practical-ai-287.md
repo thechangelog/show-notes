@@ -1,3 +1,6 @@
 - [Probabl seed funding announcement](https://papers.probabl.ai/announcing-major-milestone-empowering-the-future-of-data-science)
 - [OpenAI o1 announcement](https://openai.com/index/introducing-openai-o1-preview/)
 - [Purdue Data4Good competition](https://business.purdue.edu/events/data4good/)
+- [MLOps Community homepage](https://home.mlops.community/) and [Slack workspace](https://go.mlops.community/slack)
+- [Latent Space homepage](https://latent.space/) and [Discord server](https://discord.gg/xJJMRaWCRt)
+- [Practical AI Slack](https://changelog.com/community)
