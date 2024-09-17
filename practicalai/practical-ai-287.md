@@ -1,0 +1,3 @@
+- [Probabl seed funding announcement](https://papers.probabl.ai/announcing-major-milestone-empowering-the-future-of-data-science)
+- [OpenAI o1 announcement](https://openai.com/index/introducing-openai-o1-preview/)
+- [Purdue Data4Good competition](https://business.purdue.edu/events/data4good/)
