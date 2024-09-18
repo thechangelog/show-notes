@@ -936,6 +936,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "andrewalson",
+      "name": "Andrew Alson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83783605?v=4",
+      "profile": "https://github.com/andrewalson",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
