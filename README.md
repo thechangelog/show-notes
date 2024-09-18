@@ -160,6 +160,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
     </tr>
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://www.olowe.co"><img src="https://avatars.githubusercontent.com/u/17470471?v=4?s=100" width="100px;" alt="Oliver Lowe"/><br /><sub><b>Oliver Lowe</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=ollytom" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/andrewalson"><img src="https://avatars.githubusercontent.com/u/83783605?v=4?s=100" width="100px;" alt="Andrew Alson"/><br /><sub><b>Andrew Alson</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=andrewalson" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
