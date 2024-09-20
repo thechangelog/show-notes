@@ -1,0 +1,6 @@
+- [Discussion #520: 🎧 Kaizen 16](https://github.com/thechangelog/changelog.com/discussions/520)
+- [github.com/thechangelog/pipedream](https://github.com/thechangelog/pipedream)
+- [🎬 Why we started building our single-purpose CDN for changelog.com](https://www.youtube.com/live/ghE59eB465I)
+- [Join us in Zulip](https://changelog.zulipchat.com/join/exlijkfkfzzftudskkwnumrk/)
+- [Namespace – Accelerate your developer workflow](https://namespace.so/)
+- [Setup the app locally with just one command: just contribute #521](https://github.com/thechangelog/changelog.com/pull/521)
