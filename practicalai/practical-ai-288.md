@@ -1,1 +1,5 @@
-- [Kùzu](https://kuzudb.com/)
+- Kùzu: A highly scalable, extremely fast, easy-to-use embeddable, open source graph database: [GitHub repo](https://github.com/kuzudb/kuzu)
+- The goals and vision of Kùzu: [Blog post](https://blog.kuzudb.com/post/what-every-gdbms-should-do-and-vision/)
+- Kùzu [YouTube channel](https://www.youtube.com/@KuzuDB)
+- Graph RAG strategies with Kùzu: [GitHub repo](https://github.com/kuzudb/graph-rag)
+- Prashanth Rao's blog: [thedataquarry.com](https://thedataquarry.com)
