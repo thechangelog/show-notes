@@ -1,0 +1,6 @@
+- [Node.js: The Documentary - YouTube](https://www.youtube.com/watch?v=LB8KwiiUGy0)
+- [From Node.js to Deno: How It All Began - YouTube](https://www.youtube.com/watch?v=zxitJn9MwYs)
+- [10 Things I Regret About Node.js - YouTube](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+- [JSR: the JavaScript Registry](https://jsr.io/)
+- [rusty_v8: Rust bindings for the V8 JavaScript engine](https://github.com/denoland/rusty_v8)
+- [JavaScript™ (Dear Oracle)](https://javascript.tm/)
