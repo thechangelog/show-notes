@@ -1,1 +1,4 @@
 - [Automate your home with Go](https://pragprog.com/titles/gohome/automate-your-home-using-go/) from Pragmatic Publishers
+- [Powerful Command-Line Applications in Go](https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/) from Pragmatic Publishers
+- [TinyGo - A Go Compiler For Small Places](https://tinygo.org/)
+- [Gitea - Private, Fast, Reliable DevOps Platform](https://about.gitea.com/)
