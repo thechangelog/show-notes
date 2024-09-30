@@ -1,1 +1,1 @@
-- [Founder Mode]((https://paulgraham.com/foundermode.html)
+- [Founder Mode](https://paulgraham.com/foundermode.html)
