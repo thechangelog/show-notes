@@ -1,0 +1,2 @@
+- [core.py](https://podcasters.spotify.com/pod/show/corepy)
+- [What’s New In Python 3.13](https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler)
