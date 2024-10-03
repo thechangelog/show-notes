@@ -162,6 +162,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
       <td align="center" valign="top" width="16.66%"><a href="https://www.olowe.co"><img src="https://avatars.githubusercontent.com/u/17470471?v=4?s=100" width="100px;" alt="Oliver Lowe"/><br /><sub><b>Oliver Lowe</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=ollytom" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/andrewalson"><img src="https://avatars.githubusercontent.com/u/83783605?v=4?s=100" width="100px;" alt="Andrew Alson"/><br /><sub><b>Andrew Alson</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=andrewalson" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="16.66%"><a href="http://thedataquarry.com"><img src="https://avatars.githubusercontent.com/u/35005448?v=4?s=100" width="100px;" alt="Prashanth Rao"/><br /><sub><b>Prashanth Rao</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=prrao87" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/hugovk"><img src="https://avatars.githubusercontent.com/u/1324225?v=4?s=100" width="100px;" alt="Hugo van Kemenade"/><br /><sub><b>Hugo van Kemenade</b></sub></a><br /><a href="https://github.com/thechangelog/show-notes/commits?author=hugovk" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
