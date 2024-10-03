@@ -954,6 +954,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "hugovk",
+      "name": "Hugo van Kemenade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1324225?v=4",
+      "profile": "https://github.com/hugovk",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "repoType": "github",
