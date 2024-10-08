@@ -4,3 +4,5 @@
 - [Proposing Changes to Go](https://github.com/golang/proposal#readme)
 - [Go Bridge](https://gobridge.org/)
 - [GopherCon](https://www.gophercon.com/)
+- [Cherry's Github](https://github.com/cherrymui)
+-  [Austin's Github](https://github.com/aclements)
