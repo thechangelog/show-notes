@@ -1,0 +1,2 @@
+- [Acquiring Fireside](https://www.johnnunemaker.com/acquiring-fireside/)
+- [Fireside.fm](https://fireside.fm/)
