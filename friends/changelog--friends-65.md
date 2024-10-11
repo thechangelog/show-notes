@@ -1,0 +1,7 @@
+- [Hugh Glass - Wikipedia](https://en.wikipedia.org/wiki/Hugh_Glass)
+- [300 multiple choices (Go Time #300)](https://gotime.fm/300)
+- [Learn Go with Johnny](https://golangjohnny.com/)
+- ["Founder Mode" at work when you're not a founder (Go Time #332)](https://gotime.fm/332)
+- [I'm a cog.](https://adamstacoviak.com/im-a-cog/)
+- [Ask HN: Who is pretending to be hiring?](https://news.ycombinator.com/item?id=41714672)
+- [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
