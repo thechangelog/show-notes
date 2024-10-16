@@ -5,3 +5,4 @@
 - [Damian Gryski](https://github.com/dgryski) is now a [/r/golang moderator](https://www.reddit.com/r/golang/comments/5hx5ba/hello_gophers/)
 - [Take the 2016 Go User Survey](https://blog.golang.org/survey2016) — the goal is to create the best language for developing simple, reliable, scalable software. We are asking you to help by participating in a survey and if applicable, a company questionnaire.
 - From Coursera — [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
+- [Ken Thompson](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) - Reflections on Trusting Trust
