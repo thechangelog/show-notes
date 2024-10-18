@@ -1,0 +1,8 @@
+- [Building on global bare metal (Founders Talk #84)](https://changelog.com/founderstalk/84)
+- [Whiplash (2014) - IMDb](https://www.imdb.com/title/tt2582802/)
+- [You'll own nothing and be happy - Wikipedia](https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy)
+- [From Sun to Oxide (Changelog Interviews #592)](https://changelog.com/podcast/592)
+- [We have a right to repair! (Changelog Interviews #582)](https://changelog.com/podcast/582)
+- [SSI Alliance](https://www.ssia.org/)
+- [Three Mile Island nuclear power plant will reopen for Microsoft](https://www.npr.org/2024/09/20/nx-s1-5120581/three-mile-island-nuclear-power-plant-microsoft-ai)
+- [Ethical Hacker Warns: Check Your Charger ASAP & What Happens After Clicking Adult Sites](https://www.youtube.com/watch?v=sRmVEnP-EXs)
