@@ -1,0 +1,3 @@
+- [DuckDB](https://duckdb.org/)
+- [MotherDuck](https://motherduck.com/)
+- [Introducing FixIt: an unreasonably effective AI error fixer for SQL](https://motherduck.com/blog/introducing-fixit-ai-sql-error-fixer/)
