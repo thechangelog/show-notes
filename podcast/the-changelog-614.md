@@ -1,0 +1,7 @@
+- [Elasticsearch Is Open Source. Again!](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
+- [Changelog Interviews #429: Community perspectives on Elastic vs AWS](https://changelog.com/podcast/429)
+- [Why we had to change Elastic licensing](https://www.elastic.co/blog/why-license-change-aws)
+- [Changelog Interviews #578: What exactly is Open Source AI?](https://changelog.com/podcast/578)
+- [Drafts of the Open Source AI Definition](https://opensource.org/deepdive/drafts)
+- [Llama.com](https://www.llama.com)
+- ["Llama the leading open source model family"](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
