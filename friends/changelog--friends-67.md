@@ -1,0 +1,5 @@
+- [Five years of freeCodeCamp (Changelog Interviews #369)](https://changelog.com/podcast/369)
+- [Ten years of Changelog (Backstage #9)](https://changelog.com/backstage/9)
+- [How to Learn to Code and Get a Developer Job [Full Book]](https://www.freecodecamp.org/news/learn-to-code-book/)
+- [Learn to Code RPG – A Visual Novel Video Game Where you Learn Computer Science Concepts](https://www.freecodecamp.org/news/learn-to-code-rpg/)
+- [podcast - freeCodeCamp.org](https://www.freecodecamp.org/news/tag/podcast/)
