@@ -1,0 +1,3 @@
+- [Svelte 5 is alive](https://svelte.dev/blog/svelte-5-is-alive)
+- [Join us at React Summit US (10% off)](https://ti.to/gitnation/react-summit-us-edition-2024/discount/JSPARTY10)
+- [Join us at JSNation US (10% off)](https://ti.to/gitnation/jsnation-us-edition/discount/JSPARTY10)
