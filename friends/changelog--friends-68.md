@@ -1,0 +1,2 @@
+- [Whiskey Web and Whatnot: Web Development, Neat](https://whiskey.fm/)
+- [Tenuta di Capraia Chianti Classico Riserva 2018](https://www.wine.com/product/tenuta-di-capraia-chianti-classico-riserva-2018/1184090#closePromoModal)
