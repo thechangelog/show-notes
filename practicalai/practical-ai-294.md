@@ -1,0 +1,2 @@
+- [The AI Standoff: Attackers vs. Defenders | Blackberry Blog](https://blogs.blackberry.com/en/2024/03/ai-in-cybersecurity-attackers-defenders)
+- [Blackberry](https://www.blackberry.com)
