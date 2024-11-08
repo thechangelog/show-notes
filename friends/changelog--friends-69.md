@@ -1,0 +1,7 @@
+- [Self-hosted media server goodness (Changelog & Friends #44)](https://changelog.com/friends/44)
+- [Self-Hosted Show](https://selfhosted.show/)
+- [Nix & NixOS](https://nixos.org/)
+- [Self-Hosted 133: No Google October](https://selfhosted.show/133)
+- [Perplexica is an AI-powered search engine](https://github.com/ItzCrazyKns/Perplexica)
+- [Foo Camp - Wikipedia](https://en.wikipedia.org/wiki/Foo_Camp)
+- [BarCamp - Wikipedia](https://en.wikipedia.org/wiki/BarCamp)
