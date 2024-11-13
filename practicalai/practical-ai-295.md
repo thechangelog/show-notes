@@ -1,0 +1,1 @@
+- [MLOps Community "Agents in Production" event](https://home.mlops.community/public/events/aiagentsinprod)
