@@ -1,0 +1,3 @@
+- [:probabl.](https://probabl.ai/)
+- [TechCrunch: Probabl is a new AI company built around popular library scikit-learn](https://techcrunch.com/2024/02/01/probabl-is-a-new-ai-company-built-around-popular-library-scikit-learn/)
+- [scikit-learn](https://scikit-learn.org/stable/)
