@@ -1,0 +1,6 @@
+- [Changelog++ (It's better!)](https://changelog.com/++)
+- [Scout Revival - YouTube](https://www.youtube.com/watch?v=DHe9X10QpY4)
+- [“Push the Button” - YouTube](https://www.youtube.com/watch?v=Joa71AjfJqw)
+- [Lidar - Wikipedia](https://en.wikipedia.org/wiki/Lidar)
+- [SUDDAR | Bobiverse Wiki](https://bobiverse.fandom.com/wiki/SUDDAR)
+- [Waymos make bad neighbors - YouTube](https://www.youtube.com/watch?v=WGwVnVr9y2Y)
