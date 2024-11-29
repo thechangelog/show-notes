@@ -1,0 +1,26 @@
+- New Models  
+  - Qwen2.5  
+    - [Alibaba's Qwen AI Model](https://restofworld.org/2024/alibaba-qwen-ai-model/)  
+    - [Qwen2.5 Turbo Reads Ten Novels in One Minute](https://the-decoder.com/alibabas-qwen2-5-turbo-reads-ten-novels-in-just-about-one-minute/)  
+  - DeepSeek 
+    - [DeepSeek API Docs Update](https://api-docs.deepseek.com/news/news1120)  
+  - FLUX  
+    - [Black Forest Labs' FLUX.1-dev on Hugging Face](https://huggingface.co/black-forest-labs/FLUX.1-dev)  
+  - OuteTTS  
+    - [OuteTTS 0.1 - 350M Blog](https://www.outeai.com/blog/outetts-0.1-350m)  
+    - [OuteTTS 0.2 - 500M Blog](https://www.outeai.com/blog/outetts-0.2-500m)  
+    - [Smol TTS Update on LinkedIn](https://www.linkedin.com/posts/vaibhavs10_smol-tts-keeps-getting-better-introducing-a-new-467706429441-SOOG?utm_source=share&utm_medium=member_desktop)  
+  - SmolLVM  
+    - [SmolLVM Updates on LinkedIn](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_smollm-can-now-see-meet-smolv-075214778369-0Zlu?utm_source=share&utm_medium=member_desktop)  
+- [What Donald Trump’s Win Means for AI](https://time.com/7174210/what-donald-trump-win-means-for-ai/)  
+    - [Practical AI Podcast: Episode 244](https://changelog.com/practicalai/244)  
+- [GetPickle.ai](https://getpickle.ai/)  
+- Docling  
+  - [Docling Paper on arXiv](https://arxiv.org/pdf/2408.09869)  
+  - [Docling GitHub Repository](https://github.com/DS4SD/docling)  
+  - [Red Hat Blog on Docling](https://www.redhat.com/en/blog/docling-missing-document-processing-companion-generative-ai)  
+  - [LinkedIn Post on PDF Table Extraction](https://www.linkedin.com/posts/inesmontani_many-of-you-have-been-asking-about-pdf-table-extraction-985818955776-18ex?utm_source=share&utm_medium=member_android)  
+  - [Hugging Face Blog on Observers SDK](https://huggingface.co/blog/davidberenstein1957/observers-a-lightweight-sdk-for-ai-observability)  
+- AI and Commerce 
+  - [Stripe Blog: Adding Payments to Agentic Workflows](https://stripe.dev/blog/adding-payments-to-your-agentic-workflows)  
+  - [LinkedIn Announcement: Payments Integration SDK](https://www.linkedin.com/posts/aravind-srinivas-16051987_we-are-excited-to-introduce-payments-sdk-601475915776-BFEN?utm_source=share&utm_medium=member_desktop)  
