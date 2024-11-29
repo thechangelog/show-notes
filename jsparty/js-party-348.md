@@ -1,0 +1,6 @@
+- [React Summit](https://reactsummit.us)
+- [Epic Web](https://www.epicweb.dev)
+- [Remix](https://remix.run)
+- [React Router](https://reactrouter.com)
+- [T3 Stack](https://create.t3.gg)
+- [Cursor](https://www.trycursor.com)
