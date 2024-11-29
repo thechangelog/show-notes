@@ -1,0 +1,3 @@
+- [Kubernetes Authentication and Namespace as a Service](https://www.tremolo.io/)
+- [Kubernetes Authentication and SSO](https://openunison.github.io/)
+- [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
