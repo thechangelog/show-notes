@@ -1,0 +1,3 @@
+- [Kyutai](https://kyutai.org/)
+- [Kyutai on GitHub](https://github.com/kyutai-labs/moshi)
+- [Kyutai on Hugging Face](https://huggingface.co/kyutai)
