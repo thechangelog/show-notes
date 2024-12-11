@@ -1,0 +1,2 @@
+- [Shopify](https://shopify.com)
+- [Shopify's Winter Edition '25](http://shopify.com/editions/winter2025)
