@@ -1,0 +1,2 @@
+- [A new era for the Changelog Podcast Universe](https://changelog.com/posts/a-new-era-for-the-changelog-podcast-universe)
+- [FAFO.fm](https://fafo.fm)
