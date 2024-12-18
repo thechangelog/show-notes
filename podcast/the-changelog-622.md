@@ -1,0 +1,8 @@
+- First episode with Mitchell Hashimoto! [Changelog Interviews #72: Vagrant and virtualized environments](https://changelog.com/podcast/72)
+- [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming) and more at [Ghostty 👻](https://mitchellh.com/ghostty).
+- [Zig](https://ziglang.org) - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+- [Warp](https://www.warp.dev/)
+- [Changelog & Friends #53: There’s a TUI for that](https://changelog.com/friends/53)
+- [Changelog Interviews #511: The terminal as a platform](https://changelog.com/podcast/511)
+- [Changelog Interviews #555: Back to the terminal of the future](https://changelog.com/podcast/555)
+- [Michael Flarup](https://flarup.co) runs [Pixel Resort](https://www.pixelresort.com/) and created the Ghostty icon
