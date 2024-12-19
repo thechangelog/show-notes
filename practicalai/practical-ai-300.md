@@ -1,0 +1,4 @@
+- [CHRP | Website](https://www.chrp.ai)
+- [MyCHRP](https://www.mychrp.ai)
+- [CHRP | Instagram](https://www.instagram.com/chrp.ai)
+- [CHRP | LinkedIn](https://www.linkedin.com/company/chrp-ai)
