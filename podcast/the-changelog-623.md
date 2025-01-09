@@ -1,0 +1,4 @@
+- [RachelPlotnick.com](https://rachelplotnick.com/)
+- [Touchscreens Are Out, and Tactile Controls Are Back.](https://spectrum.ieee.org/touchscreens)
+- [Power Button](https://www.amazon.com/Power-Button-History-Pleasure-Politics/dp/0262038234)
+- [License To Spill](https://www.amazon.com/License-Spill-Where-Devices-Liquid/dp/0262551586)
