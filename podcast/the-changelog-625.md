@@ -1,0 +1,6 @@
+- [Data streaming and Benthos with Mihai Todor & Ashley Jeffs (Go Time #192)](https://changelog.com/gotime/192)
+- [Announcing Bento, the open source fork of the project formerly known as Benthos - WarpStream - Stream More, Manage Less](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
+- [warpstreamlabs/bento: Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.](https://github.com/warpstreamlabs/bento)
+- [Benthos | Benthos](https://web.archive.org/web/20240520010651/https://benthos.dev/)
+- [Redpanda Acquires Benthos to Deliver a Complete, End-to-End Streaming Data Platform](https://www.redpanda.com/press/redpanda-acquires-benthos)
+- [redpanda-data/connect: Fancy stream processing made operationally mundane](https://github.com/redpanda-data/connect)
