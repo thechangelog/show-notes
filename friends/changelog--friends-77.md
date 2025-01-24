@@ -1,0 +1,8 @@
+- [Fallthrough.fm](https://fallthrough.fm)
+- [CPU.fm](https://cpu.fm)
+- [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
+- [Helix](https://helix-editor.com/)
+- [Jujutsu](https://jj-vcs.github.io/jj/latest/)
+- [Replacing Git with Git featuring Scott Chacon](https://changelog.com/podcast/586)
+- [Reddit comment](https://www.reddit.com/r/golang/comments/1i56aih/comment/m814b8n/)
+- [The Seven-Action Documentation model](https://passo.uno/seven-action-model/)
