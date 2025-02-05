@@ -1,0 +1,4 @@
+- [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
+- [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
+- [Life Long Learning: Dealing With New Things](https://berthub.eu/articles/posts/life-long-learning-dealing-with-new-things/)
+- [Lawmakers use haka to protest in New Zealand's parliament](https://www.youtube.com/watch?v=25AUCNZKEnY)
