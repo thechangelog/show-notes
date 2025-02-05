@@ -1,3 +1,4 @@
 - [Daniel's blog post on DeepSeek](https://predictionguard.com/deepseek-blog)
 - [DeepSeek R1 on Hugging Face](https://huggingface.co/collections/deepseek-ai/deepseek-r1-678e1e131c0169c0bc89728d)
 - [DeepSeek](https://www.deepseek.com/)
+- [The Illustrated DeepSeek-R1 by Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
