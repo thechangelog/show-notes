@@ -1,0 +1,2 @@
+- [Book announcement](https://www.linkedin.com/pulse/announcing-my-latest-book-fostering-open-source-culture-arun-gupta-cstpc/)
+- [Buy the book](https://link.springer.com/book/10.1007/979-8-8688-0977-4) - save 20% using code `OSCULTURE20`
