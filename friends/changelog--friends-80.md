@@ -1,0 +1,6 @@
+- [That time Secret Service busted in Jimmy Miller's door for hacking](https://www.youtube.com/watch?v=jh_nu1ueMHE)
+- [Blinkist](https://www.blinkist.com/)
+- [Amazon.com: Tools Of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788)
+- [The best, worst codebase (Changelog Interviews #609)](https://changelog.com/podcast/609)
+- [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
+- [Thinking outside the box of code (Changelog Interviews #552)](https://changelog.com/podcast/552)
