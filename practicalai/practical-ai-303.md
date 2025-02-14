@@ -1,0 +1,2 @@
+- [smolagents](https://github.com/huggingface/smolagents)
+- [Hugging Face agents course](https://huggingface.co/learn/agents-course/unit0/introduction)
