@@ -1,0 +1,4 @@
+- [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms)
+- [sketch.dev](https://sketch.dev/)
+- [merde.ai: ai-fixed merge conflicts](https://merde.ai/)
+- [How Tailscale's free plan stays free](https://tailscale.com/blog/free-plan)
