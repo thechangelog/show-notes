@@ -1,0 +1,2 @@
+- [$80M to reimagine the cloud for the AI era](https://render.com/blog/series-c)
+- [Changelog Interviews #621: Building the developer cloud with Kurt Mackey (CEO of Fly)](https://changelog.com/podcast/621)
