@@ -1,0 +1,6 @@
+- [Discussion #538: 🎧 Kaizen 18](https://github.com/thechangelog/changelog.com/discussions/538)
+- ["Backslashes Are Trash"](https://www.youtube.com/watch?v=pc-KKJUf3q4)
+- [Pop!_OS by System76](https://pop.system76.com/)
+- [Pipely](https://pipely.tech/)
+- [Samsung S95D](https://www.samsung.com/us/televisions-home-theater/tvs/oled-tvs/65-class-oled-s95d-qn65s95dafxza/)
+- [Make it Work](https://makeitwork.tv/)
