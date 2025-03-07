@@ -1,0 +1,3 @@
+- [Deep Seek on Ollama](https://ollama.com/library/deepseek-r1)
+- [Claude Sonnet 3.7 is out!](https://www.youtube.com/watch?v=CJebvG7P7zY)
+- [\<antirez\> - We are destroying software](https://antirez.com/news/145)
