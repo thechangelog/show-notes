@@ -1,0 +1,8 @@
+- [Breaking Change](https://justin.searls.co/casts/)
+- [Daring Fireball: Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
+- [Michael Tsai - Blog - Rotten](https://mjtsai.com/blog/2025/03/13/rotten/)
+- [The nervous Craig Federighi's "Back to the Mac" presentation for Apple](https://www.youtube.com/watch?v=HKU-W0_Yqvs)
+- [This Vision Pro strap is totally globular!](https://justin.searls.co/posts/this-vision-pro-strap-is-totally-globular-/)
+- [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/)
+- [You're invited to my POSSE party!](https://posseparty.com/)
+- [Vision Pro Creator Taking Over Siri After Apple Intelligence Setbacks](https://www.macrumors.com/2025/03/20/siri-leadership-shakeup/)
