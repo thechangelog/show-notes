@@ -1,0 +1,1 @@
+- [Revenge of the junior developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
