@@ -1,0 +1,20 @@
+Adam Pictures:
+
+1. [Adam as golfer](https://cdn.changelog.com/friends/87-adam-original.jpg)
+2. [Adam as LEGO](https://cdn.changelog.com/friends/87-adam-lego.jpg)
+3. [Adam as walrus](https://cdn.changelog.com/friends/87-adam-walrus.jpg)
+4. [Adam as Ghibli walrus](https://cdn.changelog.com/friends/87-adam-walrus-ghibli.jpg)
+5. [Adam all forms](https://cdn.changelog.com/friends/87-adam-all.jpg)
+
+- [Min Browser mentioned on Friends #76](https://changelog.com/friends/76#transcript-45)
+- [Introducing 4o Image Generation | OpenAI](https://openai.com/index/introducing-4o-image-generation/)
+- [Lynyrd Skynyrd – That Smell Lyrics](https://genius.com/Lynyrd-skynyrd-that-smell-lyrics)
+- [Show HN: I vibecoded a 35k LoC recipe app](https://news.ycombinator.com/item?id=43553031)
+- [Recipe Ninja](https://www.recipeninja.ai/)
+- [Revisit / Catch-Up Episodes](https://changelog.zulipchat.com/#narrow/channel/453512-general/topic/Revisit.20.2F.20Catch-Up.20Episodes/with/509445626)
+- [Haml, Sass, Compass (Changelog #1)](https://changelog.com/podcast/1)
+- [The Go Programming Language with Rob Pike (Changelog #3)](https://changelog.com/podcast/3)
+- [Document Cloud and Underscore.js with Jeremy Ashkenas (Changelog #5)](https://changelog.com/podcast/5)
+- [10gen and MongoDB (Changelog #7)](https://changelog.com/podcast/7)
+- [Interview or an ad?](https://changelog.zulipchat.com/#narrow/channel/456187-interviews/topic/Interview.20or.20an.20ad.3F/with/508108247)
+- [I Accidentally Became A Meme: Disaster Girl](https://www.youtube.com/watch?v=j_y88KAPKW0)
