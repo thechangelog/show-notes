@@ -1,0 +1,5 @@
+- [The Square Developer Podcast](https://squareup.com/us/en/the-bottom-line/podcasts/the-square-developer-podcast)
+- [Rhea Lana on Scaling a Pop-Up Business to 120 Franchises](https://squareup.com/us/en/the-bottom-line/podcasts/the-square-developer-podcast/rhea-lana)
+- [The Bottom Line](https://squareup.com/us/en/the-bottom-line)
+- [Square Developer on YouTube](https://www.youtube.com/squaredev)
+- [Fireside Chat with Jack Dorsey & Adam Stacoviak](https://www.youtube.com/watch?v=rVg1u0BLTmM)
