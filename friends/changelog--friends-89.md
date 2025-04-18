@@ -11,6 +11,6 @@
 - [Framer](https://www.framer.com/)
 - [Eleventy](https://www.11ty.dev/)
 - [Use long flags when scripting](https://changelog.com/posts/use-long-flags-when-scripting)
-- [ZEN browser](https://www.zen-browser.com/)
+- [ZEN browser](https://zen-browser.app/)
 - [Apple's Acquisition of Pixelmator is Complete](https://petapixel.com/2025/02/11/apples-acquisition-of-pixelmator-is-complete/)
 - [The Dysfunctional Developer](https://dysfunctional.fm/)
