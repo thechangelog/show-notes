@@ -1,0 +1,2 @@
+- [Friday Deployment Spirits](https://fridaydeployment.co)
+- [CTO Lunches](https://ctolunches.com/)
