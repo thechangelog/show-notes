@@ -1,2 +1,3 @@
 - [DrewWilson.com](https://drewwilson.com)
 - [Clerk](https://clerk.com)
+- [Founders Talk #19](https://changelog.com/founderstalk/19) + [Founders Talk #20](https://changelog.com/founderstalk/20)
