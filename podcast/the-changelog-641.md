@@ -1,0 +1,4 @@
+- [NATS.io](https://nats.io)
+- [Protecting NATS and the integrity of open source: CNCF’s commitment to the community](https://www.cncf.io/blog/2025/05/01/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
+- [CNCF and Synadia Align on Securing the Future of the NATS.io Project ](https://www.cncf.io/announcements/2025/05/01/cncf-and-synadia-align-on-securing-the-future-of-the-nats-io-project/)
+- [Synadia and the NATS project](https://www.synadia.com/blog/nats-server-next-steps)
