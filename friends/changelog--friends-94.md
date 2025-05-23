@@ -1,0 +1,6 @@
+- [Keys Left?](https://keysleft.com/)
+- [Scott Hanselman.com](https://www.hanselman.com/)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+- [Cephable](https://cephable.com/)
+- [Pieces for Developers](https://pieces.app/)
+- [Arcade | Scott Hanselman's Blog](https://www.hanselman.com/blog/category/arcade)
