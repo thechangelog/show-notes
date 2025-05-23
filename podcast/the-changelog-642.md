@@ -1,0 +1,8 @@
+- [Preston Thorpe - My Story](https://pthorpe92.dev/intro/my-story/)
+- [Preston Thorpe - About](https://pthorpe92.dev/pages/about/)
+- [GitHub – PThorpe92](https://github.com/PThorpe92)
+- [Unlocked Labs](https://unlockedlabs.org)
+- [exa – Replacement for ls](https://github.com/ogham/exa)
+- [eza – Modern replacement for exa](https://eza.rocks)
+- [micro – Terminal-based text editor](https://micro-editor.github.io/)
+- [The Stanford Prison Experiment](https://www.prisonexp.org)
