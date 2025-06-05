@@ -1,0 +1,1 @@
+- [Build 2025](https://news.microsoft.com/build-2025/)
