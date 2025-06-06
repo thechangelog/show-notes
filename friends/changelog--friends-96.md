@@ -1,0 +1,5 @@
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [Amp](https://ampcode.com/)
+- [OpenAI Codex](https://openai.com/index/openai-codex/)
+- [Revenge of the junior developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
+- [Steve's book](https://a.co/d/68u8BW2)
