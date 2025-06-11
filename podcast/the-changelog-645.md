@@ -1,0 +1,4 @@
+- [The Roc Programming Language](https://www.roc-lang.org/)
+- [Roc Zulip Chat](https://roc.zulipchat.com/)
+- [Software Unscripted](https://pod.link/1602572955)
+- [Elm](https://elm-lang.org/)
