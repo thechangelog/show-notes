@@ -1,0 +1,5 @@
+- [</> htmx - high power tools for html](https://htmx.org/)
+- [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
+- [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
+- [Vendoring](https://htmx.org/essays/vendoring/)
+- [Hypermedia Systems](https://hypermedia.systems/)
