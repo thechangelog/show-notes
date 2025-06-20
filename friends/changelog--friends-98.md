@@ -1,0 +1,1 @@
+- [Generative A Rye](https://fridaydeployment.co/products/generative-a-rye)
