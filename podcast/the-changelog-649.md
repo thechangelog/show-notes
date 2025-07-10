@@ -1,0 +1,2 @@
+- [Searchcraft](https://www.searchcraft.io/)
+- [Importing and searching all of Wikipedia on a Raspberry Pi](https://www.youtube.com/watch?v=SjuPn6_yl2s)
