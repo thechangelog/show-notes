@@ -1,0 +1,3 @@
+- [Measuring AI code assistants and agents](https://getdx.com/research/measuring-ai-code-assistants-and-agents/)
+- [DX Core 4 Reporting](https://getdx.com/core-4-reporting/)
+- [Jevons paradox - Wikipedia](https://en.wikipedia.org/wiki/Jevons_paradox)
