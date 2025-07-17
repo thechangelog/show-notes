@@ -1,0 +1,2 @@
+- [Retool on Y Combinator](https://www.ycombinator.com/companies/retool) – YC-backed company building internal tools fast
+- [Retool Agents](https://retool.com/agents) – Use AI Agents to automate workflows with natural language and data access
