@@ -1,0 +1,6 @@
+- [How Windsurf was Split between OpenAI, Google, and Cognition in a billion-dollar acquisition deal?](https://techfundingnews.com/how-windsurf-was-split-between-openai-google-and-cognition-in-a-billion-dollar-acquisition-deal/)
+- [Repo Prompt](https://repoprompt.com/)
+- [AI slows down open source developers. Peter Naur can teach us why.](https://johnwhiles.com/posts/mental-models-vs-ai-tools)
+- [How I use Git Worktrees](https://nicknisi.com/posts/git-worktrees/)
+- [Ultrathink++ | ClaudeLog](https://claudelog.com/mechanics/ultrathink-plus-plus/)
+- [Changelog LIVE in Denver](https://changelog.com/live)
