@@ -1,0 +1,3 @@
+- [2025 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2025/)
+- [Stack Overflow’s decline — Eric Holscher](https://www.ericholscher.com/blog/2025/jan/21/stack-overflows-decline/)
+- [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
