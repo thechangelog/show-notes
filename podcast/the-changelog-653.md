@@ -1,0 +1,3 @@
+- [Jeli on PagerDuty](https://www.pagerduty.com/platform/jeli/)
+- [Chaos Engineering: System Resiliency in Practice (Book)](https://www.amazon.com/Chaos-Engineering-System-Resiliency-Practice/dp/1492043869)
+- [The Changelog #478: Learning from incidents](https://changelog.com/podcast/478)
