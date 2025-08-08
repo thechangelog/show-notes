@@ -1,0 +1,2 @@
+- [Discussion #546: 🎧 Kaizen 20](https://github.com/thechangelog/changelog.com/discussions/546)
+- [Pipely](https://pipely.tech/)
