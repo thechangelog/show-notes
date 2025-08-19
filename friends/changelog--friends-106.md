@@ -1,1 +1,2 @@
 - [Our $100M Series B / Oxide](https://oxide.computer/blog/our-100m-series-b)
+- [James Carville in The War Room](https://www.youtube.com/watch?v=5eHuwmbsK2I)
