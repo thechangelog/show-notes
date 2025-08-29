@@ -1,4 +1,4 @@
-- [Python: The Documentary [OFFICIAL TRAILER]](https://www.youtube.com/watch?v=pqBqdNIPrbo)
+- [Python: The Documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
 - [NumPy](https://numpy.org/)
 - [SciPy.org](https://projects.scipy.org/index.html)
 - [Mojo 🔥: Powerful CPU+GPU Programming](https://www.modular.com/mojo)
