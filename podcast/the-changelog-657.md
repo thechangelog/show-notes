@@ -1,0 +1,2 @@
+- [Hashrocket](https://hashrocket.com/)
+- [XO Ruby](https://www.xoruby.com)
