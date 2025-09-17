@@ -1,0 +1,2 @@
+- Amp Code - ([ampcode.com](https://ampcode.com))
+- [YouTube.com/Sourcegraph](https://www.youtube.com/@Sourcegraph)
