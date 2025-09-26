@@ -1,0 +1,3 @@
+- [cliffle.com/blog](https://cliffle.com/blog/)
+- [Hubris](https://hubris.oxide.computer) - A small open-source operating system for deeply-embedded computer systems
+- [Update on Update](https://www.youtube.com/watch?v=M-ZLz8Wg34s)
