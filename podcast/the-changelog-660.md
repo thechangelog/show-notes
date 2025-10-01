@@ -1,0 +1,6 @@
+- [Astral](https://astral.sh/)
+- [uv on 2025 SO survey](https://survey.stackoverflow.co/2025/technology#2-stack-overflow-tags)
+- [ov](https://docs.astral.sh/uv/)
+- [Ruff](https://docs.astral.sh/ruff/)
+- [pyx](https://astral.sh/pyx)
+- [Changelog News Classifieds](https://forms.gle/yCJirHRCWkdbG5qK6)
