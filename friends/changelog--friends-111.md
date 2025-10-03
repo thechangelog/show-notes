@@ -1,0 +1,5 @@
+- [Active supply chain attack: npm phishing campaign](https://socket.dev/blog/npm-phishing-campaign-leads-to-prettier-tooling-packages-compromise)
+- [Npm phishing email targets developers with typosquat](https://socket.dev/blog/npm-phishing-email-targets-developers-with-typosquatted-domain)
+- [Nx npm packages compromised in supply chain attack](https://socket.dev/blog/nx-packages-compromised)
+- [Introducing socket firewall](https://socket.dev/blog/introducing-socket-firewall)
+- [Changelog News Classifieds](https://forms.gle/yCJirHRCWkdbG5qK6)
