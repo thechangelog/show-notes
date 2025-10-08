@@ -1,0 +1,4 @@
+- [Vite: the documentary](https://www.youtube.com/watch?v=bmWQqAKLgT4)
+- [Vite | next generation frontend tooling](https://vite.dev/)
+- [Viteconf 2025](https://viteconf.amsterdam/)
+- [Voidzero](https://voidzero.dev/)
