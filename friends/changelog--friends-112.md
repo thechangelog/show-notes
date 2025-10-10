@@ -1,0 +1,3 @@
+- [Tidewave](https://tidewave.ai/)
+- [Agent Client Protocol](https://agentclientprotocol.com/overview/introduction)
+- [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
