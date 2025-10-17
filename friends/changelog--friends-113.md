@@ -1,0 +1,5 @@
+- [Breaking Change podcast](https://justin.searls.co/casts/breaking-change/)
+- [Rubygems.org AWS Root Access Event](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
+- [Ruby Central’s “security measures” leave front door wide open](https://web.archive.org/web/20250930213611id_/https://joel.drapper.me/p/ruby-central-security-measures/)
+- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand)
+- [The transition of rubygems repository ownership](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
