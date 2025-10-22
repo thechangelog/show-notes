@@ -1,0 +1,2 @@
+- [Atuin](https://atuin.sh)
+- [Ellie's profile](https://hub.atuin.sh/ellie)
