@@ -1,0 +1,6 @@
+- [Pipely](https://pipely.tech/)
+- [Loophole labs](https://loopholelabs.io/)
+- [A homelab network FASTER than an NVMe](https://www.youtube.com/watch?v=9cEcX_a8on8)
+- [Launching Pipely live on stage in Denver](https://www.youtube.com/watch?v=CZK57gTxbKo)
+- [Clickhouse](https://clickhouse.com/)
+- [Make it Work Club](https://www.skool.com/makeitwork/about)
