@@ -1,0 +1,2 @@
+- [Anthropic on agentic misalignment](https://www.anthropic.com/research/agentic-misalignment)
+- [System Initiative](https://www.systeminit.com/)
