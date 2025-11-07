@@ -1,0 +1,2 @@
+- [Moar game shows!](https://changelog.com/topic/games)
+- [Chorus](https://chorus.sh/)
