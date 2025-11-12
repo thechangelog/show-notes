@@ -1,0 +1,6 @@
+- [Is it worrying that 95% of AI enterprise projects fail?](https://www.seangoedecke.com/why-do-ai-enterprise-projects-fail/)
+- [How I influence tech company politics as a staff software engineer](https://www.seangoedecke.com/how-to-influence-politics/)
+- [Avoiding worry driven development](https://www.seangoedecke.com/worry-driven-development/)
+- [What is "good taste" in software engineering?](https://www.seangoedecke.com/taste/)
+- [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
+- [Situational Awareness: the decade ahead](https://situational-awareness.ai/)
