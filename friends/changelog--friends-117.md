@@ -1,0 +1,8 @@
+- [Changelog News #169](https://changelog.com/news/169)
+- [Alive internet theory](https://alivetheory.net/)
+- [The Winamp era](https://changelog.com/friends/57)
+- [Meshtastic](https://meshtastic.org/)
+- [Zstandard](https://facebook.github.io/zstd/)
+- [FDE exploding with 800% more postings](https://www.interviewquery.com/p/ai-forward-deployed-engineer-jobs-2025)
+- [Dead framework theory](https://aifoc.us/dead-framework-theory/)
+- [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
