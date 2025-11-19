@@ -1,0 +1,4 @@
+- [Alive internet theory](https://alivetheory.net/)
+- [Internet Sculptures](https://internetsculptures.com/)
+- [Computing Shrines](https://shrine.computer/)
+- [playhtml](https://playhtml.fun/)
