@@ -1,0 +1,5 @@
+- [Nerves project](https://nerves-project.org/)
+- [ZimaBoard](https://www.zimaboard.com)
+- [Home Assistant](https://www.home-assistant.io/)
+- [n8n](https://n8n.io/)
+- [Beam Radio](https://www.beamrad.io/)
