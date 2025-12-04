@@ -1,0 +1,4 @@
+- [NoSQL Smackdown! (#18)](https://changelog.com/podcast/18)
+- [Tech predictions for 2026 and beyond](https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html)
+- [Jim Gray (computer scientist)](https://en.wikipedia.org/wiki/Jim_Gray_%28computer_scientist%29)
+- [Leave us a state of the "log" voicemail!](https://changelog.fm/sotl)
