@@ -7,3 +7,4 @@
 - [The Browser Company launches Dia in beta](https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta/)
 - [Home Assistant 2025.12: Triggering the holidays](https://www.home-assistant.io/blog/2025/12/03/release-202512/)
 - [Home Assistant Green](https://www.home-assistant.io/green/)
+- [Migrating from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
