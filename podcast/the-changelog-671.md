@@ -1,0 +1,2 @@
+- [Agentic Postgres](https://www.tigerdata.com/agentic-postgres)
+- [timescale/tiger-cli](https://github.com/timescale/tiger-cli)
