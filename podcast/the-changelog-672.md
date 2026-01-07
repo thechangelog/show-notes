@@ -1,0 +1,2 @@
+- [Sid's cancer journey](https://docs.google.com/presentation/d/1GtYR8Of7215PJbTqwJILK3_ESlMLvKzLRL4lFSgeGl4/edit?slide=id.g3a55c7621e9_0_12#slide=id.g3a55c7621e9_0_12)
+- [Kilo.ai](https://kilo.ai/)
