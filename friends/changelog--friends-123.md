@@ -1,0 +1,3 @@
+- [How Rob Pike got spammed with an AI slop “act of kindness”](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/)
+- [How GitHub monopoly is destroying the open source ecosystem](https://ploum.net/2026-01-05-unteaching_github.html)
+- [12 predictions for 2026](https://tomtunguz.com/2026-predictions)
