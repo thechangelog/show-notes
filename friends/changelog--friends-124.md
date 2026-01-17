@@ -1,0 +1,4 @@
+- [Kaizen 22 discussion #554](https://github.com/thechangelog/changelog.com/discussions/554)
+- [Tw93/mole: 🐹 deep clean and optimize your mac.](https://github.com/tw93/Mole)
+- [Stuff Goes Bad: Erlang in Anger](https://erlang-in-anger.com/)
+- [Abacus.ai - the world's first super assistant for professionals and enterprises](https://abacus.ai/)
