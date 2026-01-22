@@ -1,0 +1,4 @@
+- [Layercode](https://www.layercode.com)
+- [Pusher](https://pusher.com)
+- [AI Engineer London Meetup](https://luma.com/calendar/cal-npDMhGfssuQj9ZE)
+- [How Claude Code Works (Jared Zoneraich, PromptLayer)](https://www.youtube.com/watch?v=RFKCzGlAU6Q)
