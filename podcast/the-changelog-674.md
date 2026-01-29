@@ -1,0 +1,3 @@
+- [How GitHub could secure npm](https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/)
+- [JSR: the javascript registry](https://jsr.io/)
+- [vlt /vōlt/](https://www.vlt.sh/)
