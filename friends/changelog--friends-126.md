@@ -1,0 +1,6 @@
+- [OpenClaw — personal AI assistant](https://openclaw.ai/)
+- [Mintlify](https://www.mintlify.com)
+- [Macrumors Buyer's Guide: Mac Mini](https://buyersguide.macrumors.com/#Mac_Mini)
+- [Your app subscription is now my weekend project](https://rselbach.com/your-sub-is-now-my-weekend-project)
+- [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
+- [Why SaaS stocks are crashing on Wall Street](https://www.heise.de/en/news/AI-eats-Software-Why-SaaS-stocks-are-crashing-on-Wall-Street-11151004.html)
