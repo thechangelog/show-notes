@@ -1,0 +1,4 @@
+- [Istari: level the digital playing field](https://www.istaridigital.com/)
+- [AWS Re:invent keynote Blue Origin](https://www.youtube.com/watch?v=RDeaTJ2B018)
+- [Frictionless book](https://www.amazon.com/Frictionless-Remove-Barriers-Outpace-Competition/dp/1662966377)
+- [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
