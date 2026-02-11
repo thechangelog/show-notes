@@ -1,0 +1,3 @@
+- [Build the machine that builds the machine](https://www.linkedin.com/pulse/build-machine-builds-paul-dix-ioyhe)
+- [Paul dix on X: "2026: the great engineering divergence"](https://x.com/pauldix/status/2006423514446749965)
+- [InfluxData](https://www.influxdata.com/)
