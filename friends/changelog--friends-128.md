@@ -1,0 +1,7 @@
+- [What is the Star Wars Machete Order?](https://www.slashfilm.com/1264147/what-is-star-wars-machete-viewing-order/)
+- [Pep 665 (lock file format)](https://peps.python.org/pep-0665/)
+- [python-build-standalone](https://github.com/astral-sh/python-build-standalone)
+- [Astral: high-performance Python tooling](https://astral.sh/)
+- [Pypi: Page Not Found](https://pypi.org/notreal)
+- [Incus documentation](https://linuxcontainers.org/incus/docs/main/)
+- [Python/prebuilt-cpython](https://github.com/python/prebuilt-cpython)
