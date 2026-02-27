@@ -1,0 +1,12 @@
+- [Opus 4.5 is going to change everything](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
+- [Jon Gjengset Explains Rust 2026](https://www.youtube.com/watch?v=nOSxuaDgl3s)
+- [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/) Rebuilding Next.js using AI in a single week
+- [The era of the Small Giant (Changelog #673)](https://changelog.com/podcast/673)
+- [Layercode](https://layercode.com) — Voice AI infrastructure for TypeScript developers
+- [Diffs](https://diffs.com) — An open source diff and code rendering library
+- [Pierre Computer Company](https://pierre.computer)
+- [Code Storage](https://code.storage)
+- [Entire](https://entire.io) — Developer platform from former GitHub CEO Thomas Dohmke
+- [Tigris Data](https://www.tigrisdata.com)
+- [@traskjd tweet](https://x.com/traskjd/status/2026568498181538210)
+- [GitHub Copilot](https://github.com/features/copilot)
