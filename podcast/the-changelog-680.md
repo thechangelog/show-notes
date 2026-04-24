@@ -1,0 +1,20 @@
+- [GitHub Copilot](https://github.com/features/copilot) — the launch that kicked off this era (mentioned ~12×)
+- [GitHub Next](https://githubnext.com) — GitHub's R&D team; where Amelia worked
+- [GitHub Actions](https://github.com/features/actions)
+- [Intent](https://augmentcode.com/intent) — Augment Code's new workspace-first agent app that Amelia is building (the core product discussion)
+- [Augie](https://augmentcode.com) — Augment's agent
+- [Claude Code](https://claude.com/product/claude-code)
+- [Codex](https://chatgpt.com/codex)
+- [Notion AI](https://notion.com/product/ai)
+- [VS Code](https://code.visualstudio.com)
+- [Incus](https://linuxcontainers.org/incus) — system-level containers/VMs; the Canonical LXD fork
+- [Proxmox](https://proxmox.com) — Adam's hypervisor platform for the sandbox
+- [ZFS](https://openzfs.org) — storage layer Incus is built on
+- [Bun](https://bun.sh) — JavaScript runtime
+- [Rust](https://www.rust-lang.org)
+- [Go](https://go.dev)
+- [Ruby on Rails](https://rubyonrails.org)
+- [SvelteKit](https://svelte.dev/docs/kit)
+- [Svelte](https://svelte.dev)
+- [TypeScript](https://www.typescriptlang.org)
+- [TanStack Start](https://tanstack.com/start)
