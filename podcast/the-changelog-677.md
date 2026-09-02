@@ -3,3 +3,4 @@
 - [Remarkable: the paper tablets for focused work](https://remarkable.com/)
 - [Agent starter kit • tldraw docs](https://tldraw.dev/starter-kits/agent)
 - [tldraw fairies](https://fairies.tldraw.com/)
+- [tldraw.computer - Steve Ruiz at AI Engineer World's Fair (YouTube)](https://www.youtube.com/watch?v=1C2TdPkj6aQ)
