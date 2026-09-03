@@ -1,3 +1,5 @@
+Editorial disclosure: Adam states in the episode that he is a small seed investor in Cal.com.
+
 #### Cal.com and Cal.diy
 
 - [Cal.com is going closed source — here's why](https://cal.com/blog/cal-com-goes-closed-source-why)
