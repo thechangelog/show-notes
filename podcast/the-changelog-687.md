@@ -1,0 +1,5 @@
+- [Resend](https://resend.com)
+- [Resend Inboxes](https://resend.com/products/inboxes)
+- [Resend CLI](https://resend.com/features/cli)
+- [Dracula](https://draculatheme.com)
+- [Dracula Pro](https://draculatheme.com/pro)
