@@ -1,0 +1,5 @@
+- [The Hidden Blast Radius of the Axios Compromise](https://socket.dev/blog/hidden-blast-radius-of-the-axios-compromise)
+- [Socket Firewall](https://socket.dev/features/firewall)
+- [npm trusted publishing](https://docs.npmjs.com/trusted-publishers/)
+- [Shai-Hulud](https://socket.dev/glossary/shai-hulud)
+- [Zero Day Clock](https://zerodayclock.com/)
